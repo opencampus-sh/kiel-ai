@@ -1,0 +1,50 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+### Installation von Python und der für TensorFlow benötigten Pakete (nur einmalig nötig) ###
+
+```{r}
+install.packages("reticulate")
+library(reticulate)
+
+# Installation von miniconda (falls nicht vorhanden)
+install_miniconda()
+
+# Anlegen einer speziellen Python Umgebung
+conda_create("r-reticulate")
+
+# Installieren der Pakete in der angelegten Umgebung
+conda_install("r-reticulate", "pandas")
+conda_install("r-reticulate", "numpy")
+conda_install("r-reticulate", "tensorflow")
+
+# Verwenden der speziellen Python Umgebung die zuvor erstellt wurde
+use_condaenv("r-reticulate")
+
+```
+
+
+```{r}
+# Import Libraries
+library(reticulate)
+
+
+# Importing Data
+data <- mpg
+
+```
+
+
+```{python}
+year = r.data['year']
+
+```
+
+
+```{r}
+table(py$year)
+
+```
+
