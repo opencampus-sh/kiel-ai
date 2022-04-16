@@ -11,7 +11,7 @@
 
 ### Until next class you should...
 
-*   [x] watch [video 1](https://www.youtube.com/watch?v=yGTUuEx3GkA\&list=PL75e0qA87dlG-za8eLI6t0\_Pbxafk-cxb\&index=9) and [video 2](https://www.youtube.com/watch?v=tIvKXrEDMhk\&list=PL75e0qA87dlG-za8eLI6t0\_Pbxafk-cxb\&index=10) of the Rasa eries on Attention & Transformers
+*   [x] watch [video 1](https://www.youtube.com/watch?v=yGTUuEx3GkA\&list=PL75e0qA87dlG-za8eLI6t0\_Pbxafk-cxb\&index=9) and [video 2](https://www.youtube.com/watch?v=tIvKXrEDMhk\&list=PL75e0qA87dlG-za8eLI6t0\_Pbxafk-cxb\&index=10) of the Rasa Series on Attention & Transformers
 
 
 *   [x] complete at least one of the sections of [chapter 7 of the Huging Face course](https://huggingface.co/course/chapter7/1?fw=pt) (choose according to your project goal)
