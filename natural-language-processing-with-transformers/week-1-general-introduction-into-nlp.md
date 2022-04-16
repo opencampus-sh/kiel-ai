@@ -12,7 +12,4 @@
 
 ### Until next week you should...
 
-* [x] Recherchieren guter Quellen:
-  * Newsletter, Blogs, Personen, denen man in Social Media folgen kann
-  * Postet diese gerne bereits bis zum nächsten Termin in Mattermost
-* [x] Mindestens drei aktuelle Anwendungen von Transformer-Modellen recherchieren (versucht auch eine multimodale zu finden).
+* [x] watch [video 1](https://www.youtube.com/watch?v=yGTUuEx3GkA\&list=PL75e0qA87dlG-za8eLI6t0\_Pbxafk-cxb\&index=9) and [video 2](https://www.youtube.com/watch?v=tIvKXrEDMhk\&list=PL75e0qA87dlG-za8eLI6t0\_Pbxafk-cxb\&index=10) of the Rasa Series on Attention & Transformers
