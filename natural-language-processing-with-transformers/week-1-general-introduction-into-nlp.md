@@ -1,10 +1,10 @@
-# Week 1 - General Introduction into NLP
+# Week 1 - General Introduction
 
 ### This week you will...
 
 * get all details about the structure and form of the course.
 * get to know your fellow course participants.
-* get a general introduction into NLP.
+* get a general introduction into the current use of transformer models.
 
 ### Learning Resources
 

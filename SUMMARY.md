@@ -67,7 +67,7 @@
   * [Week 11 - Final Presentation of the Projects](deep-learning-for-computer-vision/week-11-final-presentation-of-the-projects-part-ii.md)
 * [Natural Language Processing with Transformers](natural-language-processing-with-transformers/README.md)
   * [Requirements for a Certificate of Achievement or ECTS](natural-language-processing-with-transformers/requirements-for-a-certificate-of-achievement-or-ects.md)
-  * [Week 1 - General Introduction into NLP](natural-language-processing-with-transformers/week-1-general-introduction-into-nlp.md)
+  * [Week 1 - General Introduction](natural-language-processing-with-transformers/week-1-general-introduction-into-nlp.md)
   * [Week 2 - Transformers in Applications](natural-language-processing-with-transformers/week-2-transformers-in-applications.md)
   * [Week 3 - Introduction to Transformer Models](natural-language-processing-with-transformers/week-3-introduction-to-transformer-models.md)
   * [Week 4 - Using Transformers](natural-language-processing-with-transformers/week-4-using-transformers.md)
