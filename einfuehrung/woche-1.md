@@ -11,9 +11,10 @@ eine Einführung zu den folgenden Themen bekommen:
 
 ### Lernressourcen
 
-{% file src="../.gitbook/assets/211026_Einführung.pdf" %}
+{% file src="../.gitbook/assets/220419_Einführung.pdf" %}
 
 * [Einführungsvideo zu RStudio](https://www.youtube.com/watch?v=QvBo1RBptvY) (5 Minuten)
+* [Zusätzliche Einführung zu R von datacamp](https://www.datacamp.com/courses/free-introduction-to-r)
 * [Quiz zur eigenen Überprüfung](https://forms.office.com/Pages/ResponsePage.aspx?id=o8B0DUIn4UCcYfg2EvvW945sLsRCRj5HsCC5DsYMVPZUNktUU0NRWUFNR1kzS0RDTjVUVVhPTEZZNC4u) des im Rahmen dieser Woche gelernten
 
 ### Bis zur nächsten Woche solltet Ihr...
