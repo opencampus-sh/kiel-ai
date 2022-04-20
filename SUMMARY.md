@@ -7,8 +7,6 @@
 
 ## Courses
 
-***
-
 * [Einführung in Data Science und maschinelles Lernen](einfuehrung/README.md)
   * [Bedingungen für ein Leistungszertifikat oder ECTS](einfuehrung/durchzufuehrendes-kursprojekt.md)
   * [Vorbereitung](einfuehrung/vorbereitung.md)
