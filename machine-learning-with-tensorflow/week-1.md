@@ -2,12 +2,12 @@
 
 ### This week you will...
 
-* get a basic introduction to neural nets in order to get an intuition for the technical terms used in training them
-* get an introduction to the tools that we use during the course and that you will need for your practical project
+* get a basic introduction to neural nets in order to get a first intuition in the underlying mechanisms
+* get a first idea about possible projects you might want to work on throughout the course
 
 ### Learning Resources
 
-{% file src="../.gitbook/assets/211026_Introduction to Neural Nets and Tools.pdf" %}
+{% file src="../.gitbook/assets/220419_Introduction to Neural Nets.pdf" %}
 
 * Video [Neural Networks Explained](https://www.youtube.com/watch?v=GvQwE2OhL8I) (12 minutes)
 * [Introductory course on Python](https://www.kaggle.com/learn/python) from Kaggle
