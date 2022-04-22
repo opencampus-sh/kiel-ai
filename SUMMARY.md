@@ -93,7 +93,7 @@
 
 ## Events
 
-* [Coding.Waterkant 2022](events/hackathon/README.md)
+* [Coding.Waterkant 2022](events/hackathon.md)
   * [KI.EL Racing Challenge](events/hackathon/ki.el-racing-challenge.md)
 * [Prototyping Week](events/prototyping-week.md)
 
