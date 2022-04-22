@@ -1,5 +1,7 @@
 ---
 description: Once a year we organize a hackathon
+cover: ../.gitbook/assets/CW2022_Eventbrite (1).png
+coverY: 0
 ---
 
 # Coding.Waterkant 2022
