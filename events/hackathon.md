@@ -1,5 +1,6 @@
 ---
 description: Once a year we organize a hackathon
+layout: landing
 ---
 
 # Coding.Waterkant 2022
