@@ -96,6 +96,7 @@
 * [Coding.Waterkant 2022](events/hackathon.md)
   * [KI.EL Racing Challenge](events/hackathon/ki.el-racing-challenge.md)
   * [AI and Art](events/hackathon/ai-and-art.md)
+  * [Text Classification Using Prompt Design](events/hackathon/text-classification-using-prompt-design.md)
 * [Prototyping Week](events/prototyping-week.md)
 
 ## Projects
