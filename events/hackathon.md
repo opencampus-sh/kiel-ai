@@ -14,12 +14,5 @@ __[_Here_](https://coding.waterkant.sh) _you can register for the event and get 
 
 **We are currently collecting the descriptions of the projects that already confirmed their participation. We will publish them here shortly!**
 
-| Title | Description | How you can contribute |
-| ----- | ----------- | ---------------------- |
-|       |             |                        |
-|       |             |                        |
-|       |             |                        |
-|       |             |                        |
-
 __
 
