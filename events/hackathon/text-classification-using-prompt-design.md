@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/CW2022_Gitbook.png
+coverY: 0
+---
+
 # Text Classification Using Prompt Design
 
 ### Contact

@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/CW2022_Gitbook.png
+coverY: 0
+---
+
 # AI and Art
 
 ### Contact
