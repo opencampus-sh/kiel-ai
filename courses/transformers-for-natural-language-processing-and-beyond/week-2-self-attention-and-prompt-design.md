@@ -1,8 +1,8 @@
-# Week 2 - Transformers in Applications
+# Week 2 - Self-Attention and Prompt Design
 
 ### This week you will...
 
-* get to know various information resources for staying up-to-date with the progress in NLP
+* get to know the mechanism underlying the self-attention approach
 * get to know a variety of examples for the application of transformer models.
 * get to know the basics of prompt design and how to apply them in a playground
 

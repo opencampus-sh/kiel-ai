@@ -66,7 +66,7 @@
 * [Transformers for Natural Language Processing and Beyond](courses/transformers-for-natural-language-processing-and-beyond/README.md)
   * [Requirements for a Certificate of Achievement or ECTS](courses/transformers-for-natural-language-processing-and-beyond/requirements-for-a-certificate-of-achievement-or-ects.md)
   * [Week 1 - General Introduction](courses/transformers-for-natural-language-processing-and-beyond/week-1-general-introduction.md)
-  * [Week 2 - Transformers in Applications](courses/transformers-for-natural-language-processing-and-beyond/week-2-transformers-in-applications.md)
+  * [Week 2 - Self-Attention and Prompt Design](courses/transformers-for-natural-language-processing-and-beyond/week-2-self-attention-and-prompt-design.md)
   * [Week 3 - Introduction to Transformer Models](courses/transformers-for-natural-language-processing-and-beyond/week-3-introduction-to-transformer-models.md)
   * [Week 4 - Using Transformers](courses/transformers-for-natural-language-processing-and-beyond/week-4-using-transformers.md)
   * [Week 5 - Fine-Tuning a Pretrained Model](courses/transformers-for-natural-language-processing-and-beyond/week-5-fine-tuning-a-pretrained-model.md)
