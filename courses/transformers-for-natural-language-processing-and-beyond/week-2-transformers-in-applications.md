@@ -12,7 +12,7 @@
 
 ### Until next week you should...
 
-* [x] Ausprobieren der verschiedenen Prompt-Typen im Playground von OpenAI (wenn Ihr Zugang dazu habt) oder bei Eleuther.AI [hier](https://6b.eleuther.ai).
-* [x] Chapter 1 des Hugging Face Kurses absolvieren:\
-  [https://huggingface.co/course/chapter1?fw=pt](https://huggingface.co/course/chapter1?fw=pt)
-* [x] Eine erste, konkrete Projektidee formulieren und im Chat posten!
+* [x] Watch [video 3](https://www.youtube.com/watch?v=23XUv0T9L5c\&list=PL75e0qA87dlG-za8eLI6t0\_Pbxafk-cxb\&index=11) (Multi Head Attention) and [video 4](https://www.youtube.com/watch?v=EXNBy8G43MM\&list=PL75e0qA87dlG-za8eLI6t0\_Pbxafk-cxb\&index=12) (Transformers) of the Rasa Series on Transformers & Attention.
+* [x] Note at least one question on the each of the videos!
+* [x] Complete [chapter 2](https://huggingface.co/course/chapter2/1) of the Hugging Face course.
+* [x] Think about the project you want to do and/or get in contact with course mates about it.
