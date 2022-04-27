@@ -2,9 +2,9 @@
 
 ### This week you will...
 
-* get to know the mechanism underlying the self-attention approach
-* get to know a variety of examples for the application of transformer models.
-* get to know the basics of prompt design and how to apply them in a playground
+* get to know the mechanism underlying the self-attention approach.
+* get to know the basics of prompt design and how to apply them in a playground.
+* get to know examples for the application of transformer models.
 
 ### Learning Resources
 
