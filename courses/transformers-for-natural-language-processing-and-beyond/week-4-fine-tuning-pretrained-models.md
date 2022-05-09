@@ -1,10 +1,8 @@
-# Week 4 - Using Transformers
+# Week 4 - Fine-Tuning Pretrained Models
 
 ### This week you will...
 
-* get more in-depth knowledge about using models from the hugging face library.
-* learn about different forms of tokenization
-* learn how to use use transformer models for own predictions.
+* learn how to fine-tune a Hugging Face model with your own data
 
 ### Learning Resources
 
