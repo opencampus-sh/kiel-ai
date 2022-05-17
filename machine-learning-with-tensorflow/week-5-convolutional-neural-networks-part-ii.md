@@ -4,7 +4,7 @@
 
 * get familiar wit transfer learning, a powerful technique to include the knowledge of models that were trained on large datasets and benefit from the features these models already learned in your own problem scenario.
 * move beyond binary classification into categorical classification and the specific coding considerations for the corresponding models.
-* present your key findings for the literature review considering you selected project
+* decide on the final project you would like to work on.
 
 ### Learning Resources
 
@@ -13,4 +13,4 @@
 ### Until next week you should...
 
 * complete week 1 and week 2 of the course [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow), including the provided assignments
-* investigate the characteristics of your dataset in detail and particularly consider potential biases included in it.
+* meet with your team members for your project and talk about first steps.
