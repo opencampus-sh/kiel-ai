@@ -13,8 +13,4 @@
 ### Until next week you should...
 
 * complete week 3 and week 4 of the course [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow), including the provided assignments.
-* do a literature review considering deep learning approaches that deal with a problem similar to yours:
-  * Which are the models commonly used for my problem?
-  * Which format must the training data have?
-  * How much training data is typically used in similar problems?
-  * Are there pretrained models I can use for my problem?
+* contact possible team members for a project and decide on the final project you would like to work on.
