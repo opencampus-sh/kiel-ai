@@ -13,4 +13,4 @@
 ### Until next week you should...
 
 * complete week 1 and week 2 of the course [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow), including the provided assignments
-* investigate the characterstics of your dataset in detail and particularly consider potential biases included in it.
+* investigate the characteristics of your dataset in detail and particularly consider potential biases included in it.
