@@ -12,4 +12,4 @@
 ### Until next week you should...
 
 * complete week 1 and week 2 of the course [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction), including the provided assignments
-* look at [ArXive](https://arxiv.org) or [ArXive Sanity](http://www.arxiv-sanity.com), and [Papers With Code](https://paperswithcode.com) for papers dealing with a modeling task similar to your project.
+* look at [ArXive](https://arxiv.org/) or [ArXive Sanity](http://www.arxiv-sanity.com/), and [Papers With Code](https://paperswithcode.com/) for papers dealing with a modeling task similar to your project.

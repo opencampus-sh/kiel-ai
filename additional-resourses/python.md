@@ -12,9 +12,9 @@ If you never programmed in Python and you want to check out how easy or hard it 
 
 A general knowledge about how python works, variable, lists, array and similar, plus some libraries which are widely used:
 
-* [numpy](https://numpy.org): widely used open-source library to work with array, matrices, vectors and most of the mathematical operations. Mostly needed in the Deep Learning course to implement the basic neural network operations.
-* [Tensorflow](https://www.tensorflow.org): open-source higher level framework which allows to create and work neural network in a very easy and intuitive way. Needed in most courses.
-* data pre-processing: a usually underestimated task in the machine learning field is data pre-processing, as for example reading different file types for working with time series or natural language processing (.csv, .txt, .json), or loading and working with images (numpy, [Pillow](https://python-pillow.org), [openCV](https://docs.opencv.org/master/d6/d00/tutorial\_py\_root.html)).
+* [numpy](https://numpy.org/): widely used open-source library to work with array, matrices, vectors and most of the mathematical operations. Mostly needed in the Deep Learning course to implement the basic neural network operations.
+* [Tensorflow](https://www.tensorflow.org/): open-source higher level framework which allows to create and work neural network in a very easy and intuitive way. Needed in most courses.
+* data pre-processing: a usually underestimated task in the machine learning field is data pre-processing, as for example reading different file types for working with time series or natural language processing (.csv, .txt, .json), or loading and working with images (numpy, [Pillow](https://python-pillow.org/), [openCV](https://docs.opencv.org/master/d6/d00/tutorial\_py\_root.html)).
 
 ### Tutorials
 

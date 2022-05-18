@@ -4,7 +4,7 @@ description: a small overview about what is git and why you should use it
 
 # Git
 
-If you are interested in this machine learning degree, you have probably heard of [git](https://git-scm.com), which "_is a_ [_free and open source_](https://git-scm.com/about/free-and-open-source) _distributed version control system designed to handle everything from small to very large projects with speed and efficiency."_&#x20;
+If you are interested in this machine learning degree, you have probably heard of [git](https://git-scm.com/), which "_is a_ [_free and open source_](https://git-scm.com/about/free-and-open-source) _distributed version control system designed to handle everything from small to very large projects with speed and efficiency."_&#x20;
 
 #### What exactly is a distributed version control system?
 

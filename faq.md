@@ -47,7 +47,7 @@ We use:\
 \- the [edu.opencampus.sh](./) Website. You need to have an account there to register for the courses.\
 \- the [chat.mattermost.sh](./) Mattermost Chat tool. You need to have an account there to communicate and see the material. You can use [an app](https://mattermost.com/download/#mattermostApps) if you prefer to check it on your phone or on your computer. Otherwise it works fine in the browser.\
 \- the Zoom tool for online conference. You do not need an account, you can join from your browser. You can also[ download an app](https://zoom.us/download) on your pc/computer\
-\- most of the courses (the one which are valid 5 ECTS) use contents from the [Coursera](https://coursera.org) platform. You need an account there to see the contents.
+\- most of the courses (the one which are valid 5 ECTS) use contents from the [Coursera](https://coursera.org/) platform. You need an account there to see the contents.
 
 ### Can I use one account for all the platforms?
 

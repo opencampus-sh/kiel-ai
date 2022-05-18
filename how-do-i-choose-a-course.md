@@ -4,7 +4,7 @@ description: I am confused and not sure about which course I should choose.
 
 # How do I choose a course?
 
-On our [EDU-Platform](https://edu.opencampus.sh) each course and its contents is described but often it will still be difficult to decide what's the best course for your ability level and your needs. Below we therefore included a quick comparison on the courses, which might provide some additional help.
+On our [EDU-Platform](https://edu.opencampus.sh/) each course and its contents is described but often it will still be difficult to decide what's the best course for your ability level and your needs. Below we therefore included a quick comparison on the courses, which might provide some additional help.
 
 However, if you have any doubt, we strongly recommend you to
 

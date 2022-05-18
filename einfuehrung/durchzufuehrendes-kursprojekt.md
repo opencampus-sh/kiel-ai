@@ -12,7 +12,7 @@ Um ein Leistungszertifikat oder ECTS zu erlangen sind drei Bedingungen zu erfül
 
 ### Präsentation (Powerpoint / R Markdown)
 
-Das zu Semesterende zu präsentierend Auswertungsprojekt wird auf Basis eines von [Meteolytix ](https://meteolytix.de)zur Verfügung gestellten Datensatzes durchgeführt. Dabei soll auf Basis von zur Verfügung stehenden Wetterdaten und vergangenen Umsatzdaten für eine Bäckereifiliale in Kiel eine Umsatzprognose für den Tag nach dem letzten im Datensatz enthaltenen Tag erstellt werden.
+Das zu Semesterende zu präsentierend Auswertungsprojekt wird auf Basis eines von [Meteolytix ](https://meteolytix.de/)zur Verfügung gestellten Datensatzes durchgeführt. Dabei soll auf Basis von zur Verfügung stehenden Wetterdaten und vergangenen Umsatzdaten für eine Bäckereifiliale in Kiel eine Umsatzprognose für den Tag nach dem letzten im Datensatz enthaltenen Tag erstellt werden.
 
 Erster Teil der Projektarbeit ist die Präsentation des Projektes. Diese soll folgende Elemente enthalten.
 

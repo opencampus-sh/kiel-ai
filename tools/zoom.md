@@ -8,7 +8,7 @@ For the online classes, we use the Zoom platform, which proved to be effective a
 
 {% embed url="https://zoom.us" %}
 
-You do not need to have a Zoom account to participate, it can be done via browser. The link for each course will be available in the corresponding channel of our [Chat](https://chat.opencampus.sh).
+You do not need to have a Zoom account to participate, it can be done via browser. The link for each course will be available in the corresponding channel of our [Chat](https://chat.opencampus.sh/).
 
 The only thing we ask you is **to keep your camera open**. We are aware that it may be unconfortable and sometimes is much more appealing to close the camera and enjoy the freedom to move, but please try to bear with us and keep your camera open so that we can see you. It makes a big difference from our side. Thanks a lot.
 
