@@ -1,2 +1,2 @@
-# Week 7 - Joint Coiding
+# Week 7 - Transformer Architecture and Data Utilities
 
