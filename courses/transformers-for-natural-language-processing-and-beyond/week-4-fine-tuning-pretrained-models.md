@@ -6,20 +6,14 @@
 
 ### Learning Resources
 
-{% file src="../../.gitbook/assets/211117_Using Transformers.pdf" %}
+{% file src="../../.gitbook/assets/220511_Fine-Tuning Transformers.pdf" %}
 
 ### Until next week you should...
 
-* [x] Chapter 3 des Hugging Face Kurses absolvieren:\
-  [https://huggingface.co/course/chapter3](https://huggingface.co/course/chapter3)
-*   [x] Erstmalig im Team treffen und die folgenden Aufgaben angehen:
-
-    (1) Complete the [Project Proposal form](https://forms.office.com/Pages/ResponsePage.aspx?id=o8B0DUIn4UCcYfg2EvvW96osw4AOHuZKpRSG1TW2RP5UOFlFRUVDT0lKWktQUVoxRktCNDhMTjBSUS4u).
-
-    (2) Setup a project channel in the Chat.
-
-    (3) Define a common repository or GoogleDrive to exchange the program code.
-
-    (4) Define first steps in the project.
-
-    (5) Decide on times for regular project meetings.
+* [x] complete [chapter 4](https://huggingface.co/course/chapter4/1) (Sharing Models and Tokenizers) and [chapter 5](https://huggingface.co/course/chapter5/1) (The Datasets Library) of the Hugging Face course
+* [x] do a literature review on the task of you project:
+  * Search for transformer models applied to similar problems
+  * Focus on the structure of the input and of the output
+  * Are there pretrained models that you can use?
+  * Which type of model is best suited? Do you need tokenization?
+  * Do you need a type of embedding layer?
