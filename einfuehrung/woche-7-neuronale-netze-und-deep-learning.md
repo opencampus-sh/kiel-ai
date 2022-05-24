@@ -19,7 +19,7 @@ folgende Themen behandeln:
 * [Video](https://www.youtube.com/watch?v=GvQwE2OhL8I) (12 Minuten) zur Einführung in Neuronale Netze
 * [R-Code](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Neuronale%20Netze/neural-net-data-preparation.R) zur Datenaufbereitung für TensorFlow
 * [R-Code](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Neuronale%20Netze/neural-net-estimation.Rmd) zur Schätzung eines neuronalen Netzes
-* [Blog](https://www.kdnuggets.com/2018/06/batch-normalization-neural-networks.html) mit Hintergrundinformationen zur Batch-Normalisierung
+* [Blog](https://www.kdnuggets.com/2018/06/batch-normalization-neural-networks.html) mit zusätzlichen Informationen zur Batch-Normalisierung
 
 ### Bis zur nächsten Woche solltet Ihr...
 
