@@ -3,12 +3,13 @@
 ### This week you will...
 
 * insights on the benefits of the Hugging Face Tokenizers library
-* discuss the characteristics of the datase from your project
+* discuss the characteristics of the data you use in your project
 
 ### Learning Resources
 
-\[Added after the session.]
+{% file src="../../.gitbook/assets/220525_The Tokenizers Library.pdf" %}
 
 ### Until next class you should...
 
-* [x] TBD
+* [x] complete at least two sections from [chapter 7](https://huggingface.co/course/chapter7/1) (Main NLP Tasks) of the Hugging Face course
+* [x] calibrate a baseline model
