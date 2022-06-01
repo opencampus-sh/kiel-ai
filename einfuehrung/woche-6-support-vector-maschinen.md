@@ -5,13 +5,13 @@
 folgende Themen behandeln:
 
 * Wiederholung Neuronaler Netze (NN)
-* Implementierung NN in TensorFlow und Python
+* Verschiedene Layer zur Implementierung eines NN
 * Hot-Deck-Imputation
 * Imputation durch Iterative Regression
 
 ### Lernressourcen
 
-{% file src="../.gitbook/assets/211207_Fehlende Werte.pdf" %}
+{% file src="../.gitbook/assets/220531_Fehlende Werte.pdf" %}
 
 * [Beispiel ](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Fehlende%20Werte/missing-data.R)zur Behandlung von fehlenden Werten mit dem package VIM
 * [Lektion 1](https://www.datacamp.com/courses/dealing-with-missing-data-in-r) des Data Camp Kurses "Dealing with Missing Data in R"
