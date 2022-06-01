@@ -2,7 +2,7 @@
 
 ### This week you will...
 
-* insights on the benefits of the Hugging Face Tokenizers library
+* get insights on the benefits of the Hugging Face Tokenizers library
 * discuss the characteristics of the data you use in your project
 
 ### Learning Resources

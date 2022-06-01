@@ -16,7 +16,7 @@ Jedes Team hält eine 8-minütige Abschlusspräsentation mit den im Folgenden au
 * Warengruppenumsätze für den ersten nicht im Datensatz enthaltenen Tag
 
 {% hint style="warning" %}
-Jeder Teilnehmende muss das Projekt "Umsatzprognose für eine Bäckereifiliale" in der Edu-Plattform ausgewählt haben, um ein Zertifikat eralten zu können.
+Jeder Teilnehmende muss das Projekt "Umsatzprognose für eine Bäckereifiliale" in der Edu-Plattform ausgewählt haben, um ein Zertifikat erhalten zu können.
 
 Zusätzlich muss aus jedem Team muss ein Team-Mitglied ein zip-Verzeichnis des Team-Repositories in der Edu-Plattform [auf dieser Seite ](https://edu.opencampus.sh/courses/148)hochladen, um den erbrachten Leistungsnachweis zu dokumentieren.
 {% endhint %}
