@@ -14,7 +14,7 @@ folgende Themen behandeln:
 
 ### Lernressourcen
 
-{% file src="../.gitbook/assets/211130_Neuronale Netzwerke (1).pdf" %}
+{% file src="../.gitbook/assets/220524_Neuronale Netzwerke.pdf" %}
 
 * [Video](https://www.youtube.com/watch?v=GvQwE2OhL8I) (12 Minuten) zur Einführung in Neuronale Netze
 * [R-Code](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Neuronale%20Netze/neural-net-data-preparation.R) zur Datenaufbereitung für TensorFlow
@@ -26,6 +26,7 @@ folgende Themen behandeln:
 *   [x] alle Euren Modellvariablen auf die Existenz von fehlenden und unplausiblen Werten hin untersuchen.
 
 
-* [x] ein Neuronales Netz für Euren Datensatz trainieren (dazu zunächste alle Fälle mit fehlenden Werten löschen).\
+* [x] ein Neuronales Netz für Euren Datensatz trainieren (dazu zunächste alle Fälle mit fehlenden Werten löschen).
+* [x] [Dieses Video](https://www.youtube.com/watch?v=NhZVe50QwPM) (2 Minuten) zu Dropout-Layern schauen.\
 
 * [x] wenn ihr etwas mehr über Python lernen wollt, [diese Einführung](https://www.kaggle.com/colinmorris/hello-python) auf Kaggle nutzen.
