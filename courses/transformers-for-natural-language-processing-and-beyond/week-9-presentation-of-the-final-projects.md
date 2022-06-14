@@ -1,4 +1,4 @@
-# Week 8 - Presentation of the Final Projects
+# Week 9 - Presentation of the Final Projects
 
 ### This week you will...
 
