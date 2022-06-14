@@ -26,7 +26,8 @@ folgende Themen behandeln:
 *   [x] alle Euren Modellvariablen auf die Existenz von fehlenden und unplausiblen Werten hin untersuchen.
 
 
-* [x] ein Neuronales Netz für Euren Datensatz trainieren (dazu zunächste alle Fälle mit fehlenden Werten löschen).
-* [x] [Dieses Video](https://www.youtube.com/watch?v=NhZVe50QwPM) (2 Minuten) zu Dropout-Layern schauen.\
+* [x] ein Neuronales Netz für Euren Datensatz trainieren (dazu zunächste alle Fälle mit fehlenden Werten löschen).\
+
+* [x] [dieses Video](https://www.youtube.com/watch?v=NhZVe50QwPM) (2 Minuten) zu Dropout-Layern schauen.\
 
 * [x] wenn ihr etwas mehr über Python lernen wollt, [diese Einführung](https://www.kaggle.com/colinmorris/hello-python) auf Kaggle nutzen.
