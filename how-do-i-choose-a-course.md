@@ -43,7 +43,7 @@ Y_ou already have some programming knowledge and are interested in getting hands
 {% endtab %}
 
 {% tab title="Deep Learning" %}
-### **Deep Learning from Scratch and Advanced Deep Learning**
+### **Deep Learning**
 
 The course **Deep Learning from Scratch** will give you an overview of the basic principles behind machine learning. How and why they work, and you will write your own code in python and implement deep learning algorithms from scratch, thus reaching a deeper understanding of how things work and a solid knowledge for your further projects. Since this is a rather technical course you are required to have done some intermediate programming and also know about matrix algebra. You can still learn this along the course but it will take you a lot more time to keep up with the course.
 
@@ -63,21 +63,6 @@ In general these courses are a great opportunity to connect with others that are
 
 As an example of a good fit for the course, \
 _You already have some knowledge about Machine Learning (ideally you followed one of our previous courses) and are interested in learning more about the particular field of Machine Learning._
-{% endtab %}
-
-{% tab title="Advanced Machine Learning" %}
-### Advanced Machine Learning
-
-In this course you will learn how to&#x20;
-
-* find relevant sources of information for current developments in the field of Machine Learning,
-* read into a new topic in the field of Machine Learning and present it, and
-* classify current developments in the field of Machine Learning.
-
-To complete this course you should already have a solid understanding of machine learning concepts.
-
-As an example of a good fit for the course, \
-_You already have a solid understanding of Machine Learning concepts and are interested in getting insights into the most curernt developments._
 {% endtab %}
 {% endtabs %}
 
