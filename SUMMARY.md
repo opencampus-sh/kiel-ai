@@ -22,7 +22,7 @@
 * [Machine Learning with TensorFlow](machine-learning-with-tensorflow/README.md)
   * [Requirements for a Certificate of Achievement or ECTS](machine-learning-with-tensorflow/requirements-for-a-certificate-of-achievement-or-ects.md)
   * [Preparation](machine-learning-with-tensorflow/preparation.md)
-  * [Week 1 - Introduction to Neural Nets](machine-learning-with-tensorflow/week-1.md)
+  * [Week 1 - General Introduction](machine-learning-with-tensorflow/week-1.md)
   * [Week 2 - Introduction to TensorFlow,Part I](machine-learning-with-tensorflow/week-2.md)
   * [Week 3 - Introduction to TensorFlow,Part II](machine-learning-with-tensorflow/week-3.md)
   * [Week 4 - Convolutional Neural Networks, Part I](machine-learning-with-tensorflow/week-4-convolutional-neural-networks-part-i.md)
