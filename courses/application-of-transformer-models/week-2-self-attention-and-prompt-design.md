@@ -8,7 +8,12 @@
 
 ### Learning Resources
 
-{% file src="../../.gitbook/assets/211104_Transformers in Applications.pdf" %}
+{% file src="../../.gitbook/assets/221102_Self-Attention and Prompt Design.pdf" %}
+
+Additional resource explaining the Transformer model:
+
+* Text: [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) by Jay Alammar
+* Video: [Transformer Neural Networks - EXPLAINED!](https://www.youtube.com/watch?v=TQQlZhbC5ps)
 
 ### Until next week you should...
 
