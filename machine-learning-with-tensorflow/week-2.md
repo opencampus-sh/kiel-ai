@@ -7,10 +7,14 @@
 
 ### Learning Resources
 
+{% file src="../.gitbook/assets/210420_Introduction to TensorFlow Part-I.pdf" %}
+Slides from Week 2
+{% endfile %}
+
 * Week 1 and 2 of the course [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/)
 * Don't forget to check out the important exercise of week 2 to work throught [this notebook](https://github.com/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%204%20-%20Lesson%202%20-%20Notebook.ipynb).
 
 ### Until next week you should...
 
 * complete week 3 and week 4 of the course [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/), including the provided assignments.
-* think about first project ideas to present them in class.
+* think about project ideas to present them in class.
