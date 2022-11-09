@@ -11,11 +11,11 @@ folgende Themen behandeln:
 
 ### Lernressourcen
 
-{% file src="../.gitbook/assets/211109_Einführung git und Datenaufbereitung.pdf" %}
+{% file src="../.gitbook/assets/221108_Einführung git und Datenaufbereitung.pdf" %}
 
 * [R-Notebook](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Beispiele%20zur%20Datenaufbereitung%20aus%20Woche%203.Rmd) mit Beispielen zur Datenaufbereitung
 * Kapitel "Basic Workflow" des Kurses [Introduction to Git](https://learn.datacamp.com/courses/introduction-to-git-for-data-science) bei Datacamp.
-* Einführung zum Arbeiten mit git zum Nachlesen: [https://git-scm.com/book/de/v2](https://git-scm.com/book/de/v2)
+* Zusätzliche Videos und Materialien zur Einführung in Git finder Ihr auch hier im Kurshandbuch: [https://git-scm.com/book/de/v2](https://git-scm.com/book/de/v2)
 * [Quiz zur eigenen Überprüfung](https://forms.office.com/Pages/ResponsePage.aspx?id=o8B0DUIn4UCcYfg2EvvW945sLsRCRj5HsCC5DsYMVPZURUM5REFTRDAwVTlEWkdSVTFVR0lZRjhDRC4u) des im Rahmen dieser Woche gelernten
 
 ### Bis zur nächsten Woche solltet Ihr...

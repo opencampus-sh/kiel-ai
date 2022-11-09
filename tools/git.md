@@ -34,18 +34,17 @@ Git is the version control system, Github and Gitlab are hosted solution that al
 
 #### Great! Where do I get more resources?
 
-Almost everywhere!\
-
-
-#### Documentation
+A very comprehensive written documentation for git your can find here:
 
 {% embed url="https://git-scm.com/doc" %}
 The actual Git Documentation
 {% endembed %}
 
-#### Articles
+A shorter documentation of the most important commands is given here:
 
 {% embed url="https://dev.to/s2engineers/helpful-git-commands-for-beginners-40bm" %}
+
+And finally, one more tutorial on more advanced git concepts:
 
 {% embed url="https://www.atlassian.com/git/tutorials/advanced-overview" %}
 
