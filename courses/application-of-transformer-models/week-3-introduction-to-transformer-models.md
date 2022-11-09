@@ -7,11 +7,11 @@
 
 ### Learning Resources
 
-{% file src="../../.gitbook/assets/220405_Introduction to Transformers.pdf" %}
+{% file src="../../.gitbook/assets/221109_Introduction to Transformers.pdf" %}
 
-* Um eine Idee zu bekommen, aus wie vielen Token ein Text oder Wort besteht ist [diese ](https://gpttools.com/estimator)Seite sehr hilfreich.
+* To get an idea about the number of tokens a text or word is made off in the GPT models, you may want to checkout [this site](https://gpttools.com/estimator).
 
 ### Until next week you should...
 
 * [x] complete [chapter 3](https://huggingface.co/course/chapter3/1) (Fine-Tuning a Pretrained Model) of the Hugging Face course.
-* [x] have a clear idea for a project.
+* [x] meet with the other participants of the project you are interested in to get a more concrete idea of the project goal.
