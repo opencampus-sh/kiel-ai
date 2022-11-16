@@ -7,11 +7,10 @@ folgende Themen behandeln:
 * Einführung in die Versionierung mit git (Teil 2)
 * Zusammenstellung der Teams für die Auswertungsprojekte
 * Erste Arbeiten im Team
-* Nicht-technische Einführung zum maschinellen Lernen
 
 ### Lernressourcen
 
-{% file src="../.gitbook/assets/211116_Einführung git (Teil 2) und Start Auswertungsprojekt.pdf" %}
+{% file src="../.gitbook/assets/221115_Einführung git (Teil 2) und Start Auswertungsprojekt.pdf" %}
 
 ### Bis zur nächsten Woche solltet Ihr...
 
