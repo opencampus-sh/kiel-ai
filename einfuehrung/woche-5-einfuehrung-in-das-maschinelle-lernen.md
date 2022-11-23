@@ -13,11 +13,12 @@ folgende Themen behandeln:
 
 ### Lernressourcen
 
-{% file src="../.gitbook/assets/211122_Intro ML und Linear Regression.pdf" %}
+{% file src="../.gitbook/assets/221122_Intro ML und Linear Regression.pdf" %}
 
 * [Grafisches Tool](https://playground.tensorflow.org/) zur Definition und Schätzung von Neuronalen Netzen für unterschiedliche Beispieldatensätze
 * [DataCamp Tutorial](https://www.datacamp.com/community/tutorials/linear-regression-R) zur Linearen Modellierung in R
 * [Beispiele](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/tree/main/Lineare%20Regression) zur linearen Regression und zum Auftreten von Overfitting
+* [Vorlage zum Aufruf der Evaluationsfunktion](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/tree/main/mape\_request), um die Qualität der selbst erstellten Vorhersagen für den Zeitraum vom 9.6.2019 bis zum 30.7.2019 zu überprüfen.
 
 ### Bis zur nächsten Woche solltet Ihr...
 
