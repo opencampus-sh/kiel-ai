@@ -26,7 +26,7 @@ folgende Themen behandeln:
 
 * [x] für Euren Datensatz eine Modellgleichung aufstellen, die das adjustierte R² auf Basis eines linearen Modells maximiert.\
 
-*   [x] Euch zum Thema Overfitting [dieses Video](https://www.coursera.org/lecture/machine-learning/the-problem-of-overfitting-ACpTQ) (9 Minuten) anschauen.
+*   [x] Euch zum Thema Overfitting [dieses Video](https://www.youtube.com/watch?v=u73PU6Qwl1I) (9 Minuten) anschauen.
 
 
 * [x] Euch [dieses Video](https://www.youtube.com/watch?v=GvQwE2OhL8I) (12 Minuten) zur Einführung in Neuronale Netze an anschauen.\
