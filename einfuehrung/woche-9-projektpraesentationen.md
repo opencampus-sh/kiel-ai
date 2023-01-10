@@ -10,9 +10,9 @@ Jedes Team hält eine 8-minütige Abschlusspräsentation mit den im Folgenden au
 * Euren Namen auf der Titelseite
 * Auflistung und kurze Beschreibung der selbst erstellten Variablen
 * Balkendiagramme mit Konfidenzintervallen für zwei selbst erstellte Variablen
-* Optimierung eines neuronalen Netzes:
+* Optimierung eines neuronalen Netzes
 * Source code
-* MAPE für einen Testdatensatz mit 10% der Ursprungsdaten
+* Das Evaluationsergebnis für den Zeitraum vom 9.5. bis 30.7.2019
 * Warengruppenumsätze für den ersten nicht im Datensatz enthaltenen Tag
 
 {% hint style="warning" %}
