@@ -25,12 +25,12 @@ Be sure to allocate enough time to manage to get through the whole course. If in
 You do not have to be an expert, and sometimes enthusiasm and motivation may be enough. If you are unsure about some of the requirements, check out the Additional Resources or write us to discuss about it.
 {% endhint %}
 
-{% content-ref url="../../../additional-resourses/linear-algebra.md" %}
-[linear-algebra.md](../../../additional-resourses/linear-algebra.md)
+{% content-ref url="../additional-resourses/linear-algebra.md" %}
+[linear-algebra.md](../additional-resourses/linear-algebra.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../additional-resourses/python.md" %}
-[python.md](../../../additional-resourses/python.md)
+{% content-ref url="../additional-resourses/python.md" %}
+[python.md](../additional-resourses/python.md)
 {% endcontent-ref %}
 
 ### **The Project**
@@ -42,16 +42,16 @@ The project is needed in order to finish the course, and a final presentation wi
 For the complete requirements about the project, check out the Requirement page.
 {% endhint %}
 
-{% content-ref url="../../../projects/requirements.md" %}
-[requirements.md](../../../projects/requirements.md)
+{% content-ref url="../projects/requirements.md" %}
+[requirements.md](../projects/requirements.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
 For some example of projects from last years, check out the Past Projects page.
 {% endhint %}
 
-{% content-ref url="../../../projects/past-projects.md" %}
-[past-projects.md](../../../projects/past-projects.md)
+{% content-ref url="../projects/past-projects.md" %}
+[past-projects.md](../projects/past-projects.md)
 {% endcontent-ref %}
 
 ### The Course Material

@@ -7,7 +7,7 @@
 
 ### Learning Resources
 
-{% file src="../../.gitbook/assets/220525_The Tokenizers Library.pdf" %}
+{% file src="../../.gitbook/assets/221130_The Tokenizers Library.pdf" %}
 
 ### Until next class you should...
 

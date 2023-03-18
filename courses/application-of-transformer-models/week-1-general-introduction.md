@@ -8,7 +8,7 @@
 
 #### Learning Resources
 
-{% file src="../../.gitbook/assets/220420_General Introduction (1).pdf" %}
+{% file src="../../.gitbook/assets/221026_General Introduction.pdf" %}
 Presentation Slides
 {% endfile %}
 

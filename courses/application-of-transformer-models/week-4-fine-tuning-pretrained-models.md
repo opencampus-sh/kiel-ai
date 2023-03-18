@@ -6,7 +6,7 @@
 
 ### Learning Resources
 
-{% file src="../../.gitbook/assets/220511_Fine-Tuning Transformers.pdf" %}
+{% file src="../../.gitbook/assets/221116_Fine-Tuning Transformers.pdf" %}
 
 ### Until next week you should...
 
