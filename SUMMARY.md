@@ -38,6 +38,7 @@
 * [Machine Learning Operations (MLOps)](courses/machine-learning-operations-mlops.md)
 * [Reinforcement Learning](courses/reinforcement-learning.md)
 * [Time Series Prediction](courses/time-series-prediction.md)
+* [Lehren und Lernen mit KI](courses/lehren-und-lernen-mit-ki.md)
 * [Archive](courses/archive/README.md)
   * [Deep Learning from Scratch](deep-learning/README.md)
     * [Requirements for a Certificate of Achievement or ECTS](deep-learning/requirements-for-a-certificate-of-achievement-or-ects.md)
