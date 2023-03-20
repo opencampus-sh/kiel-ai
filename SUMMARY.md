@@ -34,7 +34,7 @@
   * [Week 9 - Sequences, Time Series and Prediction, Part II](machine-learning-with-tensorflow/week-9-sequences-time-series-and-prediction-part-ii.md)
   * [Week 10 - Special Issues Considering Your Final Projects](machine-learning-with-tensorflow/week-10-special-issues-considering-your-final-projects.md)
   * [Week 11 - Presentation of the Final Projects](machine-learning-with-tensorflow/week-11-presentation-of-the-final-projects.md)
-* [Intermediate Machine Learning](courses/intermediate-machine-learning/README.md)
+* [Intermediate Machine Learning](courses/intermediate-machine-learning.md)
   * [Hello and welcome😊](courses/intermediate-machine-learning/hello-and-welcome.md)
   * [Week 1](courses/intermediate-machine-learning/week-1.md)
   * [Week 2](courses/intermediate-machine-learning/week-2.md)

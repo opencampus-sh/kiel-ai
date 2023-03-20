@@ -1,6 +1,6 @@
 # Hello and welcome😊
 
-Great that you want to dive into the deep water in Machine Learning. These are exciting times with major advancements on a quarterly basis like ChatGPT, Whisper, StableDiffusion and so many more. Nevertheless all these excisting models were developed with solid ML knowledge which is what we want to acquire in this course.
+Great that you want to dive into the deep water in Machine Learning. These are exciting times with major advancements on a quarterly basis like ChatGPT, Whisper, StableDiffusion and so many more. Nevertheless all these exciting models were developed with solid ML knowledge which is what we want to acquire in this course.
 
 This course is a course which brings you from beginner to intermediate or even advanced. It is formally called Intermediate Machine Learning but following HuggingFace🤗 terms which we will use heavily in the course I like to call the course SmilingFace😊. This is meant ironically, because you will never laugh in the course😊. Okay joking aside the use of smileys during learning and practioning ML helps us to remember to have fun, laugh about our mistakes and take ourself not seriously as it was proposed by the HuggingFace🤗 community. Therefor we will use our SmilingFace😊 heavily in this course.
 
