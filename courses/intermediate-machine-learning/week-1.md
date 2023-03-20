@@ -1,0 +1,44 @@
+# Week 1
+
+## Course session
+
+**Welcome and Introduction round**
+
+Introduction of the course, opencampus, the course instructor and the course participants
+
+**Tool Set-Up**
+
+* Coursera
+* Colab
+* Editor (VSCode)
+* Virtual Environments
+* Git/Github
+
+**Walk-through**
+
+Pytorch 101 (Lab 01)
+
+{% embed url="https://colab.research.google.com/drive/1C8Kq3xfdI5gSqy_3U9ZBQCVi8hjQRHNE?usp=sharing" %}
+
+_****_
+
+## **To-do**
+
+😊
+
+Go for your own through the Colab Notebook above (Pytorch101) and try to understand and repeat the steps for your own.
+
+Watch Week 1 of the Coursera Course
+
+{% embed url="https://www.coursera.org/learn/machine-learning-duke" %}
+
+😊😊
+
+Try to improve the accuracy in the PyTorch 101 notebook by tweaking the amount of layers and number of neurons
+
+😊😊😊
+
+Familiarize yourself with basic PyTorch Tutorials:
+
+* [https://pytorch.org/tutorials/beginner/deep\_learning\_60min\_blitz.html](https://pytorch.org/tutorials/beginner/deep\_learning\_60min\_blitz.html) (First part)
+* [https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial\_notebooks/tutorial2/Introduction\_to\_PyTorch.html](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial\_notebooks/tutorial2/Introduction\_to\_PyTorch.html)
