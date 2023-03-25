@@ -1,3 +1,7 @@
+---
+description: Recap ML Basics - Intro PyTorch
+---
+
 # Week 2
 
 ## Course session
