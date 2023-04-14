@@ -9,7 +9,7 @@ description: >-
 
 This requires i.e.: Give a project presentation and provide a well documented code via GitHub. Addtionally you are only allowed to miss two classes during the semester.
 
-Please enroll/attend/complete to the following Coursera MOOCs:
+Please enroll/attend/complete to the following Coursera MOOCs during the semester:
 
 {% embed url="https://www.coursera.org/learn/time-series-survival-analysis" %}
 Enroll and complete this course in Coursera
