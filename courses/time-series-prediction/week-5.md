@@ -1,10 +1,13 @@
 ---
 description: >-
-  Make a short presentation about you project for the other participants - we
-  will focus on group sessions this time.
+  Make a short presentation (5 Slides) or live-coding session (5 Minutes -
+  Google Colab or similar) about your project for the other participants. Later
+  we will focus on group sessions this time.
 ---
 
 # Week 5
+
+Try to answer/motivate these questions:
 
 What is you idea/topic?
 

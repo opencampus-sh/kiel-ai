@@ -6,7 +6,9 @@ description: >-
 
 # Week 2
 
-Choose your semester project topic and get started. This means:
+Choose your semester project topic and get started.&#x20;
+
+This means:
 
 Connect to your team members
 
