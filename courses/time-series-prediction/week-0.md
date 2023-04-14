@@ -25,7 +25,7 @@ Enroll to this course in Coursera - we will online focus on Week 4 - Decision Tr
 Enroll and complete this course in Coursera
 {% endembed %}
 
-Some additional course material and MOOCs if you like you expand your knowledge at your own pace:
+Some additional course material and MOOCs if you want you expand your knowledge at your own pace:
 
 {% embed url="https://www.coursera.org/learn/practical-time-series-analysis" %}
 This is a nice time series course with a focus on R/RStudio. It goes slightly deeper then our first course but lacks machine learning techniques. Nevertheless a very good ranked course and worth doing it - if you like to deepen your knowledge.&#x20;
