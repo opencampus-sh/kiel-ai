@@ -10,7 +10,7 @@ We start with a short introduction of the course topics. Get to know each other 
 
 This requires i.e.: Give a project presentation and provide a well documented code with data via GitHub. Addtionally you are only allowed to miss two class sessions during the semester.
 
-Please enroll/attend/complete to the following Coursera MOOCs during the semester:
+Please enroll/attend/complete the following Coursera MOOCs during the semester:
 
 {% embed url="https://www.coursera.org/learn/time-series-survival-analysis" %}
 Enroll and complete this course in Coursera
