@@ -1,5 +1,7 @@
 ---
-description: Complete Week 1 and 2 of the IBM Time Series course.
+description: >-
+  Complete Week 1 and 2 of the IBM course - Specialized Models: Time Series and
+  Survival Analysis.
 ---
 
 # Week 1
