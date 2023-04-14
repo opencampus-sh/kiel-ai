@@ -43,7 +43,7 @@ For the semester project - you can bring your own data - we will discuss this in
 
 {% embed url="https://ml-lectures.org/docs/unsupervised_learning/Anomaly_Detection_RNN_AE_VAE.html" %}
 
-
+{% embed url="https://www.energy-charts.info/charts/power/chart.htm?l=de&c=DE&source=total&interval=month" %}
 
 Last but not least - we would like to mention some very good book references. It is not required or requested to buy any of these books. If you are enrolled as a student at CAU, FH Kiel or another university you might have access to these books via the SpringerLink of your home institution. They cover the course material quite well and provide GitHub-Repositories for the codes which where used throughout the book. Unfortunately there is no 1:1-Coursera course matching these books perfectly - but we will do our best ;-)
 
