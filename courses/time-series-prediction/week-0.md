@@ -5,7 +5,11 @@ description: >-
   successful participation.
 ---
 
-# Week 1
+# Week 0
+
+This requires i.e.: Give a project presentation and provide a well documented code via GitHub. Addtionally you are only allowed to miss two classes during the semester.
+
+Please enroll/attend/complete to the following Coursera MOOCs:
 
 {% embed url="https://www.coursera.org/learn/time-series-survival-analysis" %}
 Enroll and complete this course in Coursera
