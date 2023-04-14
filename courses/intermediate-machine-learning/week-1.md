@@ -24,7 +24,7 @@ Pytorch 101 (Lab 01)
 
 {% embed url="https://colab.research.google.com/drive/1C8Kq3xfdI5gSqy_3U9ZBQCVi8hjQRHNE?usp=sharing" %}
 
-_****_
+
 
 ## **To-do**
 

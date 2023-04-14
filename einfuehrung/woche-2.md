@@ -13,7 +13,7 @@ folgende Themen behandeln:
 
 ### Lernressourcen
 
-{% file src="../.gitbook/assets/211102_Grafische Darstellung von Daten.pdf" %}
+{% file src="../.gitbook/assets/221101_Grafische Darstellung von Daten.pdf" %}
 
 * Kapitel 1 des Kurses [Introduction to Data Visualization with ggplot2](https://campus.datacamp.com/courses/data-visualization-with-ggplot2-1) bei datacamp
 * [R-Notebook](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Beispiele%20zu%20Diagrammen%20aus%20Woche%202.Rmd) mit Beispielen für grafische Abbildungen
@@ -38,7 +38,7 @@ folgende Themen behandeln:
     Falls _git_ dort nicht auswählbar sein sollte, gehe in RStudio zu _Tools_ > _Global Options_ > _Git/SVN_ und überprüfe, ob in dem Eingabefeld zu „Git executable“ der richtige Verweis eingetragen ist. Der Verweis sollte eine der folgenden Formen haben:
 
     Mac und Linux: **/usr/bin/git**\
-    ****
+
 * [x] Als Einführung in die Versionierung mit git absolviert bitte das Kapitel "Basic Workflow" des Kurses [Introduction to Git](https://learn.datacamp.com/courses/introduction-to-git-for-data-science) bei Datacamp.\
 
 
