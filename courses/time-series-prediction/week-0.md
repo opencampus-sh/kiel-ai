@@ -7,7 +7,7 @@ description: >-
 
 # Week 0
 
-This requires i.e.: Give a project presentation and provide a well documented code via GitHub. Addtionally you are only allowed to miss two classes during the semester.
+This requires i.e.: Give a project presentation and provide a well documented code with data via GitHub. Addtionally you are only allowed to miss two class sessions during the semester.
 
 Please enroll/attend/complete to the following Coursera MOOCs during the semester:
 
