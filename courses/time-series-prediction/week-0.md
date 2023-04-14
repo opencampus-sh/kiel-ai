@@ -57,6 +57,10 @@ Last but not least - we would like to mention some very good book references. It
 [https://github.com/Apress/time-series-algorithm-recipes](https://github.com/Apress/time-series-algorithm-recipes)
 {% endembed %}
 
+{% embed url="https://link.springer.com/book/10.1007/978-1-4842-5992-4" %}
+[https://github.com/Apress/hands-on-time-series-analylsis-python](https://github.com/Apress/hands-on-time-series-analylsis-python)
+{% endembed %}
+
 {% embed url="https://www.packtpub.com/product/machine-learning-for-time-series-with-python/9781801819626" %}
 [https://github.com/PacktPublishing/Machine-Learning-for-Time-Series-with-Python](https://github.com/PacktPublishing/Machine-Learning-for-Time-Series-with-Python)
 {% endembed %}
@@ -67,6 +71,10 @@ Last but not least - we would like to mention some very good book references. It
 
 {% embed url="https://www.packtpub.com/product/time-series-analysis-with-python-cookbook/9781801075541" %}
 [https://github.com/PacktPublishing/Time-Series-Analysis-with-Python-Cookbook](https://github.com/PacktPublishing/Time-Series-Analysis-with-Python-Cookbook)
+{% endembed %}
+
+{% embed url="https://in.bpbonline.com/products/time-series-forecasting-using-deep-learning?_pos=1&_sid=670c171d5&_ss=r" %}
+[https://github.com/bpbpublications/Time-Series-Forecasting-using-Deep-Learning](https://github.com/bpbpublications/Time-Series-Forecasting-using-Deep-Learning)
 {% endembed %}
 
 {% embed url="https://link.springer.com/book/10.1007/978-3-031-13584-2" %}
