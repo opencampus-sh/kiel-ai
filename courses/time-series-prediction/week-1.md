@@ -6,4 +6,4 @@ description: >-
 
 # Week 1
 
-Think about a project and post your idea in Mattermost
+Think about a project and post your idea(s) in Mattermost
