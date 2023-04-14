@@ -51,6 +51,8 @@
 * [Reinforcement Learning](courses/reinforcement-learning.md)
 * [Time Series Prediction](courses/time-series-prediction.md)
   * [Week 0](courses/time-series-prediction/week-0.md)
+  * [Week 1](courses/time-series-prediction/week-1.md)
+  * [Week 2](courses/time-series-prediction/week-2.md)
 * [Lehren und Lernen mit KI](courses/lehren-und-lernen-mit-ki.md)
 * [Archive](courses/archive/README.md)
   * [Deep Learning from Scratch](deep-learning/README.md)
