@@ -1,5 +1,5 @@
 ---
-description: Complete Week 4 of the Sequences, Time Series and Prediction course.
+description: 'Cutting-Edge stuff: Temporal Fusion Transfomers, N-Beats, Deep GPVAR...'
 ---
 
 # Week 9

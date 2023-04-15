@@ -1,5 +1,5 @@
 ---
-description: Complete Week 2 of the Sequences, Time Series and Prediction course.
+description: Complete Week 3and 4 of the Sequences, Time Series and Prediction course.
 ---
 
 # Week 7
