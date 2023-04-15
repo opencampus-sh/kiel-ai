@@ -4,6 +4,6 @@ description: >-
   Survival Analysis.
 ---
 
-# Week 1
+# Week 1 - Intro Time Series, Stationarity, Smoothing
 
 Think about a project and post your idea(s) in Mattermost
