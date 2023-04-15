@@ -54,7 +54,7 @@
   * [Projects](courses/time-series-prediction/projects.md)
   * [Preparation / Coursera](courses/time-series-prediction/preparation-coursera.md)
   * [References / Books](courses/time-series-prediction/references-books.md)
-  * [Week 1](courses/time-series-prediction/week-1.md)
+  * [Week 1 - Intro Time Series, Stationarity, Smoothing](courses/time-series-prediction/week-1-intro-time-series-stationarity-smoothing.md)
   * [Week 2](courses/time-series-prediction/week-2.md)
   * [Week 3](courses/time-series-prediction/week-3.md)
   * [Week 4](courses/time-series-prediction/week-4.md)
