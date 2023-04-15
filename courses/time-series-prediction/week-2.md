@@ -4,7 +4,7 @@ description: >-
   Survival Analysis.
 ---
 
-# Week 2
+# Week 2 - ARMA, ARIMA, Deep Survival Forecasts
 
 Choose your semester project topic and get started.&#x20;
 
