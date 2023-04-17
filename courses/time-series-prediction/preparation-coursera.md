@@ -14,6 +14,6 @@ Enroll and complete this course in Coursera
 Enroll to this course in Coursera - we will online focus on Week 4 - Decision Trees
 {% endembed %}
 
-{% embed url="https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction?" %}
+{% embed url="https://www.coursera.org/learn/nlp-sequence-models" %}
 Enroll and complete this course in Coursera
 {% endembed %}
