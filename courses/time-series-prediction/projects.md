@@ -22,6 +22,10 @@ For the semester project - you can bring your own data - we will discuss this in
 
 {% embed url="https://forecastegy.com/posts/multiple-time-series-forecasting-with-lightgbm-in-python/" %}
 
+{% embed url="https://www.learndatasci.com/tutorials/geospatial-data-python-geopandas-shapely/" %}
+
+{% embed url="https://www.analyticsvidhya.com/blog/2021/03/introducing-machine-learning-for-spatial-data-analysis/" %}
+
 Cutting-Edge stuff: Temporal Fusion Transfomers, N-Beats, DeepAR, Deep GPVAR...
 
 {% embed url="https://towardsdatascience.com/the-best-deep-learning-models-for-time-series-forecasting-690767bc63f0" %}
