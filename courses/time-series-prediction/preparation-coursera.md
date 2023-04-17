@@ -11,7 +11,7 @@ Enroll and complete this course in Coursera
 {% endembed %}
 
 {% embed url="https://www.coursera.org/learn/advanced-learning-algorithms#syllabus" %}
-Enroll to this course in Coursera - we will online focus on Week 4 - Decision Trees
+Enroll and complete this course in Coursera
 {% endembed %}
 
 {% embed url="https://www.coursera.org/learn/nlp-sequence-models" %}
