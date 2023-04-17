@@ -14,6 +14,14 @@ For the semester project - you can bring your own data - we will discuss this in
 
 {% embed url="https://www.energy-charts.info/charts/power/chart.htm?l=de&c=DE&source=total&interval=month" %}
 
+{% embed url="https://forecastegy.com/posts/kalman-filter-for-time-series-forecasting-in-python/" %}
+
+{% embed url="https://forecastegy.com/posts/multivariate-time-series-forecasting-in-python/" %}
+
+{% embed url="https://forecastegy.com/posts/multiple-time-series-forecasting-with-xgboost-in-python/" %}
+
+{% embed url="https://forecastegy.com/posts/multiple-time-series-forecasting-with-lightgbm-in-python/" %}
+
 Cutting-Edge stuff: Temporal Fusion Transfomers, N-Beats, DeepAR, Deep GPVAR...
 
 {% embed url="https://towardsdatascience.com/the-best-deep-learning-models-for-time-series-forecasting-690767bc63f0" %}
@@ -32,4 +40,6 @@ Cutting-Edge stuff: Temporal Fusion Transfomers, N-Beats, DeepAR, Deep GPVAR...
 
 {% embed url="https://pytorch-forecasting.readthedocs.io/en/stable/tutorials/stallion.html" %}
 
-!
+{% embed url="https://forecastegy.com/posts/multiple-time-series-forecasting-with-deepar-in-python/" %}
+
+{% embed url="https://forecastegy.com/posts/gaussian-process-for-time-series-forecasting-in-python/" %}
