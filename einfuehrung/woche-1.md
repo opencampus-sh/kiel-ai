@@ -11,7 +11,7 @@ eine Einführung zu den folgenden Themen bekommen:
 
 ### Lernressourcen
 
-{% file src="../.gitbook/assets/220419_Einführung.pdf" %}
+{% file src="../.gitbook/assets/221025_Einführung.pdf" %}
 
 * [Einführungsvideo zu RStudio](https://www.youtube.com/watch?v=QvBo1RBptvY) (5 Minuten)
 * [Zusätzliche Einführung zu R von datacamp](https://www.datacamp.com/courses/free-introduction-to-r)
@@ -21,7 +21,8 @@ eine Einführung zu den folgenden Themen bekommen:
 
 * [x] Insbesondere falls Ihr noch nie mit RStudio gearbeitet habt, schaut Euch das oben verlinkte Einführungsvideo zu RStudio an.
 * [x] Bearbeitet die folgenden Aufgaben (siehe auch Präsentation):
-  * Speichere den Datensatz airquality in der Variable airQuality.
+  * Importiere den Datensatz “umsatzdaten\_gekuerzt.csv”, den Du über folgenden Link herunterladen kannst:\
+    https://raw.githubusercontent.com/opencampus-sh/einfuehrung-in-data-science-und-ml/main/wetter.csv
   * Berechne die Gesamtdurchschnittstemperatur.
   * Berechne die Durchschnittstemperatur für den Monat Juli.
   *   Vergleiche, ob die Monate Juli und Mai sich in ihrer Durchschnittstemperatur signifikant unterscheiden.
