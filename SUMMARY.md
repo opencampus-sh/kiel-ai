@@ -48,7 +48,7 @@
   * [Week 10](courses/intermediate-machine-learning/week-10.md)
   * [Week 11](courses/intermediate-machine-learning/week-11.md)
 * [Machine Learning Operations (MLOps)](courses/machine-learning-operations-mlops/README.md)
-  * [19-04-2023 General Introduction](courses/machine-learning-operations-mlops/19-04-2023-general-introduction.md)
+  * [General Introduction](courses/machine-learning-operations-mlops/general-introduction.md)
   * [26-04-2023 ML Lifecycle Overview and Model Selection](courses/machine-learning-operations-mlops/26-04-2023-ml-lifecycle-overview-and-model-selection.md)
   * [03-05-2023 Data Definition and Collection](courses/machine-learning-operations-mlops/03-05-2023-data-definition-and-collection.md)
   * [10-05-2023 From Feature Engineering to Data Storage](courses/machine-learning-operations-mlops/10-05-2023-from-feature-engineering-to-data-storage.md)
