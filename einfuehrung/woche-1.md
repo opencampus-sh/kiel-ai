@@ -13,7 +13,7 @@ eine Einführung zu den folgenden Themen bekommen:
 
 {% file src="../.gitbook/assets/221025_Einführung.pdf" %}
 
-* [Einführungsvideo zu RStudio](https://www.youtube.com/watch?v=QvBo1RBptvY) (5 Minuten)
+* [Einführungsvideo zu RStudio](https://www.youtube.com/watch?v=tyvEHQszZJs) (10 Minuten)
 * [Zusätzliche Einführung zu R von datacamp](https://www.datacamp.com/courses/free-introduction-to-r)
 * [Quiz zur eigenen Überprüfung](https://forms.office.com/Pages/ResponsePage.aspx?id=o8B0DUIn4UCcYfg2EvvW945sLsRCRj5HsCC5DsYMVPZUNktUU0NRWUFNR1kzS0RDTjVUVVhPTEZZNC4u) des im Rahmen dieser Woche gelernten
 
