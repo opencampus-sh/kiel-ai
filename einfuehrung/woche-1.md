@@ -20,14 +20,16 @@ eine Einführung zu den folgenden Themen bekommen:
 ### Bis zur nächsten Woche solltet Ihr...
 
 * [x] Insbesondere falls Ihr noch nie mit RStudio gearbeitet habt, schaut Euch das oben verlinkte Einführungsvideo zu RStudio an.
-* [x] Bearbeitet die folgenden Aufgaben (siehe auch Präsentation):
-  * Importiere den Datensatz “umsatzdaten\_gekuerzt.csv”, den Du über folgenden Link herunterladen kannst:\
-    https://raw.githubusercontent.com/opencampus-sh/einfuehrung-in-data-science-und-ml/main/wetter.csv
-  * Berechne die Gesamtdurchschnittstemperatur.
-  * Berechne die Durchschnittstemperatur für den Monat Juli.
-  *   Vergleiche, ob die Monate Juli und Mai sich in ihrer Durchschnittstemperatur signifikant unterscheiden.
+*   [x] Bearbeitet die folgenden Aufgaben (siehe auch Präsentation):
 
-      _Denkt daran, dass Ihr eigentlich alles googlen könnt, gerade anhand solcher vergleichsweise leichten Aufgaben kann man gut lernen wie man die Berechnungen bzw. den Programmcode von anderen für sich abändern kann._
+    * Importiere den Datensatz “umsatzdaten\_gekuerzt.csv”, den Du über folgenden Link herunterladen kannst:\
+      https://raw.githubusercontent.com/opencampus-sh/einfuehrung-in-data-science-und-ml/main/wetter.csv
+    * Berechne die Gesamtdurchschnittstemperatur.
+    * Berechne die Durchschnittstemperatur für den Monat Juli.
+    * Vergleiche, ob die Monate Juli und Mai sich in ihrer Durchschnittstemperatur signifikant unterscheiden.
+
+    _Denkt daran, dass Ihr jederzeit ChatGPT zur Unterstützung einsetzen könnt, gerade anhand vergleichsweise leichter Aufgaben kann man gut lernen wie man Aufgabenstellungen lösen kann, die man vorher noch nie gemacht hattet._\
+
 * [x] Installiert die folgenden zwei R-Packages:
   * ggplot2
   * dplyr
