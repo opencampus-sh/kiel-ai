@@ -4,10 +4,10 @@
 
 * Eure untereinander kennenlernen
 * den Ablauf, die Inhalte und die Ziele des Kurses kennenlernen
-* Wozu RStudio?
-* Datenstrukturen in R
 
-### Lernressourcenw
+
+
+### Lernressourcen
 
 * Werden nach dem Termin hinzugefügt
 
