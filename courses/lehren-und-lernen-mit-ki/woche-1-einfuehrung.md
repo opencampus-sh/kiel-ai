@@ -11,7 +11,9 @@
 
 * Werden nach dem Termin hinzugefügt
 
-### Bis zur nächsten Woche solltet Ihr...
+### Bis zur nächsten Woche solltest Du...
 
-* [x] Euch für ChatGPT und Bing angemeldet haben.
+* [x] Dich bei Bing, ChatGPT und ggf. zur OpenAI-API angemeldet haben.
+*
+* [x] mit Hilfe von ChatGPT und Bing zwei Multiple-Choice-Fragen (jeweils mit vier Antwortmöglichkeiten) auf Basis von Texten zu zwei unterschiedlichen Themenbereichen erstellen.
 
