@@ -7,9 +7,9 @@
 
 ### Learning Resources
 
-{% embed url="https://ieeexplore.ieee.org/document/10081336" %}
-Machine Learning Operations (MLOps): Overview, Definition, and Architecture
-{% endembed %}
+{% file src="../../.gitbook/assets/230419_MLOps Introduction Session.pdf" %}
+
+* [Paper on the definition of DevOps](https://ieeexplore.ieee.org/document/10081336)
 
 ### Until next week you should...
 
