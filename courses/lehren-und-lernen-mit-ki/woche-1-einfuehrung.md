@@ -1,9 +1,10 @@
 # Woche 1 - Einführung
 
-### Diese Woche werdet Ihr...
+### Diese Woche wirst Du...
 
-* Eure untereinander kennenlernen
-* den Ablauf, die Inhalte und die Ziele des Kurses kennenlernen
+* die anderen Kursteilnehmenden kennenlernen.
+* den Ablauf, die Inhalte und die Ziele des Kurses kennenlernen.
+* lernen wie die Zugänge zu Chat-Anwendungen wie ChatGPT, Bing und der OpenAI API aussehen und wie sie sich unterscheiden.
 
 
 
