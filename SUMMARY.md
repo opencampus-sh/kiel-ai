@@ -73,7 +73,7 @@
   * [Week 9 - Transformer Networks](courses/time-series-prediction/week-9-cutting-edge-stuff-temporal-fusion-transfomers-n-beats-deep-gpvar....md)
   * [Week 10 - Final presentations](courses/time-series-prediction/week-10-final-presentations.md)
   * [Week 11 - Final Presentation BackUp](courses/time-series-prediction/week-11-final-presentation-backup.md)
-* [Lehren und Lernen mit KI](courses/lehren-und-lernen-mit-ki/README.md)
+* [Lehren und Lernen mit KI](courses/lehren-und-lernen-mit-ki.md)
   * [Woche 1 - Einführung](courses/lehren-und-lernen-mit-ki/woche-1-einfuehrung.md)
   * [Woche 2 - Anwendungsbeispiele #twlz](courses/lehren-und-lernen-mit-ki/woche-2-anwendungsbeispiele-twlz.md)
   * [Woche 3 - KI-Tools für den Bildungsbereich](courses/lehren-und-lernen-mit-ki/woche-3-ki-tools-fuer-den-bildungsbereich.md)

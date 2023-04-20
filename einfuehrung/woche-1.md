@@ -31,6 +31,8 @@ eine Einführung zu den folgenden Themen bekommen:
 * [x] Installiert die folgenden zwei R-Packages:
   * ggplot2
   * dplyr
+* [x] Schaut [dieses Video](https://vimeo.com/819406301?share=copy) (5 Min.) zum Aufbau von R-Programmen und Funktionen.
+* [x] Schaut [dieses Video](https://vimeo.com/819428195?share=copy) (10 Min.) zu Datenstrukturen.
 * [x] Absolviert das erste Kapitel des Kurses [Introduction to Data Visualization with ggplot2](https://campus.datacamp.com/courses/data-visualization-with-ggplot2-1)
 
 Gerade wenn man sich bisher noch gar nicht mit Programmierung beschäftigt hat, ist es am Anfang des Kurses immer sehr viel Stoff auf einmal. Ich hoffe jedoch, die Online-Tutorials sind eine gute Hilfe für den Einstieg. Ein paar Dinge werden wir auch in der nächste Woche noch einmal wiederholen.
