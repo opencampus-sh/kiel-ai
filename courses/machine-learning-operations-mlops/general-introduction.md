@@ -2,7 +2,7 @@
 
 ### This week you will...
 
-* get a basic idea of what DevOps is about
+* get a basic idea of what MLOps is about
 * get a first idea about possible projects you might want to work on throughout the course
 
 ### Learning Resources
