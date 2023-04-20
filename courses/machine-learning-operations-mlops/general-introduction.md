@@ -14,5 +14,5 @@
 ### Until next week you should...
 
 * register for the opencampus.sh program at Coursera (you will get an invitation link from opencampus.sh to do so) and enroll for the course [Introduction to Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production/)
-* complete week 1 and week 2 of the course [Introduction to Machine Learning in Production, including the provided assignments](https://www.coursera.org/learn/introduction-to-machine-learning-in-production/)
+* complete week 1 and week 2 of the course [Introduction to Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production/), including the provided exercises/labs.
 
