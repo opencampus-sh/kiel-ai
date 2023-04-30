@@ -12,10 +12,14 @@ folgende Themen behandeln:
 
 ### Lernressourcen
 
-{% file src="../.gitbook/assets/230425_Grafische Darstellung von Daten.pdf" %}
+{% file src="../.gitbook/assets/230425_Grafische Darstellung von Daten (1).pdf" %}
 
 * Kapitel 1 des Kurses [Introduction to Data Visualization with ggplot2](https://campus.datacamp.com/courses/data-visualization-with-ggplot2-1) bei datacamp
 * [R-Notebook](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Beispiele%20zu%20Diagrammen%20aus%20Woche%202.Rmd) mit Beispielen für grafische Abbildungen
+* Video zur [Selektion von Zeilen und Spalten in R](https://vimeo.com/822158843?share=copy) (9 Minuten)
+* Video zur [Selektion mit Booleschen Vektoren](https://vimeo.com/822446585?share=copy) (5 Minuten)
+* Video zu [Skalentypen](https://vimeo.com/822451187?share=copy) (2,5 Minuten)
+* Video zum [Anlegen von RStudio-Projekten](https://vimeo.com/822451090?share=copy) (2 Minuten)
 
 ### Bis zur nächsten Woche solltet Ihr...
 
