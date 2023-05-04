@@ -26,6 +26,8 @@ Presentation from the participants of the MLP from Coursera
 
 PyTorchLightning (Lab 03)
 
+{% embed url="https://colab.research.google.com/drive/1v1Ts2kC91coyZHJYicjBw7EwS5C9lD9q?usp=sharing" %}
+
 
 
 ## **To-do**
