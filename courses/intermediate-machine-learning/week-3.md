@@ -14,6 +14,10 @@ description: Learning and testing - a.k.a. don't do Bullshit Machine Learning
 
 {% embed url="https://www.kaggle.com/competitions/paddy-disease-classification/overview" %}
 
+* Exploratory Data Analysis(EDA) for Paddy Disease Classification
+
+{% embed url="https://www.kaggle.com/code/henrikho/opencampus-paddy-eda" %}
+
 
 
 **Solutions exercise MLP**&#x20;
