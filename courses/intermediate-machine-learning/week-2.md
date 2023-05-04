@@ -20,7 +20,7 @@ Presentation from the participants of the tasks from PyTorch101
 
 **Walk-through**
 
-Pytorch 202 (Lab 02)
+PyTorch 202 (Lab 02)
 
 {% embed url="https://colab.research.google.com/drive/1jrKiUSqGmDmFhn_2mMgn-6aDlFqvlcN1?usp=sharing" %}
 

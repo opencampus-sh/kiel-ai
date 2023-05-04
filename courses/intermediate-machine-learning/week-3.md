@@ -24,7 +24,9 @@ Presentation from the participants of the MLP from Coursera
 
 **Walk-through**
 
-PyTorchLightning (Lab 03)
+PyTorchLightning
+
+PyTorch 303 (Lab 03)
 
 {% embed url="https://colab.research.google.com/drive/1v1Ts2kC91coyZHJYicjBw7EwS5C9lD9q?usp=sharing" %}
 
