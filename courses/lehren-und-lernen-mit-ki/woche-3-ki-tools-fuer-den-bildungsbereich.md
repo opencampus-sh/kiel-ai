@@ -2,11 +2,14 @@
 
 ### Diese Woche werdet Ihr...
 
-* ...folgt
+* Doris Weßels und Moritz Larsen kennen lernen
+* von ihnen eine aktuelle Auswahl an KI-Tools gezeigt bekommen
 
 ### Lernressourcen
 
-* ...folgt
+
+
+{% file src="../../.gitbook/assets/230504_LuLmKI - KI-Tools.pdf" %}
 
 ### Bis zur nächsten Woche solltet Ihr...
 
