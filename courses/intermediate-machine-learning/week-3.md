@@ -2,7 +2,7 @@
 description: Learning and testing - a.k.a. don't do Bullshit Machine Learning
 ---
 
-# Week 3
+# Week 3 - Intro Kaggle competition - EDA and baseline models with PyTorch
 
 ## Course session
 
@@ -69,4 +69,10 @@ Build an MLP in PyTorchLightning for Paddy Challenge on Kaggle
 😊😊😊
 
 Do your own EDA on the Paddy Challenge and/or look at other EDA notebooks from competitors. Make a final presentable EDA notebook
+
+Transfer the CNN from the Coursera assignment to our Kaggle competition
+
+Familiarize yourself with this PyTorch Tutorials:
+
+{% embed url="https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial5/Inception_ResNet_DenseNet.html" %}
 

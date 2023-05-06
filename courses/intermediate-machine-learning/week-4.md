@@ -14,9 +14,13 @@ description: CNNs
 
 **Walk-through**
 
-PyTorchLightning
+Basic CNN in PyTorch:
 
-PyTorch 303 (Lab 03)
+{% embed url="https://www.kaggle.com/henrikho/opencampus-basic-cnn-in-pytorch" %}
+
+Basic CNN in PyTorchLightning
+
+
 
 
 
@@ -31,6 +35,8 @@ Presentation from the participants of the CNN assignment from Coursera
 Go for your own through the Kaggle Notebook above () and try to understand and repeat the steps for your own.
 
 Do Week 4 of the Coursera Course
+
+{% embed url="https://www.coursera.org/learn/machine-learning-duke" %}
 
 😊😊
 
