@@ -1,8 +1,4 @@
----
-description: Course Introduction
----
-
-# Week 1
+# Week 1 - Course Introduction
 
 ## Course session
 
