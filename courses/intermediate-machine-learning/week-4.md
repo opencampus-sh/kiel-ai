@@ -16,7 +16,7 @@ description: CNNs
 
 Basic CNN in PyTorch:
 
-{% embed url="https://www.kaggle.com/henrikho/opencampus-basic-cnn-in-pytorch" %}
+{% embed url="https://www.kaggle.com/code/henrikho/opencampus-basic-cnn-in-pytorch" %}
 
 Basic CNN in PyTorchLightning
 
