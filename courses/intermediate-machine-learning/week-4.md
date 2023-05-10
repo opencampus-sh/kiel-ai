@@ -32,7 +32,7 @@ Presentation from the participants of the CNN assignment from Coursera
 
 😊
 
-Go for your own through the Kaggle Notebook above () and try to understand and repeat the steps for your own.
+Go for your own through the Kaggle Notebook and PyTorch404 above and try to understand and repeat the steps for your own.
 
 Do Week 4 of the Coursera Course
 
