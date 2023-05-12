@@ -4,13 +4,14 @@
 
 folgende Themen behandeln:
 
-* Einführung in die Versionierung mit git (Teil 2)
 * Zusammenstellung der Teams für die Auswertungsprojekte
+* Einführung in die Versionierung mit git (Teil 2)
 * Erste Arbeiten im Team
+* Aktuelle KI-Anwendungen
 
 ### Lernressourcen
 
-{% file src="../.gitbook/assets/221115_Einführung git (Teil 2) und Start Auswertungsprojekt.pdf" %}
+{% file src="../.gitbook/assets/230509_Einführung git (Teil 2) und Start Auswertungsprojekt.pdf" %}
 
 ### Bis zur nächsten Woche solltet Ihr...
 
