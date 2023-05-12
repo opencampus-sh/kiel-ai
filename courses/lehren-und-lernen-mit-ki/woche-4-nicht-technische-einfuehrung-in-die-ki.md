@@ -21,4 +21,4 @@ wenn ihr an einem Projekt arbeitet:
 alle:
 
 * [x] einen Veranstaltungshinweis in Form eines kurzen Blogs zu schreiben.\
-  Nehmt dazu an, Ihr wollt Werbung für eine Veranstaltung bei Euch in der Schule, Hochschule oder für Euch privat machen. Nutzt dazu aber _nicht_ ChatGPT, sondern ein speziell auf Texterstellung ausgerichtetes Tool Eurer Wahl, wie etwa Neuroflash.
+  Nehmt dazu an, Ihr wollt Werbung für eine Veranstaltung bei Euch in der Schule, Hochschule oder für Euch privat machen. Nutzt dazu aber _nicht_ ChatGPT, sondern ein speziell auf Texterstellung ausgerichtetes Tool Eurer Wahl, wie etwa [Neuroflash](https://app.neuro-flash.com/free).
