@@ -16,7 +16,7 @@
 wenn ihr an einem Projekt arbeitet:
 
 * [x] Euch ggf. erstmals im Team treffen, um das Projektziel genauer zu defnieren.
-* [x] eine "Literaturrecherche" durchführen, das heißt, im Internet nach Beiträgen oder Post suchen, in denen andere etwas Ähnliches gemacht haben. Schaut wie dort vorgegangen wurde und stellt eine Liste mit mindestens zwei oder drei Links zusammen
+* [x] eine "Literaturrecherche" durchführen. Das heißt, im Internet nach Beiträgen oder Posts suchen, in denen andere etwas Ähnliches gemacht haben und schaut wie dort vorgegangen wurde. Stellt eine Liste mit mindestens zwei oder drei Links mit ähnlichen Projekten zusammen.
 
 alle:
 
