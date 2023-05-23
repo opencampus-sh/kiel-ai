@@ -12,6 +12,8 @@ folgende Themen behandeln:
 
 \[Präsentation folgt]
 
+* [Beispielcode](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Lineare%20Regression/example%20linear%20regression%20with%20regularization.Rmd) für eine lineare Regression mit Regularisierung
+
 ### Bis zur nächsten Woche solltet Ihr...
 
 * [x] Euren Datensatz weiter um zusätzliche Variablen ergänzen, die für die Schätzung des Umsatzes relevant sein könnten.\
