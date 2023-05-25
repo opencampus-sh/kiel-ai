@@ -10,7 +10,7 @@ folgende Themen behandeln:
 
 ### Lernressourcen
 
-\[Präsentation folgt]
+{% file src="../../.gitbook/assets/230523_Overfitting und Regularisierung.pdf" %}
 
 * [Beispielcode](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Lineare%20Regression/example%20linear%20regression%20with%20regularization.Rmd) für eine lineare Regression mit Regularisierung
 
