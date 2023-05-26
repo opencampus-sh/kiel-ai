@@ -23,7 +23,7 @@ folgende Themen behandeln:
 
 * [x] Einmal [dieses](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Woche%206/python-installation.Rmd) R-Script durchlaufen lassen, um Python (bzw. Miniconda) mit verschiedenen zusätzlichen Funktionspaketen zu installieren.\
 
-* [x] Euren Datensatz teilen in einen Trainingsdatensatz vom 01.07.2013 bis 31.03.2019, einem Validierungsdatensatz vom 01.04. bis 07.06.2019 und einem Testdatensatz vom 08.06. bis 30.07.2019\
+* [x] Euren Datensatz teilen in einen Trainingsdatensatz vom 01.07.2013 bis 31.03.2019, einem Validierungsdatensatz vom 01.04. bis 08.06.2019 und einem Testdatensatz vom 09.06. bis 30.07.2019\
 
 * [x] eine lineare Modellgleichung aufstellen, die das adjustierte R² für Euren Trainingsdatensatz maximiert.\
 
