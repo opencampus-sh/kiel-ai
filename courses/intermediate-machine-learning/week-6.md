@@ -6,12 +6,26 @@ description: Hands-on
 
 ## Course session
 
-**Kaggle**
+**Kaggle Finetuning**
+
+Presentation of experiments with the goal of improving the classification accuracy
+
+
 
 **Transfer Learning**
 
+Theory and Applications
+
+
+
 😊
 
-Go for your own through the Kaggle Notebook above () and try to understand and repeat the steps for your own.
+Watch the second half of Week 5 of the Coursera Course
 
-Do Week 5 of the Coursera Course
+Watch the following Seminar about Transformers:
+
+{% embed url="https://www.youtube.com/watch?v=XfpMkf4rD6E" %}
+
+😊😊
+
+Go on using ideas discussed in this session and go on improving the accuracy on the Paddy Dataset
