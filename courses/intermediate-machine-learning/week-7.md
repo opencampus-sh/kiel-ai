@@ -38,7 +38,9 @@ Do Chapter 1 and Chapter 2 of the HuggingFace NLP course
 
 {% embed url="https://huggingface.co/learn/nlp-course/chapter1/1" %}
 
-Do the TransformerHW1
+Go through the TransformerHW1
+
+{% embed url="https://colab.research.google.com/drive/190nI2yzsl8sm25kM2sKhdVNj-4Yf3d5N?usp=sharing" %}
 
 😊😊
 
