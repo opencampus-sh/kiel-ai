@@ -15,7 +15,7 @@ Jedes Team hält eine 8-minütige Abschlusspräsentation mit den im Folgenden au
   (b) adjusted r²\
   (c) MAPE für den Zeitraum vom 9.6.2019 bis 30.7.2019
 * Optimierung eines neuronalen Netzes:\
-  (a) Source Code\
+  (a) Source Code zur Definition des neuronalen Netzes\
   (b) Darstellung der Loss-Funktionen für Trainings- und Validierungsdatensatz\
   (c) MAPE für den Zeitraum vom 9.6.2019 bis 30.7.2019
 
