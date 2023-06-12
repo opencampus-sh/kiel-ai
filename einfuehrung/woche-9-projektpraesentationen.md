@@ -20,7 +20,7 @@ Jedes Team hält eine 8-minütige Abschlusspräsentation mit den im Folgenden au
   (c) MAPE für den Zeitraum vom 9.6.2019 bis 30.7.2019
 
 {% hint style="warning" %}
-Zur Dokumentation des Leistungsnachweises muss das&#x20;
+Die Dokumentation des Leistungsnachweises erfolgt über die Abgabe Eures Projektverzeichnisses (s.u.). Dieses muss in der Edu-Plattform hochgeladen werden. Aktuell wir die Plattform dafür noch angepasst. Die Funktion wird in Kürze zur Verfügung stehen.
 {% endhint %}
 
 #### Das Repository / zip-Verzeichniss muss die folgenden Dateien enthalten:
