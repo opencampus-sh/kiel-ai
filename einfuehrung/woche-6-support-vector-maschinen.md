@@ -1,8 +1,8 @@
-# Woche 7 - Fehlende Werte
+# Woche 8 - Fehlende Werte
 
 ### Diese Woche werden wir...
 
-folgende Themen behandeln:
+folgende Themen behandeln:&#x20;
 
 * Wiederholung Neuronaler Netze (NN)
 * Verschiedene Layer zur Implementierung eines NN
@@ -11,8 +11,9 @@ folgende Themen behandeln:
 
 ### Lernressourcen
 
-{% file src="../.gitbook/assets/220531_Fehlende Werte.pdf" %}
+{% file src="../.gitbook/assets/230606_Fehlende Werte.pdf" %}
 
+* [Beispiel](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Neuronale%20Netze/neural-net-estimation-with-dropout.Rmd) zur Definition eines neuronalen Netzes mit Dropout-Layer
 * [Beispiel ](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Fehlende%20Werte/missing-data.R)zur Behandlung von fehlenden Werten mit dem package VIM
 * [Lektion 1](https://www.datacamp.com/courses/dealing-with-missing-data-in-r) des Data Camp Kurses "Dealing with Missing Data in R"
 
