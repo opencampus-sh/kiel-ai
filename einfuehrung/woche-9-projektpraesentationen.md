@@ -1,4 +1,4 @@
-# Woche 9 - Projektpräsentationen
+# Woche 10 - Projektpräsentationen
 
 {% hint style="warning" %}
 Jedes Team hält eine 8-minütige Abschlusspräsentation mit den im Folgenden aufgeführten Inhalten.\
@@ -10,21 +10,21 @@ Jedes Team hält eine 8-minütige Abschlusspräsentation mit den im Folgenden au
 * Euren Namen auf der Titelseite
 * Auflistung und kurze Beschreibung der selbst erstellten Variablen
 * Balkendiagramme mit Konfidenzintervallen für zwei selbst erstellte Variablen
-* Optimierung eines neuronalen Netzes
-* Source code
-* Das Evaluationsergebnis für den Zeitraum vom 9.5. bis 30.7.2019
-* Warengruppenumsätze für den ersten nicht im Datensatz enthaltenen Tag
+* Optimierung eines linearen Modells:\
+  (a) Modellgleichung\
+  (b) adjusted r²\
+  (c) MAPE für den Zeitraum vom 9.6.2019 bis 30.7.2019
+* Optimierung eines neuronalen Netzes:\
+  (a) Source Code\
+  (b) Darstellung der Loss-Funktionen für Trainings- und Validierungsdatensatz\
+  (c) MAPE für den Zeitraum vom 9.6.2019 bis 30.7.2019
 
 {% hint style="warning" %}
-Jeder Teilnehmende muss das Projekt "Umsatzprognose für eine Bäckereifiliale" in der Edu-Plattform ausgewählt haben, um ein Zertifikat erhalten zu können.
-
-Zusätzlich muss aus jedem Team muss ein Team-Mitglied ein zip-Verzeichnis des Team-Repositories in der Edu-Plattform [auf dieser Seite ](https://edu.opencampus.sh/courses/148)hochladen, um den erbrachten Leistungsnachweis zu dokumentieren.
+Zur Dokumentation des Leistungsnachweises muss das&#x20;
 {% endhint %}
 
-![Auswahl des Projektes und Hochladen des zip-Verzeichnises](<../.gitbook/assets/grafik (3).png>)
+#### Das Repository / zip-Verzeichniss muss die folgenden Dateien enthalten:
 
-#### Das Repository / zip-Verzeichniss muss Dateien zu den folgenden Dingen enthalten:
-
-* Daten
-* Programmcode
-* Präsentation
+* Eure Daten
+* Euren vollständigen, dokumentierten Programmcode (inklusive Datenaufbereitung)
+* Eure Präsentation
