@@ -7,7 +7,7 @@ Jedes Team hält eine 8-minütige Abschlusspräsentation mit den im Folgenden au
 
 #### Präsentation (Powerpoint / R Markdown)
 
-* Euren Namen auf der Titelseite
+* Eure Namen auf der Titelseite
 * Auflistung und kurze Beschreibung der selbst erstellten Variablen
 * Balkendiagramme mit Konfidenzintervallen für zwei selbst erstellte Variablen
 * Optimierung eines linearen Modells:\
