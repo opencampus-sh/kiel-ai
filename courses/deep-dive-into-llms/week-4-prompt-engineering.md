@@ -18,7 +18,11 @@ To do: Examples
 
 To do: Examples
 
+Many studies looked into how to construct in-context examples to maximize the performance and observed that **choice of prompt format, training examples, and the order of the examples can lead to dramatically different performance**, from near random guess to near SoTA.
 
+## Instruction Prompting <a href="#instruction-prompting" id="instruction-prompting"></a>
+
+The purpose of presenting few-shot examples in the prompt is to explain our intent to the model; in other words, describe the task instruction to the model in the form of demonstrations. However, few-shot can be expensive in terms of token usage and restricts the input length due to limited context length. So, why not just give the instruction directly?
 
 
 
