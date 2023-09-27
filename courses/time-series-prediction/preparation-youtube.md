@@ -2,7 +2,7 @@
 
 ### Before the first class you should ...
 
-* register with Google and the Coursera platform to get corresponding accounts. As we switched for the the second run our viseo lecture sources - the Coursera part is optional - but still benefical for the interested.
+* register with Google and the Coursera platform to get corresponding accounts. Since we switched for the second run our video lecture sources (the Coursera part is optional - but still benefical for the interested) - please see the YouTube-Playlists from below.
 
 Please enroll/attend/complete the following Coursera MOOCs during the semester:
 
