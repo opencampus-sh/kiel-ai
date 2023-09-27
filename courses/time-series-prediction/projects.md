@@ -47,3 +47,11 @@ Cutting-Edge stuff: Temporal Fusion Transfomers, N-Beats, DeepAR, Deep GPVAR...
 {% embed url="https://forecastegy.com/posts/multiple-time-series-forecasting-with-deepar-in-python/" %}
 
 {% embed url="https://forecastegy.com/posts/gaussian-process-for-time-series-forecasting-in-python/" %}
+
+Check out these frameworks:
+
+{% embed url="https://pytorch-forecasting.readthedocs.io/en/stable/" %}
+
+{% embed url="https://ts.gluon.ai/stable/" %}
+
+{% embed url="https://www.nixtla.io/" %}
