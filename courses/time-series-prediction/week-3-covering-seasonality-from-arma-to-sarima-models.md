@@ -1,8 +1,10 @@
 ---
-description: Complete Week 1 and 2 of the Advanced Learning Algorithms course.
+description: >-
+  Watch the third playlist which was recommended. Try to answer the homework
+  problems.
 ---
 
-# Week 3
+# Week 3 - Covering seasonality: From ARMA to SARIMA-models
 
 Work on your semester project !!!
 
