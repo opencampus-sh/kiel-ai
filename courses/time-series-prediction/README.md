@@ -1,7 +1,8 @@
 ---
 description: >-
-  Hi everybody......it´s Kristian. I will give the Time Series Prediction course
-  this semester and i am  happy to welcome so many participants.
+  Hi everybody......it´s Benjamin, Kristian and Yannick. We will give the Time
+  Series Prediction course this semester and we are happy to welcome all
+  participants.
 ---
 
 # Time Series Prediction
