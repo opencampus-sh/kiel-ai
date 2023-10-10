@@ -1,12 +1,24 @@
 # Prequisites
 
+_**Mandatory**_
+
 **Python**
 
 Here is a refresher notebook:
 
 {% embed url="https://colab.research.google.com/drive/1rK_fTgMukntPN__BA2UWdE0zyKEkWMBy?usp=sharing" %}
 
-**Totally optional**
+**Math**
+
+Linear Algebra, Probability Theory (at least the basics)
+
+
+
+
+
+
+
+#### _**Totally optional**_
 
 You can set up your Pc for local development. A guiding notebook is here:
 
