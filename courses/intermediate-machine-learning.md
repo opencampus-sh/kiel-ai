@@ -1,3 +1,3 @@
 # Intermediate Machine Learning
 
-Hybrid Format  - Every Thursday 18h00
+Hybrid Format  - Every Wednesday 18h00

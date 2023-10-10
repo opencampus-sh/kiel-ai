@@ -36,6 +36,7 @@
   * [Week 11 - Presentation of the Final Projects](machine-learning-with-tensorflow/week-11-presentation-of-the-final-projects.md)
 * [Intermediate Machine Learning](courses/intermediate-machine-learning.md)
   * [Hello and welcome😊](courses/intermediate-machine-learning/hello-and-welcome.md)
+  * [Prequisites](courses/intermediate-machine-learning/prequisites.md)
   * [Week 1 - Course Introduction](courses/intermediate-machine-learning/week-1.md)
   * [Week 2 - Recap ML Basics, Intro to PyTorch](courses/intermediate-machine-learning/week-2.md)
   * [Week 3 - Intro Kaggle competition - EDA and baseline models with PyTorch](courses/intermediate-machine-learning/week-3.md)
