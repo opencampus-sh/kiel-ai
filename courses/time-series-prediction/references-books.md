@@ -8,6 +8,8 @@ description: >-
 
 
 
+
+
 Last but not least - we would like to mention some very good book references. It is not required or requested to buy any of these books. If you are enrolled as a student at CAU, FH Kiel or another university you might have access to these books via the SpringerLink of your home institution. They cover the course material quite well and provide GitHub-Repositories for the codes which where used throughout the book. Unfortunately there is no 1:1-Coursera course matching these books perfectly - but we will do our best ;-)
 
 {% embed url="https://link.springer.com/book/10.1007/978-1-4842-7150-6" %}
@@ -40,6 +42,12 @@ Last but not least - we would like to mention some very good book references. It
 
 {% embed url="https://link.springer.com/book/10.1007/978-3-031-13584-2" %}
 [https://github.com/QuantLet/pyTSA/](https://github.com/QuantLet/pyTSA/)
+{% endembed %}
+
+
+
+{% embed url="https://www.manning.com/books/time-series-forecasting-in-python-book?utm_source=marcopeix&utm_medium=affiliate&utm_campaign=book_peixeiro_time_10_21_21&a_aid=marcopeix&a_bid=8db7704f" %}
+[https://github.com/marcopeix/TimeSeriesForecastingInPython/tree/master](https://github.com/marcopeix/TimeSeriesForecastingInPython/tree/master)
 {% endembed %}
 
 Some additional course material and MOOCs if you want you expand your knowledge at your own pace:
