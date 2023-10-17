@@ -26,15 +26,19 @@ PyTorch 101 (Lab 01)
 
 😊
 
-Go for your own through the Colab Notebook above (Pytorch101) and try to understand and repeat the steps for your own.
+1. Watch the following introduction video to the PyTorch framework
 
-Watch Week 1 of the Coursera Course
+{% embed url="https://www.youtube.com/watch?v=Uv0AIRr3ptg" %}
+
+2. Watch **Week 1** of the Coursera Course
 
 {% embed url="https://www.coursera.org/learn/machine-learning-duke" %}
 
+3. Go for your **own** through the Colab Notebook above (Pytorch101) and try to **understand and repeat** the steps for your own.
+
 😊😊
 
-Try to improve the accuracy in the PyTorch 101 notebook by tweaking the amount of layers and number of neurons
+Try to **improve the accuracy** in the PyTorch 101 notebook by tweaking the amount of layers and number of neurons
 
 😊😊😊
 
