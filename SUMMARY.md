@@ -63,7 +63,7 @@
   * [Week 7 - Milestone Meeting](courses/time-series-prediction/week-7-milestone-meeting.md)
   * [Week 8 - Supervised Learning I: Trees + Random Forests + Boosting](courses/time-series-prediction/week-8-supervised-learning-i-trees-+-random-forests-+-boosting.md)
   * [Week 9 - Supervised  Learning II: XGBoost + LightGBM + CatBoost](courses/time-series-prediction/week-9-supervised-learning-ii-xgboost-+-lightgbm-+-catboost.md)
-  * [Week 10 - Neural Networks for Sequences: RNNs + GRUs + LSTMs](courses/time-series-prediction/week-10-neural-networks-for-sequences-rnns-+-grus-+-lstms.md)
+  * [Week 10 - Neural Networks for Sequences: RNNs + GRUs + LSTMs + LMUs](courses/time-series-prediction/week-10-neural-networks-for-sequences-rnns-+-grus-+-lstms-+-lmus.md)
   * [Week 11 - Prophet(Facebook) + DeepAR/DeepGPVAR(Amazon)](courses/time-series-prediction/week-11-prophet-facebook-+-deepar-deepgpvar-amazon.md)
   * [Week 12 - Transformers + TFTs](courses/time-series-prediction/week-12-transformers-+-tfts.md)
   * [Week 13 - NBEATS(s) + NHITS(x)](courses/time-series-prediction/week-13-nbeats-s-+-nhits-x.md)
