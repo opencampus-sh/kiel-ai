@@ -22,9 +22,27 @@ To do: Examples
 
 Many studies looked into how to construct in-context examples to maximize the performance and observed that **choice of prompt format, training examples, and the order of the examples can lead to dramatically different performance**, from near random guess to near SoTA.
 
+
+
+## Elements of a Prompt
+
+A prompt contains any of the following elements:
+
+**Instruction** - a specific task or instruction you want the model to perform
+
+**Context** - external information or additional context that can steer the model to better responses
+
+**Input Data** - the input or question that we are interested to find a response for
+
+**Output Indicator** - the type or format of the output.
+
+You do not need all the four elements for a prompt and the format depends on the task at hand.
+
 ## Instruction Prompting <a href="#instruction-prompting" id="instruction-prompting"></a>
 
-The purpose of presenting few-shot examples in the prompt is to explain our intent to the model; in other words, describe the task instruction to the model in the form of demonstrations. However, few-shot can be expensive in terms of token usage and restricts the input length due to limited context length. So, why not just give the instruction directly?
+The purpose of presenting few-shot examples in the prompt is to explain our intent to the model; in other words, describe the task instruction to the model in the form of demonstrations. However, few-shot can be expensive in terms of token usage and restricts the input length due to limited context length. So, why not just give the instruction directly? We can design effective prompts for various simple tasks by using commands to instruct the model what you want to achieve, such as "Write", "Classify", "Summarize", "Translate", "Order", etc.
+
+Usually, the more specific and relevant the context is to the task you are trying to perform, the better.
 
 
 
