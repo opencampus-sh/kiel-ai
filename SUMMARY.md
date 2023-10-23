@@ -73,7 +73,7 @@
   * [Vorbereitung](courses/machine-learning-fuer-die-medizin/vorbereitung.md)
 * [Deep Dive into LLMs](courses/deep-dive-into-llms/README.md)
   * [Week 1 - Introduction](courses/deep-dive-into-llms/week-1-introduction.md)
-  * [Week 2 - Introduction to Transformers](courses/deep-dive-into-llms/week-2-introduction-to-transformers.md)
+  * [Week 2 - Token & Embeddings revisted](courses/deep-dive-into-llms/week-2-token-and-embeddings-revisted.md)
   * [Week 3 -Token & Embeddings Revisited](courses/deep-dive-into-llms/week-3-token-and-embeddings-revisited.md)
   * [Week 4 - Prompt Engineering](courses/deep-dive-into-llms/week-4-prompt-engineering/README.md)
     * [Chain of Thought](courses/deep-dive-into-llms/week-4-prompt-engineering/chain-of-thought.md)
