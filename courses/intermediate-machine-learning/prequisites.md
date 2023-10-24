@@ -16,6 +16,15 @@ Linear Algebra, Probability Theory (at least the basics)
 
 
 
+**Machine Learning**
+
+Basics:
+
+* What is a neural network
+* What is a forward/backprogragation
+* What is a loss
+* What is an activation function
+
 
 
 
