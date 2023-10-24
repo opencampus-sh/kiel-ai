@@ -25,7 +25,19 @@
 **Tasks**
 
 1. Watch the provided videos and review the text to identify various tactics and techniques used in Prompt Engineering. List these tactics and techniques with clear examples.
-2. Choose at least two tactics and techniques from your list in Task 1 to construct a prompt for writing an email. The email should address a specific use case (insert use case here) and be directed to a particular recipient (insert recipient here).
+2.  **Handling Ambiguity**
+
+    The word “Java” has at least three meanings (programming language, island in Indonesia, or coffee).
+
+    _**Task**_:
+
+    Try out the following prompt:
+
+    Can you tell me about Java?
+
+    _**Task**_:
+
+    Suppose you are developing an app and do not know beforehand what your app's user means. Can you improve the prompt to help the model to clarify what the user represents and generate an answer?
 3. Generate three potential course project ideas that you could work on. Be prepared to discuss these ideas in the next session. Feel free to consider alternative projects if needed.
 4. Select one of the potential project ideas from Task 3 and create prompts for the language model to solve the problem. Use different prompting tactics and techniques to see which one produces the best results in addressing the chosen project idea.
 
