@@ -1,6 +1,8 @@
 # Prequisites
 
-_**Mandatory**_
+There are certain requirements which form the basis for a successful course participation. If you do not have the mandatory requirements listed below, cosidering enrolling into a more basic course of our offerings. Alternatively bring yourself up to speed. Under additional ressources on the left sidebar you find the necessary ressources. Since the course has a really high pace it will be absolutely necessary to straighten these basic requirements **before** the course!
+
+## **Mandatory**
 
 **Python**
 
@@ -18,9 +20,9 @@ Linear Algebra, Probability Theory (at least the basics)
 
 
 
-#### _**Totally optional**_
+## **Totally optional**
 
-You can set up your Pc for local development. A guiding notebook is here:
+You can set up your PC for local development. A guiding notebook is here:
 
 {% embed url="https://colab.research.google.com/drive/1a-B3jYcyb6Xlef_jiM-ifYWhXJo3IFeP?usp=sharing" %}
 
