@@ -11,7 +11,7 @@ eine Einführung zu den folgenden Themen bekommen:
 
 ### Lernressourcen
 
-{% file src="../.gitbook/assets/230418_Einführung.pdf" %}
+{% file src="../.gitbook/assets/231024_Einführung.pdf" %}
 
 * [Einführungsvideo zu RStudio](https://www.youtube.com/watch?v=tyvEHQszZJs) (10 Minuten)
 * [Zusätzliche Einführung zu R von datacamp](https://www.datacamp.com/courses/free-introduction-to-r)
@@ -19,7 +19,12 @@ eine Einführung zu den folgenden Themen bekommen:
 
 ### Bis zur nächsten Woche solltet Ihr...
 
-* [x] Insbesondere falls Ihr noch nie mit RStudio gearbeitet habt, schaut Euch das oben verlinkte Einführungsvideo zu RStudio an.
+* [x] Legt einen Account bei [GitHub ](https://github.com/join?ref\_cta=Sign+up\&ref\_loc=header+logged+out\&ref\_page=%2F\&source=header-home)für Euch an.\
+
+* [x] _Optional:_ Registriert Euch wie hier beschrieben für GitHub Copilot und nutzt das 30-Tage-Probe-Abo, das gratis ist.\
+
+* [x] Insbesondere falls Ihr noch nie mit RStudio gearbeitet habt, schaut Euch das oben verlinkte Einführungsvideo zu RStudio an.\
+
 *   [x] Bearbeitet die folgenden Aufgaben (siehe auch Präsentation):
 
     * Importiere den Datensatz “wetter.csv”, den Du über folgenden Link herunterladen kannst:\

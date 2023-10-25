@@ -20,8 +20,6 @@ folgende Themen behandeln:
 
 ### Bis zur nächsten Woche solltet Ihr...
 
-* [x] Legt einen Account bei [GitHub ](https://github.com/join?ref\_cta=Sign+up\&ref\_loc=header+logged+out\&ref\_page=%2F\&source=header-home)für Euch an.\
-
 * [x] Führt in RStudio unten links im Fenster Terminal (_nicht verwechseln mit dem Fenster Console!_) die folgenden zwei Zeilen mit Eurem GitHub-Benutzernamen und Eurer Email-Adresse aus:\
   git config --global user.name "your\_github\_username“\
   git config --global user.email your\_email@example.com\
