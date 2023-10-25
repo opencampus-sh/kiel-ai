@@ -19,9 +19,12 @@ eine Einführung zu den folgenden Themen bekommen:
 
 ### Bis zur nächsten Woche solltet Ihr...
 
-* [x] Euch einen Account bei [GitHub ](https://github.com/join?ref\_cta=Sign+up\&ref\_loc=header+logged+out\&ref\_page=%2F\&source=header-home)anlegen.\
+* [x] Euch einen Account bei [GitHub ](https://github.com/join?ref\_cta=Sign+up\&ref\_loc=header+logged+out\&ref\_page=%2F\&source=header-home)anlegen.
 
-* [x] _Optional:_ Euch wie hier ([https://docs.github.com/en/copilot/quickstart#signing-up-for-github-copilot-for-your-personal-account](https://docs.github.com/en/copilot/quickstart#signing-up-for-github-copilot-for-your-personal-account)) beschrieben für GitHub Copilot anmelden und das 30-Tage-Probe-Abo nutzen, das gratis ist. Zur Integration in R könnt Ihr diese Anleitung ([https://docs.posit.co/ide/user/ide/guide/tools/copilot.html](https://docs.posit.co/ide/user/ide/guide/tools/copilot.html)) nutzen.\
+
+
+*
+* [x] _Optional:_ Euch wie [hier](https://docs.github.com/en/copilot/quickstart#signing-up-for-github-copilot-for-your-personal-account) beschrieben für GitHub Copilot anmelden und das 30-Tage-Probe-Abo nutzen, das gratis ist. Zur Integration in R könnt Ihr die [diese Anleitung](https://docs.posit.co/ide/user/ide/guide/tools/copilot.html) nutzen.\
 
 * [x] insbesondere falls Ihr noch nie mit RStudio gearbeitet habt, Euch das oben verlinkte Einführungsvideo zu RStudio anschauen.\
 
