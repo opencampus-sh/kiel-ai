@@ -25,8 +25,8 @@ folgende Themen behandeln:
 
 * [x] Schaut Euch bitte folgendes Video (4 Minuten) an, um die Relevanz von Konfidenz-Intervallen zu verstehen: [https://www.youtube.com/watch?v=tFWsuO9f74o](https://www.youtube.com/watch?v=tFWsuO9f74o)\
 
-* [x] Legt ein R-Studio-Projekt-Verzeichnis an und speichere dort die Dateien „kiwo.csv“, „umsatzdaten\_gekuerzt.csv“ und „wetter.csv“ aus [diesem Github-Repository](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml).
-*
+* [x] Legt ein R-Studio-Projekt-Verzeichnis an und speichere dort die Dateien „kiwo.csv“, „umsatzdaten\_gekuerzt.csv“ und „wetter.csv“ aus [diesem Github-Repository](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml).\
+
 *   [x] Erstellt ein R-Notebook, das
 
     * den Datensatz "umsatzdaten\_gekuerzt.csv" importiert
