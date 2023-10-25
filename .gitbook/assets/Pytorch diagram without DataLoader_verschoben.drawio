@@ -1,0 +1,231 @@
+<mxfile host="app.diagrams.net" modified="2023-10-25T13:04:28.694Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.61" etag="QqrAb_MZAZlwnlfLEc_j" version="22.0.7" type="device">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
+    <mxGraphModel dx="1463" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="saYouLWUJpk8-5tpDxLo-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="saYouLWUJpk8-5tpDxLo-1" target="saYouLWUJpk8-5tpDxLo-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="saYouLWUJpk8-5tpDxLo-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="saYouLWUJpk8-5tpDxLo-1" target="saYouLWUJpk8-5tpDxLo-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="saYouLWUJpk8-5tpDxLo-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="saYouLWUJpk8-5tpDxLo-1" target="saYouLWUJpk8-5tpDxLo-58" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="saYouLWUJpk8-5tpDxLo-1" value="Python libraries" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-540" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="saYouLWUJpk8-5tpDxLo-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="saYouLWUJpk8-5tpDxLo-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-480" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="saYouLWUJpk8-5tpDxLo-3" value="Visualization" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-540" y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="saYouLWUJpk8-5tpDxLo-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="saYouLWUJpk8-5tpDxLo-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-285" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="saYouLWUJpk8-5tpDxLo-8" value="Machine learning" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-345" y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="saYouLWUJpk8-5tpDxLo-24" value="Matplotlib&lt;br&gt;&lt;a href=&quot;https://matplotlib.org/stable/users/explain/quick_start.html&quot;&gt;Quick start guide — Matplotlib 3.8.0 documentation&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="-541.25" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L3M-6sLquswSvdYZi5bx-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.514;entryY=-0.138;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="saYouLWUJpk8-5tpDxLo-27" target="saYouLWUJpk8-5tpDxLo-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-296.25" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-286" y="250" />
+              <mxPoint x="-541" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="saYouLWUJpk8-5tpDxLo-27" value="Pytorch&lt;br&gt;&lt;a href=&quot;https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html&quot;&gt;Quickstart — PyTorch Tutorials 2.1.0+cu121 documentation&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="-338.75" y="140" width="105" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="L3M-6sLquswSvdYZi5bx-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="saYouLWUJpk8-5tpDxLo-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-543.75" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="saYouLWUJpk8-5tpDxLo-29" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Organising and loading data&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-633.75" y="270" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="saYouLWUJpk8-5tpDxLo-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="saYouLWUJpk8-5tpDxLo-58" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-655" y="140.00000000000023" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="saYouLWUJpk8-5tpDxLo-58" value="Data Analysis" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-720" y="90" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="saYouLWUJpk8-5tpDxLo-59" value="Pandas&lt;br&gt;&lt;a href=&quot;https://pandas.pydata.org/docs/user_guide/10min.html&quot;&gt;10 minutes to pandas — pandas 2.1.1 documentation (pydata.org)&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="-716.25" y="140" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="saYouLWUJpk8-5tpDxLo-98" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-720" y="1150" width="80" height="50" as="geometry">
+            <mxRectangle width="80" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="saYouLWUJpk8-5tpDxLo-167" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 13px; font-weight: bold;&quot; face=&quot;Verdana&quot;&gt;MNIST &lt;/font&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;Dataset:&lt;/b&gt;&lt;br&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;Datapoints&lt;/b&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;:&lt;/span&gt;&lt;br&gt;&lt;i style=&quot;font-size: 13px;&quot;&gt;10 000 &lt;u&gt;test&lt;/u&gt; datapoints&lt;br&gt;+&lt;br&gt;60 000 &lt;u&gt;train&lt;/u&gt; datapoints&lt;br&gt;&lt;/i&gt;&lt;br&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;Each datapoint contains:&lt;/b&gt;&lt;br&gt;&lt;u style=&quot;font-size: 13px;&quot;&gt;one value&lt;/u&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;:&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;PIL Image:&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;28x28x&lt;/span&gt;&lt;span style=&quot;font-size: 13px; border-color: var(--border-color);&quot;&gt;3 channels&lt;/span&gt;&lt;br&gt;&lt;i style=&quot;font-size: 13px;&quot;&gt;&lt;u&gt;one label&lt;/u&gt;&lt;/i&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;:&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;one of {0,1,2,3,4,5,6,7,8,9}&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;a style=&quot;&quot; href=&quot;https://pytorch.org/vision/main/datasets.html&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Other pytorch datasets&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;/font&gt;&lt;i style=&quot;font-size: 17px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/i&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-627.5" y="330" width="167.5" height="235" as="geometry" />
+        </mxCell>
+        <mxCell id="L_tD4Hs1lQcecVD-s0we-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="L_tD4Hs1lQcecVD-s0we-1" target="saYouLWUJpk8-5tpDxLo-130" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-330" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L_tD4Hs1lQcecVD-s0we-1" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;specifying and training the Neural Network&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-375" y="270" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L3M-6sLquswSvdYZi5bx-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Functions to implement&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-455" y="655" width="110" height="50" as="geometry">
+            <mxRectangle width="80" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="saYouLWUJpk8-5tpDxLo-130" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Neural network&lt;br&gt;inherit from &lt;font style=&quot;font-size: 13px;&quot; face=&quot;Courier New&quot;&gt;&lt;a href=&quot;https://pytorch.org/docs/stable/generated/torch.nn.Module.html#module&quot;&gt;torch.nn.module&lt;/a&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=table;startSize=50;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-440" y="330" width="310" height="740" as="geometry">
+            <mxRectangle x="-10" y="470" width="180" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="saYouLWUJpk8-5tpDxLo-131" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" parent="saYouLWUJpk8-5tpDxLo-130" vertex="1">
+          <mxGeometry y="50" width="310" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="saYouLWUJpk8-5tpDxLo-132" value="Functionality" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;html=1;whiteSpace=wrap;" parent="saYouLWUJpk8-5tpDxLo-131" vertex="1">
+          <mxGeometry width="80" height="210" as="geometry">
+            <mxRectangle width="80" height="210" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="saYouLWUJpk8-5tpDxLo-133" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;One instance of this class is a neural network.&lt;br&gt;The &lt;font face=&quot;Courier New&quot;&gt;layers &lt;/font&gt;of the network are defined as an instance property.&lt;br&gt;The &lt;font face=&quot;Courier New&quot;&gt;forward&lt;/font&gt; function specifies how the input propagates through these layers&lt;br&gt;The &lt;font face=&quot;Courier New&quot;&gt;optimiser&lt;/font&gt; and &lt;font face=&quot;Courier New&quot;&gt;loss_function &lt;/font&gt;specify how the model parameters are updated&lt;br&gt;&lt;br&gt;A lot of functionality is inherited from&amp;nbsp;&lt;font face=&quot;Courier New&quot;&gt;nn.module&lt;/font&gt;&amp;nbsp;already (e.g. how to compute the gradients), so we don&#39;t have to worry about that!&lt;br&gt;&lt;/font&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;html=1;whiteSpace=wrap;" parent="saYouLWUJpk8-5tpDxLo-131" vertex="1">
+          <mxGeometry x="80" width="230" height="210" as="geometry">
+            <mxRectangle width="230" height="210" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="saYouLWUJpk8-5tpDxLo-134" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;html=1;" parent="saYouLWUJpk8-5tpDxLo-130" vertex="1">
+          <mxGeometry y="260" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="saYouLWUJpk8-5tpDxLo-135" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;html=1;whiteSpace=wrap;" parent="saYouLWUJpk8-5tpDxLo-134" vertex="1">
+          <mxGeometry width="80" height="20" as="geometry">
+            <mxRectangle width="80" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="saYouLWUJpk8-5tpDxLo-136" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;html=1;whiteSpace=wrap;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;" parent="saYouLWUJpk8-5tpDxLo-134" vertex="1">
+          <mxGeometry x="80" width="230" height="20" as="geometry">
+            <mxRectangle width="230" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="saYouLWUJpk8-5tpDxLo-137" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" parent="saYouLWUJpk8-5tpDxLo-130" vertex="1">
+          <mxGeometry y="280" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="saYouLWUJpk8-5tpDxLo-138" value="&lt;b&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Functions&amp;nbsp;&lt;br&gt;of superclass to overwrite&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;" parent="saYouLWUJpk8-5tpDxLo-137" vertex="1">
+          <mxGeometry width="80" height="50" as="geometry">
+            <mxRectangle width="80" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="saYouLWUJpk8-5tpDxLo-139" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;a href=&quot;https://pytorch.org/docs/stable/generated/torch.nn.Module.html#torch.nn.Module.forward&quot;&gt;forward&lt;/a&gt;(self, input):&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&quot;recipe for forward pass&quot; -using the layers defined in &lt;font face=&quot;Courier New&quot;&gt;__init__&lt;/font&gt;&lt;br&gt;&amp;nbsp;&lt;/font&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" parent="saYouLWUJpk8-5tpDxLo-137" vertex="1">
+          <mxGeometry x="80" width="230" height="50" as="geometry">
+            <mxRectangle width="230" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="saYouLWUJpk8-5tpDxLo-140" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" parent="saYouLWUJpk8-5tpDxLo-130" vertex="1">
+          <mxGeometry y="330" width="310" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="saYouLWUJpk8-5tpDxLo-141" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;" parent="saYouLWUJpk8-5tpDxLo-140" vertex="1">
+          <mxGeometry width="80" height="200" as="geometry">
+            <mxRectangle width="80" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="saYouLWUJpk8-5tpDxLo-142" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Courier New&quot;&gt;&lt;b&gt;train(inputs, labels):&lt;br&gt;&lt;/b&gt;&lt;/font&gt;You can pass a batch of(~=multiple) (input, label) pairs to this function.&lt;br&gt;It &lt;u&gt;first &lt;/u&gt;calculates the &lt;font face=&quot;Courier New&quot;&gt;output &lt;/font&gt;of the input, &lt;u&gt;afterwards &lt;/u&gt;the&amp;nbsp;&lt;font face=&quot;Courier New&quot;&gt;loss&lt;/font&gt;&amp;nbsp;is computed using the &lt;font face=&quot;Courier New&quot;&gt;outputs&lt;/font&gt;, &lt;font face=&quot;Courier New&quot;&gt;labels &lt;/font&gt;and specified&amp;nbsp;&amp;nbsp;&lt;font face=&quot;Courier New&quot;&gt;loss_function&lt;/font&gt;&lt;br&gt;&lt;u&gt;then&lt;/u&gt;, &lt;i&gt;gradients &lt;/i&gt;are computed with &lt;font face=&quot;Courier New&quot;&gt;loss.backward()&lt;br&gt;&lt;/font&gt;&lt;u&gt;lastly&lt;/u&gt;, the updates to the weights/parameters of the NN are determined by the chosen &lt;font face=&quot;Courier New&quot;&gt;optimiser(=&lt;/font&gt;optimization algorithm&lt;font face=&quot;Courier New&quot;&gt;)&lt;/font&gt;and the previously computed &lt;i&gt;gradients&lt;/i&gt;&lt;/font&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" parent="saYouLWUJpk8-5tpDxLo-140" vertex="1">
+          <mxGeometry x="80" width="230" height="200" as="geometry">
+            <mxRectangle width="230" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L3M-6sLquswSvdYZi5bx-3" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;&quot; face=&quot;Courier New&quot;&gt;self.loss_function&lt;/font&gt;:&lt;/b&gt;&lt;br&gt;The function to compute the loss with,&lt;br&gt;&lt;a href=&quot;https://pytorch.org/docs/stable/nn.html#loss-functions&quot;&gt;List of pytorch loss funcions&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;font style=&quot;&quot; face=&quot;Courier New&quot;&gt;self.optimiser&lt;/font&gt;:&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;The function which determines how the old weights/parameters are updated with the new gradients&lt;br&gt;&lt;a href=&quot;https://pytorch.org/docs/stable/optim.html#algorithms&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;List of pytorch o&lt;/span&gt;ptimisers&lt;/a&gt;&lt;br&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Don&#39;t forget to zero out the old gradients before each&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color); font-size: 11px;&quot; face=&quot;Courier New&quot;&gt;optimiser.step&lt;/font&gt;/parameter update with&amp;nbsp;&lt;font face=&quot;Courier New&quot;&gt;optimiser.zero_grad()&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;!&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-360" y="870" width="230" height="200" as="geometry">
+            <mxRectangle width="230" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L3M-6sLquswSvdYZi5bx-5" value="&lt;b&gt;Training the network&lt;/b&gt;:&lt;br&gt;Repeatedly passing &lt;br&gt;batches of datapoints &lt;br&gt;to the train function of our Neural Network instance" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-675" y="615" width="235" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="L3M-6sLquswSvdYZi5bx-8" value="&lt;b&gt;Testing the network&lt;/b&gt;:&lt;br&gt;Repeatedly passing &lt;br&gt;batches of datapoint &lt;font face=&quot;Courier New&quot;&gt;values&lt;/font&gt;&lt;br&gt;to the Neural Network instance &lt;br&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;via&amp;nbsp;&lt;font face=&quot;Courier New&quot;&gt;outputs = model(labels)&lt;/font&gt;&amp;nbsp; &lt;br&gt;and checking if the output with the highest score &lt;br&gt;-the &lt;font face=&quot;Courier New&quot;&gt;predicted_label&lt;/font&gt;, is the same as the datapoint &lt;font face=&quot;Courier New&quot;&gt;label&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-710" y="785" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="L3M-6sLquswSvdYZi5bx-13" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.025;entryY=0.191;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="L3M-6sLquswSvdYZi5bx-8" target="saYouLWUJpk8-5tpDxLo-167" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-737.5" y="775" as="sourcePoint" />
+            <mxPoint x="-647.5" y="375" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-740" y="815" />
+              <mxPoint x="-737.5" y="375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L3M-6sLquswSvdYZi5bx-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.011;entryY=0.319;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="L3M-6sLquswSvdYZi5bx-5" target="saYouLWUJpk8-5tpDxLo-167" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-700" y="645" as="sourcePoint" />
+            <mxPoint x="-640" y="405" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-700" y="650" />
+              <mxPoint x="-700" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L3M-6sLquswSvdYZi5bx-17" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=-0.03;exitY=0.832;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="L3M-6sLquswSvdYZi5bx-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-790" y="855" as="sourcePoint" />
+            <mxPoint x="-740" y="805" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-740" y="885" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L3M-6sLquswSvdYZi5bx-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" source="L3M-6sLquswSvdYZi5bx-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-520" y="825" as="sourcePoint" />
+            <mxPoint x="-440" y="825" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L3M-6sLquswSvdYZi5bx-20" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-530" y="825" as="sourcePoint" />
+            <mxPoint x="-440" y="825" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L3M-6sLquswSvdYZi5bx-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Instance variables to define&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-450" y="870" width="90" height="65" as="geometry">
+            <mxRectangle width="80" height="65" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L3M-6sLquswSvdYZi5bx-24" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-440" y="870" as="sourcePoint" />
+            <mxPoint x="-130" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L3M-6sLquswSvdYZi5bx-25" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="saYouLWUJpk8-5tpDxLo-130" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-410" y="905" as="sourcePoint" />
+            <mxPoint x="-360" y="855" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L3M-6sLquswSvdYZi5bx-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.494;entryY=-0.107;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="saYouLWUJpk8-5tpDxLo-27" target="L_tD4Hs1lQcecVD-s0we-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L3M-6sLquswSvdYZi5bx-35" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-620" y="670" as="sourcePoint" />
+            <mxPoint x="-360" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-620" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
