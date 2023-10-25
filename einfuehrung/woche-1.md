@@ -1,6 +1,6 @@
 # Woche 1 - Einführung in Data Science
 
-### Diese Woche werdet Ihr...
+### [https://docs.posit.co/ide/user/ide/guide/tools/copilot.html](https://docs.posit.co/ide/user/ide/guide/tools/copilot.html)Diese Woche werdet Ihr...
 
 eine Einführung zu den folgenden Themen bekommen:
 
@@ -21,7 +21,7 @@ eine Einführung zu den folgenden Themen bekommen:
 
 * [x] Legt einen Account bei [GitHub ](https://github.com/join?ref\_cta=Sign+up\&ref\_loc=header+logged+out\&ref\_page=%2F\&source=header-home)für Euch an.\
 
-* [x] _Optional:_ Registriert Euch wie hier beschrieben für GitHub Copilot und nutzt das 30-Tage-Probe-Abo, das gratis ist.\
+* [x] _Optional:_ Registriert Euch wie hier ([https://docs.github.com/en/copilot/quickstart#signing-up-for-github-copilot-for-your-personal-account](https://docs.github.com/en/copilot/quickstart#signing-up-for-github-copilot-for-your-personal-account)) beschrieben für GitHub Copilot und nutzt das 30-Tage-Probe-Abo, das gratis ist. Zur Integration in R könnt Ihr diese Anleitung ([https://docs.posit.co/ide/user/ide/guide/tools/copilot.html](https://docs.posit.co/ide/user/ide/guide/tools/copilot.html)) nutzen.\
 
 * [x] Insbesondere falls Ihr noch nie mit RStudio gearbeitet habt, schaut Euch das oben verlinkte Einführungsvideo zu RStudio an.\
 
