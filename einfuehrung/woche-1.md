@@ -1,6 +1,6 @@
 # Woche 1 - Einführung in Data Science
 
-### [https://docs.posit.co/ide/user/ide/guide/tools/copilot.html](https://docs.posit.co/ide/user/ide/guide/tools/copilot.html)Diese Woche werdet Ihr...
+### Diese Woche werdet Ihr...
 
 eine Einführung zu den folgenden Themen bekommen:
 
