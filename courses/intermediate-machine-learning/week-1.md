@@ -32,7 +32,7 @@ PyTorch 101 (Lab 01)
 
 {% embed url="https://www.coursera.org/learn/machine-learning-duke" %}
 
-3. Go for your **own** through the Colab Notebook above (Pytorch101) and try  to **understand and repeat** the steps for your own. Thereby you should also solve to solve Task 1-3 in the notebook. You can create therefore a copy of the notebook in your Drive or download the notebook to work locally on it. Ensure that you sufficient computing resources available (i.e gpu) if you choose to work locally.
+3. Go for your **own** through the Colab Notebook above (Pytorch101) and try  to **understand and repeat** the steps for your own. Thereby you should also solve Task 1-3 in the notebook. You can create therefore a copy of the notebook in your Drive or download the notebook to work locally on it. Ensure that you sufficient computing resources available (i.e gpu) if you choose to work locally.
 
 😊😊
 
