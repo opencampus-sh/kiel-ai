@@ -19,6 +19,6 @@
 
 * complete week 1 and week 2 of the course [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/)
 * complete the two assignments given in the following notebooks:
-  * [Assignment Notebook 1](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-01/Week1\_Notebook2\_Housing\_Prices.ipynb)
-  * [Assignment Notebook 2](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-01/Week1\_Notebook1\_Fashion\_MNIST.ipynb)
+  * [Assignment Notebook 1](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-01/Week1\_Notebook1\_Housing\_Prices.ipynb)
+  * [Assignment Notebook 2](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-01/Week1\_Notebook2\_Fashion\_MNIST.ipynb)
 
