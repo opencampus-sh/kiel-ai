@@ -32,7 +32,11 @@ Do Week 2 of the Coursera Course
 
 {% embed url="https://www.coursera.org/learn/machine-learning-duke" %}
 
+The notebook from the Coursera Course of Week 2 can be accessed here:
 
+{% embed url="https://colab.research.google.com/drive/1Wpr2Zn63BFz4Fy7ViooR_K0mpJkcH9jI?usp=sharing" %}
+
+The redundancy between our notebooks and the Coursera notebooks is desired to reintroduce the concepts in a different way and hence enrich your learning experience!
 
 😊😊
 
