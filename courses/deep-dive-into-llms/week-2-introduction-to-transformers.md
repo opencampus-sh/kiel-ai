@@ -5,6 +5,10 @@
 * Gain a broad understanding of how language models have evolved, from early methods like n-grams to advanced transformer architectures.
 * Understand the significance and limitations of word embeddings and recurrent neural networks, including LSTMs.
 
+### Slides
+
+{% file src="../../.gitbook/assets/30_10_23_Token_and_embeddings_revisited.pdf" %}
+
 ### Learning Resources
 
 * [Stanford CS224N](https://www.youtube.com/watch?v=rmVRLeJRkl4\&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) NLP with Deep Learning

@@ -7,7 +7,7 @@
 
 ### Learning Resources
 
-{% file src="../.gitbook/assets/210420_Introduction to TensorFlow Part-I.pdf" %}
+{% file src="../.gitbook/assets/230425_Introduction to TensorFlow Part-I.pdf" %}
 Slides from Week 2
 {% endfile %}
 
@@ -18,3 +18,7 @@ Slides from Week 2
 
 * complete week 3 and week 4 of the course [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/), including the provided assignments.
 * think about project ideas to present them in class.
+* Complete the two assignments in the following notebooks:
+  * Assignment Notebook 1
+  * Assignment Notebook 2
+
