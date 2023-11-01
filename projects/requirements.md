@@ -1,10 +1,10 @@
-# How to Start and Submit
+# How to Start, Complete, and Submit Your Project
 
 **In order to receive ECTS** for a course you have to **complete a machine learning project in a team** with a maximum of 4 participants and miss less than 2 sessions of the course.
 
 Unless your course instructor explicitly advises you differently, you must document and submit your project using the general project template repository.
 
-## **Always** start your project as follows:
+## Starting Your Project
 
 1. **Navigate to the** [**Template Repository**](https://github.com/opencampus-sh/ml-project-template)
 2.  **Use this Template**: Above the file list, click the "Use this template" button.
@@ -14,7 +14,11 @@ Unless your course instructor explicitly advises you differently, you must docum
 4. **Create Repository**: Click "Create repository from template" to create the new repository.
 5. **Clone the New Repository**: You can now clone the new repository to your local machine using `git clone` and start working on your project.
 
-## **Always** submit your project as follows:
+## Working on Your Project
+
+Follow the `INSTRUCTIONS` file in each folder of the template repository to complete each section of your project.
+
+## Submitting Your Project
 
 **Note**: Only ONE team member needs to submit the project.
 
