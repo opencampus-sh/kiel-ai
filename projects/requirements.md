@@ -1,14 +1,12 @@
 # How to Start and Submit
 
-
-
 **In order to receive ECTS** for a course you have to **complete a machine learning project in a team** with a maximum of 4 participants and miss less than 2 sessions of the course.
 
 Unless your course instructor explicitly advises you differently, you must document and submit your project using the general project template repository.
 
 ## **Always** start your project as follows:
 
-1. **Navigate to the [Template Repository](https://github.com/opencampus-sh/ml-project-template)**
+1. **Navigate to the** [**Template Repository**](https://github.com/opencampus-sh/ml-project-template)
 2.  **Use this Template**: Above the file list, click the "Use this template" button.
 
     ![Use this template button](https://docs.github.com/assets/images/help/repository/use-this-template-button.png)
@@ -16,36 +14,19 @@ Unless your course instructor explicitly advises you differently, you must docum
 4. **Create Repository**: Click "Create repository from template" to create the new repository.
 5. **Clone the New Repository**: You can now clone the new repository to your local machine using `git clone` and start working on your project.
 
+## **Always** submit your project as follows:
 
+**Note**: Only ONE team member needs to submit the project.
 
-The requirements are:
+1. **Slides**: Create your presentation slides. Save them in `4_Presentation` as a PowerPoint, Google Slides, or PDF file.
+2. **Cover Image**: Replace the placeholder image in `CoverImage` with an image from your slides.
+3. **README**: Update the main README with project details.
+4. **Link to Slides**: Modify the link in the README of the folder `04_presentation` according to the file name of your presentation slides.
+5. **edu.opencampus.sh Submission**:
+   * Log in at [edu.opencampus.sh](https://edu.opencampus.sh).
+   * Navigate to your course and go to the 'achievements' section.
+   * Select your project title and download possible project specific documentation instructions.
+   * Upload the main README via the upload dialog.
+   * Include co-authors in the upload dialog as applicable.
 
-1. The Code, which should include
-   * the python code (notebook .ipynb or .py are accepted)
-   * comments to make the code clear and readable
-   * the definition of the environment (dependencies)
-   * text explaining the project divided in sections (Introduction, Data and Methods, Results, Baseline)
-2. The project has to be presented in class during the last sessions. \
-   This can be done during the class or a short video can be recorded. For example, a screen recording of the notebook with an explanation of the project, the code and the results would work.\
-   The length of the presentation and/or the video will be discussed in each course, it usually is around 15 minutes.
-
-{% hint style="success" %}
-If you do not specify anything, we will release the code in our repository alongside with the other projects. If you want, you can add a statement that the code is released as open source software and a license which explains how the code can be re-used. \
-The data you use in your project can remain private if you wish.
-{% endhint %}
-
-Details about the requirements of the project will also be discussed in the course.&#x20;
-
-{% hint style="warning" %}
-Please ask your course instructor if something is unclear, preferably **before** you start the project.
-{% endhint %}
-
-#### Ready to start the project? Check out the Project Template Page or the Possible Projects!
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="possible-projects.md" %}
-[possible-projects.md](possible-projects.md)
-{% endcontent-ref %}
+**Deadline**: All submissions will be reviewed post-deadline and certificates will be issued accordingly.
