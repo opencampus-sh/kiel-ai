@@ -8,7 +8,7 @@ Unless your course instructor explicitly advises you differently, you must docum
 
 ## **Always** start your project as follows:
 
-1. **Navigate to the Template Repository**
+1. **Navigate to the [Template Repository](https://github.com/opencampus-sh/ml-project-template)**
 2.  **Use this Template**: Above the file list, click the "Use this template" button.
 
     ![Use this template button](https://docs.github.com/assets/images/help/repository/use-this-template-button.png)
