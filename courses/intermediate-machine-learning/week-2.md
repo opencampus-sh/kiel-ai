@@ -35,6 +35,12 @@ Do Week 2 of the Coursera Course
 The notebook from the Coursera Course of Week 2 can be accessed here:
 
 {% embed url="https://colab.research.google.com/drive/1Wpr2Zn63BFz4Fy7ViooR_K0mpJkcH9jI?usp=sharing" %}
+The first notebook
+{% endembed %}
+
+{% embed url="https://colab.research.google.com/drive/1Nw_3JZJe-SqB9EWZzxnLM2pet9xnQmmY?usp=sharing" %}
+The assignment notebook
+{% endembed %}
 
 The redundancy between our notebooks and the Coursera notebooks is desired to reintroduce the concepts in a different way and hence enrich your learning experience!
 
