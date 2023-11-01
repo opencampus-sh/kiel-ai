@@ -1,10 +1,12 @@
 ---
 description: >-
-  Watch the fourth playlist which was recommended. Try to answer the homework
-  problems.
+  Watch the fourth playlist which was recommended. Try to answer/prepare the
+  homework problems.
 ---
 
 # Week 4 - Towards multidimensional settings: SARIMAX + VAR-models
+
+{% embed url="https://www.youtube.com/watch?v=ZoJ2OctrFLA&list=PLvcbYUQ5t0UHOLnBzl46_Q6QKtFgfMGc3" %}
 
 Continue working on your semester project !!!
 

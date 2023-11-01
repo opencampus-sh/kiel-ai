@@ -1,7 +1,7 @@
 ---
 description: >-
-  Watch the GARCH playlist which was recommended. Try to answer the homework
-  problems.
+  Watch the GARCH playlist which was recommended. Try to answer/prepare the
+  homework problems.
 ---
 
 # Week 5 - Extended model classes: GARCH + DCC-GARCH + GARCH-Copula-models

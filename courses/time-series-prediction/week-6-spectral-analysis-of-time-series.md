@@ -1,7 +1,7 @@
 ---
 description: >-
-  Watch the spectral analysis playlist which was recommended. Try to answer the
-  homework problems.
+  Watch the spectral analysis playlist which was recommended. Try to
+  answer/prepare the homework problems.
 ---
 
 # Week 6 - Spectral Analysis of Time Series

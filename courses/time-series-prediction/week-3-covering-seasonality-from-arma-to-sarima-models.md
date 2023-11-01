@@ -1,10 +1,12 @@
 ---
 description: >-
-  Watch the third playlist which was recommended. Try to answer the homework
-  problems.
+  Watch the third playlist which was recommended. Try to answer/prepare the
+  homework problems.
 ---
 
 # Week 3 - Covering seasonality: From ARMA to SARIMA-models
+
+{% embed url="https://www.youtube.com/watch?v=k9jOeUKRGSs&list=PLtIY5kwXKny91_IbkqcIXuv6t1prQwFhO&index=3" %}
 
 Work on your semester project !!!
 
