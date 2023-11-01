@@ -32,8 +32,7 @@
   * [Week 7 - Natural Language Processing, Part II](machine-learning-with-tensorflow/week-7-natural-language-processing-part-ii.md)
   * [Week 8 - Sequences, Time Series and Prediction, Part I](machine-learning-with-tensorflow/week-8-sequences-time-series-and-prediction-part-i.md)
   * [Week 9 - Sequences, Time Series and Prediction, Part II](machine-learning-with-tensorflow/week-9-sequences-time-series-and-prediction-part-ii.md)
-  * [Week 10 - Special Issues Considering Your Final Projects](machine-learning-with-tensorflow/week-10-special-issues-considering-your-final-projects.md)
-  * [Week 11 - Presentation of the Final Projects](machine-learning-with-tensorflow/week-11-presentation-of-the-final-projects.md)
+  * [Week 10 & 11 - Presentation of the Final Projects](machine-learning-with-tensorflow/week-11-presentation-of-the-final-projects.md)
 * [Intermediate Machine Learning](courses/intermediate-machine-learning.md)
   * [Hello and welcome😊](courses/intermediate-machine-learning/hello-and-welcome.md)
   * [Prequisites](courses/intermediate-machine-learning/prequisites.md)
@@ -173,6 +172,7 @@
     * [31-05-2023 Model Monitoring](courses/machine-learning-operations-mlops/31-05-2023-model-monitoring.md)
     * [07-06-2023 Project Presentations](courses/machine-learning-operations-mlops/07-06-2023-project-presentations.md)
   * [Mathematik für maschinelles Lernen](courses/mathematik-fuer-maschinelles-lernen.md)
+  * [TensorFlow Course: Week 10 - Special Issues Considering Your Final Projects](courses/archive/week-10-special-issues-considering-your-final-projects.md)
 
 ## Events
 

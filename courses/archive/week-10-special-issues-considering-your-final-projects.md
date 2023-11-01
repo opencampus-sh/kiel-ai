@@ -1,4 +1,4 @@
-# Week 10 - Special Issues Considering Your Final Projects
+# TensorFlow Course: Week 10 - Special Issues Considering Your Final Projects
 
 ### This week you will...
 
@@ -7,16 +7,16 @@
 
 ### Learning Resources
 
-{% file src="../.gitbook/assets/210119_What's next.pdf" %}
+{% file src="../../.gitbook/assets/210119_What's next.pdf" %}
 Course Presentation
 {% endfile %}
 
 ### Until next week you should...
 
 * focus fully on your project again and prepare the project presentation for next week.
-* consider the following requirements for the final presentation shown[ here](week-11-presentation-of-the-final-projects.md).
+* consider the following requirements for the final presentation shown[ here](../../machine-learning-with-tensorflow/week-11-presentation-of-the-final-projects.md).
 
-{% content-ref url="../projects/requirements.md" %}
-[requirements.md](../projects/requirements.md)
+{% content-ref url="../../projects/requirements.md" %}
+[requirements.md](../../projects/requirements.md)
 {% endcontent-ref %}
 
