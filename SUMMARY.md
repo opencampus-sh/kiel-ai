@@ -181,7 +181,7 @@
 
 ## Projects
 
-* [How to Start and Submit a Project](projects/requirements.md)
+* [How to Start, Complete, and Submit Your Project](projects/requirements.md)
 * [Possible Projects](projects/possible-projects.md)
 * [Past Projects](projects/past-projects.md)
 

@@ -1,8 +1,10 @@
 # How to Start, Complete, and Submit Your Project
 
-**In order to receive ECTS** for a course you have to **complete a machine learning project in a team** with a maximum of 4 participants and miss less than 2 sessions of the course.
+In all Machine Learning courses you have:
 
-Unless your course instructor explicitly advises you differently, you must document and submit your project using the general project template repository.
+* to complete a machine learning project in a team of up to 4 participants,
+* attend at least all but 2 sessions of the course, and
+* use the provided project template repository for documentation (unless otherwise instructed).
 
 ## Starting Your Project
 
@@ -25,7 +27,7 @@ Follow the `INSTRUCTIONS` file in each folder of the template repository to comp
 1. **Slides**: Create your presentation slides. Save them in `4_Presentation` as a PowerPoint, Google Slides, or PDF file.
 2. **Cover Image**: Replace the placeholder image in `CoverImage` with an image from your slides.
 3. **README**: Update the main README with project details.
-4. **Link to Slides**: Modify the link in the README of the folder `04_presentation` according to the file name of your presentation slides.
+4. **Link to Slides**: Modify the link in the README of the folder `04_presentation` according to the file name including your presentation slides.
 5. **edu.opencampus.sh Submission**:
    * Log in at [edu.opencampus.sh](https://edu.opencampus.sh).
    * Navigate to your course and go to the 'achievements' section.
@@ -33,4 +35,4 @@ Follow the `INSTRUCTIONS` file in each folder of the template repository to comp
    * Upload the main README via the upload dialog.
    * Include co-authors in the upload dialog as applicable.
 
-**Deadline**: All submissions will be reviewed post-deadline and certificates will be issued accordingly.
+**Deadline**: All submissions will be reviewed after the deadline and certificates will be issued accordingly.
