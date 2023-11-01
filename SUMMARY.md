@@ -62,7 +62,7 @@
   * [Week 6 - Spectral Analysis of Time Series](courses/time-series-prediction/week-6-spectral-analysis-of-time-series.md)
   * [Week 7 - Milestone Meeting](courses/time-series-prediction/week-7-milestone-meeting.md)
   * [Week 8 - Supervised Learning I: Trees + Random Forests + Boosting](courses/time-series-prediction/week-8-supervised-learning-i-trees-+-random-forests-+-boosting.md)
-  * [Week 9 - Supervised  Learning II: XGBoost + LightGBM + CatBoost](courses/time-series-prediction/week-9-supervised-learning-ii-xgboost-+-lightgbm-+-catboost.md)
+  * [Week 9 - Supervised Learning II: XGBoost + LightGBM + CatBoost](courses/time-series-prediction/week-9-supervised-learning-ii-xgboost-+-lightgbm-+-catboost.md)
   * [Week 10 - Neural Networks for Sequences: RNNs + GRUs + LSTMs](courses/time-series-prediction/week-10-neural-networks-for-sequences-rnns-+-grus-+-lstms.md)
   * [Week 11 - Prophet(Facebook) + DeepAR/DeepGPVAR(Amazon)](courses/time-series-prediction/week-11-prophet-facebook-+-deepar-deepgpvar-amazon.md)
   * [Week 12 - Transformers + TFTs](courses/time-series-prediction/week-12-transformers-+-tfts.md)
@@ -181,7 +181,7 @@
 
 ## Projects
 
-* [How to Start and Submit](projects/requirements.md)
+* [How to Start and Submit a Project](projects/requirements.md)
 * [Possible Projects](projects/possible-projects.md)
 * [Past Projects](projects/past-projects.md)
 
