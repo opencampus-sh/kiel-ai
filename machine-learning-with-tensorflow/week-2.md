@@ -18,7 +18,7 @@ Slides from Week 2
 
 * think about project ideas to present them in class.
 * complete week 3 and week 4 of the course [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/).
-* Complete the two assignments in the following notebooks:
+* complete the two assignments in the following notebooks:
   * [Assignment Notebook 1](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-02/Week2\_Notebook1\_Cats\_and\_Dogs.ipynb)
   * [Assignment Notebook 2](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-02/Week2\_Notebook2\_CIFAR-10.ipynb)
 
