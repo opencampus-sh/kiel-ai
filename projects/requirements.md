@@ -1,15 +1,22 @@
-# Requirements
+# How to Start and Submit
 
 
 
 **In order to receive ECTS** for a course you have to **complete a machine learning project in a team** with a maximum of 4 participants and miss less than 2 sessions of the course.
 
-Usually the project starts in the middle of the course, the exact date may depends on the course. It will be discussed in the first sessions
+Unless your course instructor explicitly advises you differently, you must document and submit your project using the general project template repository.
 
-{% hint style="info" %}
-This is a general page. Projects may varies slightly in each course. \
-If your course instructor is giving you different information, please follow those.
-{% endhint %}
+## **Always** start your project as follows:
+
+1. **Navigate to the Template Repository**
+2.  **Use this Template**: Above the file list, click the "Use this template" button.
+
+    ![Use this template button](https://docs.github.com/assets/images/help/repository/use-this-template-button.png)
+3. **Create Repository from Template**: You'll be prompted to name your new repository and you can choose whether it should be public or private. You'll also have the option to include all branches in the template repository, if there are more than one.
+4. **Create Repository**: Click "Create repository from template" to create the new repository.
+5. **Clone the New Repository**: You can now clone the new repository to your local machine using `git clone` and start working on your project.
+
+
 
 The requirements are:
 
@@ -35,8 +42,8 @@ Please ask your course instructor if something is unclear, preferably **before**
 
 #### Ready to start the project? Check out the Project Template Page or the Possible Projects!
 
-{% content-ref url="project-template.md" %}
-[project-template.md](project-template.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="possible-projects.md" %}

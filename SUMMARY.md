@@ -181,10 +181,9 @@
 
 ## Projects
 
-* [Requirements](projects/requirements.md)
+* [How to Start and Submit](projects/requirements.md)
 * [Possible Projects](projects/possible-projects.md)
 * [Past Projects](projects/past-projects.md)
-* [Project Template](projects/project-template.md)
 
 ## Additional Resourses
 
