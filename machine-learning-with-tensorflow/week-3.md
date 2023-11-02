@@ -13,4 +13,6 @@
 
 * complete week 1 and week 2 of the course [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow), including the provided assignments
 * post a concrete project idea in the course channel of the chat.
+* complete the assignment in the following notebook:
+  * tba
 
