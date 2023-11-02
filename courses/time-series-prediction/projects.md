@@ -10,6 +10,10 @@ For the semester project - you can bring your own data - we will discuss this in
 FINANCE
 {% endembed %}
 
+{% embed url="https://github.com/mortada/fredapi" %}
+ECONOMICS
+{% endembed %}
+
 {% embed url="https://www.energy-charts.info/charts/power/chart.htm?l=de&c=DE&source=total&interval=month" %}
 ENERGY
 {% endembed %}
