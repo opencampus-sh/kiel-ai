@@ -11,8 +11,10 @@
 
 ### Learning Resources
 
-* ...
+* [Stanford Lecture on transformers](https://www.youtube.com/watch?v=yqV\_YfBBtK0\&list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp\&index=7)
+* [Rasa series](https://www.youtube.com/watch?v=yGTUuEx3GkA) on Attention
 
 ### Until next week you should...
 
-* [x] ...
+* [ ] Create a ChatGPT account if you don´t already have one
+* [ ] Complete [week 1](https://www.coursera.org/learn/generative-ai-with-llms) of the LLM Coursera course (Audit Mode)
