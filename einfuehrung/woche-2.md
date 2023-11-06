@@ -4,6 +4,7 @@
 
 folgende Themen behandeln:
 
+* KI-unterstützte Programmierung
 * Darstellung von unterschiedlichen Datenstrukturen&#x20;
 * Besprechung der Übungsaufgaben der vergangenen Woche
 * Import von Daten
