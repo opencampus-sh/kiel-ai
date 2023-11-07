@@ -6,10 +6,12 @@
 
 ### Overview session topics
 
-* System prompts
-* One-shot prompting
-* Few-shot prompting
+* LLMs & prompt engineering
 * Prompt hubs
+* the Anatomy of an app
+* project ideas
+
+
 
 
 
@@ -26,4 +28,5 @@
 
 ### Homework
 
-*
+* Watch the short course “[LangChain for LLM Application Development](https://learn.deeplearning.ai/langchain/lesson/1/introduction)” from Deeplearning.AI
+* Work through the Jupyter notebook “[HomeworkChains](https://colab.research.google.com/drive/1XcJ2VyTnxxk\_1fngRXcHSg6YJq39bjnm?usp=sharing)”
