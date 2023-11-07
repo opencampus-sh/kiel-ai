@@ -6,7 +6,7 @@ Please to do until the next session:
 
 {% embed url="https://cs50.harvard.edu/python/2022/weeks/1/" %}
 
-For the best learning experience, it's recommended to watch the 2-hour lecture twice: first for a quick overview, and then more slowly while taking notes. Please ensure you allocate sufficient time for this.
+For the best learning experience, it's recommended to watch the 1-hour lecture twice: first for a quick overview, and then more slowly while taking notes. Please ensure you allocate sufficient time for this.
 
 * **Work through the following homework assignment**
   * [**https://colab.research.google.com/drive/1HVemFckA3FqYe3DdirA3tYJYTx5\_Pvga**](https://colab.research.google.com/drive/1HVemFckA3FqYe3DdirA3tYJYTx5\_Pvga)
