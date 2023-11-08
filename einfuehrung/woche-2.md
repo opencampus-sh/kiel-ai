@@ -37,6 +37,8 @@ folgende Themen behandeln:
 
 * [x] Fügt in einem zweiten Schritt zusätzlich Konfidenzintervalle der Umsätze je Wochentag hinzu. Lese Dir dazu das in der [R Graph Gallery („barplot with error bars“)](https://www.r-graph-gallery.com/4-barplot-with-error-bar.html) dargestellte Vorgehen durch und passe es auf den Datensatz mit den Umsatzdaten an.\
 
+* [x] Ordne die Wochentage in der Abbildung von Montag bis Sonntag\
+
 * [x] Als zusätzliche (optionale) Aufgabe könnt Ihr versuchen, die Umsätze je Wochentag getrennt nach Warengruppe darzustellen (ein eigenes Balkendiagramm je Warengruppe), um einen genaueren Einblick in die Daten zu erhalten.\
 
 *   [x] Installiert bitte die Versionierungssoftware "git" auf Eurem Rechner: [https://git-scm.com/downloads](https://git-scm.com/downloads)\
