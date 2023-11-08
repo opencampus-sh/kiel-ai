@@ -42,6 +42,8 @@ TRAFFIC
 SPATIAL
 {% endembed %}
 
+{% embed url="https://www.zooniverse.org/projects/rsengar/pulsar-seekers" %}
+
 Check out these frameworks:
 
 {% embed url="https://pytorch-forecasting.readthedocs.io/en/stable/" %}
