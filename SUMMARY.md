@@ -79,7 +79,7 @@
     * [Chain of Thought](courses/deep-dive-into-llms/week-4-prompt-engineering/chain-of-thought.md)
     * [TELeR: A General Taxonomy of LLM Prompts for Benchmarking Complex Tasks](courses/deep-dive-into-llms/week-4-prompt-engineering/framework-of-prompting-of-complex-tasks.md)
     * [More techniques](courses/deep-dive-into-llms/week-4-prompt-engineering/more-techniques.md)
-  * [Week 5 - Agents](courses/deep-dive-into-llms/week-5-agents.md)
+  * [Week 5 - RAG and Agents](courses/deep-dive-into-llms/week-5-agents.md)
   * [Week 6 - Model Evaluation](courses/deep-dive-into-llms/week-6-model-evaluation.md)
   * [Week 7 - Fine-Tuning I](courses/deep-dive-into-llms/week-7-fine-tuning-i.md)
   * [Week 8 - Fine-Tuning II](courses/deep-dive-into-llms/week-8-fine-tuning-ii.md)
