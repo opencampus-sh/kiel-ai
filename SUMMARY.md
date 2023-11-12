@@ -77,7 +77,7 @@
   * [Week 3 - Introduction to Transformers](courses/deep-dive-into-llms/week-3-token-and-embeddings-revisited.md)
   * [Week 4 - Prompt Engineering](courses/deep-dive-into-llms/week-4-prompt-engineering/README.md)
     * [Chain of Thought](courses/deep-dive-into-llms/week-4-prompt-engineering/chain-of-thought.md)
-    * [Framework of Prompting of Complex Tasks](courses/deep-dive-into-llms/week-4-prompt-engineering/framework-of-prompting-of-complex-tasks.md)
+    * [TELeR: A General Taxonomy of LLM Prompts for Benchmarking Complex Tasks](courses/deep-dive-into-llms/week-4-prompt-engineering/framework-of-prompting-of-complex-tasks.md)
     * [More techniques](courses/deep-dive-into-llms/week-4-prompt-engineering/more-techniques.md)
   * [Week 5 - Agents](courses/deep-dive-into-llms/week-5-agents.md)
   * [Week 6 - Model Evaluation](courses/deep-dive-into-llms/week-6-model-evaluation.md)

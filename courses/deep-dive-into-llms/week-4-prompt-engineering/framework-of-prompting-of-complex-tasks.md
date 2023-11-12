@@ -1,3 +1,7 @@
-# Framework of Prompting of Complex Tasks
+# TELeR: A General Taxonomy of LLM Prompts for Benchmarking Complex Tasks
 
-In one interesting paper the authors emphasize the importance of a standardized taxonomy for LLM prompts targeted towards solving complex tasks and, subsequently, provide such a taxonomy, i.e., TELeR, which can be utilized by multiple independent researchers who are conducting such research studies in order to report their results using a single unified standard. We urge the community to use the TELeR taxonomy extensively, where different study groups will report the specific categories of prompts they designed according to this taxonomy, enabling meaningful comparisons and, thereby, facilitating the drawing of more accurate conclusions from multiple independent studies. This common standard will also help establish a common consensus on the state-of-the-art LLM performance for complex tasks.
+In one interesting paper the authors emphasize the importance of a standardized taxonomy for LLM prompts targeted towards solving complex tasks and, subsequently, provide such a taxonomy, i.e., TELeR, which can be utilized by multiple independent researchers who are conducting such research studies in order to report their results using a single unified standard.&#x20;
+
+As developers we can look at the best level (i.e. level 6) and use all the listed promt details for our prompts we design for our task.
+
+<figure><img src="../../../.gitbook/assets/grafik.png" alt=""><figcaption><p>Image Source: Santu et al. (2023)</p></figcaption></figure>
