@@ -1,8 +1,34 @@
 # Week 4 - Prompt Engineering
 
-**Prompt engineering** is a relatively new discipline for developing and optimizing prompts(aka the text input) to _**efficiently**_ use language models (LMs) for a wide variety of applications and research topics. Prompt engineering skills help to better understand the capabilities and limitations of large language models (LLMs). Researchers use prompt engineering to improve the capacity of LLMs on a wide range of common and complex tasks such as question answering and arithmetic reasoning. Developers use prompt engineering to design robust and effective prompting techniques that interface with LLMs and other tools.
 
-Another explanation is that Prompt Engineering, also known as **In-Context Prompting**, refers to methods for how to communicate with LLM to steer its behavior for desired outcomes _without_ updating the model weights. It is an empirical science and the effect of prompt engineering methods can vary a lot among models, thus requiring heavy experimentation and heuristics.
+
+### This week you will...
+
+* Master Prompt Engineering
+* Familiarize yourself with different prompting frameworks
+
+### Slides
+
+
+
+### Until next week you should...
+
+* Go through the learning material below
+* Apply and try the learned prompt engineering techniques on your project and report on your findings in the next session
+
+
+
+### Learning Resources
+
+**Prompt engineering** is a relatively new discipline for developing and optimizing prompts(a.k.a the text inputs) **to get the best out** of large language models (LLMs) for a wide variety of tasks. This means that we manipulate the text input to the model with the goal to get the best or most desired output out of the model.
+
+Prompt engineering skills generally help us to better understand the capabilities and limitations of LLMs just as they are very valuable to improve the capacity of LLMs on a wide range of common and complex tasks such as question answering and arithmetic reasoning.&#x20;
+
+We can also look at it, that Prompt Engineering is referring to methods on how to communicate with the LLM to steer its behavior towards desired outcomes. One key point of prompt engineering methods is that they don't touch/change the model weights. **So the LLM is completely frozen and the only change is happening in the input values - the prompts.**
+
+Prompt engineering is a very empirical science and the effect of specific prompt engineering methods can vary a lot among models, thus requiring heavy experimentation and heuristics.
+
+We will now look at different prompt engineering methods..
 
 ## Basic Prompting <a href="#basic-prompting" id="basic-prompting"></a>
 
@@ -10,9 +36,9 @@ Zero-shot and few-shot learning are two most basic approaches for prompting the 
 
 ### Zero-Shot <a href="#zero-shot" id="zero-shot"></a>
 
-**Zero-shot learning** is to simply feed the task text to the model and ask for results.
+**Zero-shot learning** is to simply feed the task text to the model and ask for the result.
 
-Prompt
+Prompt:
 
 ```
 Classify the text into neutral, negative or positive. 
@@ -21,19 +47,19 @@ Text: I think this course is amazing.
 Sentiment:
 ```
 
-Output
+Output:
 
 ```
 positive
 ```
 
-As you see for sophisticated LLMs this is already enough to achieve the aim
+As you see for sophisticated LLMs and easy enough tasks this is already enough to achieve the aim.
 
 ### Few-shot <a href="#few-shot" id="few-shot"></a>
 
-**Few-shot learning** presents a set of high-quality demonstrations, each consisting of both input and desired output, on the target task. As the model first sees good examples, it can better understand human intention and criteria for what kinds of answers are wanted. Therefore, few-shot learning often leads to better performance than zero-shot. However, it comes at the cost of more token consumption and may hit the context length limit when input and output text are long.
+**Few-shot learning** presents a set of demonstrations, each consisting of both input and desired output, on the target task. Normally they are high quality examples. As the model first sees good examples, it can better understand human intention and criteria for what kinds of answers are expected. Therefore, few-shot learning often leads to better performance than zero-shot. However, it comes at the cost of more token consumption.
 
-Prompt
+Prompt:
 
 ```
 A "whatpu" is a small, furry animal native to Tanzania. An example of a sentence that uses
@@ -43,7 +69,7 @@ To do a "farduddle" means to jump up and down really fast. An example of a sente
 the word farduddle is:
 ```
 
-Output
+Output\_
 
 ```
 When we won the game, we all started to farduddle in celebration.
