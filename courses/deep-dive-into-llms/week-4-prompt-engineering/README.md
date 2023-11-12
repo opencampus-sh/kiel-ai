@@ -75,11 +75,9 @@ Output\_
 When we won the game, we all started to farduddle in celebration.
 ```
 
-Many studies looked into how to construct in-context examples to maximize the performance and observed that **choice of prompt format, training examples, and the order of the examples can lead to dramatically different performance**, from near random guess to near SoTA.
 
 
-
-
+For further improvements we first have to understand which are the elements of a prompt.&#x20;
 
 ## Elements of a Prompt
 
@@ -95,14 +93,23 @@ A prompt contains any of the following elements:
 
 You do not need all the four elements for a prompt and the format depends on the task at hand.
 
-## Instruction Prompting <a href="#instruction-prompting" id="instruction-prompting"></a>
+### **Best Practices**
 
-The purpose of presenting few-shot examples in the prompt is to explain our intent to the model; in other words, describe the task instruction to the model in the form of demonstrations. However, few-shot can be expensive in terms of token usage and restricts the input length due to limited context length. So, why not just give the instruction directly? We can design effective prompts for various simple tasks by using commands to instruct the model what you want to achieve, such as "Write", "Classify", "Summarize", "Translate", "Order", etc.
+Usually, the more specific and relevant the context is to the task we are trying to perform, the better.
 
-Usually, the more specific and relevant the context is to the task you are trying to perform, the better.
+We should be very specific about the instruction and task we want the model to perform. The more descriptive and detailed the prompt is, the better the results. This is particularly important when we have a desired outcome or style of generation we are seeking. There aren't specific tokens or keywords that lead to better results. It's more important to have a good format and descriptive prompt. In fact, providing examples in the prompt is very effective to get desired output in specific formats.
 
-Be very specific about the instruction and task you want the model to perform. The more descriptive and detailed the prompt is, the better the results. This is particularly important when you have a desired outcome or style of generation you are seeking. There aren't specific tokens or keywords that lead to better results. It's more important to have a good format and descriptive prompt. In fact, providing examples in the prompt is very effective to get desired output in specific formats.
+Here a the golden 6 bullet points for good prompting:
 
+1. Write as clearly and precisely as possible.
+2. Provide as much context as possible/necessary.
+3. Really use ChatGPT as a chat interaction.
+4. Iterate until you are satisfied with the results.
+5. Break down the task into individual steps.
+6. Provide examples.
 
+Next we will go to see specific prompting frameworks which increase the outputs especially for more complex tasks even more.
+
+Ressources:
 
 [https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
