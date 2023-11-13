@@ -43,6 +43,8 @@ SPATIAL
 {% endembed %}
 
 {% embed url="https://www.zooniverse.org/projects/rsengar/pulsar-seekers" %}
+ASTRO
+{% endembed %}
 
 Check out these frameworks:
 
