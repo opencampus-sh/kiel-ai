@@ -4,11 +4,11 @@ description: >-
   to answer/prepare the homework problems.
 ---
 
-# Week 9 - Supervised  Learning II: XGBoost + LightGBM + CatBoost
+# Week 9 - Supervised Learning II: XGBoost + LightGBM + CatBoost
 
 Finalize your semester project !!!
 
-{% embed url="https://www.youtube.com/watch?v=OtD8wVaFm6E&list=PLblh5JKOoLULU0irPgs1SnKO6wqVjKUsQ" %}
+{% embed url="https://www.youtube.com/playlist?list=PLblh5JKOoLULU0irPgs1SnKO6wqVjKUsQ" %}
 
 {% embed url="https://www.youtube.com/watch?v=KXOTSkPL2X4" %}
 
