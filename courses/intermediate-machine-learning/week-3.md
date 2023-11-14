@@ -6,6 +6,10 @@ description: Learning and testing - a.k.a. don't do Bullshit Machine Learning
 
 ## Course session
 
+{% embed url="https://drive.google.com/file/d/18VsrKSqNFaWeWsL24ULFrNnwpghpdwJZ/view?usp=sharing" %}
+
+[**https://drive.google.com/file/d/18VsrKSqNFaWeWsL24ULFrNnwpghpdwJZ/view?usp=sharing**](https://drive.google.com/file/d/18VsrKSqNFaWeWsL24ULFrNnwpghpdwJZ/view?usp=sharing)
+
 **Kaggle**&#x20;
 
 * Introduction
