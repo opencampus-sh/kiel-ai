@@ -99,7 +99,7 @@
   * [Course Info](courses/python-from-beginner-to-practictioner/course-info.md)
   * [Week 1](courses/python-from-beginner-to-practictioner/week-1.md)
   * [Week 2](courses/python-from-beginner-to-practictioner/week-2.md)
-  * [Week 3](courses/python-from-beginner-to-practictioner/week-2-1.md)
+  * [Week 3](courses/python-from-beginner-to-practictioner/week-3.md)
 * [Archive](courses/archive/README.md)
   * [Deep Learning from Scratch](deep-learning/README.md)
     * [Requirements for a Certificate of Achievement or ECTS](deep-learning/requirements-for-a-certificate-of-achievement-or-ects.md)
