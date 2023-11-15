@@ -54,4 +54,4 @@ Die Aufgaben sind noch einmal recht arbeitsintensiv, daher fangt am besten recht
 
 ![Auswählen der Einstellungen für die Versionierung des aktuellen Projektes](<../.gitbook/assets/Selection of Version Control.png>)
 
-![Auswählen der Software für die Versionierung des aktuellen Projektes](<../.gitbook/assets/grafik (1) (1) (1).png>)
+![Auswählen der Software für die Versionierung des aktuellen Projektes](<../.gitbook/assets/grafik (1) (1) (1) (1).png>)

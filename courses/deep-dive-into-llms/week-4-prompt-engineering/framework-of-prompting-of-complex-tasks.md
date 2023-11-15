@@ -4,4 +4,4 @@ In one interesting paper the authors emphasize the importance of a standardized 
 
 As developers we can look at the best level (i.e. level 6) and use all the listed promt details for our prompts we design for our task.
 
-<figure><img src="../../../.gitbook/assets/grafik.png" alt=""><figcaption><p>Image Source: Santu et al. (2023)</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/grafik (1).png" alt=""><figcaption><p>Image Source: Santu et al. (2023)</p></figcaption></figure>
