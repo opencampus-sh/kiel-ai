@@ -11,7 +11,7 @@ folgende Themen behandeln:
 
 ### Lernressourcen
 
-{% file src="../.gitbook/assets/230502_Einführung git und Datenaufbereitung.pdf" %}
+{% file src="../.gitbook/assets/231114_Einführung git und Datenaufbereitung.pdf" %}
 
 * [R-Notebook](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Beispiele%20zur%20Datenaufbereitung%20aus%20Woche%203.Rmd) mit Beispielen zur Datenaufbereitung
 * Kapitel "Basic Workflow" des Kurses [Introduction to Git](https://learn.datacamp.com/courses/introduction-to-git-for-data-science) bei Datacamp.
@@ -20,9 +20,8 @@ folgende Themen behandeln:
 
 ### Bis zur nächsten Woche solltet Ihr...
 
-* [x] Führt in RStudio unten links im Fenster Terminal (_nicht verwechseln mit dem Fenster Console!_) die folgenden zwei Zeilen mit Eurem GitHub-Benutzernamen und Eurer Email-Adresse aus:\
-  git config --global user.name "your\_github\_username“\
-  git config --global user.email your\_email@example.com\
+* [x] das Package styler und installieren und Euch diesen Coding Styleguide an\
+  schauen.\
 
 * [x] Für eine genauere Einführung in die Möglichkeiten von Regular Expressions, schaut Euch bitte [dieses](https://youtu.be/DRR9fOXkfRE) Video (11 Minuten) an.\
 
