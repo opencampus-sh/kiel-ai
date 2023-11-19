@@ -18,14 +18,6 @@ Enroll and complete this course in Coursera
 Enroll and complete this course in Coursera
 {% endembed %}
 
-For the winter-term 2023/24 we use the following playlists as a starting point.
+For the winter-term 2023/24 we use YouTube playlists.
 
 Check out the more detailed playlists in each week.
-
-{% embed url="https://www.youtube.com/watch?v=Lh9LY5YoH0I&list=PLqYFiz7NM_SMC4ZgXplbreXlRY4Jf4zBP" %}
-
-{% embed url="https://www.youtube.com/watch?v=IKY_uDiSe8U&list=PL_iP0SGUzx9SvI_loo4I6orC-6o5-7hKp" %}
-
-{% embed url="https://www.youtube.com/watch?v=k9jOeUKRGSs&list=PLtIY5kwXKny91_IbkqcIXuv6t1prQwFhO&index=3" %}
-
-{% embed url="https://www.youtube.com/watch?v=ZoJ2OctrFLA&list=PLvcbYUQ5t0UHOLnBzl46_Q6QKtFgfMGc3" %}
