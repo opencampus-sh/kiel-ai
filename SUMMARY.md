@@ -65,7 +65,7 @@
   * [Week 14+](<courses/intermediate-machine-learning/week-14+ (1).md>)
 * [Time Series Prediction](courses/time-series-prediction/README.md)
   * [Requirements for a Certificate of Achievement or ECTS](courses/time-series-prediction/requirements-for-a-certificate-of-achievement-or-ects.md)
-  * [Projects](courses/time-series-prediction/projects.md)
+  * [Projects & Frameworks](courses/time-series-prediction/projects.md)
   * [Preparation / YouTube](courses/time-series-prediction/preparation-youtube.md)
   * [References / Books](courses/time-series-prediction/references-books.md)
   * [Week 1 - Intro + Organisation](courses/time-series-prediction/week-1-intro-+-organisation.md)
