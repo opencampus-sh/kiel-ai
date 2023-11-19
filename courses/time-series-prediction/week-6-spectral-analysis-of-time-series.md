@@ -22,9 +22,15 @@ The idea of spectral decomposition
 
 {% embed url="https://www.youtube.com/watch?v=sa7E9qUHYXw" %}
 
-OPTIONAL:
+
+
+{% embed url="https://www.youtube.com/watch?v=jnxqHcObNK4" %}
+
+
 
 {% embed url="https://www.youtube.com/watch?v=Prpu_U5tKkE" %}
+
+OPTIONAL:
 
 {% embed url="https://www.youtube.com/playlist?list=PL6Vi_EcJpt8E96_JTKoOKY3HYWVGjf6b4" %}
 
