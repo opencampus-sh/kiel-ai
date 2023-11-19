@@ -7,12 +7,16 @@
 Please enroll/attend/complete the following Coursera MOOCs during the semester:
 
 {% embed url="https://www.coursera.org/learn/practical-time-series-analysis" %}
+Enroll and complete this course in Coursera
+{% endembed %}
 
 {% embed url="https://www.coursera.org/learn/time-series-survival-analysis" %}
 Enroll and complete this course in Coursera
 {% endembed %}
 
 {% embed url="https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction#modules" %}
+Enroll and complete this course in Coursera
+{% endembed %}
 
 For the winter-term 2023/24 we use YouTube playlists.
 
