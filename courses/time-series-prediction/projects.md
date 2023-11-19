@@ -48,6 +48,8 @@ ASTRO
 
 Check out these frameworks:
 
+{% embed url="https://pyflux.readthedocs.io/en/latest/index.html" %}
+
 {% embed url="https://pytorch-forecasting.readthedocs.io/en/stable/" %}
 
 {% embed url="https://ts.gluon.ai/stable/" %}
