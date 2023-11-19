@@ -6,7 +6,7 @@ description: >-
 
 # Week 3 - Covering seasonality: From ARMA to SARIMA-models
 
-{% embed url="https://www.youtube.com/watch?v=k9jOeUKRGSs&list=PLtIY5kwXKny91_IbkqcIXuv6t1prQwFhO&index=4" %}
+{% embed url="https://www.youtube.com/playlist?list=PLtIY5kwXKny91_IbkqcIXuv6t1prQwFhO" %}
 
 Work on your semester project !!!
 
