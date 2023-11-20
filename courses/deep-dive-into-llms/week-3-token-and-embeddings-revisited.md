@@ -3,7 +3,7 @@
 ### This week you will...
 
 * Master the basics of attention and transformers
-* Familiarize with Dvanced models
+* Familiarize with advanced models
 
 ### Slides
 
