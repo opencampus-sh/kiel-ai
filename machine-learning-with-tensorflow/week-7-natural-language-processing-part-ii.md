@@ -13,9 +13,9 @@
 
 - complete week 1 and week 2 of the course [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
 
-- complete the two assignments in the following notebooks:
+- complete the first part (Assignment in the Notebook) - the second part is for next week!
 
-  - TBD
+  - [Assignment Notebook Time-Series Forecasting](https://colab.research.google.com/github.com/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-08/Time_Series_Excersise.ipynb)
 
 - decide on a baseline model for your project according to the instructions given [here](https://github.com/opencampus-sh/ml-project-template/blob/main/2_BaselineModel/INSTRUCTIONS.md).
 
