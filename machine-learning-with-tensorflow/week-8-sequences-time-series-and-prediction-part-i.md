@@ -13,9 +13,9 @@
 
 - complete week 3 and week 4 of the course [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
 
-- complete the two assignments in the following notebooks:
+- complete the second assignment of the following notebook:
 
-  - TBD
+  - [Assignment Notebook Time-Series Forecasting](https://colab.research.google.com/github.com/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-08/Time_Series_Excersise.ipynb)
 
 - working on the definition of your project's final model(s) and their evaluation according to the instructions given [here](https://github.com/opencampus-sh/ml-project-template/blob/main/3_Model/INSTRUCTIONS.md).
 
