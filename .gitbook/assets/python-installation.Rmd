@@ -32,19 +32,19 @@ library(reticulate)
 
 
 # Importing Data
-data <- mpg
+data <- mtcars
 
 ```
 
 
 ```{python}
-year = r.data['year']
+mpg = r.data['mpg']
 
 ```
 
 
 ```{r}
-table(py$year)
+table(py$mpg)
 
 ```
 

@@ -14,7 +14,7 @@ Course Presentation
 ### Until next week you should...
 
 * focus fully on your project again and prepare the project presentation for next week.
-* consider the following requirements for the final presentation shown[ here](../../machine-learning-with-tensorflow/week-11-presentation-of-the-final-projects.md).
+* consider the following requirements for the final presentation shown[ here](../machine-learning-with-tensorflow/week-11-presentation-of-the-final-projects.md).
 
 {% content-ref url="../../projects/requirements.md" %}
 [requirements.md](../../projects/requirements.md)

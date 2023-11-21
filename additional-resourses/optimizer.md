@@ -8,7 +8,7 @@ The Blog post pasted below was published in [The Batch](https://blog.deeplearnin
 
 ## **Optimizer Shootout**
 
-![14 most popular optimizers according to arXiv mentions](<../.gitbook/assets/grafik (1) (1) (1).png>)
+![14 most popular optimizers according to arXiv mentions](<../.gitbook/assets/grafik (7).png>)
 
 Everyone has a favorite optimization method, but it’s not always clear which one works best in a given situation. New research aims to establish a set of benchmarks.\
 **What’s new:** Robin Schmidt and colleagues at University of Tübingen evaluated [14 popular optimizers](https://info.deeplearning.ai/e2t/tc/VVw5LK7jRbdyN8F-8-Sny3hcVLsY3L4fNPgqN5NMMlD3p\_8SV1-WJV7Cg-xsN9bgjR2-1xjzW7Z\_dN96gGHSVW2kj6SJ2C-Q5pW36sJnG6MFdpCW1lLJ8m8Mg-ZmW30FrkQ3zfKlSW3z5Gb83\_lChmVC3Kkf6tGjjvN19-9JVgnRYsN1FQXcsyLFCdW5ftV2N2NPdwVW3B2yYc5bbh4pW95TKsf8H48fBW3ZXzXG2rbWzYW2xWw-Q2rPcFFW93N-lC5btqv5W2pd9\_p2sc70CN2Q4Rmt5McDwW2btbl-5yl0j5W2cdl\_t94lqcNW3ryZh67WQ5zFW5DQ2Y75fXKpG3pLK1) using the [Deep Optimization Benchmark Suite](https://info.deeplearning.ai/e2t/tc/VVw5LK7jRbdyN8F-8-Sny3hcVLsY3L4fNPgqN5NMMlD3p\_8SV1-WJV7CgYQvW34DqYg1TMS0CW3ql6444fXY0CW3\_n4Bx22Wt97W7zp5GL95n8NZVyDczM1VzMhDW5R38yG4MXTpdVZBFGF8bCtXNW674skP6Bn4PZW6N465y5xzDmLVcVV596HHXSMVdM3Sc9hlTCnW5c5dJh5gKnlYW9lW0D14SMBkqVBy5WC7FDdD5W7Tlsg86MmsY3W5l1fFz1mKc4pW6L7jv15Wk7rWW1hvKCs2h8pDHW56Rcgq6T6vwrW5XgmlH4JZFbrN8R2695LtcbmW73q7Pd58f7BN3hQy1) some of them introduced last year.\
