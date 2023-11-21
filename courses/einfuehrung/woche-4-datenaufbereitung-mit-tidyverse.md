@@ -4,7 +4,7 @@
 
 folgende Themen behandeln:
 
-* Zusammenstellung der Teams für die Auswertungsprojekte
+* Ergänzung der Teams für die Auswertungsprojekte
 * Einführung in die Versionierung mit git (Teil 2)
 * Erste Arbeiten im Team
 * Aktuelle KI-Anwendungen
