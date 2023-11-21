@@ -19,6 +19,6 @@ folgende Themen behandeln:
 
 * [x] Trefft Euch einmal im Team, um neue Variablen und Ideen zur Umsatzvorhersage zu diskutieren und ggf. direkt zu erstellen.\
 
-* [x] Fügt im Verzeichnis `Data Import and Preparation` Eure Team Repositories Daten hinzu (z.B. zusätzliche heruntergeladene oder selbst erstellte Listen zu Feiertagen). Fügt ebenfalls ersten Code, der neue Variablen erstellt hinzu und erstellt den Programm-Code so, dass alle Daten in einem Datensatz zusammengeführt und gespeichert werden.\
+* [x] Fügt im Verzeichnis "Data Import and Preparation" Eures Team Repositories erste zusätzliche Daten hinzu (z.B. zusätzliche heruntergeladene oder selbst erstellte Listen zu Feiertagen). Fügt ebenfalls ersten Code, der neue Variablen erstellt hinzu und erstellt den Programm-Code so, dass alle Daten in einem Datensatz zusammengeführt und gespeichert werden.\
 
 * [x] Absolviert als Einführung zum Thema maschinelles Lernen die erste Woche des Kurses [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone) auf Coursera.
