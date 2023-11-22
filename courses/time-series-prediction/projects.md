@@ -2,7 +2,7 @@
 description: 'Here we present some potential project ideas:'
 ---
 
-# Projects
+# Projects & Frameworks
 
 For the semester project - you can bring your own data - we will discuss this in the first/second session. Nevertheless here you can find some resources to think about a potential project:
 
@@ -12,6 +12,10 @@ FINANCE
 
 {% embed url="https://github.com/mortada/fredapi" %}
 ECONOMICS
+{% endembed %}
+
+{% embed url="https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html" %}
+Economics + Finance
 {% endembed %}
 
 {% embed url="https://www.energy-charts.info/charts/power/chart.htm?l=de&c=DE&source=total&interval=month" %}
@@ -47,6 +51,10 @@ ASTRO
 {% endembed %}
 
 Check out these frameworks:
+
+{% embed url="https://www.statsmodels.org/stable/index.html" %}
+
+{% embed url="https://arch.readthedocs.io/en/latest/index.html" %}
 
 {% embed url="https://pyflux.readthedocs.io/en/latest/index.html" %}
 
