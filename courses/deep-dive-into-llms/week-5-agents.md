@@ -7,10 +7,6 @@
 * Learn about Retrieval augmented generation
 * Agents
 
-### Slides
-
-...
-
 ### Learning Resources
 
 * Watch OpenAIs Tips and Tricks on RAG and Finetuning
@@ -23,8 +19,8 @@
 
 {% embed url="https://www.youtube.com/watch?v=dgV4WFisK5Y" %}
 
-Until next week you should...
+## Until next week you should...
 
-* [x] Evaluate your Dataset for your project
-* [x] Do an EDA for your Dataset
-* [x] Prepare a presentation for the two steps above
+* [x] further investigate your dataset characteristics as described [here](https://github.com/opencampus-sh/ml-project-template/blob/main/1\_DatasetCharacteristics/INSTRUCTIONS.md).
+* [x] be prepared for a presentation of your dataset characteristics.
+* [x] do [this short course](https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/) on how to use Weights & Biases to track and evaluate your model results.
