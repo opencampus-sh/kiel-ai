@@ -6,29 +6,31 @@ description: CNNs
 
 ## Course session
 
+
+
+**Kaggle - Our first challenge: Paddy**
+
+{% embed url="https://www.kaggle.com/competitions/paddy-disease-classification/overview" %}
+
+Exploratory Data Analysis(EDA) for Paddy Disease Classification
+
+{% embed url="https://www.kaggle.com/code/henrikho/opencampus-paddy-eda" %}
+
+
+
 **Solutions exercise CNN**
 
 Presentation from the participants of the CNN assignment from Coursera
 
 
 
-**Kaggle**&#x20;
-
-* Homework presentation of Logistic Regression for Paddy Disease Classification
-
-
-
 **Walk-through**
 
-Basic CNN in PyTorch:
+PyTorchLightning
 
-{% embed url="https://www.kaggle.com/code/henrikho/opencampus-basic-cnn-in-pytorch" %}
+PyTorch 303 (Lab 03)
 
-PyTorch 404
-
-Basic CNN in PyTorchLightning:
-
-{% embed url="https://colab.research.google.com/drive/10wD5qqCmDshjcXo4p_T6MqkQIeoYHSvB?usp=sharing" %}
+{% embed url="https://colab.research.google.com/drive/1v1Ts2kC91coyZHJYicjBw7EwS5C9lD9q?usp=sharing" %}
 
 
 
@@ -36,17 +38,27 @@ Basic CNN in PyTorchLightning:
 
 😊
 
-Go for your own through the Kaggle Notebook and PyTorch404 above and try to understand and repeat the steps for your own.
+Go for your own through the Colab Notebook above (PyTorch303) and try to understand and repeat the steps for your own.
 
 Do Week 4 of the Coursera Course
 
 {% embed url="https://www.coursera.org/learn/machine-learning-duke" %}
 
+Please register at kaggle.com and join the competition. Go through the Exploratory Data Analysis Notebook session and **create your own EDA**. Here is the link to the competiton:
+
+{% embed url="https://www.kaggle.com/competitions/paddy-disease-classification/overview" %}
+
+The main objective of this Kaggle competition is to develop a machine or deep learning-based model to classify the given paddy leaf images accurately. A training dataset of 10,407 (75%) labeled images across ten classes (nine disease categories and normal leaf) is provided. Moreover, the competition host also provides additional metadata for each image, such as the paddy variety and age. Your task is to classify each paddy image in the given test dataset of 3,469 (25%) images into one of the nine disease categories or a normal leaf.
+
+So that is where we will be heading in the next sessions, trying different tools and techniques to tackle this challenge.
+
+Here again my EDA Notebook:
+
+{% embed url="https://www.kaggle.com/code/henrikho/opencampus-paddy-eda" %}
+
 😊😊
 
-Add the the test functionality and create a submission.csv and upload it to the leaderboard
+
 
 😊😊😊
-
-{% embed url="https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial5/Inception_ResNet_DenseNet.html" %}
 
