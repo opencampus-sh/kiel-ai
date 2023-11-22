@@ -44,6 +44,14 @@ Do Week 4 of the Coursera Course
 
 {% embed url="https://www.coursera.org/learn/machine-learning-duke" %}
 
+{% embed url="https://colab.research.google.com/drive/171cV9ugdH1tki0-CCXJ6YQqoxHkjvFgs?usp=sharing" %}
+First notebook
+{% endembed %}
+
+{% embed url="https://colab.research.google.com/drive/1FHLzt6z6A9CpQ1Gj69JeafjhRNP5ji1m?usp=sharing" %}
+Assignment notebook
+{% endembed %}
+
 Please register at kaggle.com and join the competition. Go through the Exploratory Data Analysis Notebook session and **create your own EDA**. Here is the link to the competiton:
 
 {% embed url="https://www.kaggle.com/competitions/paddy-disease-classification/overview" %}
