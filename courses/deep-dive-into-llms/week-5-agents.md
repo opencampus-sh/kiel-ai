@@ -23,4 +23,4 @@
 
 * [x] further investigate your dataset characteristics as described [here](https://github.com/opencampus-sh/ml-project-template/blob/main/1\_DatasetCharacteristics/INSTRUCTIONS.md).
 * [x] be prepared for a presentation of your dataset characteristics.
-* [x] do [this short course](https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/) on how to use Weights & Biases to track and evaluate your model results.
+* [x] do [this short course](https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/) by Deeplearning.AI and Weights & Biases on how to use the Weights & Biases framework to track and evaluate your model results.
