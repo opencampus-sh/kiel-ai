@@ -13,5 +13,5 @@
 
 * complete week 3 and week 4 of the course [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
 * complete the exercise assignment in [this notebook](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-06/Week6\_Notebook\_Yoda-Corpus.ipynb)
-* consider a baseline model or comparison for project according to the instructions given [here](https://github.com/opencampus-sh/ml-project-template/blob/main/1\_DatasetCharacteristics/INSTRUCTIONS.md).
+* consider a baseline model or a baseline comparison for your project task according to the instructions given [here](https://github.com/opencampus-sh/ml-project-template/blob/main/1\_DatasetCharacteristics/INSTRUCTIONS.md).
 * document your decision according to the instructions given in the link above
