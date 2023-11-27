@@ -8,7 +8,7 @@
 
 ### Learning Resources
 
-\[Slides will be added after the session.]
+{% file src="../../.gitbook/assets/231127_Model Evaluation.pdf" %}
 
 * [short course](https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/) by Deeplearning.AI and Weights & Biases on how to use the Weights & Biases framework to track and evaluate your model results
 
