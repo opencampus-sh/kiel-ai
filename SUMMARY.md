@@ -96,7 +96,7 @@
   * [Week 5 - RAG and Agents](courses/deep-dive-into-llms/week-5-agents.md)
   * [Week 6 - Model Evaluation](courses/deep-dive-into-llms/week-6-model-evaluation.md)
   * [Week 7 - Fine-Tuning I](courses/deep-dive-into-llms/week-7-fine-tuning-i.md)
-  * [Week 8 - Fine-Tuning II](courses/deep-dive-into-llms/week-8-fine-tuning-ii.md)
+  * [Week 8 - Fine-Tuning II and Model Inference](courses/deep-dive-into-llms/week-8-fine-tuning-ii.md)
   * [Week 9 - Advisory Session](courses/deep-dive-into-llms/week-9-advisory-session.md)
   * [Week 10 - Project Presentations](courses/deep-dive-into-llms/week-10-project-presentations.md)
 * [Practical Engineering with LLMs](courses/practical-engineering-with-llms/README.md)
