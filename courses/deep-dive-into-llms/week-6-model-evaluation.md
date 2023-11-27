@@ -2,9 +2,9 @@
 
 ### This week you will...
 
-* get to know Weights & Biases a popular platform to evaluate deep learning models
-* understand different evaluation metrics
-* get a high level introduction into training LLMs
+* get to know Weights & Biases a popular platform to evaluate deep learning models.
+* understand different evaluation metrics.
+* get a high level introduction into training LLMs.
 
 ### Slides
 
