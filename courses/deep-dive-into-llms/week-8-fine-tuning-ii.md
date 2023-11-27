@@ -6,13 +6,11 @@
 * gain comprehensive insights into the key hyperparameters for effective model inference.
 * discover the unique attributes of inference processes for streaming Large Language Models (LLMs).
 
-### Slides
-
-\[Will be added after the session.]
-
 ### Learning Resources
 
-* ...
+\[Slides Will be added after the session.]
+
+*
 
 ### Until next week you should...
 
