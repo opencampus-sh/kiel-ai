@@ -16,4 +16,4 @@
 
 * [x] watch [this video](https://youtu.be/-RPeakdlHYo) on data collators.
 * [x] work through the section [Training a causal language model from scratch](https://huggingface.co/learn/nlp-course/en/chapter7/6) from the Hugging Face NLP course (do not change to the TensorFlow version of the site).
-* [x] Decide on a baseline model and add a short description of your approach in the corresponding section your project repository.
+* [x] Decide on a baseline model and add a short description of your approach in the corresponding section of your project repository.
