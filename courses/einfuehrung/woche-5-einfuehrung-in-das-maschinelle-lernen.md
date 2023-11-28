@@ -11,7 +11,7 @@ folgende Themen behandeln:
 
 ### Lernressourcen
 
-{% file src="../.gitbook/assets/230516_Intro ML und Linear Regression (2).pdf" %}
+{% file src="../../.gitbook/assets/230526_Intro ML und Linear Regression.pdf" %}
 
 * [Grafisches Tool](https://playground.tensorflow.org/) zur Definition und Schätzung von Neuronalen Netzen für unterschiedliche Beispieldatensätze
 * [DataCamp Tutorial](https://www.datacamp.com/community/tutorials/linear-regression-R) zur Linearen Modellierung in R
@@ -21,9 +21,9 @@ folgende Themen behandeln:
 
 * [x] Euren Datensatz weiter um zusätzliche Variablen ergänzen, die für die Schätzung des Umsatzes relevant sein könnten.\
 
-* [x] Einmal [dieses](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Woche%206/python-installation.Rmd) R-Script durchlaufen lassen, um Python (bzw. Miniconda) mit verschiedenen zusätzlichen Funktionspaketen zu installieren.\
+* [x] Euch einen Account bei [Kaggle](https://www.kaggle.com/) erstellen.\
 
-* [x] Euren Datensatz teilen in einen Trainingsdatensatz vom 01.07.2013 bis 31.03.2019, einem Validierungsdatensatz vom 01.04. bis 08.06.2019 und einem Testdatensatz vom 09.06. bis 30.07.2019\
+* [x] Euren Datensatz teilen in einen Trainingsdatensatz vom 01.07.2013 bis 31.07.2017 und einen Validierungsdatensatz vom 01.08.2017 bis 31.07.2018.\
 
 * [x] eine lineare Modellgleichung aufstellen, die das adjustierte R² für Euren Trainingsdatensatz maximiert.\
 
