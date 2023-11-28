@@ -27,7 +27,7 @@ folgende Themen behandeln:
 
 * [x] im Verzeichnis „Baseline Model" Eures Team Repositories die Berechnung für die lineare Regression dokumentieren.\
 
-* [x] Euch zum Thema Overfitting [dieses Video](https://www.youtube.com/watch?v=OSd30QGMl88) (9 Minuten) anschauen.\
+* [x] zum Thema Overfitting [dieses Video](https://www.youtube.com/watch?v=OSd30QGMl88) (9 Minuten) anschauen.\
 
-* [x] Euch einen Account bei [Kaggle](https://www.kaggle.com/) erstellen.
+* [x] einen Account bei [Kaggle](https://www.kaggle.com/) erstellen.
 
