@@ -22,6 +22,8 @@ The idea of spectral decomposition
 
 {% embed url="https://www.youtube.com/watch?v=s2K1JfNR7Sc" %}
 
+{% embed url="https://www.youtube.com/watch?v=h7apO7q16V0" %}
+
 {% embed url="https://www.youtube.com/watch?v=sa7E9qUHYXw" %}
 
 
