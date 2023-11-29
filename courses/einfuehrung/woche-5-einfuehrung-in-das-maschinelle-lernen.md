@@ -11,10 +11,10 @@ folgende Themen behandeln:
 
 ### Lernressourcen
 
-{% file src="../../.gitbook/assets/230526_Intro ML und Linear Regression.pdf" %}
+{% file src="../../.gitbook/assets/231128_Intro ML und Linear Regression.pdf" %}
 
 * [DataCamp Tutorial](https://www.datacamp.com/community/tutorials/linear-regression-R) zur Linearen Modellierung in R
-* [Beispiele](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/tree/main/Lineare%20Regression) zur linearen Regression und zum Auftreten von Overfitting
+* [Beispiel](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Lineare%20Regression/example%20linear%20regression.Rmd) zur linearen Regression
 
 ### Bis zur nächsten Woche solltet Ihr...
 
