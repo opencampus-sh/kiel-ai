@@ -74,7 +74,7 @@
   * [Week 4 - Towards multidimensional settings: SARIMAX + VAR-models](courses/time-series-prediction/week-4-towards-multidimensional-settings-sarimax-+-var-models.md)
   * [Week 5 - Non-Stationary model classes: GARCH + DCC-GARCH](courses/time-series-prediction/week-5-extended-model-classes-garch-+-dcc-garch-+-garch-copula-models.md)
   * [Week 6 - Copula Methods](courses/time-series-prediction/week-6-spectral-analysis-of-time-series.md)
-  * [Week 7 - Milestone Meeting + Spectral Analysis of Time Series](courses/time-series-prediction/week-7-milestone-meeting.md)
+  * [Week 7 - Milestone Meeting + Spectral Analysis of Time Series + Kalman-Filtering](courses/time-series-prediction/week-7-milestone-meeting.md)
   * [Week 8 - Supervised Learning I: Trees + Random Forests + Boosting](courses/time-series-prediction/week-8-supervised-learning-i-trees-+-random-forests-+-boosting.md)
   * [Week 9 - Supervised Learning II: XGBoost + LightGBM + CatBoost](courses/time-series-prediction/week-9-supervised-learning-ii-xgboost-+-lightgbm-+-catboost.md)
   * [Week 10 - Neural Networks for Sequences: RNNs + GRUs + LSTMs + LMUs](courses/time-series-prediction/week-10-neural-networks-for-sequences-rnns-+-grus-+-lstms.md)
