@@ -13,7 +13,6 @@ folgende Themen behandeln:
 
 {% file src="../../.gitbook/assets/230526_Intro ML und Linear Regression.pdf" %}
 
-* [Grafisches Tool](https://playground.tensorflow.org/) zur Definition und Schätzung von Neuronalen Netzen für unterschiedliche Beispieldatensätze
 * [DataCamp Tutorial](https://www.datacamp.com/community/tutorials/linear-regression-R) zur Linearen Modellierung in R
 * [Beispiele](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/tree/main/Lineare%20Regression) zur linearen Regression und zum Auftreten von Overfitting
 
