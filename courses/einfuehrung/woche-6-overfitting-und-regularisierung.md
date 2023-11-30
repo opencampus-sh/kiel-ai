@@ -23,6 +23,4 @@ folgende Themen behandeln:
 
 * [x] die Vorhersagegüte Eures linearen Modells [hier](https://www.kaggle.com/t/a1669b5b1ce74c7a8b02bc440f3129ab) auf Kaggle testen.\
 
-* [x] [dieses Video](https://www.youtube.com/watch?v=GvQwE2OhL8I) (12 Minuten) zur Einführung in Neuronale Netze an anschauen.\
-
-* [x] Mich zu Eurem Repo einladen oder, wenn es öffentlich ist, mir den Link zu Eurem Repo in einer privaten Nachricht schicken.
+* [x] [dieses Video](https://www.youtube.com/watch?v=GvQwE2OhL8I) (12 Minuten) zur Einführung in Neuronale Netze an anschauen.
