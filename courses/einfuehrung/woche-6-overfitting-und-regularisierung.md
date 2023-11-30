@@ -21,6 +21,8 @@ folgende Themen behandeln:
 
 * [x] Euren Datensatz weiter um zusätzliche Variablen ergänzen, die für die Schätzung des Umsatzes relevant sein könnten.\
 
-* [x] einmal mit Hilfe dieser [Vorlage zum Aufruf der Evaluationsfunktion](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/tree/main/mape\_request) die Vorhersagegüte Eures linearen Modells für den Zeitraum vom 9.6.2019 bis zum 30.7.2019 überprüfen.\
+* [x] die Vorhersagegüte Eures linearen Modells [hier](https://www.kaggle.com/t/a1669b5b1ce74c7a8b02bc440f3129ab) auf Kaggle testen.\
 
-* [x] Euch [dieses Video](https://www.youtube.com/watch?v=GvQwE2OhL8I) (12 Minuten) zur Einführung in Neuronale Netze an anschauen.
+* [x] [dieses Video](https://www.youtube.com/watch?v=GvQwE2OhL8I) (12 Minuten) zur Einführung in Neuronale Netze an anschauen.\
+
+* [x] Mich zu Eurem Repo einladen oder, wenn es öffentlich ist, mir den Link zu Eurem Repo in einer privaten Nachricht schicken.
