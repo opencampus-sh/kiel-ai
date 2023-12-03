@@ -15,4 +15,6 @@
 
 ### Until next week you should...
 
-* [x] ...
+* [x] ...\
+
+* [x] specify which metrics you'll use to evaluate the model performance, and why you've chosen these metrics. Document it in the corresponding section of your project repository.
