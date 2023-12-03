@@ -10,7 +10,7 @@
 
 \[Slides Will be added after the session.]
 
-*
+* [Week 2](https://www.coursera.org/learn/generative-ai-with-llms/home/week/2) and [week 3](https://www.coursera.org/learn/generative-ai-with-llms/home/week/3) of the course Generative AI with Large Language Models
 
 ### Until next week you should...
 

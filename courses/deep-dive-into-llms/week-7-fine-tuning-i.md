@@ -15,6 +15,6 @@
 
 ### Until next week you should...
 
-* [x] ...\
+* [x] [week 2](https://www.coursera.org/learn/generative-ai-with-llms/home/week/2) and [week 3](https://www.coursera.org/learn/generative-ai-with-llms/home/week/3) of the course Generative AI with Large Language Models.\
 
 * [x] specify which metrics you'll use to evaluate the model performance, and why you've chosen these metrics. Document it in the corresponding section of your project repository.
