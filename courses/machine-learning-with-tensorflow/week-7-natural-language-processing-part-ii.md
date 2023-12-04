@@ -13,5 +13,5 @@
 
 * complete week 1 and week 2 of the course [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
 * complete Exercise 1 (_Exercise 2 in the same notebook is for next week_) assignments in [this notebook](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-07-and-08/Week7-8\_Notebook\_Weather-Time-Series.ipynb).
-* decide on a baseline model for your project according to the instructions given [here](https://github.com/opencampus-sh/ml-project-template/blob/main/2\_BaselineModel/INSTRUCTIONS.md).
-* document the definition of your baseline model according to the instructions of above
+* decide on an evaluation metric for your project task and evaluate you baseline model.
+* document the evaluation results of your baseline model and the used metric(s) in your project repository.
