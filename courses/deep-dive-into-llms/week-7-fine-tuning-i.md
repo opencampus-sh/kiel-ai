@@ -8,7 +8,9 @@
 
 ### Learning Resources
 
-\[Slides will be added after the session.]
+
+
+{% file src="../../.gitbook/assets/231204_Fine-Tuning I.pdf" %}
 
 * [Training a causal language model from scratch](https://huggingface.co/learn/nlp-course/en/chapter7/6) from the Hugging Face NLP course.
 * [Video](https://www.youtube.com/watch?v=kCc8FmEb1nY) by Andrej Karpathy explaining how to train a GPT from scratch.
