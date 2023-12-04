@@ -4,7 +4,7 @@
 
 * know how to prepare the data for training LLMs.
 * get a better technical understanding of how to train LLMs.
-* learn about different alignment approaches such as RLHF, RLAIF, DPO, and IPO.
+* learn about different alignment approaches such as RLHF and RLAIF using PPO, or DPO.
 
 ### Learning Resources
 
