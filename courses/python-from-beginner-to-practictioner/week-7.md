@@ -1,7 +1,5 @@
 # Week 7
 
-**We will change order compared to the online material! Week 5 will be due to next week.**
-
 Please to do until the next session:
 
 * **Watch lecture 5 of the Havard Python Course:**
