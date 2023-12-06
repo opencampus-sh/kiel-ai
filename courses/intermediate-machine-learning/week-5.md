@@ -10,12 +10,6 @@ Faster Coding with ChatGPT, Stackoverflow and clever search
 
 
 
-**Solutions exercise RNN**
-
-Presentation from the participants of the RNN assignment from Coursera
-
-
-
 **Deep dive**
 
 * What are Embeddings?
@@ -23,13 +17,27 @@ Presentation from the participants of the RNN assignment from Coursera
 
 
 
+**Solutions exercise RNN**
+
+Presentation from the participants of the RNN assignment from Coursera
+
+
+
+**Paddy challenge**
+
+Logistic regression baseline for the Paddy Competition
+
+{% embed url="https://www.kaggle.com/henrikho/opencampus-paddy-pytorch-logistic-regression" %}
+
 **Walk-through**
 
-PyTorch 505
+Basic CNN in PyTorchLightning
 
-Transfer Learning CNN in PyTorchLightning:
+PyTorch 404 (Lab 04)
 
-{% embed url="https://colab.research.google.com/drive/1dnXbC1NJVIA-2oObZd0fyx3owYooN3_T?usp=sharing" %}
+{% embed url="https://colab.research.google.com/drive/10wD5qqCmDshjcXo4p_T6MqkQIeoYHSvB?usp=sharing" %}
+
+
 
 ## To-do
 
@@ -39,11 +47,9 @@ Watch first half of Week 5 of the Coursera Course
 
 {% embed url="https://www.coursera.org/learn/machine-learning-duke" %}
 
-!!!
+**Build your own model(s) for the Paddy challenge and try to achieve the best accuracy. Log your results that you can present them in the class!**
 
-Using all techniques learned build the best model you can to achieve an accury at least above 70%. You can use Transfer Learning, Augmentation and other tricks. You can also take inspiration from fellow notebooks on Kaggle. Good ideas will be rewarded by special achievement badges for the course. Have fun and push the accuracy!😊
+😊😊
 
-!!!
-
-
+Add the the test functionality and create a submission.csv and upload it to the leaderboard
 
