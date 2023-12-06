@@ -12,3 +12,11 @@
 #### Solution week 3
 
 * [https://colab.research.google.com/drive/1qTtuAqND6Z-OP7rkr4hOWKqWzgf3rAHN?usp=sharing](https://colab.research.google.com/drive/1qTtuAqND6Z-OP7rkr4hOWKqWzgf3rAHN?usp=sharing)
+
+#### **Solution week 4**
+
+* [https://colab.research.google.com/drive/1z9xqzcOV5FLoQl4PhNzZSIZJDkd7JgFC?usp=sharing](https://colab.research.google.com/drive/1z9xqzcOV5FLoQl4PhNzZSIZJDkd7JgFC?usp=sharing)
+
+#### Solution week 5
+
+* [https://colab.research.google.com/drive/1swsc4earaul7lo00q1KL1FlH6MLPZ8lG?usp=sharing](https://colab.research.google.com/drive/1swsc4earaul7lo00q1KL1FlH6MLPZ8lG?usp=sharing)
