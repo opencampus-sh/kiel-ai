@@ -20,3 +20,8 @@
 #### Solution week 5
 
 * [https://colab.research.google.com/drive/1swsc4earaul7lo00q1KL1FlH6MLPZ8lG?usp=sharing](https://colab.research.google.com/drive/1swsc4earaul7lo00q1KL1FlH6MLPZ8lG?usp=sharing)
+
+#### Solution week 6
+
+* [https://colab.research.google.com/drive/1CwmTFMU36ZlOfd3OuYKN5QKfqZ6pLRDK?usp=sharing](https://colab.research.google.com/drive/1CwmTFMU36ZlOfd3OuYKN5QKfqZ6pLRDK?usp=sharing)
+
