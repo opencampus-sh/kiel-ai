@@ -8,8 +8,8 @@ Please to do until the next session:
 
 For the best learning experience, it's recommended to watch the lecture twice: first for a quick overview, and then more slowly while taking notes. Please ensure you allocate sufficient time for this.
 
-* **Work through the following homework assignment**
-  * TBA
+* **no homework assignment**
+  * prepare for the kahoot
 
 Always first create a copy with "Copy to Drive" or download the notebooks to work locally on them. Otherwise your progress won't be saved!!
 
