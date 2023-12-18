@@ -6,7 +6,7 @@ description: Hands-on
 
 ## Course session
 
-**Kaggle Finetuning**
+**Kaggle**
 
 Presentation of experiments with the goal of improving the classification accuracy
 
@@ -15,6 +15,16 @@ Presentation of experiments with the goal of improving the classification accura
 **Transfer Learning**
 
 Theory and Applications
+
+
+
+**Walk-through**
+
+PyTorch 505
+
+Transfer Learning CNN in PyTorchLightning:
+
+{% embed url="https://colab.research.google.com/drive/1dnXbC1NJVIA-2oObZd0fyx3owYooN3_T?usp=sharing" %}
 
 
 
