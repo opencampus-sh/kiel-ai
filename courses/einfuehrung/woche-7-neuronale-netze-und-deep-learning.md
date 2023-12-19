@@ -30,4 +30,6 @@ Zusätzliche Resourcen für eine optionale lokale Installation von Python und gg
 
 * [x] ein Neuronales Netz für Euren Datensatz trainieren (dazu zunächste alle Fälle mit fehlenden Werten löschen).\
 
-* [x] [dieses Video](https://www.youtube.com/watch?v=NhZVe50QwPM) (2 Minuten) zu Dropout-Layern schauen.
+* [x] [dieses Video](https://www.youtube.com/watch?v=NhZVe50QwPM) (2 Minuten) zu Dropout-Layern schauen.\
+
+* [x] [dieses Video](https://www.youtube.com/watch?v=E-JoAdkV0n0) (7 Minuten) als zusätzliche Einführung in die Definition von neuronalen Netzen schauen.
