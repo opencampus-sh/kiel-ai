@@ -1,7 +1,7 @@
 ---
 description: >-
-  Watch the spectral analysis playlist which was recommended. Try to
-  answer/prepare the homework problems.
+  Watch the copula playlist which was recommended. Try to answer/prepare the
+  homework problems.
 ---
 
 # Week 6 - Copula Methods
