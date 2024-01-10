@@ -11,7 +11,7 @@ folgende Themen behandeln:
 
 ### Lernressourcen
 
-{% file src="../../.gitbook/assets/230530_Neuronale Netze.pdf" %}
+{% file src="../../.gitbook/assets/231219_Neuronale Netze.pdf" %}
 
 * [Video](https://www.youtube.com/watch?v=GvQwE2OhL8I) (12 Minuten) zur Einführung in Neuronale Netze
 * [R-Code](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Neuronale%20Netze/neural-net-data-preparation.R) zur Datenaufbereitung für TensorFlow
@@ -28,7 +28,9 @@ Zusätzliche Resourcen für eine optionale lokale Installation von Python und gg
 *   [x] alle Eure Modellvariablen auf die Existenz von fehlenden und unplausiblen Werten hin untersuchen.
 
 
-* [x] ein Neuronales Netz für Euren Datensatz trainieren (dazu zunächste alle Fälle mit fehlenden Werten löschen).\
+* [x] [R-Code](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Neuronale%20Netze/neural-net-data-preparation.R) zur Datenaufbereitung für TensorFlow auf Eurem Datensatz anpassen.\
+
+* [x] mit dem aufbereiteten Datensatz und diesem [Jupyter Notebook](https://colab.research.google.com/github/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Neuronale%20Netze/neural\_net\_estimation.ipynb) ein Neuronales Netz optimieren.\
 
 * [x] [dieses Video](https://www.youtube.com/watch?v=NhZVe50QwPM) (2 Minuten) zu Dropout-Layern schauen.\
 
