@@ -11,15 +11,14 @@ folgende Themen behandeln:&#x20;
 
 ### Lernressourcen
 
-{% file src="../.gitbook/assets/230606_Fehlende Werte.pdf" %}
+{% file src="../../.gitbook/assets/240109_Fehlende Werte.pdf" %}
 
-* [Beispiel](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Neuronale%20Netze/neural-net-estimation-with-dropout.Rmd) zur Definition eines neuronalen Netzes mit Dropout-Layer
 * [Beispiel ](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Fehlende%20Werte/missing-data.R)zur Behandlung von fehlenden Werten mit dem package VIM
 * [Lektion 1](https://www.datacamp.com/courses/dealing-with-missing-data-in-r) des Data Camp Kurses "Dealing with Missing Data in R"
 
 Bonus:
 
-* Folien mit Ressourcen zu Support-Vektor-Maschinen am Ende der zu dieser Woche
+* Ressourcen zu Support-Vektor-Maschinen am Ende der PDF-Slides von dieser Woche
 * [Beispiel ](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/tree/main/Woche%206)zur Schätzung einer Support-Vektor-Maschine für Hauspreise
 
 ### Bis zur nächsten Woche solltet Ihr...
