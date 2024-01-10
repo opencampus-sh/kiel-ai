@@ -118,6 +118,7 @@
   * [Week 6](courses/python-from-beginner-to-practictioner/week-6.md)
   * [Week 7](courses/python-from-beginner-to-practictioner/week-7.md)
   * [Week 8](courses/python-from-beginner-to-practictioner/week-8.md)
+  * [Week 9](courses/python-from-beginner-to-practictioner/week-9.md)
   * [Solutions & Materials](courses/python-from-beginner-to-practictioner/solutions-and-materials.md)
 * [Archive](courses/archive/README.md)
   * [Deep Learning from Scratch](courses/archive/deep-learning/README.md)
