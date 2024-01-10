@@ -25,6 +25,10 @@
 
 * [https://colab.research.google.com/drive/1CwmTFMU36ZlOfd3OuYKN5QKfqZ6pLRDK?usp=sharing](https://colab.research.google.com/drive/1CwmTFMU36ZlOfd3OuYKN5QKfqZ6pLRDK?usp=sharing)
 
+#### **Solution week 8**
+
+* [https://colab.research.google.com/drive/1\_XPcB6K3Rn65GwRcUTulsdtwAhKIlp9U?usp=sharing](https://colab.research.google.com/drive/1\_XPcB6K3Rn65GwRcUTulsdtwAhKIlp9U?usp=sharing)
+
 #### Extra Class Materials
 
 * Loops: [https://colab.research.google.com/drive/1E5dGWDsZNJte88n1SV97HP3CFcq5Amny?usp=sharing](https://colab.research.google.com/drive/1E5dGWDsZNJte88n1SV97HP3CFcq5Amny?usp=sharing)
