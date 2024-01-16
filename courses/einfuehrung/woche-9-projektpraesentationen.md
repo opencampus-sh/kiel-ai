@@ -1,30 +1,23 @@
 # Woche 10 - Projektpräsentationen
 
 {% hint style="warning" %}
-Jedes Team hält eine 8-minütige Abschlusspräsentation mit den im Folgenden aufgeführten Inhalten.\
-(Bitte darauf achten, dass Ihr die Länge einhaltet!)
+Jedes Team hält eine 8 oder 10-minütige Abschlusspräsentation (genau Info erfolgt in der Vorwoche - bitte darauf achten, dass Ihr die Länge einhaltet!) mit den im Folgenden aufgeführten Inhalten.
 {% endhint %}
 
-#### Präsentation (Powerpoint / R Markdown)
+#### Präsentation (Powerpoint, Keybote oder ähnliches)
 
 * Eure Namen auf der Titelseite
 * Auflistung und kurze Beschreibung der selbst erstellten Variablen
 * Balkendiagramme mit Konfidenzintervallen für zwei selbst erstellte Variablen
-* Optimierung eines linearen Modells:\
-  (a) Modellgleichung\
-  (b) adjusted r²\
-  (c) MAPE für den Zeitraum vom 9.6.2019 bis 30.7.2019
-* Optimierung eines neuronalen Netzes:\
-  (a) Source Code zur Definition des neuronalen Netzes\
-  (b) Darstellung der Loss-Funktionen für Trainings- und Validierungsdatensatz\
-  (c) MAPE für den Zeitraum vom 9.6.2019 bis 30.7.2019
+* Optimierung des linearen Modells: Modellgleichung und adjusted r²
+* Art der Missing Value Imputation
+* Optimierung des neuronalen Netzes:
+  * Source Code zur Definition des neuronalen Netzes
+  * Darstellung der Loss-Funktionen für Trainings- und Validierungsdatensatz
+  * MAPEs für den Validierungsdatensatz insgesamt und für jede Warengruppe einzeln
+* „Worst Fail“
 
 {% hint style="warning" %}
-Die Dokumentation des Leistungsnachweises erfolgt über die Abgabe Eures Projektverzeichnisses (s.u.). Dieses muss in der Edu-Plattform hochgeladen werden. Aktuell wir die Plattform dafür noch angepasst. Die Funktion wird in Kürze zur Verfügung stehen.
+Die Dokumentation des Leistungsnachweises erfolgt über das von Euch erstellte Repository, das wie in den READMEs angegeben vervollständigt werden muss.\
+Anschließend muss _**ein**_ Team-Mitglied das README des Hauptverzeichnisses wie [hier](https://opencampus.gitbook.io/opencampus-machine-learning-program/projects/requirements#submitting-your-project) beschrieben in der EduHub-Plattform hochladen.
 {% endhint %}
-
-#### Das Repository / zip-Verzeichniss muss die folgenden Dateien enthalten:
-
-* Eure Daten
-* Euren vollständigen, dokumentierten Programmcode (inklusive Datenaufbereitung)
-* Eure Präsentation
