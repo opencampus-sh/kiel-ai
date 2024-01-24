@@ -14,8 +14,6 @@ Finalize your semester project !!!
 
 {% embed url="https://pytorch-forecasting.readthedocs.io/en/stable/tutorials/ar.html" %}
 
-{% embed url="https://www.youtube.com/watch?v=OVKSrGuc9v8" %}
-
 {% embed url="https://www.youtube.com/watch?v=pUUhQyUEZSk" %}
 
 {% embed url="https://gist.github.com/reachsumit/9b31afe74c560c9f804081af3e1b4a1d" %}
