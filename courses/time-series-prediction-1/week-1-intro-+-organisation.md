@@ -11,7 +11,7 @@ description: Watch ONE of the first YouTube-Tutorials
 Think about your project and get started....
 
 {% embed url="https://www.youtube.com/playlist?list=PLqYFiz7NM_SMC4ZgXplbreXlRY4Jf4zBP" %}
-​[https://app.gitbook.com/o/-MCkv98NOOEp4NT0DS52/s/-MHobCAnoTQkN71lOgdv/\~/changes/812/courses/time-series-prediction-1/week-1-intro-+-organisation](https://app.gitbook.com/o/-MCkv98NOOEp4NT0DS52/s/-MHobCAnoTQkN71lOgdv/\~/changes/812/courses/time-series-prediction-1/week-1-intro-+-organisation)[https://www.youtube.com/playlist?list=PLqYFiz7NM\_SMC4ZgXplbreXlRY4Jf4zBP](https://www.youtube.com/playlist?list=PLqYFiz7NM\_SMC4ZgXplbreXlRY4Jf4zBP)
+​[https://www.youtube.com/playlist?list=PLqYFiz7NM\_SMC4ZgXplbreXlRY4Jf4zBP](https://www.youtube.com/playlist?list=PLqYFiz7NM\_SMC4ZgXplbreXlRY4Jf4zBP)
 {% endembed %}
 
 {% embed url="https://www.youtube.com/playlist?list=PL_iP0SGUzx9SvI_loo4I6orC-6o5-7hKp" %}
