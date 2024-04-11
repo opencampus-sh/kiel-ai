@@ -12,14 +12,6 @@ What motivates you?
 
 Watch ONE of the first YouTube-Tutorials
 
-{% embed url="https://www.youtube.com/playlist?list=PLqYFiz7NM_SMC4ZgXplbreXlRY4Jf4zBP" %}
-​[https://www.youtube.com/playlist?list=PLqYFiz7NM\_SMC4ZgXplbreXlRY4Jf4zBP](https://www.youtube.com/playlist?list=PLqYFiz7NM\_SMC4ZgXplbreXlRY4Jf4zBP)
-{% endembed %}
-
-{% embed url="https://www.youtube.com/playlist?list=PL_iP0SGUzx9SvI_loo4I6orC-6o5-7hKp" %}
-[https://www.youtube.com/playlist?list=PL\_iP0SGUzx9SvI\_loo4I6orC-6o5-7hKp](https://www.youtube.com/playlist?list=PL\_iP0SGUzx9SvI\_loo4I6orC-6o5-7hKp)
-{% endembed %}
-
 {% embed url="https://www.youtube.com/playlist?list=PLtIY5kwXKny91_IbkqcIXuv6t1prQwFhO" %}
 [https://www.youtube.com/playlist?list=PLtIY5kwXKny91\_IbkqcIXuv6t1prQwFhO](https://www.youtube.com/playlist?list=PLtIY5kwXKny91\_IbkqcIXuv6t1prQwFhO)
 {% endembed %}
