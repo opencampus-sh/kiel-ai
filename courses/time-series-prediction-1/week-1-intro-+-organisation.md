@@ -1,14 +1,16 @@
----
-description: Watch ONE of the first YouTube-Tutorials
----
-
 # Week 1 - Intro + Organisation
 
 
 
 
 
-Think about your project and get started....
+Think about your project:
+
+What are your skills and interests?
+
+What motivates you?
+
+Watch ONE of the first YouTube-Tutorials
 
 {% embed url="https://www.youtube.com/playlist?list=PLqYFiz7NM_SMC4ZgXplbreXlRY4Jf4zBP" %}
 ​[https://www.youtube.com/playlist?list=PLqYFiz7NM\_SMC4ZgXplbreXlRY4Jf4zBP](https://www.youtube.com/playlist?list=PLqYFiz7NM\_SMC4ZgXplbreXlRY4Jf4zBP)

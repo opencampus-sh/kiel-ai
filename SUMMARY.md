@@ -92,7 +92,7 @@
   * [Week 4 - State-Space models // Filtering](courses/time-series-prediction-1/week-4-towards-multidimensional-settings-sarimax-+-var-models.md)
   * [Week 5 - Dependence concepts: Copula // Gaussian Processes // RMT](courses/time-series-prediction-1/week-5-extended-model-classes-garch-+-dcc-garch-+-garch-copula-models.md)
   * [Week 6 - Extremes // Anomalies // Signatures](courses/time-series-prediction-1/week-6-spectral-analysis-of-time-series.md)
-  * [Week 7 - Milestone Meeting + Spectral Analysis of Time Series + Kalman-Filtering](courses/time-series-prediction-1/week-7-milestone-meeting.md)
+  * [Week 7 - Tree models: XGBoost // LightGBM // CatBoost](courses/time-series-prediction-1/week-7-milestone-meeting.md)
   * [Week 8 - (Deep) recurrent architectures for time series data](courses/time-series-prediction-1/week-8-supervised-learning-i-trees-+-random-forests-+-boosting.md)
   * [Week 9 - Transformers + TemporalFusionTransformers](courses/time-series-prediction-1/week-9-supervised-learning-ii-xgboost-+-lightgbm-+-catboost.md)
   * [Week 10 - NBEATS(x) + NHITS](courses/time-series-prediction-1/week-10-neural-networks-for-sequences-rnns-+-grus-+-lstms.md)

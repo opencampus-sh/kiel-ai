@@ -1,14 +1,4 @@
----
-description: >-
-  Watch the fourth playlist which was recommended. Try to answer/prepare the
-  homework problems.
----
-
 # Week 4 - State-Space models // Filtering
-
-
-
-
 
 Continue working on your semester project !!!
 
@@ -42,7 +32,7 @@ Formulate some questions about things you do not know
 [https://www.youtube.com/watch?v=sOXROWJ70Pg](https://www.youtube.com/watch?v=sOXROWJ70Pg)
 {% endembed %}
 
-OPTIONAL:
+_<mark style="color:red;">**OPTIONAL:**</mark>_
 
 {% embed url="https://www.youtube.com/playlist?list=PLPjEEUWIWhQV7X6dXfrVP3w0KBBLBVJ0j" %}
 [https://www.youtube.com/playlist?list=PLPjEEUWIWhQV7X6dXfrVP3w0KBBLBVJ0j](https://www.youtube.com/playlist?list=PLPjEEUWIWhQV7X6dXfrVP3w0KBBLBVJ0j)

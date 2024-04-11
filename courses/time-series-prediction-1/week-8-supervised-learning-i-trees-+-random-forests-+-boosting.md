@@ -1,9 +1,8 @@
 ---
-description: >-
-  Watch the Trees, RF, Boosting playlist which was recommended. Try to
-  answer/prepare the homework problems.
+description: Continue working on your semester project !!!
 ---
 
 # Week 8 - (Deep) recurrent architectures for time series data
 
-Finalize your semester project !!!
+_<mark style="color:red;">**OPTIONAL:**</mark>_
+

@@ -1,7 +1,7 @@
 ---
-description: As this a quite need topic/field......input is still to come...
+description: Finalize your semester project !!!
 ---
 
 # Week 13 - Final Presentations (Back-Up)
 
-Finalize your semester project !!!
+CONGRATULATIONS - YOU MADE IT !!!

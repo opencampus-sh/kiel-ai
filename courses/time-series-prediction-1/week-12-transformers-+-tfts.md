@@ -1,9 +1,7 @@
 ---
-description: >-
-  Watch the Transformer playlist which was recommended. Try to answer/prepare
-  the homework problems.
+description: Finalize your semester project !!!
 ---
 
 # Week 12 - Final Presentations
 
-Finalize your semester project !!!
+CONGRATULATIONS - YOU MADE IT !!!
