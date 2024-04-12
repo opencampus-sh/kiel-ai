@@ -4,16 +4,15 @@
 
 * get all details about the structure and form of the course.
 * get to know your fellow course participants.
-* get a general introduction into the current use of transformer models and their basic idea.
+* discuss the general types of training large language models.
+* discuss current sources for staying up-to-date.
 
 #### Learning Resources
 
-{% file src="../../.gitbook/assets/221026_General Introduction.pdf" %}
-Presentation Slides
-{% endfile %}
+* [Hugging Face NLP course](https://huggingface.co/learn/nlp-course/chapter1/1)
+* [YouTube channel from Yannic Kilcher](https://www.youtube.com/@YannicKilcher)
 
 #### Until next week you should...
 
-* [x] watch [video 1](https://www.youtube.com/watch?v=yGTUuEx3GkA\&list=PL75e0qA87dlG-za8eLI6t0\_Pbxafk-cxb\&index=9) (Self-Attention) and [video 2](https://www.youtube.com/watch?v=tIvKXrEDMhk\&list=PL75e0qA87dlG-za8eLI6t0\_Pbxafk-cxb\&index=10) (Keys, Values, Queries) of the Rasa Series on Transformers & Attention.
-* [x] note at least one question on each of the videos of above.
-* [x] do [chapter 1](https://huggingface.co/course/chapter1/1) of the Hugging Face course.
+* [x] watch [Creating your own ChatGPT: Supervised fine-tuning (SFT)](https://www.youtube.com/watch?v=NXevvEF3QVI\&t=418s) from Niels Rogge (1 hour)
+* [x] note at least one question on the video above.

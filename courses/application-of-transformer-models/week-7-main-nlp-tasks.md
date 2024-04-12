@@ -12,4 +12,4 @@
 
 ### Until next class you should... <a href="#until-next-class-you-should..." id="until-next-class-you-should..."></a>
 
-* prepare your final presentation as described in week 8 [here](week-8-presentation-of-the-final-projects.md).
+* prepare your final presentation as described in week 8 [here](../archive/application-of-transformer-models/week-8-presentation-of-the-final-projects.md).

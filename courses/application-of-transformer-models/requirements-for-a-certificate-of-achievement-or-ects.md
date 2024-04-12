@@ -3,7 +3,8 @@
 The conditions to be met in order to receive a Certificate of Achievement (and ECTS) are:
 
 * [x] Attendance to at least 80% of the classes (it is allowed to miss a maximum 2 classes)
-* [x] Delivery of a machine learning project based on the Hugging Face API and including a corresponding documentation.
+* [x] GitHub repository including a well-documented project on a fine-tuned large language model
+* [x] Presentation of the project at the end of the course
 
 #### Attendance:
 
@@ -11,4 +12,4 @@ If you attend via Zoom, please make sure to use your full name, which should be 
 
 #### Projects:
 
-Check the Projects section to learn more about the projects.
+Check the [Projects section](../../projects/requirements.md) to learn more about how to get started, complete, and submit you project.
