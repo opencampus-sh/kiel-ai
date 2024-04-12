@@ -10,7 +10,7 @@ What are your skills and interests?
 
 What motivates you?
 
-Watch ONE of the first YouTube-Tutorials
+Watch ONE of the first YouTube-Tutorials (this task is for the first two weeks)
 
 {% embed url="https://www.youtube.com/playlist?list=PLtIY5kwXKny91_IbkqcIXuv6t1prQwFhO" %}
 [https://www.youtube.com/playlist?list=PLtIY5kwXKny91\_IbkqcIXuv6t1prQwFhO](https://www.youtube.com/playlist?list=PLtIY5kwXKny91\_IbkqcIXuv6t1prQwFhO)
