@@ -18,18 +18,10 @@ The program comprises four mandatory elements. To successfully obtain the degree
 
 &#x20;**The mandatory elements to obtain the degree are:**
 
-Completion of 3 or more of the machine learning courses at opencampus.sh with a minimum of 12.5 ECTS in total. In the winter semester 2021/22, we offer the following courses:
-
-* [Einführung in Data Science und maschinelles Lernen](https://edu.opencampus.sh/courses/207) (2.5 ECTS) &#x20;
-* [Machine Learning With TensorFlow](https://edu.opencampus.sh/courses/215) (5.0 ECTS) &#x20;
-* [Deep Learning from Scratch](https://edu.opencampus.sh/courses/204) (5.0 ECTS) &#x20;
-* [Deep Learning for Computer Vision](https://edu.opencampus.sh/courses/200) (5.0 ECTS) &#x20;
-* [Natural Language Processing with Transformers](https://edu.opencampus.sh/courses/233) (2.5 ECTS) &#x20;
-* [Generative Adversarial Networks](https://edu.opencampus.sh/courses/212) (5.0 ECTS) &#x20;
-* [Machine Learning für die Medizin](https://edu.opencampus.sh/courses/216) (5.0 ECTS) &#x20;
+Completion of 3 or more of the machine learning courses at opencampus.sh with a minimum of 12.5 ECTS in total. (Check the current list of available course \[here]\([https://edu.opencampus.sh/course/158](https://edu.opencampus.sh/course/158)).)
 
 Completion of at least one of the following hackathons:
 
 * Prototyping Week from opencampus.sh (participating with an AI project or startup)
-* Coding.Waterkant hackathon
+* \[Coding.Waterkant]\(https://coding.waterkant.sh) hackathon
 
