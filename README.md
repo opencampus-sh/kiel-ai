@@ -18,10 +18,10 @@ The program comprises four mandatory elements. To successfully obtain the degree
 
 &#x20;**The mandatory elements to obtain the degree are:**
 
-Completion of 3 or more of the machine learning courses at opencampus.sh with a minimum of 12.5 ECTS in total. (Check the current list of available course \[here]\([https://edu.opencampus.sh/course/158](https://edu.opencampus.sh/course/158)).)
+Completion of 3 or more of the machine learning courses at opencampus.sh with a minimum of 12.5 ECTS in total. (Check the current list of available course [here](https://edu.opencampus.sh/course/158).)
 
 Completion of at least one of the following hackathons:
 
-* Prototyping Week from opencampus.sh (participating with an AI project or startup)
-* \[Coding.Waterkant]\(https://coding.waterkant.sh) hackathon
+* [Prototyping Week](https://starterkitchen.de/ptw/) (participating with an AI project or startup)
+* [Coding.Waterkant](https://coding.waterkant.sh) hackathon
 
