@@ -81,6 +81,7 @@
   * [Requirements for a Certificate of Achievement or ECTS](courses/application-of-transformer-models/requirements-for-a-certificate-of-achievement-or-ects.md)
   * [Preparation](courses/application-of-transformer-models/preparation.md)
   * [Week 1 - General Introduction](courses/application-of-transformer-models/week-1-general-introduction.md)
+  * [Week 2 - Project Definition and Introduction to Fine-Tuning](courses/application-of-transformer-models/week-1-general-introduction-1.md)
 * [Archive](courses/archive/README.md)
   * [Deep Learning from Scratch](courses/archive/deep-learning/README.md)
     * [Requirements for a Certificate of Achievement or ECTS](courses/archive/deep-learning/requirements-for-a-certificate-of-achievement-or-ects.md)
