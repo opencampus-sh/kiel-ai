@@ -1,12 +1,6 @@
----
-description: >-
-  Watch the second playlist which was recommended. Try to answer/prepare the
-  homework problems.
----
+# Week 2 - SARIMA(X) + GARCH-Models
 
-# Week 2 - Forecasting basics with trends: AR + MA-models
 
-{% embed url="https://www.youtube.com/playlist?list=PL_iP0SGUzx9SvI_loo4I6orC-6o5-7hKp" %}
 
 Work on your semester project topic and get started.&#x20;
 
@@ -18,5 +12,13 @@ Launch a GitHub Repository
 
 Prepare your data
 
-{% file src="../../.gitbook/assets/2023_11_01.pdf" %}
+_<mark style="color:red;">**OPTIONAL:**</mark>_
+
+{% embed url="https://www.youtube.com/playlist?list=PLzAfHlPtM1I4bPhNE5FKOi0S7erZqm5pg" %}
+[https://www.youtube.com/playlist?list=PLzAfHlPtM1I4bPhNE5FKOi0S7erZqm5pg](https://www.youtube.com/playlist?list=PLzAfHlPtM1I4bPhNE5FKOi0S7erZqm5pg)
+{% endembed %}
+
+{% embed url="https://www.youtube.com/playlist?list=PLzAfHlPtM1I7jej6_SxBAbBR-XQM0SBn0" %}
+[https://www.youtube.com/playlist?list=PLzAfHlPtM1I7jej6\_SxBAbBR-XQM0SBn0](https://www.youtube.com/playlist?list=PLzAfHlPtM1I7jej6\_SxBAbBR-XQM0SBn0)
+{% endembed %}
 

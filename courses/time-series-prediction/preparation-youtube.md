@@ -1,8 +1,12 @@
-# Preparation / YouTube
+# Lecture material + YouTube
 
-### Before the first class you should ...
+For the summer-term 2024 we use mainly YouTube playlists and freely available resources.
 
-* register with Google and the Coursera platform to get corresponding accounts. Since we switched for the second run our video lecture sources (the Coursera part is optional - but still benefical for the interested) - please see the YouTube-Playlists from below.
+Check out the more detailed playlists in each week.
+
+### In case you enjoy Coursera - here are some suggestions:
+
+* register with Google and the Coursera platform to get corresponding accounts. Since we switched for the second/third run our video lecture sources (the Coursera part is optional - but still benefical for the interested) this part is optional.
 
 Please enroll/attend/complete the following Coursera MOOCs during the semester:
 
@@ -14,10 +18,3 @@ Enroll and complete this course in Coursera
 Enroll and complete this course in Coursera
 {% endembed %}
 
-{% embed url="https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction#modules" %}
-Enroll and complete this course in Coursera
-{% endembed %}
-
-For the winter-term 2023/24 we use YouTube playlists.
-
-Check out the more detailed playlists in each week.

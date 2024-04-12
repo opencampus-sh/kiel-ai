@@ -1,21 +1,21 @@
 ---
-description: >-
-  Watch the XGBoosting, CatBoost, LightGBM playlist which was recommended. Try
-  to answer/prepare the homework problems.
+description: Finalize your presentation !!!
 ---
 
-# Week 9 - Supervised Learning II: XGBoost + LightGBM + CatBoost
+# Week 9 - Transformers + TemporalFusionTransformers
 
 Finalize your semester project !!!
 
-{% embed url="https://www.youtube.com/playlist?list=PLblh5JKOoLULU0irPgs1SnKO6wqVjKUsQ" %}
+{% embed url="https://www.youtube.com/watch?v=p3Xc_TJU8SI" %}
+[https://www.youtube.com/watch?v=p3Xc\_TJU8SI](https://www.youtube.com/watch?v=p3Xc\_TJU8SI)
+{% endembed %}
 
-{% embed url="https://www.youtube.com/watch?v=KXOTSkPL2X4" %}
+{% embed url="https://www.youtube.com/watch?v=i7JNt5qN2Sg" %}
+[https://www.youtube.com/watch?v=i7JNt5qN2Sg](https://www.youtube.com/watch?v=i7JNt5qN2Sg)
+{% endembed %}
 
-{% embed url="https://www.youtube.com/watch?v=3Bg2XRFOTzg" %}
+{% embed url="https://www.youtube.com/watch?v=vmb79c-RsIU" %}
+[https://www.youtube.com/watch?v=vmb79c-RsIU](https://www.youtube.com/watch?v=vmb79c-RsIU)
+{% endembed %}
 
-{% embed url="https://www.youtube.com/watch?v=R5FB1ZUejXM" %}
-
-{% embed url="https://www.youtube.com/watch?v=o7cUF25hAbo&list=PL2GWo47BFyUPWL5fBZSn6FFHRr1bSkX_J&index=38" %}
-
-{% embed url="https://www.youtube.com/watch?v=ajI8y8wnV1I&list=PL2GWo47BFyUPWL5fBZSn6FFHRr1bSkX_J&index=39" %}
+_<mark style="color:red;">**OPTIONAL:**</mark>_
