@@ -12,6 +12,10 @@ What motivates you?
 
 Watch ONE of the first YouTube-Tutorials (this task is for the first two weeks)
 
+{% embed url="https://www.youtube.com/playlist?list=PLqYFiz7NM_SMC4ZgXplbreXlRY4Jf4zBP" %}
+[https://www.youtube.com/playlist?list=PLqYFiz7NM\_SMC4ZgXplbreXlRY4Jf4zBP](https://www.youtube.com/playlist?list=PLqYFiz7NM\_SMC4ZgXplbreXlRY4Jf4zBP)
+{% endembed %}
+
 {% embed url="https://www.youtube.com/playlist?list=PLtIY5kwXKny91_IbkqcIXuv6t1prQwFhO" %}
 [https://www.youtube.com/playlist?list=PLtIY5kwXKny91\_IbkqcIXuv6t1prQwFhO](https://www.youtube.com/playlist?list=PLtIY5kwXKny91\_IbkqcIXuv6t1prQwFhO)
 {% endembed %}
