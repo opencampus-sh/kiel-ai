@@ -20,7 +20,7 @@ Watch ONE of the first YouTube-Tutorials (this task is for the first two weeks)
 [https://www.youtube.com/playlist?list=PLvcbYUQ5t0UHOLnBzl46\_Q6QKtFgfMGc3](https://www.youtube.com/playlist?list=PLvcbYUQ5t0UHOLnBzl46\_Q6QKtFgfMGc3)
 {% endembed %}
 
-THIS PLAYLIST IS OPTIONAL:
+<mark style="color:red;">THIS PLAYLIST IS OPTIONAL:</mark>
 
 {% embed url="https://www.youtube.com/playlist?list=PL0vEWJI_pj7SWa-cOUZZlHtpMQ7ULrTdY" %}
 [https://www.youtube.com/playlist?list=PL0vEWJI\_pj7SWa-cOUZZlHtpMQ7ULrTdY](https://www.youtube.com/playlist?list=PL0vEWJI\_pj7SWa-cOUZZlHtpMQ7ULrTdY)
