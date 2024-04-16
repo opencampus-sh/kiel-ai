@@ -1,6 +1,18 @@
 # Week 1
 
-Please to do until the next session:
+### To-Do
+
+* Buy the udemy course (ideally for the lower price) [https://www.udemy.com/course/100-days-of-code](https://www.udemy.com/course/100-days-of-code/)
+* Homework:
+  * Do the first day of the course
+    * Watch the videos
+    * Do the interactive coding excercises (Replit & Auditorium)
+
+***
+
+### Totally Optional
+
+If you are very eager you can have a look at this additional, more advanced material:
 
 * **Watch lecture 0 of the Havard Python Course:**
 
