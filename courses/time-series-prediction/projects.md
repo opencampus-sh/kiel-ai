@@ -6,7 +6,13 @@ description: 'Here we present some potential project ideas:'
 
 For the semester project - you can bring your own data - we will discuss this in the first/second session. Nevertheless here you can find some resources to think about a potential project:
 
-[https://datashop.cboe.com/data-products](https://datashop.cboe.com/data-products)
+{% embed url="https://datashop.cboe.com/data-products" %}
+FINANCE
+{% endembed %}
+
+{% embed url="https://www.ice.com/index" %}
+FINANCE
+{% endembed %}
 
 {% embed url="https://github.com/ranaroussi/yfinance" %}
 FINANCE
