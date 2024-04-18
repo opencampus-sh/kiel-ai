@@ -22,14 +22,6 @@ FINANCE
 FINANCE
 {% endembed %}
 
-{% embed url="https://datashop.cboe.com/data-products" %}
-FINANCE
-{% endembed %}
-
-{% embed url="https://www.ice.com/index" %}
-FINANCE
-{% endembed %}
-
 {% embed url="https://github.com/mortada/fredapi" %}
 ECONOMICS
 {% endembed %}
