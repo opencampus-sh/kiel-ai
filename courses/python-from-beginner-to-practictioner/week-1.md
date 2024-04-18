@@ -6,7 +6,7 @@
 * Homework:
   * Do the first day of the course
     * Watch the videos
-    * Do the interactive coding excercises (Replit & Auditorium)
+    * Do the interactive coding exercises (Replit & Auditorium)
 
 ***
 
