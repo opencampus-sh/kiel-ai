@@ -7,11 +7,10 @@ eine Einführung zu den folgenden Themen bekommen:
 * Was ist Data Science?&#x20;
 * R vs. Python vs. SPSS vs. ...
 * Jupyter Notebooks
-* Funktionsbibliotheken
 
 ### Lernressourcen
 
-{% file src="../../.gitbook/assets/231024_Einführung.pdf" %}
+{% file src="../../.gitbook/assets/240418_Einführung.pdf" %}
 
 * [Leitfaden zu Markdown](https://colab.research.google.com/notebooks/markdown\_guide.ipynb)
 * [Übersicht über Colaboratory](https://colab.research.google.com/notebooks/basic\_features\_overview.ipynb)
