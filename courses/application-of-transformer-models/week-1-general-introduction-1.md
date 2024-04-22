@@ -11,4 +11,7 @@
 
 #### Until next week you should...
 
-* [x] ...
+* [x] do a “literature review” for your project.
+* [x] watch the first two chapters of [LLM Engineering: Structured Outputs](https://www.wandb.courses/courses/take/steering-language-models/)\
+  (“Asking LLMs for Structured Data” and “Prompting LLMs”).
+* [x] note a least one question on the videos above.
