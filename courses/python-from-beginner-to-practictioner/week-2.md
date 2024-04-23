@@ -1,6 +1,16 @@
 # Week 2
 
-Please to do until the next session:
+### To-Do
+
+Homework:
+
+* Do days 2 & 3 of the course
+  * Watch the videos
+  * Do the interactive coding exercises (Replit & Auditorium)
+
+***
+
+### Totally Optional
 
 * **Watch lecture 1 of the Havard Python Course:**
 
