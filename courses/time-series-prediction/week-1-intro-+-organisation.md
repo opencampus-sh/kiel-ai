@@ -10,7 +10,7 @@ What are your skills and interests?
 
 What motivates you?
 
-Watch ONE of the first YouTube-Tutorials (this task is for the first two weeks)
+Watch the first YouTube-Tutorials
 
 {% embed url="https://github.com/vishnukanduri/Time-series-analysis-in-Python/tree/master" %}
 
