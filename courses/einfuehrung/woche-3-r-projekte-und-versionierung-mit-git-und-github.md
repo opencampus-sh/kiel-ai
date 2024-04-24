@@ -11,7 +11,7 @@ folgende Themen behandeln:
 
 ### Lernressourcen
 
-{% file src="../.gitbook/assets/231114_Einführung git und Datenaufbereitung.pdf" %}
+{% file src="../../.gitbook/assets/231114_Einführung git und Datenaufbereitung.pdf" %}
 
 * [R-Notebook](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Beispiele%20zur%20Datenaufbereitung%20aus%20Woche%203.Rmd) mit Beispielen zur Datenaufbereitung
 * Kapitel "Basic Workflow" des Kurses [Introduction to Git](https://learn.datacamp.com/courses/introduction-to-git-for-data-science) bei Datacamp.
@@ -20,6 +20,9 @@ folgende Themen behandeln:
 
 ### Bis zur nächsten Woche solltet Ihr...
 
+* [x] falls ihr eine loakle Installation nutzt, die Versionierungssoftware "git" auf Eurem Rechner installieren: [https://git-scm.com/downloads](https://git-scm.com/downloads)
+* [x] als Einführung in die Versionierung mit git könnt ihr bereits anfangen git absolviert das Kapitel "Basic Workflow" des Kurses [Introduction to Git](https://learn.datacamp.com/courses/introduction-to-git-for-data-science) bei Datacamp.
+*
 * [x] das Package [styler](https://styler.r-lib.org/) und installieren und Euch [diesen](https://style.tidyverse.org/index.html) Coding Styleguide an schauen.
 * [x] Euch [dieses](https://youtu.be/DRR9fOXkfRE) Video (11 Minuten) für eine genauere Einführung in die Möglichkeiten von Regular Expressions anschauen .
 * [x] die Daten [umsatzdaten\_gekuerzt.csv](https://raw.githubusercontent.com/opencampus-sh/einfuehrung-in-data-science-und-ml/main/umsatzdaten\_gekuerzt.csv), [kiwo.csv](https://raw.githubusercontent.com/opencampus-sh/einfuehrung-in-data-science-und-ml/main/kiwo.csv) und [wetter.csv](https://raw.githubusercontent.com/opencampus-sh/einfuehrung-in-data-science-und-ml/main/wetter.csv) in einem Tibble zusammenführen.
