@@ -76,6 +76,7 @@
   * [Week 7](courses/python-from-beginner-to-practictioner/week-7.md)
   * [Week 8](courses/python-from-beginner-to-practictioner/week-8.md)
   * [Week 9](courses/python-from-beginner-to-practictioner/week-9.md)
+  * [Material](courses/python-from-beginner-to-practictioner/material.md)
 * [Fine-Tuning and Deployment of Large Language Models](courses/application-of-transformer-models/README.md)
   * [Requirements for a Certificate of Achievement or ECTS](courses/application-of-transformer-models/requirements-for-a-certificate-of-achievement-or-ects.md)
   * [Preparation](courses/application-of-transformer-models/preparation.md)
