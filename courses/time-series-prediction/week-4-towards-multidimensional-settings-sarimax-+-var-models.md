@@ -18,16 +18,16 @@ Formulate some questions about things you do not know
 [https://www.youtube.com/playlist?list=PLJYjjnnccKYDppALiJlHskU8md904FXgd](https://www.youtube.com/playlist?list=PLJYjjnnccKYDppALiJlHskU8md904FXgd)
 {% endembed %}
 
-{% embed url="https://distill.pub/2019/visual-exploration-gaussian-processes/" %}
+{% embed url="https://www.youtube.com/watch?v=UBDgSHPxVME" %}
+[https://www.youtube.com/watch?v=UBDgSHPxVME](https://www.youtube.com/watch?v=UBDgSHPxVME)
+{% endembed %}
 
-{% embed url="https://forecastegy.com/posts/gaussian-process-for-time-series-forecasting-in-python/" %}
-
-{% embed url="http://adamian.github.io/talks/Damianou_GP_tutorial.html" %}
-
-{% embed url="https://random-matrix-learning.github.io/" %}
+{% embed url="https://www.youtube.com/watch?v=eiP3oJ0Lkbs" %}
+[https://www.youtube.com/watch?v=eiP3oJ0Lkbs](https://www.youtube.com/watch?v=eiP3oJ0Lkbs)
+{% endembed %}
 
 {% embed url="https://www.youtube.com/watch?v=kbK53gkPaRQ" %}
-[https://www.youtube.com/watch?v=kbK53gkPaRQ](https://www.youtube.com/watch?v=kbK53gkPaRQ)
+Write a caption ​ ​[https://www.youtube.com/watch?v=kbK53gkPaRQ](https://www.youtube.com/watch?v=kbK53gkPaRQ)
 {% endembed %}
 
 _<mark style="color:red;">**OPTIONAL:**</mark>_
