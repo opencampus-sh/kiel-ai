@@ -4,6 +4,8 @@ description: Continue working on your semester project !!!
 
 # Week 5 - Dependence concepts: Copula // Gaussian Processes // RMT
 
+
+
 Try to answer/motivate these questions:
 
 What is you idea/topic?
@@ -26,8 +28,20 @@ Is there something special you want to forecast?
 [https://www.youtube.com/playlist?list=PLmZlBIcArwhMJoGk5zpiRlkaHUqy5dLzL](https://www.youtube.com/playlist?list=PLmZlBIcArwhMJoGk5zpiRlkaHUqy5dLzL)
 {% endembed %}
 
+{% embed url="https://www.youtube.com/watch?v=q222maQaPYo" %}
+[https://www.youtube.com/watch?v=q222maQaPYo](https://www.youtube.com/watch?v=q222maQaPYo)
+{% endembed %}
+
 {% embed url="https://www.youtube.com/watch?v=S31E-ftRfQI&list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK&index=24" %}
 [https://www.youtube.com/watch?v=S31E-ftRfQI\&list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK\&index=24](https://www.youtube.com/watch?v=S31E-ftRfQI\&list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK\&index=24)
+{% endembed %}
+
+{% embed url="https://www.youtube.com/watch?v=u1vLJBwOFC8&list=PLZsOBAyNTZwYE5IM1g_3yNXuxaH_QRSoJ" %}
+[https://www.youtube.com/watch?v=u1vLJBwOFC8\&list=PLZsOBAyNTZwYE5IM1g\_3yNXuxaH\_QRSoJ](https://www.youtube.com/watch?v=u1vLJBwOFC8\&list=PLZsOBAyNTZwYE5IM1g\_3yNXuxaH\_QRSoJ)
+{% endembed %}
+
+{% embed url="https://www.youtube.com/watch?v=6S2v7G-OupA" %}
+[https://www.youtube.com/watch?v=6S2v7G-OupA](https://www.youtube.com/watch?v=6S2v7G-OupA)
 {% endembed %}
 
 {% embed url="https://www.youtube.com/watch?v=pkZhtscaX1M" %}
