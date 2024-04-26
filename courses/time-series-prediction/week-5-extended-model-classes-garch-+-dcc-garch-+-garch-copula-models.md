@@ -18,6 +18,10 @@ Is there something special you want to forecast?
 [https://www.youtube.com/playlist?list=PLvy\_Rp6CaRZRCOzlPVL4SpjPiqm80KIpH](https://www.youtube.com/playlist?list=PLvy\_Rp6CaRZRCOzlPVL4SpjPiqm80KIpH)
 {% endembed %}
 
+{% embed url="https://www.youtube.com/watch?v=_K1OsqCicBY" %}
+[https://www.youtube.com/watch?v=\_K1OsqCicBY](https://www.youtube.com/watch?v=\_K1OsqCicBY)
+{% endembed %}
+
 {% embed url="https://www.youtube.com/playlist?list=PLmZlBIcArwhMJoGk5zpiRlkaHUqy5dLzL" %}
 [https://www.youtube.com/playlist?list=PLmZlBIcArwhMJoGk5zpiRlkaHUqy5dLzL](https://www.youtube.com/playlist?list=PLmZlBIcArwhMJoGk5zpiRlkaHUqy5dLzL)
 {% endembed %}
