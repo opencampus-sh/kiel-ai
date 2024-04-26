@@ -1,4 +1,4 @@
-# Woche 2 - Grafische Darstellung von Daten
+# Woche 2 - Import und Visualisierung von Daten
 
 ### Diese Woche werden wir...
 
@@ -12,7 +12,7 @@ folgende Themen behandeln:
 
 ### Lernressourcen
 
-{% file src="../../.gitbook/assets/230425_Grafische Darstellung von Daten.pdf" %}
+{% file src="../../.gitbook/assets/240425_Grafische Darstellung von Daten.pdf" %}
 
 * [How to Set up VS Code for Data Science and AI](https://youtu.be/zulGMYg0v6U)
 * [Copilot explained in less than 5 minutes](https://youtu.be/jXp5D5ZnxGM)
@@ -23,6 +23,7 @@ folgende Themen behandeln:
 
 * [x] [diese](https://campus.datacamp.com/courses/data-manipulation-with-pandas/transforming-dataframes)[ Einführung](https://campus.datacamp.com/courses/data-manipulation-with-pandas/transforming-dataframes) zum Arbeiten mit Pandas durcharbeiten (nur Lektion 1).
 * [x] [dieses Video](https://www.youtube.com/watch?v=dUpyC40cF6Q\&list=PLUaB-1hjhk8FE\_XZ87vPPSfHqb6OcM0cF\&index=58) zum Importieren von Daten als Pandas-Dataframe schauen (18 Minuten).
+* [x] [diese Einführung](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib) zum Erstellen von Visualisierungen mit Matplotlib durcharbeiten (nur Lektion 1).
 * [x] [dieses Video](https://www.youtube.com/watch?v=tFWsuO9f74o) (4 Minuten) anschauen, um die Relevanz von Konfidenz-Intervallen zu verstehen.\
 
 * [x] einen GitHub Codespace anlegen und dort die Dateien „kiwo.csv“, „umsatzdaten\_gekuerzt.csv“ und „wetter.csv“ aus [diesem Github-Repository](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml) speichern.
