@@ -18,7 +18,9 @@ Is there something special you want to forecast?
 [https://www.youtube.com/playlist?list=PLvy\_Rp6CaRZRCOzlPVL4SpjPiqm80KIpH](https://www.youtube.com/playlist?list=PLvy\_Rp6CaRZRCOzlPVL4SpjPiqm80KIpH)
 {% endembed %}
 
-{% embed url="https://rtavenar.github.io/blog/dtw.html" %}
+{% embed url="https://www.youtube.com/playlist?list=PLmZlBIcArwhMJoGk5zpiRlkaHUqy5dLzL" %}
+[https://www.youtube.com/playlist?list=PLmZlBIcArwhMJoGk5zpiRlkaHUqy5dLzL](https://www.youtube.com/playlist?list=PLmZlBIcArwhMJoGk5zpiRlkaHUqy5dLzL)
+{% endembed %}
 
 {% embed url="https://www.youtube.com/watch?v=S31E-ftRfQI&list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK&index=24" %}
 [https://www.youtube.com/watch?v=S31E-ftRfQI\&list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK\&index=24](https://www.youtube.com/watch?v=S31E-ftRfQI\&list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK\&index=24)

@@ -30,7 +30,9 @@ description: Continue working on your semester project !!!
 [https://www.youtube.com/watch?v=RZQJk0hf3sI](https://www.youtube.com/watch?v=RZQJk0hf3sI)
 {% endembed %}
 
-
+{% embed url="https://www.youtube.com/playlist?list=PLmZlBIcArwhOPR2s-FIR7WoqNaBML233s" %}
+[https://www.youtube.com/playlist?list=PLmZlBIcArwhOPR2s-FIR7WoqNaBML233s](https://www.youtube.com/playlist?list=PLmZlBIcArwhOPR2s-FIR7WoqNaBML233s)
+{% endembed %}
 
 
 
