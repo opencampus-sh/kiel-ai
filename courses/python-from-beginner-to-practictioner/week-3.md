@@ -4,7 +4,7 @@
 
 Homework:
 
-* Do days 2 & 3 of the course
+* Do days 4 & 5 of the course
   * Watch the videos
   * Do the interactive coding exercises (Replit & Auditorium)
 
