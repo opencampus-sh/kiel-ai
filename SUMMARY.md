@@ -13,7 +13,7 @@
   * [Woche 1 - Einführung in Data Science](courses/einfuehrung/woche-1.md)
   * [Woche 2 - Import und Visualisierung von Daten](courses/einfuehrung/woche-2.md)
   * [Woche 3 - Versionierung mit git (Teil 1) und Datenaufbereitung](courses/einfuehrung/woche-3-r-projekte-und-versionierung-mit-git-und-github.md)
-  * [Woche 4 - Versionierung mit git (Teil 2) und Einführung in das maschinelle Lernen](courses/einfuehrung/woche-4-datenaufbereitung-mit-tidyverse.md)
+  * [Woche 4 - Versionierung mit git (Teil 2) und Trainingsarten des maschinellen Lernens](courses/einfuehrung/woche-4-datenaufbereitung-mit-tidyverse.md)
   * [Woche 5 - Einführung in das maschinelle Lernen](courses/einfuehrung/woche-5-einfuehrung-in-das-maschinelle-lernen.md)
   * [Woche 6 - Overfitting und Regularisierung](courses/einfuehrung/woche-6-overfitting-und-regularisierung.md)
   * [Woche 7 - Neuronale Netze](courses/einfuehrung/woche-7-neuronale-netze-und-deep-learning.md)
