@@ -7,7 +7,7 @@ folgende Themen behandeln:
 * Besprechung der Übungsaufgaben der vergangenen Woche
 * Einführung in die Versionierung mit git (Teil 1)
 * Datenaufebereitungsschritte für das maschinelle Lernen
-* Zusammenführung von Dateien
+* Zusammenführung von Dataframes
 
 ### Lernressourcen
 
