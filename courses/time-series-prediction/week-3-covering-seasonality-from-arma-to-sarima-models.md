@@ -28,6 +28,8 @@ Formulate some questions about things you do not know
 [https://www.youtube.com/watch?v=s2K1JfNR7Sc](https://www.youtube.com/watch?v=s2K1JfNR7Sc)
 {% endembed %}
 
+{% embed url="https://towardsdatascience.com/understanding-audio-data-fourier-transform-fft-spectrogram-and-speech-recognition-a4072d228520" %}
+
 _<mark style="color:red;">**OPTIONAL:**</mark>_
 
 {% embed url="https://www.youtube.com/playlist?list=PL6Vi_EcJpt8E96_JTKoOKY3HYWVGjf6b4" %}
