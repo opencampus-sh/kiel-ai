@@ -2,6 +2,14 @@
 
 Please to do until the next session:
 
+* Do days 6 & 7 of the course
+  * Watch the videos
+  * Do the interactive coding exercises (Replit & Auditorium)
+
+***
+
+### Totally Optional
+
 * **Watch lecture 3 of the Havard Python Course:**
 
 {% embed url="https://cs50.harvard.edu/python/2022/weeks/3/" %}
