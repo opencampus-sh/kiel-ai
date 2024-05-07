@@ -1,6 +1,8 @@
 # Week 4
 
-Please to do until the next session:
+### To-Do
+
+Homework:
 
 * Do days 6 & 7 of the course
   * Watch the videos
