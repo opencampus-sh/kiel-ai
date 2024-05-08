@@ -4,6 +4,8 @@
 
 
 
+
+
 Work on your semester project !!!
 
 Plot your data...    ;-)
@@ -31,6 +33,14 @@ Formulate some questions about things you do not know
 {% embed url="https://towardsdatascience.com/understanding-audio-data-fourier-transform-fft-spectrogram-and-speech-recognition-a4072d228520" %}
 
 _<mark style="color:red;">**OPTIONAL:**</mark>_
+
+{% embed url="https://www.youtube.com/@iain_explains/playlists" %}
+[https://www.youtube.com/@iain\_explains/playlists](https://www.youtube.com/@iain\_explains/playlists)
+{% endembed %}
+
+{% embed url="https://media.ed.ac.uk/channel/Probability++Estimation+Theory+and++Random+Signals+(PETARS)/174860421" %}
+[https://media.ed.ac.uk/channel/Probability++Estimation+Theory+and++Random+Signals+%28PETARS%29/174860421](https://media.ed.ac.uk/channel/Probability++Estimation+Theory+and++Random+Signals+\(PETARS\)/174860421)
+{% endembed %}
 
 {% embed url="https://www.youtube.com/playlist?list=PL6Vi_EcJpt8E96_JTKoOKY3HYWVGjf6b4" %}
 [https://www.youtube.com/playlist?list=PL6Vi\_EcJpt8E96\_JTKoOKY3HYWVGjf6b4](https://www.youtube.com/playlist?list=PL6Vi\_EcJpt8E96\_JTKoOKY3HYWVGjf6b4)
