@@ -34,6 +34,10 @@ Formulate some questions about things you do not know
 
 _<mark style="color:red;">**OPTIONAL:**</mark>_
 
+{% embed url="https://academic.oup.com/book/16563" %}
+[https://academic.oup.com/book/16563](https://academic.oup.com/book/16563)
+{% endembed %}
+
 {% embed url="https://www.youtube.com/@iain_explains/playlists" %}
 [https://www.youtube.com/@iain\_explains/playlists](https://www.youtube.com/@iain\_explains/playlists)
 {% endembed %}
