@@ -19,6 +19,9 @@ folgende Themen behandeln:
 * [x] für eine Einführung in die Möglichkeiten von Regular Expressions, [dieses](https://youtu.be/DRR9fOXkfRE) Video (11 Minuten) schauen.
 * [x] [dieses](https://www.youtube.com/watch?v=7fIP5aM6hyc)[ ](https://www.youtube.com/watch?v=7fIP5aM6hyc)[Video](https://www.youtube.com/watch?v=7fIP5aM6hyc) zu Git in VS Code schauen.\
 
+* [x] [dieses Video](https://vimeo.com/944374865?share=copy) (3 Minuten) schauen und eine Person im Team bestimmen, die wie dort gezeigt, ein Team-Repository anlegt.
+* [x] [dieses Video](https://vimeo.com/944377598?share=copy) (2 Minuten) schauen, um einen Github Codespace auf Basis Eures Team-Repositories anzulegen.\
+
 * [x] die Dateien `umsatzdaten_gekuerzt.csv`, `kiwo.csv` und `wetter.csv` und in einem Pandas Dataframe zusammenführen.
 * [x] Euch im Team treffen und aufteilen, wer für welche Variablen deskriptive Statistiken und Visualisierungen erstellt.
 * [x] deskriptive Statistiken und Visualisierungen zu den jeweiligen Variablen erstellen.
