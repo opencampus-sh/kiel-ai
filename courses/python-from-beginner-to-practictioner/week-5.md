@@ -1,6 +1,20 @@
 # Week 5
 
-Please to do until the next session:
+### To-Do
+
+Homework:
+
+* Do days 8, 9 & 10 of the course
+  * Watch the videos
+  * Do the interactive coding exercises (Replit & Auditorium)
+
+### Optional
+
+* Do day 11 of the course (Project Black Jack)
+
+***
+
+### Totally Optional
 
 * **Watch lecture 4 of the Havard Python Course:**
 
