@@ -1,8 +1,21 @@
 # Week 6
 
-**We will change order compared to the online material! Week 5 will be due to next week.**
+### To-Do
 
-Please to do until the next session:
+Homework:
+
+* Do days 12 & 13 of the course
+  * Watch the videos
+  * Do the interactive coding exercises (Replit & Auditorium)
+* Watch the videos for day 15 for explanation of the terms IDE and Python Environment
+* Download and Install the Anaconda Distribution:
+  * [https://www.anaconda.com/download/success](https://www.anaconda.com/download/success)
+  * You should be able to launch the Anaconda Navigator locally
+  * We will continue setup in the next session
+
+***
+
+### Totally Optional
 
 * **Watch lecture 6 of the Havard Python Course:**
 
