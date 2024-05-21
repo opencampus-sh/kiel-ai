@@ -8,6 +8,7 @@ Homework:
   * Watch the videos
   * Do the interactive coding exercises (Replit & Auditorium)
 * Watch the videos for day 15 for explanation of the terms IDE and Python Environment
+* **We will use a different setup method:**
 * Download and Install the Anaconda Distribution:
   * [https://www.anaconda.com/download/success](https://www.anaconda.com/download/success)
   * You should be able to launch the Anaconda Navigator locally
