@@ -7,7 +7,7 @@ Homework:
 * Decide for one of the two final projects (they will be shown on your certificate)
   * Knowledge Cards: Flash Card Tool
   * Digital Pet: Interactive Virtual Companion
-* List out what data the program has to handle (e.g. flash card with, pet stats like hunger) and the matching data structures you need in python
+* List out what data the program has to handle (e.g. flash card with front and back, pet stats like hunger) and the matching data structures you need in python
 * Create a flow chart for the program, like you have seen with hangman in the course:
 
 <figure><img src="../../.gitbook/assets/Solution+-+Hangman+Flowchart+1(1) (1).png" alt="Hangman Flow Chart" width="375"><figcaption><p>Flow Chart for the hangman program</p></figcaption></figure>
