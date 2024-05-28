@@ -19,7 +19,7 @@ Homework:
 ### Local Setup Instructions
 
 * Install Anaconda Distribution and Visual Studio Code
-  * https://www.anaconda.com/download/success & https://code.visualstudio.com/
+  * [https://www.anaconda.com/download/success](https://www.anaconda.com/download/success) & [https://code.visualstudio.com/](https://code.visualstudio.com/)
   * Mac users: Move from Downloads to Applications to install VS Code system-wide
 * Launch Anaconda Navigator
   * Under Environments create a new environment, e.g. _python\_course_, with a recent version of python (> 3.10)
