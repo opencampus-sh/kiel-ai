@@ -12,7 +12,24 @@ Homework:
 * Download and Install the Anaconda Distribution:
   * [https://www.anaconda.com/download/success](https://www.anaconda.com/download/success)
   * You should be able to launch the Anaconda Navigator locally
-  * We will continue setup in the next session
+  * We will continue setup in the next session (instructions below)
+
+***
+
+### Local Setup Instructions
+
+* Install Anaconda Distribution and Visual Studio Code
+  * https://www.anaconda.com/download/success & https://code.visualstudio.com/
+  * Mac users: Move from Downloads to Applications to install VS Code system-wide
+* Launch Anaconda Navigator
+  * Under Environments create a new environment, e.g. _python\_course_, with a recent version of python (> 3.10)
+  * In the package listing for the environment change filter from „installed“ to „all“ then search and install the package _ipykernel_
+  * Under Home launch VS Code (if not available launch it from system)
+* In VS Code:
+  * Install the extensions _Python_ and _Jupyter_ (both signed by Microsoft)
+  * Create a new file: File > New File > Jupyter Notebook
+  * Select Kernel > Another Kernel > Python Environments > _python\_course_ or whichever environment you just created
+* Start Coding!
 
 ***
 
