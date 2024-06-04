@@ -1,6 +1,20 @@
 # Week 8
 
-Please to do until the next session:
+_**Note1:** Object Oriented Programming is a difficult but powerful concept, please take your time to revise the topic!_
+
+_**Note 2:** If you want to install packages in the environment we set up during the course, you can do so by running_ `%pip install`_`package_name` (notice the %-sign!) e.g._ `%pip install PrettyTable` _in one of your notebook cells after you selected the environment. This is only needed once, after that it can always be reimported with_ `import`_._
+
+### To-Do
+
+Homework:
+
+* Do days 16 and 17 of the course
+  * Watch the videos
+  * Do the interactive coding exercises (Replit & Auditorium)
+
+***
+
+### Totally Optional:
 
 * **Watch lecture 8 of the Havard Python Course:**
 
