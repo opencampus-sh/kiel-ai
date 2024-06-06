@@ -4,14 +4,14 @@
 
 folgende Themen behandeln:
 
-* Hyperparameter in neuronalen Netzen
-* Frameworks zur Implementierung von NN
+* Hyperparameter in Neuronalen Netzen
+* Frameworks zur Implementierung von Neuronalen Netzen
 * Datenaufbereitung für TensorFlow
-* Optimierung eines neuronalen Netzes mit Python und TensprFlow in Google Colab
+* Optimierung eines neuronalen Netzes mit Python und TensorFlow
 
 ### Lernressourcen
 
-{% file src="../../.gitbook/assets/231219_Neuronale Netze.pdf" %}
+{% file src="../../.gitbook/assets/240606_Neuronale Netze.pdf" %}
 
 * [Video](https://www.youtube.com/watch?v=GvQwE2OhL8I) (12 Minuten) zur Einführung in Neuronale Netze
 * [Notebook](https://colab.research.google.com/github/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Neuronale%20Netze/neural\_net\_data\_preparation.ipynb) zur Datenaufbereitung für TensorFlow
