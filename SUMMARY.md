@@ -85,6 +85,7 @@
   * [Week 3 - Fine-Tuning Characteristics](courses/application-of-transformer-models/week-3-fine-tuning-characteristics.md)
   * [Week 4 - Model Evaluation](courses/application-of-transformer-models/week-4-model-evaluation.md)
   * [Week 8 - Tokenization for Instruction Tuning](courses/application-of-transformer-models/week-8-tokenization-for-instruction-tuning.md)
+  * [Week 9 - Efficient Inference](courses/application-of-transformer-models/week-9-efficient-inference.md)
 * [Archive](courses/archive/README.md)
   * [Deep Learning from Scratch](courses/archive/deep-learning/README.md)
     * [Requirements for a Certificate of Achievement or ECTS](courses/archive/deep-learning/requirements-for-a-certificate-of-achievement-or-ects.md)
