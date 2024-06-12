@@ -8,7 +8,3 @@ Homework:
 * Watch the videos
 * Do the interactive coding exercises (Replit & Auditorium)
 
-***
-
-### Totally Optional
-
