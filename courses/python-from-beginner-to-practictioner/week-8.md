@@ -12,8 +12,6 @@ Homework:
   * Watch the videos
   * Do the interactive coding exercises (Replit & Auditorium)
 
-**Next week we will have our course meetup, see the Mattermost chat for details!**
-
 ***
 
 ### Totally Optional:
