@@ -5,21 +5,16 @@
 folgende Themen behandeln:&#x20;
 
 * Wiederholung Neuronaler Netze (NN)
-* Verschiedene Layer zur Implementierung eines NN
-* Hot-Deck-Imputation
-* Imputation durch Iterative Regression
+* Umsetzung eines Dropout Layer
+* Visualisierung von fehlenden Werten
+* Verschiedene Imputationsverfahren
 
 ### Lernressourcen
 
-{% file src="../../.gitbook/assets/240109_Fehlende Werte.pdf" %}
+{% file src="../../.gitbook/assets/240613_Fehlende Werte.pdf" %}
 
-* [Beispiel ](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Fehlende%20Werte/missing-data.R)zur Behandlung von fehlenden Werten mit dem package VIM
-* [Lektion 1](https://www.datacamp.com/courses/dealing-with-missing-data-in-r) des Data Camp Kurses "Dealing with Missing Data in R"
-
-Bonus:
-
-* Ressourcen zu Support-Vektor-Maschinen am Ende der PDF-Slides von dieser Woche
-* [Beispiel ](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/tree/main/Woche%206)zur Schätzung einer Support-Vektor-Maschine für Hauspreise
+* [Beispielnotebook](https://colab.research.google.com/github/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Fehlende%20Werte/missing\_value\_imputation.ipynb) zur Behandlung von fehlenden Werten
+* [Lektion 1](https://campus.datacamp.com/courses/dealing-with-missing-data-in-python/) dieses Kurses bei datacamp
 
 ### Bis zur nächsten Woche solltet Ihr...
 
