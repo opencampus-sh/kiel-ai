@@ -65,7 +65,7 @@
   * [Week 11 - LLM for time series problems](courses/time-series-prediction/week-11-prophet-facebook-+-deepar-deepgpvar-amazon.md)
   * [Week 12 - Final Presentations](courses/time-series-prediction/week-12-transformers-+-tfts.md)
   * [Week 13 - Final Presentations (Back-Up)](courses/time-series-prediction/week-13-nbeats-s-+-nhits-x.md)
-* [Python: From Beginner to Practictioner](courses/python-from-beginner-to-practictioner/README.md)
+* [Python: From Beginner to Practitioner](courses/python-from-beginner-to-practictioner/README.md)
   * [Course Info](courses/python-from-beginner-to-practictioner/course-info.md)
   * [Week 1](courses/python-from-beginner-to-practictioner/week-1.md)
   * [Week 2](courses/python-from-beginner-to-practictioner/week-2.md)
