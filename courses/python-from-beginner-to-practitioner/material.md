@@ -8,6 +8,7 @@
 * Week 5 (Functions and While-Loops): [https://colab.research.google.com/drive/1oQkomT8uQp20B4fmDg6gFEPonx4hApZm?usp=sharing](https://colab.research.google.com/drive/1oQkomT8uQp20B4fmDg6gFEPonx4hApZm?usp=sharing)
 * Week 6 (Functions II and Dicts): [https://colab.research.google.com/drive/1QTr36wQtWhk\_u5vGn8Yvl\_h4ZyKzZ8lq?usp=sharing](https://colab.research.google.com/drive/1QTr36wQtWhk\_u5vGn8Yvl\_h4ZyKzZ8lq?usp=sharing)
 * Weeks 9 & 11 (OOP): [https://colab.research.google.com/drive/14Dj\_N1VPnDALbhWnWwta\_XASPHCyur3Y?usp=sharing](https://colab.research.google.com/drive/14Dj\_N1VPnDALbhWnWwta\_XASPHCyur3Y?usp=sharing)
+* Week 12 (File IO with JSON): [https://colab.research.google.com/drive/1GMCuT08e1bgtG7ffQL5eGaJfbitrq11E?usp=sharing](https://colab.research.google.com/drive/1GMCuT08e1bgtG7ffQL5eGaJfbitrq11E?usp=sharing)
 
 ### Solutions (for the totally optional exercises)
 
