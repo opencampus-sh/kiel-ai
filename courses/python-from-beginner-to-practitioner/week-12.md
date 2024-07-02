@@ -18,3 +18,12 @@ Homework:
 * You can alternatively upload a zip file containing the Jupyter Notebook and needed project files (own libraries, ressources)&#x20;
 * In a group project it should become clear, who participated and who worked on what part
 
+#### General remarks on the project
+
+* The project should at least look and feel like the Projects you build in the course
+* Use a GUI
+  * Turtles at least, it has been demonstrated
+  * Pygame is not difficult either
+  * Tkinter? Others?
+* Use of libraries is encouraged!
+
