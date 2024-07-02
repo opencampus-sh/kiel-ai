@@ -5,6 +5,7 @@
 Homework:
 
 * Prepare slides for a three minute presentation of your project progress
+* Upload the PDF in the Mattermost channel
 
 ### Final Project
 
