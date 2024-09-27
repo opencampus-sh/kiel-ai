@@ -16,7 +16,7 @@
 
 - complete the two assignments in the following notebooks:
 
-  - TBD
+  - [Assignment Notebook](https://colab.research.google.com/github.com/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-05/Week5_NLP_Sentiment_Analysis_Excersise.ipynb)
 
 - investigate the characteristics of your dataset according to the instructions given [here](https://github.com/opencampus-sh/ml-project-template/blob/main/1_DatasetCharacteristics/INSTRUCTIONS.md).
 
