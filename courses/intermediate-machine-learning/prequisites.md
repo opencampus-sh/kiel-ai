@@ -1,6 +1,6 @@
 # Prequisites
 
-There are certain requirements which form the basis for a successful course participation. If you do not have the mandatory requirements listed below, considering enrolling in a more basic course of our offerings. Alternatively bring yourself up to speed. Under additional ressources on the left sidebar you find the necessary ressources. Since the course has a really high pace it will be absolutely necessary to straighten these basic requirements **before** the course!
+There are certain requirements which form the basis for a successful course participation. If you do not have the mandatory requirements listed below, you should consider enrolling in a more basic course of our offerings. Alternatively bring yourself up to speed. Under additional ressources on the left sidebar you find the necessary ressources. Since the course has a really high pace it will be absolutely necessary to straighten these basic requirements **before** the course!
 
 ## **Mandatory**
 
