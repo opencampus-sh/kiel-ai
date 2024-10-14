@@ -28,11 +28,9 @@ PyTorch 202 (Lab 02)
 
 Go for your own through the Colab Notebook above (Pytorch202) and try to understand and repeat the steps for your own.
 
-Do Week 2 of the Coursera Course
+Watch the videos on the next page
 
-{% embed url="https://www.coursera.org/learn/machine-learning-duke" %}
-
-The notebook from the Coursera Course of Week 2 can be accessed here:
+Go through the following notebooks and complete the second one (assignment notebook):
 
 {% embed url="https://colab.research.google.com/drive/1Wpr2Zn63BFz4Fy7ViooR_K0mpJkcH9jI?usp=sharing" %}
 The first notebook
@@ -42,7 +40,7 @@ The first notebook
 The assignment notebook
 {% endembed %}
 
-The redundancy between our notebooks and the Coursera notebooks is desired to reintroduce the concepts in a different way and hence enrich your learning experience!
+The redundancy between some notebooks is desired to reintroduce the concepts in a different way and hence enrich your learning experience!
 
 😊😊
 
