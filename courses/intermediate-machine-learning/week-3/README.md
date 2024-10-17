@@ -39,11 +39,11 @@ Presentation from the participants of the MLP from Coursera
 
 😊
 
-Do Week 3 of the Coursera Course
+Watch the videos on the next page
 
-{% embed url="https://www.coursera.org/learn/machine-learning-duke" %}
 
-The notebook from the Coursera Course of Week 3 can be accessed here:
+
+Go through the following notebooks and complete the second one (assignment notebook):
 
 {% embed url="https://colab.research.google.com/drive/11zzm21ctQVyzzy7uZmEYQnGwD05Xy0F8?usp=sharing" %}
 The first notebook
