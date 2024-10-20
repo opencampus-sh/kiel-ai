@@ -3,7 +3,7 @@
 ### This week you will...
 
 * focus fully on your project.
-* prepare potential questions for the instructor team on problems in your current project or on how to potentially improve your results
+* get feedback from the instructor team on problems in your current project or on how to potentially improve your results.
 
 ### Learning Resources
 
