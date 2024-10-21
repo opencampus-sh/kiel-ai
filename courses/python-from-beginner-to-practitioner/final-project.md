@@ -1,15 +1,6 @@
-# Week 12
+# Final Project
 
-### To-Do
-
-Homework:
-
-* Prepare slides for a three minute presentation of your project progress
-* Upload the PDF in the Mattermost channel
-
-### Final Project
-
-* The deadline for submitting your well documented project is the **01/08/2024**
+* The deadline for submitting your well documented project is the **01/03/2025**
 * Your submission should tell a story:
   * What is the goal of the project?
   * What is the roadmap to reach that goal?
