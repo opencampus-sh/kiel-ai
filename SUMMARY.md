@@ -243,6 +243,21 @@
     * [Week 12 - Transformers + TFTs](courses/archive/time-series-prediction/week-12-transformers-+-tfts.md)
     * [Week 13 - NBEATS(s) + NHITS(x)](courses/archive/time-series-prediction/week-13-nbeats-s-+-nhits-x.md)
     * [Week 14 - Final Presentation](courses/archive/time-series-prediction/week-14-final-presentation.md)
+  * [Python: From Beginner to Practitioner (Legacy 2024S)](courses/archive/python-from-beginner-to-practitioner/README.md)
+    * [Course Info](courses/archive/python-from-beginner-to-practitioner/course-info.md)
+    * [Week 1](courses/archive/python-from-beginner-to-practitioner/week-1.md)
+    * [Week 2](courses/archive/python-from-beginner-to-practitioner/week-2.md)
+    * [Week 3](courses/archive/python-from-beginner-to-practitioner/week-3.md)
+    * [Week 4](courses/archive/python-from-beginner-to-practitioner/week-4.md)
+    * [Week 5](courses/archive/python-from-beginner-to-practitioner/week-5.md)
+    * [Week 6](courses/archive/python-from-beginner-to-practitioner/week-6.md)
+    * [Week 7](courses/archive/python-from-beginner-to-practitioner/week-7.md)
+    * [Week 8](courses/archive/python-from-beginner-to-practitioner/week-8.md)
+    * [Week 9](courses/archive/python-from-beginner-to-practitioner/week-9.md)
+    * [Week 10](courses/archive/python-from-beginner-to-practitioner/week-10.md)
+    * [Week 11](courses/archive/python-from-beginner-to-practitioner/week-11.md)
+    * [Week 12](courses/archive/python-from-beginner-to-practitioner/week-12.md)
+    * [Material](courses/archive/python-from-beginner-to-practitioner/material.md)
 
 ## Events
 
