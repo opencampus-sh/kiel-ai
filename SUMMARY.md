@@ -83,7 +83,7 @@
   * [Week 10](courses/python-from-beginner-to-practitioner/week-10.md)
   * [Week 11](courses/python-from-beginner-to-practitioner/week-11.md)
   * [Final Project](courses/python-from-beginner-to-practitioner/week-12.md)
-  * [Resources](courses/python-from-beginner-to-practitioner/resources.md)
+  * [Resources](courses/python-from-beginner-to-practitioner/material.md)
 * [Fine-Tuning and Deployment of Large Language Models](courses/application-of-transformer-models/README.md)
   * [Requirements for a Certificate of Achievement or ECTS](courses/application-of-transformer-models/requirements-for-a-certificate-of-achievement-or-ects.md)
   * [Preparation](courses/application-of-transformer-models/preparation.md)

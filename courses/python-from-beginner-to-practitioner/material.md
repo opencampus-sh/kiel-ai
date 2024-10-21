@@ -1,4 +1,4 @@
-# Material
+# Resources
 
 ### Worklabs
 

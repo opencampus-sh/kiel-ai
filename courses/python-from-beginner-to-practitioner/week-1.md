@@ -1,6 +1,6 @@
 # Week 1
 
-### To-Do
+### To-Do (until 29/10/2024)
 
 * Buy the udemy course (ideally for the lower price) [https://www.udemy.com/course/100-days-of-code](https://www.udemy.com/course/100-days-of-code/)
 * Homework:
