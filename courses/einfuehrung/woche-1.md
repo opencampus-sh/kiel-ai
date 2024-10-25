@@ -10,7 +10,7 @@ eine Einführung zu den folgenden Themen bekommen:
 
 ### Lernressourcen
 
-{% file src="../../.gitbook/assets/240418_Einführung.pdf" %}
+{% file src="../../.gitbook/assets/241024_Einführung.pdf" %}
 
 * [Leitfaden zu Markdown](https://colab.research.google.com/notebooks/markdown\_guide.ipynb)
 * [Übersicht über Colaboratory](https://colab.research.google.com/notebooks/basic\_features\_overview.ipynb)
@@ -29,7 +29,7 @@ eine Einführung zu den folgenden Themen bekommen:
 
 * [x] [dieses Video](https://www.youtube.com/watch?v=9OeznAkyQz4\&list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f\&index=11) zum Arbeiten mit Listen in Python ansehen (18 Minuten).\
 
-* [x] _Optional:_ Falls Euch die Aufbereitung im [Kurs von datacamp](https://campus.datacamp.com/courses/intro-to-python-for-data-science/) gut gefallen hat, könnt Ihr alternativ (oder zusätzlich) auch die übrigen drei Kapitel gratis im Audit-Modus durchgehen (ihr dürft nur keine Übungen abschicken).\
+* [x] [dieses Video](https://youtu.be/zulGMYg0v6U) zur Einrichtung von VS Code speziell für Python und Data Science ansehen (22 Minuten).\
 
 *   [x] die folgenden Aufgaben bearbeiten (siehe auch Präsentation):
 
@@ -39,4 +39,4 @@ eine Einführung zu den folgenden Themen bekommen:
     * Berechne die Durchschnittstemperatur für den Monat Juli.
     * Vergleiche, ob die Monate Juli und Mai sich in ihrer Durchschnittstemperatur signifikant unterscheiden.
 
-    _Denkt daran, dass Ihr jederzeit ChatGPT zur Unterstützung einsetzen könnt, gerade anhand vergleichsweise leichter Aufgaben kann man gut lernen wie man Aufgabenstellungen lösen kann, die man vorher noch nie gemacht hat._
+    _Denkt daran, dass Ihr jederzeit Claude oder ChatGPT zur Unterstützung einsetzen könnt, gerade anhand vergleichsweise leichter Aufgaben kann man dabei gut lernen wie man Aufgabenstellungen lösen kann, die man vorher noch nie gemacht hat._

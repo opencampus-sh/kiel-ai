@@ -12,9 +12,8 @@ folgende Themen behandeln:
 
 ### Lernressourcen
 
-{% file src="../../.gitbook/assets/240425_Grafische Darstellung von Daten.pdf" %}
+{% file src="../../.gitbook/assets/240425_Grafische Darstellung von Daten (1).pdf" %}
 
-* [How to Set up VS Code for Data Science and AI](https://youtu.be/zulGMYg0v6U)
 * [Copilot explained in less than 5 minutes](https://youtu.be/jXp5D5ZnxGM)
 * [Overview on GitHub Copilot in VS Code](https://code.visualstudio.com/docs/copilot/overview)
 * Optionale [lokale Installation von Python und VS Code](https://www.datacamp.com/tutorial/setting-up-vscode-python)
