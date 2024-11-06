@@ -17,6 +17,7 @@ folgende Themen behandeln:
 * [Copilot explained in less than 5 minutes](https://youtu.be/jXp5D5ZnxGM)
 * [Overview on GitHub Copilot in VS Code](https://code.visualstudio.com/docs/copilot/overview)
 * Optionale [lokale Installation von Python und VS Code](https://www.datacamp.com/tutorial/setting-up-vscode-python)
+* [Beispiele](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/02\_Grafische%20Darstellungen/example\_plots.ipynb) für die grafische Darstellung von Daten
 
 ### Bis zur nächsten Woche solltet Ihr...
 
