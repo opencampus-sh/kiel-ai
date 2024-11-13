@@ -14,3 +14,5 @@
 * #### Week 1 (Functions & Variables)
   * [https://colab.research.google.com/drive/1Qn7ZT-\_yr1-PmcsetIZCljvwHb0PmOuc?usp=sharing](https://colab.research.google.com/drive/1Qn7ZT-\_yr1-PmcsetIZCljvwHb0PmOuc?usp=sharing)
   * [https://colab.research.google.com/drive/1xl1mkRB31zBLQhE3DtuVZObZfssDA\_ak?usp=sharing](https://colab.research.google.com/drive/1xl1mkRB31zBLQhE3DtuVZObZfssDA\_ak?usp=sharing)
+* **Week 2 (Conditionals)**
+  * [https://colab.research.google.com/drive/1I72DNw-LS3BJO\_NbkqYyqFZcUsLdFTh\_?usp=sharing](https://colab.research.google.com/drive/1I72DNw-LS3BJO\_NbkqYyqFZcUsLdFTh\_?usp=sharing)
