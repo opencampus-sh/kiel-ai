@@ -5,6 +5,9 @@
 *   **Week 3 (Data Types)**
 
     [https://colab.research.google.com/drive/1QxcbSduin4UkU78\_ev4ZlzyI6dHTTlRO?usp=sharing](https://colab.research.google.com/drive/1QxcbSduin4UkU78\_ev4ZlzyI6dHTTlRO?usp=sharing)
+*   **Week 4 (Loops)**
+
+    [https://colab.research.google.com/drive/1Xu6VKEmJdUJvdmdK1epUo9lkIYFqU7s1?usp=sharing](https://colab.research.google.com/drive/1Xu6VKEmJdUJvdmdK1epUo9lkIYFqU7s1?usp=sharing)
 
 ### Solutions (for the totally optional exercises)
 
