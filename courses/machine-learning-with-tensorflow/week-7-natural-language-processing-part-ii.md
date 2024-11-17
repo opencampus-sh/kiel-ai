@@ -12,8 +12,8 @@
 ### Until next week you should...
 
 * prepare questions for the instructor team on problems in your project or on how to potentially improve your results.
-* decide on an evaluation metric for your project task and evaluate your baseline model.
-* document the evaluation results of your baseline model and the used metric(s) in your project repository.
+* working on the definition of your project's final model(s) and their evaluation according to the instructions given [here](https://github.com/opencampus-sh/ml-project-template/blob/main/3\_Model/INSTRUCTIONS.md)
+* document how you will evaluate your model results
 
 Also, you may already start to...
 

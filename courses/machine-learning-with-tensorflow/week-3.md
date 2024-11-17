@@ -7,11 +7,15 @@
 
 ### Learning Resources
 
+{% file src="../../.gitbook/assets/241114_Introduction to TensorFlow Part-II.pdf" %}
+
 * Week 3 and 4 of the course [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/)
 
 ### Until next week you should...
 
 * complete week 1 and week 2 of the course [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow), including the provided assignments
-* decide on a project for the course (post your ideas in the chat during the week)
+* setup a repository for your project following the instructions given [here](https://opencampus.gitbook.io/opencampus-machine-learning-program/projects/requirements)
+* conduct a literature review according to the instructions given [here](https://github.com/opencampus-sh/ml-project-template/blob/main/0\_LiteratureReview/INSTRUCTIONS.md)
+* document your findings on the literature review according to the instructions of above
 * complete the assignment in the following notebook:
   * [Assignment Notebook](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-03/Assignment\_Week3\_Fast\_Food\_Image\_Classification.ipynb)

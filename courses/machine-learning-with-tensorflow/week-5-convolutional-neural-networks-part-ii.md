@@ -14,5 +14,5 @@
 
 * complete week 1 and week 2 of the course [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
 * complete the exercise assignment in [this notebook](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-05/Week5\_Notebook\_Sentiment140.ipynb)
-* investigate the characteristics of your project's dataset according to the instructions given [here](https://github.com/opencampus-sh/ml-project-template/blob/main/1\_DatasetCharacteristics/INSTRUCTIONS.md).
-* document your findings on the dataset characteristics according to the instructions of above
+* consider a baseline model or a baseline comparison for your project task according to the instructions given [here](https://github.com/opencampus-sh/ml-project-template/blob/main/1\_DatasetCharacteristics/INSTRUCTIONS.md)
+* document your decision according to the instructions given in the link above

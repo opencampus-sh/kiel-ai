@@ -7,17 +7,15 @@
 
 ### Learning Resources
 
-{% file src="../.gitbook/assets/230425_Introduction to TensorFlow Part-I.pdf" %}
-Slides from Week 2
-{% endfile %}
+{% file src="../../.gitbook/assets/30_10_23_Introduction to TensorFlow Part-I.pdf" %}
 
 * Week 1 and 2 of the course [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/)
 * Don't forget to check out the important part of week 2 that is working through [this notebook](https://github.com/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%204%20-%20Lesson%202%20-%20Notebook.ipynb).
 
 ### Until next week you should...
 
-* think about project ideas to present them in class.
 * complete week 3 and week 4 of the course [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/).
+* decide on a project for the course and form groups
 * complete the two assignments in the following notebooks:
   * [Assignment Notebook 1](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-02/Week2\_Notebook1\_Cats\_and\_Dogs.ipynb)
   * [Assignment Notebook 2](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-02/Week2\_Notebook2\_CIFAR-10.ipynb)
