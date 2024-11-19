@@ -12,6 +12,8 @@
 
     [https://colab.research.google.com/drive/1IArpoS4uOn9Y1uhPwpudHIi4dxV-b45I?usp=sharing](https://colab.research.google.com/drive/1IArpoS4uOn9Y1uhPwpudHIi4dxV-b45I?usp=sharing)
 
+<figure><img src="../../.gitbook/assets/Calculator Flowchart.svg" alt=""><figcaption><p>Flowchart for a simple calculator</p></figcaption></figure>
+
 ### Solutions (for the totally optional exercises)
 
 * #### Week 1 (Functions & Variables)
