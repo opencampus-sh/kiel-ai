@@ -8,6 +8,9 @@
 *   **Week 4 (Loops)**
 
     [https://colab.research.google.com/drive/1Xu6VKEmJdUJvdmdK1epUo9lkIYFqU7s1?usp=sharing](https://colab.research.google.com/drive/1Xu6VKEmJdUJvdmdK1epUo9lkIYFqU7s1?usp=sharing)
+*   **Week 5 (Functions I)**
+
+    [https://colab.research.google.com/drive/1IArpoS4uOn9Y1uhPwpudHIi4dxV-b45I?usp=sharing](https://colab.research.google.com/drive/1IArpoS4uOn9Y1uhPwpudHIi4dxV-b45I?usp=sharing)
 
 ### Solutions (for the totally optional exercises)
 
