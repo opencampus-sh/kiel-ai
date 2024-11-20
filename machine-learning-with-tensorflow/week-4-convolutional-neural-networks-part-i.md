@@ -18,7 +18,7 @@
 
 * complete week 3 and week 4 of the course [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
 * complete the assignment in the following notebook:
-  * TBD
+  * [Assignment Notebook](https://colab.research.google.com/github.com/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-04/Week4_Notebook_Rock_Paper_Scissors.ipynb)
 * Setup a repository for your project following the instructions given [here](https://opencampus.gitbook.io/opencampus-machine-learning-program/projects/requirements)
 * conduct a literature review according to the instructions given [here](https://github.com/opencampus-sh/ml-project-template/blob/main/0\_LiteratureReview/INSTRUCTIONS.md).
 * document your findings on the literature review according to the instructions of above
