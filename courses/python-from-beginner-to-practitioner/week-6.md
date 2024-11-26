@@ -14,6 +14,7 @@ Homework:
 Try to follow these instructions as far as possible, but at least step one. In the session we will walk through the setup process.
 
 * Install Anaconda Distribution and Visual Studio Code
+  * (If you are comfortable with the command line, you can just install [Miniconda](https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe), [Navigator](https://docs.anaconda.com/navigator/install/) and VS Code to save on disk space)
   * [https://www.anaconda.com/download/success](https://www.anaconda.com/download/success) & [https://code.visualstudio.com/](https://code.visualstudio.com/)
   * Mac users: Move from Downloads to Applications to install VS Code system-wide
 * Launch Anaconda Navigator
