@@ -14,6 +14,12 @@
 
 <figure><img src="../../.gitbook/assets/Calculator Flowchart.svg" alt=""><figcaption><p>Flowchart for a simple calculator</p></figcaption></figure>
 
+*   **Week 6 (Dictionaries):**
+
+    [https://colab.research.google.com/drive/1yL84PqfmRqsRlAKcweXex4uoqJkHtDuc?usp=sharing](https://colab.research.google.com/drive/1yL84PqfmRqsRlAKcweXex4uoqJkHtDuc?usp=sharing)
+
+
+
 ### Solutions (for the totally optional exercises)
 
 * #### Week 1 (Functions & Variables)
