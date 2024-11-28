@@ -39,7 +39,7 @@ You will be picked up where you are and accompanied until you are able to do you
 This course will give you an overview of neural network and their applications in different fields e.g. working with images, texts, or time series. It is a very hands-on approach and you will get a lot of working examples within the course. It is a perfect start for your project. This course will not stress the underlying principles of machine/deep learning but focus on the application.
 
 As an example of a good fit for the course, \
-Y_ou already have some programming knowledge and are interested in getting hands-on knowledge in how to train and use machine learning algorithms._
+&#x59;_&#x6F;u already have some programming knowledge and are interested in getting hands-on knowledge in how to train and use machine learning algorithms._
 {% endtab %}
 
 {% tab title="Deep Learning" %}
@@ -50,7 +50,7 @@ The course **Deep Learning from Scratch** will give you an overview of the basic
 For the **Advanced Deep Learning** course you should have already completed the Deep Learning from Scratch course or have a comparable level of knowledge.
 
 As an example of a good fit for the **Deep Learning from Scratch** course, \
-_You have knowledge about programming and linear algebra (working with vectors and matrices) and are interested in getting in-depth knowledge on how to implement machine learning algorithms._
+&#xNAN;_&#x59;ou have knowledge about programming and linear algebra (working with vectors and matrices) and are interested in getting in-depth knowledge on how to implement machine learning algorithms._
 {% endtab %}
 
 {% tab title="Special Issue Courses" %}
@@ -62,7 +62,7 @@ For these courses you typically should already have a basic understanding of mac
 In general these courses are a great opportunity to connect with others that are interested in the same issues as you.
 
 As an example of a good fit for the course, \
-_You already have some knowledge about Machine Learning (ideally you followed one of our previous courses) and are interested in learning more about the particular field of Machine Learning._
+&#xNAN;_&#x59;ou already have some knowledge about Machine Learning (ideally you followed one of our previous courses) and are interested in learning more about the particular field of Machine Learning._
 {% endtab %}
 {% endtabs %}
 
