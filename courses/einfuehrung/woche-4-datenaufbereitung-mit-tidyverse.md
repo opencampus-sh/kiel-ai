@@ -13,7 +13,7 @@ folgende Themen behandeln:
 
 {% file src="../../.gitbook/assets/240516_Einführung git (Teil 2) und aktuelle Entwicklungen.pdf" %}
 
-* [Link zum Template Repository](https://github.com/opencampus-sh/repo-template-intro-to-data-science-and-ml/tree/main)
+* [Beispiel](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/interaction%20effect.ipynb) für die Relevanz von Interaktionseffekten
 
 ### Bis zur nächsten Woche solltet Ihr...
 

@@ -15,7 +15,9 @@ folgende Themen behandeln:
 
 {% file src="../../.gitbook/assets/IntroMLandLinReg.ipynb" %}
 
-* [DataCamp Tutorial](https://www.datacamp.com/tutorial/essentials-linear-regression-python) zur Linearen Regression
+* [DataCamp Tutorial](https://www.datacamp.com/tutorial/essentials-linear-regression-python) zur Linearen Regression\
+
+* [Link zum Template Repository](https://github.com/opencampus-sh/repo-template-intro-to-data-science-and-ml/tree/main)
 
 ### Bis zur nächsten Woche solltet Ihr...
 
