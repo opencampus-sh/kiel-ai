@@ -15,7 +15,6 @@ folgende Themen behandeln:
 
 * [Grafisches Tool](https://playground.tensorflow.org/) zur Definition und Schätzung von Neuronalen Netzen für unterschiedliche Beispieldatensätze
 * [Beispiel](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/overfitting.ipynb) für die Auswirkung von Overfitting und Regularisierung
-* [Beispiel](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/interaction%20effect.ipynb) für die Relevanz von Interaktionseffekten
 
 ### Bis zur nächsten Woche solltet Ihr...
 
