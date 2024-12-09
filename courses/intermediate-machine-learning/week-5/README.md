@@ -43,9 +43,9 @@ PyTorch 404 (Lab 04)
 
 😊
 
-Watch first half of Week 5 of the Coursera Course
+Watch the videos on the next page
 
-{% embed url="https://www.coursera.org/learn/machine-learning-duke" %}
+
 
 **Build your own model(s) for the Paddy challenge and try to achieve the best accuracy. Log your results that you can present them in the class!**
 

@@ -32,7 +32,9 @@ Transfer Learning CNN in PyTorchLightning:
 
 😊
 
-Watch the second half of Week 5 of the Coursera Course
+Watch the videos on the next page
+
+
 
 Watch the following Seminar about Transformers:
 
