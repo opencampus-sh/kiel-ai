@@ -1,6 +1,7 @@
 # Final Project
 
 * The deadline for submitting your well documented project is the **01/03/2025**
+* You have to prepare a pitch presentation for the session of **21/01/2025**
 * Your submission should tell a story:
   * What is the goal of the project?
   * What is the roadmap to reach that goal?
