@@ -19,7 +19,7 @@
     [https://colab.research.google.com/drive/1yL84PqfmRqsRlAKcweXex4uoqJkHtDuc?usp=sharing](https://colab.research.google.com/drive/1yL84PqfmRqsRlAKcweXex4uoqJkHtDuc?usp=sharing)
 *   **Week 7 (Jupyter Notebook):**
 
-    [https://colab.research.google.com/drive/12J7pAJYQ\_w23SiPAhXFmZY87eBwuYY0t?usp=sharing](https://colab.research.google.com/drive/12J7pAJYQ_w23SiPAhXFmZY87eBwuYY0t?usp=sharing)
+    [https://colab.research.google.com/drive/10tHG\_qMwrNN8uh1Zt3CoudLkFS6UGEHI?usp=sharing](https://colab.research.google.com/drive/10tHG_qMwrNN8uh1Zt3CoudLkFS6UGEHI?usp=sharing)
 
 
 
