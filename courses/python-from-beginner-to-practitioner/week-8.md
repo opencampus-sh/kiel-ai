@@ -9,6 +9,7 @@ _**Note 2:** If you want to install packages in the environment we set up during
 Homework:
 
 * Do days 16 and 17 of the course
+* Get started with group project (see information on page \*\*Final Project\*\*)
 
 ***
 
