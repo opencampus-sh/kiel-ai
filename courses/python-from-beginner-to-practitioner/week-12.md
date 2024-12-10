@@ -18,3 +18,9 @@
   * Tkinter? Others?
 * Use of libraries is encouraged!
 
+### Model Notebook
+
+Please follow the structure of this notebook for your submission:
+
+{% embed url="https://colab.research.google.com/drive/1D5kCgZIU_o-Vqj9EhhhxliMTuAcbV_g6?usp=sharing" %}
+
