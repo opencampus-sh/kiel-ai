@@ -14,7 +14,7 @@
 
 * The project should at least look and feel like the Projects you build in the course
 * Use a GUI
-  * Turtles at least, it has been demonstrated
+  * Turtles at least, it is demonstrated in the udemy course
   * Pygame is not difficult either
   * Tkinter? Others?
 * Use of libraries is encouraged!
