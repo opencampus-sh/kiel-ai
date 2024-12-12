@@ -14,4 +14,4 @@
 (If you haven't done so already last week.)
 
 * complete week 1 and week 2 of the course [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
-* complete Exercise 1 (_Exercise 2 in the same notebook is for next week_) assignments in [this notebook](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-07-and-08/Week7-8\_Notebook\_Weather-Time-Series.ipynb).
+* complete tasks of the assignment in [this notebook](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-07/Assignment_Week7_Time_Series_Analysis_and_Data_Preprocessing.ipynb).
