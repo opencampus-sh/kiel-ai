@@ -25,4 +25,4 @@ Please follow the structure of this notebook for your submission:
 
 {% embed url="https://colab.research.google.com/drive/1D5kCgZIU_o-Vqj9EhhhxliMTuAcbV_g6?usp=sharing" %}
 
-If you want to include graphics or other files, please contain **everything in one zip file**. The system only accepts **single file uploads**. Subsequent uploads will overwrite previous submissions!
+If you want to include graphics or other files, please contain **everything in one zip file**. The opencampus.sh system only accepts **single file uploads**. Subsequent uploads will overwrite previous submissions!
