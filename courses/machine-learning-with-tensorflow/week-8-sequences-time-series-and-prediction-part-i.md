@@ -13,5 +13,5 @@
 
 * complete week 3 and week 4 of the course [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
 * continue optimizing your final model
-* complete the two assignments in the following notebooks:
-  * TBD
+* complete the tasks in the following notebook:
+  * [Assignment notebook](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-08/Assignment_Week8_Time_Series_Forecasting.ipynb)
