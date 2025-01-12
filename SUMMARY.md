@@ -81,6 +81,7 @@
   * [Week 8](courses/python-from-beginner-to-practitioner/week-8.md)
   * [Week 9](courses/python-from-beginner-to-practitioner/week-9.md)
   * [Week 10](courses/python-from-beginner-to-practitioner/week-10.md)
+  * [Week 11](courses/python-from-beginner-to-practitioner/week-11.md)
   * [Final Project](courses/python-from-beginner-to-practitioner/week-12.md)
   * [Resources](courses/python-from-beginner-to-practitioner/material.md)
 * [Fine-Tuning and Deployment of Large Language Models](courses/application-of-transformer-models/README.md)
