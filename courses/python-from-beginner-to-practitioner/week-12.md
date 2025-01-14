@@ -20,7 +20,7 @@
 
 ### Model Notebook
 
-Please follow the structure of this notebook for your submission:
+Please follow the structure of this notebook for your submission (usage of chapters, introductory block, individual contributions, additional resources like diagrams etc.):
 
 {% embed url="https://colab.research.google.com/drive/1D5kCgZIU_o-Vqj9EhhhxliMTuAcbV_g6?usp=sharing" %}
 
