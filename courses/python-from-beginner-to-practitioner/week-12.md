@@ -14,10 +14,9 @@
 
 * The project should at least look and feel like the Projects you build in the course
 * Use a GUI
-  * Turtles at least, it is demonstrated in the udemy course
+  * E.g. Tkinter (discussed in day 27)
   * Pygame is not difficult either
-  * Tkinter? Others?
-* Use of libraries is encouraged!
+* Use of libraries in general is encouraged!
 
 ### Model Notebook
 
