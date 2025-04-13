@@ -1,11 +1,9 @@
-# Vorbereitung
+# Preparation
 
-### Vor dem ersten Kurstermin solltet Ihr ...
+### Before the first course session, you should ...
 
-* [x] Euch Accounts erstellen für [GitHub](https://docs.github.com/de/get-started/start-your-journey/creating-an-account-on-github), [ChatGPT](https://chatgpt.com/) und [Claude](https://claude.ai/).\
+* [x] create accounts for [GitHub](https://docs.github.com/de/get-started/start-your-journey/creating-an-account-on-github), [ChatGPT](https://chatgpt.com/) and [Claude](https://claude.ai/).\
 
-* [x] über [diesen Link](https://code.visualstudio.com/) VS Code bei Euch auf dem Rechner installieren.\
+* [x] install VS Code on your computer using [this link](https://code.visualstudio.com/).\
 
-* [x] bei datacamp das erste Kapitel des Kurses "[Introduction to Python](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=1)" durcharbeiten.\
-  Dazu müsst Ihr Euch ebenfalls einen (freien) Account bei datacamp registrieren.\
-  Ihr braucht nur das erste Kapitel des Kurses durcharbeiten, das kostenfrei ist.\
+* [x] work through the first chapter of the  "[Introduction to Python](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=1)"  course at datacamp. For this, you also need to register a (free) account at datacamp. You only need to complete the first chapter of the course, which is free.

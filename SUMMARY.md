@@ -7,10 +7,10 @@
 
 ## Courses
 
-* [Einführung in Data Science und maschinelles Lernen](courses/einfuehrung/README.md)
-  * [Bedingungen für ein Leistungszertifikat oder ECTS](courses/einfuehrung/durchzufuehrendes-kursprojekt.md)
-  * [Vorbereitung](courses/einfuehrung/vorbereitung.md)
-  * [Woche 1 - Einführung in Data Science](courses/einfuehrung/woche-1.md)
+* [Introduction to Data Science and Machine Learning](courses/einfuehrung/README.md)
+  * [Conditions for Receiving a Certificate or ECTS](courses/einfuehrung/durchzufuehrendes-kursprojekt.md)
+  * [Preparation](courses/einfuehrung/vorbereitung.md)
+  * [Week 1 - Introduction to Data Science](courses/einfuehrung/woche-1.md)
   * [Woche 2 - Import und Visualisierung von Daten](courses/einfuehrung/woche-2.md)
   * [Woche 3 - Versionierung mit git (Teil 1) und Datenaufbereitung](courses/einfuehrung/woche-3-r-projekte-und-versionierung-mit-git-und-github.md)
   * [Woche 4 - Versionierung mit git (Teil 2) und aktuelle Entwicklungen im Bereich ML](courses/einfuehrung/woche-4-datenaufbereitung-mit-tidyverse.md)
@@ -258,6 +258,19 @@
     * [Week 11](courses/archive/python-from-beginner-to-practitioner/week-11.md)
     * [Week 12](courses/archive/python-from-beginner-to-practitioner/week-12.md)
     * [Material](courses/archive/python-from-beginner-to-practitioner/material.md)
+  * [Einführung in Data Science und maschinelles Lernen](courses/archive/einfuehrung/README.md)
+    * [Bedingungen für ein Leistungszertifikat oder ECTS](courses/archive/einfuehrung/durchzufuehrendes-kursprojekt.md)
+    * [Vorbereitung](courses/archive/einfuehrung/vorbereitung.md)
+    * [Woche 1 - Einführung in Data Science](courses/archive/einfuehrung/woche-1.md)
+    * [Woche 2 - Import und Visualisierung von Daten](courses/archive/einfuehrung/woche-2.md)
+    * [Woche 3 - Versionierung mit git (Teil 1) und Datenaufbereitung](courses/archive/einfuehrung/woche-3-r-projekte-und-versionierung-mit-git-und-github.md)
+    * [Woche 4 - Versionierung mit git (Teil 2) und aktuelle Entwicklungen im Bereich ML](courses/archive/einfuehrung/woche-4-datenaufbereitung-mit-tidyverse.md)
+    * [Woche 5 - Einführung in das maschinelle Lernen](courses/archive/einfuehrung/woche-5-einfuehrung-in-das-maschinelle-lernen.md)
+    * [Woche 6 - Overfitting und Regularisierung](courses/archive/einfuehrung/woche-6-overfitting-und-regularisierung.md)
+    * [Woche 7 - Neuronale Netze](courses/archive/einfuehrung/woche-7-neuronale-netze-und-deep-learning.md)
+    * [Woche 8 - Fehlende Werte](courses/archive/einfuehrung/woche-6-support-vector-maschinen.md)
+    * [Woche 9 - Zeitreihenanalysen](courses/archive/einfuehrung/woche-8-zeitreihenanalysen.md)
+    * [Woche 10 - Projektpräsentationen](courses/archive/einfuehrung/woche-9-projektpraesentationen.md)
 
 ## Events
 

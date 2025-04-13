@@ -1,16 +1,16 @@
-# Week 1 - Introduction to Data Science
+# Woche 1 - Einführung in Data Science
 
-### This week you will...
+### Diese Woche werdet Ihr...
 
-get an introduction to the following topics:
+eine Einführung zu den folgenden Themen bekommen:
 
-* What is data science?&#x20;
+* Was ist Data Science?&#x20;
 * R vs. Python vs. SPSS vs. ...
 * Jupyter Notebooks
 
-### Learning Resources
+### Lernressourcen
 
-{% file src="../../.gitbook/assets/241024_Einführung.pdf" %}
+{% file src="../../../.gitbook/assets/241024_Einführung.pdf" %}
 
 * [Leitfaden zu Markdown](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
 * [Übersicht über Colaboratory](https://colab.research.google.com/notebooks/basic_features_overview.ipynb)

@@ -1,7 +1,8 @@
-# Bedingungen für ein Leistungszertifikat oder ECTS
+# Conditions for Receiving a Certificate or ECTS
 
-Von alle Teilnehmenden wird erwartet, dass sie ein Leistungszertifikat oder ECTS anstreben bzw. am Ende des Kurses die Bedingungen dafür erfüllen. Dies sind die folgenden drei Bedingungen:
+All participants are expected to pursue a certificate of achievement or ECTS credits, that is to fulfill the following conditions to complete the course:
 
-* [x] Anwesenheit an mindestens 80% der Kurstermine (es darf an maximal zwei Terminen gefehlt werden)
-* [x] Präsentation des vorgegebenen Auswertungsprojekts (siehe Beschreibung [hier](https://opencampus.gitbook.io/opencampus-machine-learning-program/courses/einfuehrung/woche-9-projektpraesentationen))
-* [x] Dokumentation des Projektes über ein open Open Source GitHub-Repository (siehe ebenfalls Beschreibung [hier](https://opencampus.gitbook.io/opencampus-machine-learning-program/courses/einfuehrung/woche-9-projektpraesentationen)), zu dem man alle Team-Mitglieder beigetragen haben müssen.
+* [x] Attendance at at least 80% of the course sessions (you may miss a maximum of two sessions)
+* [x] Completion of mandatory milestones defined by the course instructors
+* [x] Presentation of the given data science project (see description [here](woche-9-projektpraesentationen.md))
+* [x] Documentation of the project via an open source GitHub repository (also see description [here](woche-9-projektpraesentationen.md)), to which all team members must have contributed.

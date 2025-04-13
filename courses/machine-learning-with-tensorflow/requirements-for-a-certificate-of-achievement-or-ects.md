@@ -3,6 +3,7 @@
 The conditions to be met in order to receive a Certificate of Achievement (and ECTS) are:
 
 * [x] Attendance to at least 80% of the classes (it is allowed to miss maximum 2 times)
+* [x] Completion of mandatory milestones defined by the course instructors
 * [x] Delivery of a machine learning project based on the TensorFlow API and including the needed documentation.
 
 #### Attendance:
