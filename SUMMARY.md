@@ -71,6 +71,7 @@
   * [Week 13 - Final Presentations (Back-Up)](courses/time-series-prediction/week-13-nbeats-s-+-nhits-x.md)
 * [Python: Beginner to Practitioner](courses/python-25s/README.md)
   * [Week 1](courses/python-25s/week-1.md)
+  * [Resources](courses/python-25s/resources.md)
 * [Fine-Tuning and Deployment of Large Language Models](courses/application-of-transformer-models/README.md)
   * [Requirements for a Certificate of Achievement or ECTS](courses/application-of-transformer-models/requirements-for-a-certificate-of-achievement-or-ects.md)
   * [Preparation](courses/application-of-transformer-models/preparation.md)
