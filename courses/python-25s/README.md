@@ -1,5 +1,5 @@
 ---
-description: Python course in the summer term 2025
+description: Python Course in the Summer Term 2025
 ---
 
 # Python: Beginner to Practitioner
