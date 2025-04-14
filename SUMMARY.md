@@ -69,6 +69,7 @@
   * [Week 11 - LLM for time series problems](courses/time-series-prediction/week-11-prophet-facebook-+-deepar-deepgpvar-amazon.md)
   * [Week 12 - Final Presentations](courses/time-series-prediction/week-12-transformers-+-tfts.md)
   * [Week 13 - Final Presentations (Back-Up)](courses/time-series-prediction/week-13-nbeats-s-+-nhits-x.md)
+* [Python: Beginner to Practitioner](courses/python-25s.md)
 * [Fine-Tuning and Deployment of Large Language Models](courses/application-of-transformer-models/README.md)
   * [Requirements for a Certificate of Achievement or ECTS](courses/application-of-transformer-models/requirements-for-a-certificate-of-achievement-or-ects.md)
   * [Preparation](courses/application-of-transformer-models/preparation.md)
