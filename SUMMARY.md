@@ -51,6 +51,8 @@
   * [Week 7 - Transformers & Hugging Face](courses/intermediate-machine-learning/week-7-transformers-and-hugging-face.md)
   * [Week 8-10 - Kaggle competiton sessions](courses/intermediate-machine-learning/week-10.md)
   * [Week 11 - Final Presentations](courses/intermediate-machine-learning/week-11.md)
+* [From LLMs to AI Agents🤖](courses/from-llms-to-ai-agents/README.md)
+  * [Hello and welcome🤖](courses/from-llms-to-ai-agents/hello-and-welcome.md)
 * [Advanced Time Series Prediction](courses/time-series-prediction/README.md)
   * [Requirements for a Certificate of Achievement or ECTS](courses/time-series-prediction/requirements-for-a-certificate-of-achievement-or-ects.md)
   * [Projects & Frameworks](courses/time-series-prediction/projects.md)
