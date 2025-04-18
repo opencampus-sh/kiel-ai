@@ -1,15 +1,5 @@
----
-description: >-
-  Projects of the students during the last semesters - You can take inspiration
-  from it
----
-
 # Past Projects
 
-We created a page to collect all of the past projects for an easier visualization. We will update that page with the new projects at the end of each semester.
+To get an idea about past projects conducted within the courses of our machine learning degree, you can review the publication attached below, which includes the projects nominated for the VDE Machine Learning Prize in 2025.
 
-You can find them here:
-
-{% embed url="https://opencampus-sh.github.io/oc-ml-projects" %}
-Our project page
-{% endembed %}
+{% file src="../.gitbook/assets/VDE Machine Learning Prize 2025.pdf" %}
