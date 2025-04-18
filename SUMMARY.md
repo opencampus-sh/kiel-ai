@@ -284,11 +284,10 @@
 * [Coding.Waterkant 2023](events/hackathon.md)
 * [Prototyping Week](events/prototyping-week.md)
 
-## Projects
+## Course Projects
 
-* [How to Start, Complete, and Submit Your Project](projects/requirements.md)
-* [Possible Projects](projects/possible-projects.md)
-* [Past Projects](projects/past-projects.md)
+* [Choosing a Project](course-projects/possible-projects.md)
+* [How to Start, Complete, and Submit Your Project](course-projects/requirements.md)
 
 ## Additional Resourses
 

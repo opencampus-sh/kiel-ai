@@ -42,16 +42,16 @@ The project is needed in order to finish the course, and a final presentation wi
 For the complete requirements about the project, check out the Requirement page.
 {% endhint %}
 
-{% content-ref url="../../../projects/requirements.md" %}
-[requirements.md](../../../projects/requirements.md)
+{% content-ref url="../../../course-projects/requirements.md" %}
+[requirements.md](../../../course-projects/requirements.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
 For some example of projects from last years, check out the Past Projects page.
 {% endhint %}
 
-{% content-ref url="../../../projects/past-projects.md" %}
-[past-projects.md](../../../projects/past-projects.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ### The Course Material

@@ -12,4 +12,4 @@ If you attend via Zoom, please make sure to use your full name, which should be 
 
 #### Projects:
 
-Check the [Projects section](../../projects/requirements.md) to learn more about how to get started, complete, and submit you project.
+Check the [Projects section](../../course-projects/requirements.md) to learn more about how to get started, complete, and submit you project.

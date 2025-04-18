@@ -31,7 +31,7 @@ At the CAU Kiel the courses are accepted as "_Wahlpflichtmodule_" via the "_Zent
 
 ### When will I get the ECTS?&#x20;
 
-Once you completed a course and fulfilled the [requirements](projects/requirements.md), you will get a certificate from us. This takes up to 4 weeks after the course completion. After you get a certificate from us, you can use this to get the ECTS (for CAU Student this is an automated process). In order to see the ECTS in your profile, it will take some additional time, usually around 2 to 4 weeks more.
+Once you completed a course and fulfilled the [requirements](course-projects/requirements.md), you will get a certificate from us. This takes up to 4 weeks after the course completion. After you get a certificate from us, you can use this to get the ECTS (for CAU Student this is an automated process). In order to see the ECTS in your profile, it will take some additional time, usually around 2 to 4 weeks more.
 
 ### Are all courses giving ECTS?&#x20;
 
