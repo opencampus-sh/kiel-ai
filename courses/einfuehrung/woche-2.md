@@ -21,14 +21,15 @@ cover the following topics:
 
 ### Until next week you should...
 
-* [x] [diese](https://campus.datacamp.com/courses/data-manipulation-with-pandas/transforming-dataframes)[ Einführung](https://campus.datacamp.com/courses/data-manipulation-with-pandas/transforming-dataframes) zum Arbeiten mit Pandas durcharbeiten (nur Lektion 1).
-* [x] [dieses Video](https://www.youtube.com/watch?v=dUpyC40cF6Q\&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF\&index=58) zum Importieren von Daten als Pandas-Dataframe schauen (18 Minuten).
-* [x] [diese Einführung](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib) zum Erstellen von Visualisierungen mit Matplotlib durcharbeiten (nur Lektion 1).
-* [x] [dieses Video](https://www.youtube.com/watch?v=tFWsuO9f74o) (4 Minuten) anschauen, um die Relevanz von Konfidenz-Intervallen zu verstehen.\
+* [x] work through [this](https://campus.datacamp.com/courses/data-manipulation-with-pandas/transforming-dataframes) introduction to working with Pandas (only Lesson 1).
+* [x] watch [this](https://www.youtube.com/watch?v=dUpyC40cF6Q\&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF\&index=58) video on importing data as a Pandas DataFrame (18 minutes).
+* [x] work through [this](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib) introduction to creating visualizations with Matplotlib (only Lesson 1).
+* [x] watch [this](https://www.youtube.com/watch?v=tFWsuO9f74o) video (4 minutes) to understand the relevance of confidence intervals.\
 
-* [x] einen GitHub Codespace anlegen und dort die Dateien „kiwo.csv“, „umsatzdaten\_gekuerzt.csv“ und „wetter.csv“ aus [diesem Github-Repository](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml) speichern.
-* [x] ein Jupyter-Notebook oder Python-Skript erstellen, das
-  * den Datensatz "umsatzdaten\_gekuerzt.csv" einliest und
-  * mit Hilfe eines Balkendiagramms den Zusammenhang der durschnittlichen Umsätze je Wochentag darstellt.
-* [x] in einem zweiten Schritt zusätzlich Konfidenzintervalle der Umsätze je Wochentag hinzufügen.
-* [x] in einem weiteren Schritt die Wochentage in der Abbildung von Montag bis Sonntag ordnet.\
+* [x] create a GitHub Codespace and save the files 'kiwo.csv', 'umsatzdaten\_gekuerzt.csv', and 'wetter.csv' from this GitHub repository:\
+  [https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml)
+* [x] create a Jupyter notebook that
+  * reads the dataset 'umsatzdaten\_gekuerzt.csv' and
+  * uses a bar chart to show the relationship of average sales per weekday.
+* [x] in a second step, add confidence intervals for the sales per weekday.
+* [x] in a further step, sort the weekdays from Monday to Sunday.
