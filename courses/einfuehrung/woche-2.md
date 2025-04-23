@@ -10,7 +10,7 @@ cover the following topics:
 * Reading data from external sources
 * Chart and scale types
 
-### Learning resources
+### Learning Resources
 
 {% file src="../../.gitbook/assets/241107_Grafische Darstellung von Daten.pdf" %}
 
