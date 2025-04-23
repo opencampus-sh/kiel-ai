@@ -76,6 +76,7 @@
   * [Week 1](courses/python-25s/week-1.md)
   * [Week 2](courses/python-25s/week-2.md)
   * [Resources](courses/python-25s/resources/README.md)
+    * [Worklabs](courses/python-25s/resources/worklabs.md)
     * [Harvard Course](courses/python-25s/resources/harvard-course.md)
 * [Fine-Tuning and Deployment of Large Language Models](courses/application-of-transformer-models/README.md)
   * [Requirements for a Certificate of Achievement or ECTS](courses/application-of-transformer-models/requirements-for-a-certificate-of-achievement-or-ects.md)
