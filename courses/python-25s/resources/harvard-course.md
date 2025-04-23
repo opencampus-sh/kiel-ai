@@ -10,8 +10,8 @@ description: Advanced Material with Additional Assignments (Totally Optional)
 
 **Assignments:**
 
-* ​[https://colab.research.google.com/drive/1Rk6TAFacJJQ4CxM2SF59ezqJj2VkBJ9P?usp=sharing](https://colab.research.google.com/drive/1Rk6TAFacJJQ4CxM2SF59ezqJj2VkBJ9P?usp=sharing)​
-* [https://colab.research.google.com/drive/1pfFP971d3aRHno91KdVTTbywVpUMnMSk?usp=sharing](https://colab.research.google.com/drive/1pfFP971d3aRHno91KdVTTbywVpUMnMSk?usp=sharing)
+* ​[https://colab.research.google.com/drive/1Rk6TAFacJJQ4CxM2SF59ezqJj2VkBJ9P](https://colab.research.google.com/drive/1Rk6TAFacJJQ4CxM2SF59ezqJj2VkBJ9P)​
+* [https://colab.research.google.com/drive/1pfFP971d3aRHno91KdVTTbywVpUMnMSk](https://colab.research.google.com/drive/1pfFP971d3aRHno91KdVTTbywVpUMnMSk)
 
 ### Week 1 (Conditionals)
 
