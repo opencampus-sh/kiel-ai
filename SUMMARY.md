@@ -74,6 +74,7 @@
   * [Week 13 - Final Presentations (Back-Up)](courses/time-series-prediction/week-13-nbeats-s-+-nhits-x.md)
 * [Python: Beginner to Practitioner](courses/python-25s/README.md)
   * [Week 1](courses/python-25s/week-1.md)
+  * [Week 2](courses/python-25s/week-2.md)
   * [Resources](courses/python-25s/resources/README.md)
     * [Harvard Course](courses/python-25s/resources/harvard-course.md)
 * [Fine-Tuning and Deployment of Large Language Models](courses/application-of-transformer-models/README.md)
