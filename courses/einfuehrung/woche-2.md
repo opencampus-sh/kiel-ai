@@ -12,9 +12,9 @@ cover the following topics:
 
 ### Learning Resources
 
-{% file src="../../.gitbook/assets/241107_Grafische Darstellung von Daten.pdf" %}
+{% file src="../../.gitbook/assets/250424_Import and Graphical Representation of Data.pdf" %}
 
-* [Copilot explained in less than 5 minutes](https://youtu.be/jXp5D5ZnxGM)
+* [Get Started with GitHub Copilot in VS Coded](https://www.youtube.com/watch?v=vdBxfFVXnc0)
 * [Overview on GitHub Copilot in VS Code](https://code.visualstudio.com/docs/copilot/overview)
 * Optional [local installation of Python and VS Code](https://www.datacamp.com/tutorial/setting-up-vscode-python)
 * [Examples](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/02_Grafische%20Darstellungen/example_plots.ipynb) for the graphical representation of data
