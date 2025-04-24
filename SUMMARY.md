@@ -54,6 +54,7 @@
 * [From LLMs to AI Agents🤖](courses/from-llms-to-ai-agents/README.md)
   * [Hello and welcome🤖](courses/from-llms-to-ai-agents/hello-and-welcome.md)
   * [Week 1 - Course Introduction](courses/from-llms-to-ai-agents/week-1-course-introduction.md)
+  * [Week2 - RAG +Introduction to frameworks(langchain & llamaindex)](courses/from-llms-to-ai-agents/week2-rag-+introduction-to-frameworks-langchain-and-llamaindex.md)
 * [Advanced Time Series Prediction](courses/time-series-prediction/README.md)
   * [Requirements for a Certificate of Achievement or ECTS](courses/time-series-prediction/requirements-for-a-certificate-of-achievement-or-ects.md)
   * [Projects & Frameworks](courses/time-series-prediction/projects.md)
