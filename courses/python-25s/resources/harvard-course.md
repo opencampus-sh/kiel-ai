@@ -21,3 +21,11 @@ description: Advanced Material with Additional Assignments (Totally Optional)
 
 * [https://colab.research.google.com/drive/1HVemFckA3FqYe3DdirA3tYJYTx5\_Pvga](https://colab.research.google.com/drive/1HVemFckA3FqYe3DdirA3tYJYTx5_Pvga)
 
+### Week 2 (Loops)
+
+{% embed url="https://cs50.harvard.edu/python/2022/weeks/2/" %}
+
+**Assignments:**
+
+* ​https://colab.research.google.com/drive/1vC07xaVcj20v7GC-w4vt-2aoOKaeQKuE
+* ​[https://colab.research.google.com/drive/1R6tIPUzGGTvAyyFgkr2xRwGotQXPZP\_L](https://colab.research.google.com/drive/1R6tIPUzGGTvAyyFgkr2xRwGotQXPZP_L?usp=sharing)
