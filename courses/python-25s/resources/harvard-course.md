@@ -27,5 +27,5 @@ description: Advanced Material with Additional Assignments (Totally Optional)
 
 **Assignments:**
 
-* [​https://colab.research.google.com/drive/1vC07xaVcj20v7GC-w4vt-2aoOKaeQKuE](harvard-course.md#week-0-functions)
+* ​\[https://colab.research.google.com/drive/1vC07xaVcj20v7GC-w4vt-2aoOKaeQKuE]\(https://colab.research.google.com/drive/1vC07xaVcj20v7GC-w4vt-2aoOKaeQKuE)
 * ​[https://colab.research.google.com/drive/1R6tIPUzGGTvAyyFgkr2xRwGotQXPZP\_L](https://colab.research.google.com/drive/1R6tIPUzGGTvAyyFgkr2xRwGotQXPZP_L)
