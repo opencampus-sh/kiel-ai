@@ -7,3 +7,7 @@
 ### Week 2 (Data Types):
 
 * [https://colab.research.google.com/drive/19e0d1XQPl\_N-usKunopxeCHWzBH55Mce](https://colab.research.google.com/drive/19e0d1XQPl_N-usKunopxeCHWzBH55Mce)
+
+### Week 3 (For-Loops):
+
+* [https://colab.research.google.com/drive/1N42O0Zouic\_4hm6gk0xjiHYVJQIXUQfJ](https://colab.research.google.com/drive/1N42O0Zouic_4hm6gk0xjiHYVJQIXUQfJ)
