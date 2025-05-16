@@ -9,6 +9,8 @@ cover the following topics:
 * Introduction to Version Control with Git
 * Introduction to Data Preparation
 
+### Learning Resources
+
 {% file src="../../.gitbook/assets/250508_Intro to git and data preparation (1).pdf" %}
 
 ### Until next week you should...

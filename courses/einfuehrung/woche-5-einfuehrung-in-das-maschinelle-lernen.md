@@ -1,15 +1,15 @@
-# Woche 5 - Einführung in das maschinelle Lernen
+# Week 5 - Introduction to Machine Learning
 
-### Diese Woche werden wir...
+### This week we will...
 
-folgende Themen behandeln:
+cover the following topics:
 
 * Charakteristika des maschinellen Lernens
 * Definition der linearen Regression
 * Kostenfunktionen
 * Optimierungsfunktionen
 
-### Lernressourcen
+### Learning Resources
 
 {% file src="../../.gitbook/assets/240523_Intro ML und Linear Regression.pdf" %}
 
@@ -19,7 +19,7 @@ folgende Themen behandeln:
 
 * [Link zum Template Repository](https://github.com/opencampus-sh/repo-template-intro-to-data-science-and-ml/tree/main)
 
-### Bis zur nächsten Woche solltet Ihr...
+### Until next week you should...
 
 * [x] Schaut die ersten drei Videos des Abschnitts „The problem of overfitting[“](https://www.coursera.org/learn/machine-learning/lecture/erGPe/the-problem-of-overfitting) von Woche 3 des Kurses Supervised Machine Learning: Regression and Classification auf Coursera:\
   \- [The Problem of Overfitting](https://www.coursera.org/learn/machine-learning/lecture/erGPe/the-problem-of-overfitting) (12 Minuten)\

@@ -1,27 +1,23 @@
-# Woche 4 - Versionierung mit git (Teil 2) und aktuelle Entwicklungen im Bereich ML
+# Week 4 - Versioning with Git (Part 2) and Current Developments in ML
 
-### Diese Woche werden wir...
+### This week we will...
 
-folgende Themen behandeln:
+cover the following topics:
 
-* Ergänzung der Teams für die Auswertungsprojekte
-* Besprechung der Aufgaben zu dieser Woche
-* Einführung in die Versionierung mit git (Teil 2)
-* Aktuelle KI-Anwendungen
+* Versioning with Git in a Team
+* Important Issues to Consider for Feature Engineering
+* Current ML Developments
 
-### Lernressourcen
+### Learning Resources
 
-{% file src="../../.gitbook/assets/240516_Einführung git (Teil 2) und aktuelle Entwicklungen.pdf" %}
+{% file src="../../.gitbook/assets/250515_Intro to git (Part 2) and current developments.pdf" %}
 
-* [Beispiel](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/interaction%20effect.ipynb) für die Relevanz von Interaktionseffekten
+### Untile next week you should...
 
-### Bis zur nächsten Woche solltet Ihr...
+* [x] Complete the sections on „Linear Regression“ and „Multiple Linear Regression“ from [Module 4 of ](https://www.coursera.org/learn/python-for-data-analytics/home/module/4)[the](https://www.coursera.org/learn/python-for-data-analytics/home/module/4)[ ](https://www.coursera.org/learn/python-for-data-analytics/home/module/4)[course](https://www.coursera.org/learn/python-for-data-analytics/home/module/4)[ Python ](https://www.coursera.org/learn/python-for-data-analytics/home/module/4)[for](https://www.coursera.org/learn/python-for-data-analytics/home/module/4)[ Data Analytics](https://www.coursera.org/learn/python-for-data-analytics/home/module/4) by Deeplearning.ai (about 2 hours).\
 
-* [x] das Kapitel „Creating Features“ [dieses Kurses](https://campus.datacamp.com/courses/feature-engineering-for-machine-learning-in-python/) bei datacamp absolvieren.
-* [x] die erste Woche des Kurses [Supervised](https://www.coursera.org/learn/machine-learning/)[ ](https://www.coursera.org/learn/machine-learning/)[Machine](https://www.coursera.org/learn/machine-learning/)[ Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning/) (ca. 2,5 Stunden) von Andrew Ng auf Coursera absolvieren.\
-
-* [x] Euch im Team treffen, um Ideen zur Umsatzvorhersage zu diskutieren und erste zusätzliche Variablen zu erstellen (auch, ob es Daten gibt, die ihr zusätzlich verwenden könnt).
-* [x] das Verzeichnis "Data Import and Preparation" Eures Team Repositories ergänzen um:
-  * zusätzliche heruntergeladene oder selbst erstellte Daten (z.B. Listen mit Feiertagen)
-  * Code um alle Daten in einem Datensatz zusammenzuführen
-  * Code, um neuen Variablen zu erstellen bzw. bestehende Variablen für die Vorhersage aufzubereiten
+* [x] meet with your team to discuss potential additional variables to be created for sales prediction (including whether there are any additional data sources you can use).
+* [x] update the "Data Import and Preparation" directory in your team repository to include:
+  * Additional downloaded or self-created data (e.g., holiday lists)
+  * Code to merge all data into one dataset
+  * Code to create new variables or prepare existing variables for prediction
