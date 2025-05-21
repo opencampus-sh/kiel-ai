@@ -24,7 +24,7 @@ If you want to use VS Code, please download the installer before the session.
 
 #### Instructions for VS Code
 
-* Install VS Code and then the extensions _Python_ and _Jupyter_ (both by Microsoft)
-* In the file explorer pane open a folder where you want your Project to be stored
+* Install [VS Code](https://code.visualstudio.com/Download) and then the extensions _Python_ and _Jupyter_ (both by Microsoft) from the extensions pane
+* In the file explorer pane open a folder where you want your project to be stored
 * Create a Jupyter Notebook (File > New > Jupyter Notebook)
 * Click on Select Kernel > Python enviroments > New environment > python venv > Python (global)
