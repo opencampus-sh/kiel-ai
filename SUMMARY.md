@@ -14,7 +14,7 @@
   * [Week 2 - Import and Visualization of Data](courses/einfuehrung/woche-2.md)
   * [Week 3 - Versioning with Git (Part 1) and data preparation](courses/einfuehrung/woche-3-r-projekte-und-versionierung-mit-git-und-github.md)
   * [Week 4 - Versioning with Git (Part 2) and Current Developments in ML](courses/einfuehrung/woche-4-datenaufbereitung-mit-tidyverse.md)
-  * [Week 5 - Introduction to Machine Learning](courses/einfuehrung/woche-5-einfuehrung-in-das-maschinelle-lernen.md)
+  * [Week 5 - Introduction to Machine Learning and Linear Regression](courses/einfuehrung/woche-5-einfuehrung-in-das-maschinelle-lernen.md)
   * [Woche 6 - Overfitting und Regularisierung](courses/einfuehrung/woche-6-overfitting-und-regularisierung.md)
   * [Woche 7 - Neuronale Netze](courses/einfuehrung/woche-7-neuronale-netze-und-deep-learning.md)
   * [Woche 8 - Fehlende Werte](courses/einfuehrung/woche-6-support-vector-maschinen.md)

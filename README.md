@@ -9,7 +9,7 @@
 * Discounted or preferred access to events like the Waterkant Festival
 * Access to special network events, for example, to meet potential employers working in the field of machine learning
 
-Typically, we will accept new participants only at the beginning of each semester though. If you are already participating in one of our machine learning courses, you can also get accepted to the program during the semester though. Simply write us an email at [team@kiel.ai](mailto:team@kiel.ai), and we will check your application.\
+Typically, we will accept new participants only at the beginning of each semester though. If you are already participating in one of our machine learning courses, you can also get accepted to the program during the semester though. Simply write us an email at **team@opencampus.sh**, and we will check your application.\
 Also before the start of each semester, we have a special information event, in which we will provide additional details on the program as well as on the specific courses offered in the upcoming semester.
 
 ### What are the requirements to get the degree?
@@ -20,8 +20,8 @@ The program comprises four mandatory elements. To successfully obtain the degree
 
 Completion of 3 or more of the machine learning courses at opencampus.sh with a minimum of 12.5 ECTS in total. (Check the current list of available course [here](https://edu.opencampus.sh/course/158).)
 
-Completion of at least one of the following hackathons:
+Successful participation in at least one of the following events:
 
 * [Prototyping Week](https://starterkitchen.de/ptw/) (participating with an AI project or startup)
-* [Coding.Waterkant](https://coding.waterkant.sh) hackathon
+* [Coding.Waterkant](https://coding.waterkant.sh) coding camp
 
