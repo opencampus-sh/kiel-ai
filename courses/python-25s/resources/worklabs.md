@@ -11,3 +11,11 @@
 ### Week 3 (For-Loops):
 
 * [https://colab.research.google.com/drive/1N42O0Zouic\_4hm6gk0xjiHYVJQIXUQfJ](https://colab.research.google.com/drive/1N42O0Zouic_4hm6gk0xjiHYVJQIXUQfJ)
+
+### Week 4 (Functions):
+
+* [https://colab.research.google.com/drive/1jgP4itfOltBBAWitdJWJrTUzbs4pTQYM](https://colab.research.google.com/drive/1jgP4itfOltBBAWitdJWJrTUzbs4pTQYM)
+
+### Week 5 (Dicts):
+
+* [https://colab.research.google.com/drive/1jSkCSrWFnYqITuYH4g-byJGqjRO9AIQ3](https://colab.research.google.com/drive/1jSkCSrWFnYqITuYH4g-byJGqjRO9AIQ3)
