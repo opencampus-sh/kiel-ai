@@ -9,3 +9,22 @@
 * Optionally:
   * Do days 14 & 15, as these will be skipped and not discussed in the course
 
+### Local Setup Instructions
+
+In the session we will setup PyCharm (and optionally VS Code) to work with Jupyter Notebooks.
+
+If you want to use VS Code, please download the installer before the session.
+
+#### Instructions for PyCharm (Version 2025.1 or newer)
+
+* Open a new project (File > New Project)
+* Select _Pure Python_ and Interpreter Type _Project venv_ and adjust the environment location on disk as needed
+* From the menu create a new file (File > New) and select Jupyter Notebook
+* Pycharm should take care of dependencies automatically
+
+#### Instructions for VS Code
+
+* Install VS Code and then the extensions _Python_ and _Jupyter_ (both by Microsoft)
+* In the file explorer pane open a folder where you want your Project to be stored
+* Create a Jupyter Notebook (File > New > Jupyter Notebook)
+* Click on Select Kernel > Python enviroments > New environment > python venv > Python (global)
