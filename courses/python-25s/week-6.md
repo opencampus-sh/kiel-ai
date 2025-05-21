@@ -20,7 +20,6 @@ If you want to use VS Code, please download the installer before the session.
 * Open a new project (File > New Project)
 * Select _Pure Python_ and Interpreter Type _Project venv_ and adjust the environment location on disk as needed
 * From the menu create a new file (File > New) and select Jupyter Notebook
-* Pycharm should take care of dependencies automatically
 
 #### Instructions for VS Code
 
