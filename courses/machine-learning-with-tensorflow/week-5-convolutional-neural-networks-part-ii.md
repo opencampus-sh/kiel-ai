@@ -8,11 +8,18 @@
 
 ### Learning Resources
 
+
+
+{% file src="../../.gitbook/assets/250522_CNNs in TensorFlow-Part-II.pdf" %}
+Presentation Slides from this week
+{% endfile %}
+
 * Week 3 and 4 of the course [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
 
 ### Until next week you should...
 
 * complete week 1 and week 2 of the course [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
-* complete the exercise assignment in [this notebook](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-05/Week5\_Notebook\_Sentiment140.ipynb)
-* consider a baseline model or a baseline comparison for your project task according to the instructions given [here](https://github.com/opencampus-sh/ml-project-template/blob/main/1\_DatasetCharacteristics/INSTRUCTIONS.md)
-* document your decision according to the instructions given in the link above
+* complete the exercise assignment in [this notebook](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-05/Week5_Notebook_Sentiment140.ipynb)
+* decide on an evaluation metric for your project task and evaluate your baseline model
+* justify why your choice is appropriate for your task
+* document your decision in your GitHub repository
