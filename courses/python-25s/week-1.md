@@ -2,8 +2,9 @@
 
 ### To-Do (until 23/04/2025)
 
-* Buy the udemy course (ideally for the lower price) [https://www.udemy.com/course/100-days-of-code](https://www.udemy.com/course/100-days-of-code)
-* Homework:
-  * Do the first day of the course
-    * Watch the videos
-    * Do the interactive coding exercises
+#### Homework
+
+* Buy the [udemy course](https://www.udemy.com/course/100-days-of-code) (ideally for the lower price, check coupon code at [https://appbrewery.com/](https://appbrewery.com/))&#x20;
+* Do the first day of the course
+  * Watch the videos
+  * Do the interactive coding exercises
