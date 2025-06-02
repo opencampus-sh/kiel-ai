@@ -81,6 +81,7 @@
   * [Week 4](courses/python-25s/week-4.md)
   * [Week 5](courses/python-25s/week-5.md)
   * [Week 6](courses/python-25s/week-6.md)
+  * [Week 7](courses/python-25s/week-7.md)
   * [Resources](courses/python-25s/resources/README.md)
     * [Worklabs](courses/python-25s/resources/worklabs.md)
     * [Solutions](courses/python-25s/resources/solutions.md)
