@@ -26,6 +26,7 @@ If you want to use VS Code, please download the installer before the session.
 * Open a new project (File > New Project)
 * Select _Pure Python_ and Interpreter Type _Project venv_ and adjust the environment location on disk as needed
 * From the menu create a new file (File > New) and select Jupyter Notebook
+* Run a code cell to see that it works (takes some time on first start in a new project, because it installs some dependencies into the project folder's environment)
 
 #### Instructions for VS Code
 
@@ -33,3 +34,9 @@ If you want to use VS Code, please download the installer before the session.
 * In the file explorer pane open a folder where you want your project to be stored
 * Create a Jupyter Notebook (File > New > Jupyter Notebook)
 * Click on Select Kernel > Python enviroments > New environment > python venv > Python (global)
+* Run a code cell to see that it works (takes some time on first start in a new project, because it installs some dependencies into the project folder's environment)
+
+### Installation of other libraries
+
+* After you have setup Notebook support in VS Code and/or PyCharm you can install new packages into the project folder (local venv environment) by executing a cell like this: `%pip install package_name`&#x20;
+
