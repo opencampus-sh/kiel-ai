@@ -12,7 +12,7 @@ _**Note 2:** If you want to install packages in the environment we set up during
   * Watch the videos
   * Do the coding exercises
 
-**Group Project**
+#### Group Project
 
 * Get started with your group project
 * You can find all information regarding the Final Project [here](final-project.md)&#x20;
