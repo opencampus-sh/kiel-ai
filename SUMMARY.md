@@ -83,6 +83,7 @@
   * [Week 6](courses/python-25s/week-6.md)
   * [Week 7](courses/python-25s/week-7.md)
   * [Week 8](courses/python-25s/week-8.md)
+  * [Setup Instructions for Jupyter Notebook Support](courses/python-25s/setup-instructions-for-jupyter-notebook-support.md)
   * [Final Project](courses/python-25s/final-project.md)
   * [Resources](courses/python-25s/resources/README.md)
     * [Worklabs](courses/python-25s/resources/worklabs.md)
