@@ -20,6 +20,9 @@ If you want to use VS Code, please download the installer before the session.
 
 #### Instructions for PyCharm (Version 2025.1 or newer)
 
+* Make sure you have the [latest, unified Version](https://www.jetbrains.com/pycharm/download/), **not** the Community Edition
+  * If you are coming from the Community edition you can import all of your settings
+  * To get rid of the messages to switch to Pro, you have to cancel the 30-days-trial-subscription (top right corner, scroll all the way down, click _continue with core version_, click _cancel subscription_ and restart PyCharm)
 * Open a new project (File > New Project)
 * Select _Pure Python_ and Interpreter Type _Project venv_ and adjust the environment location on disk as needed
 * From the menu create a new file (File > New) and select Jupyter Notebook
