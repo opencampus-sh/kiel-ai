@@ -17,5 +17,7 @@
 
 Also, you may already start to...
 
-* complete week 1 and week 2 of the course [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
-* complete the tasks of the assignment in [this notebook](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-07/Assignment_Week7_Time_Series_Analysis_and_Data_Preprocessing.ipynb).
+* complete week 1, 2, 3 and 4 of the course [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
+* complete the tasks of the assignment in [this notebook](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-07-and-08/Assignment_Week_7_8_Time_Series_Data_Preparation_and_Model_Training.ipynb).
+
+This course and assignment notebook should be finished on 26th June 2025.
