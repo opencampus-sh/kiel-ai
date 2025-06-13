@@ -2,27 +2,24 @@
 
 ### This week we will...
 
-cover the following topics :
-
-* Hyperparameter in Neuronalen Netzen
-* Frameworks zur Implementierung von Neuronalen Netzen
-* Datenaufbereitung für TensorFlow
-* Optimierung eines neuronalen Netzes mit Python und TensorFlow
+* learn about different libraries for implementing neural nets
+* review example notebooks for the data preparation and training of neural net using Pandas and TensorFlow
+* get to know additional types of layers in neural nets
 
 ### Learning Resources
 
 {% file src="../../.gitbook/assets/250612_Neural Nets.pdf" %}
 
-* [Video](https://www.youtube.com/watch?v=GvQwE2OhL8I) (12 Minuten) zur Einführung in Neuronale Netze
-* [Notebook](https://colab.research.google.com/github/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Neuronale%20Netze/neural_net_data_preparation.ipynb) zur Datenaufbereitung für TensorFlow
-* [Notebook](https://colab.research.google.com/github/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Neuronale%20Netze/neural_net_estimation.ipynb) zur Optimierung eines neuronalen Netzes
-* [Blog](https://www.kdnuggets.com/2018/06/batch-normalization-neural-networks.html) mit zusätzlichen Informationen zur Batch-Normalisierung
+* Additional [introduction video](https://www.youtube.com/watch?v=GvQwE2OhL8I) (12 Minuten) on neural nets
+* [Example data preparation notebook](https://colab.research.google.com/github/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Neuronale%20Netze/neural_net_data_preparation.ipynb) for a neural net
+* [Example notebook](https://colab.research.google.com/github/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Neuronale%20Netze/neural_net_estimation.ipynb) for training a neural net
 
 ### Until next week you should...
 
-* [x] [dieses ](https://www.youtube.com/watch?v=ARq74QuavAo\&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc\&index=7)[Video](https://www.youtube.com/watch?v=ARq74QuavAo\&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc\&index=7) (7 Minuten) schauen, um die Eigenschaften von Dropout-Layern genauer zu verstehen.
-* [x] [dieses ](https://www.youtube.com/watch?v=FDCfw-YqWTE\&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc\&index=9)[Video](https://www.youtube.com/watch?v=FDCfw-YqWTE\&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc\&index=9) (5 Minuten) schauen, um die Vorteile der Normalisierung besser zu verstehen.\
+* [x] watch [this video](https://www.youtube.com/watch?v=ARq74QuavAo\&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc\&index=7) (7 minutes) to better understand the properties of dropout layers.
+* [x] watch [this video](https://www.youtube.com/watch?v=FDCfw-YqWTE\&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc\&index=9) (5 minutes) to better understand the benefits of normalization.
+* [x] complete the first chapter of [this course](https://campus.datacamp.com/courses/dealing-with-missing-data-in-python/) on DataCamp to learn about identifying missing values.\
 
-* [x] alle Eure Modellvariablen auf die Existenz von fehlenden und unplausiblen Werten hin untersuchen.
-* [x] Euren Datensatz aufebereiten, in dem ihr alle kategoriellen Features korrekt kodiert und alle Zeilen mit fehlenden Werten entfernt.
-* [x] ein erstes Neuronales Netz optimieren.
+* [x] examine all your model variables for the existence of missing and implausible values.
+* [x] prepare your dataset by correctly encoding all categorical features and removing all rows with missing values.
+* [x] train a first neural network for your dataset.
