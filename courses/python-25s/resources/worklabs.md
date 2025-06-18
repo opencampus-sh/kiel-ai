@@ -19,3 +19,7 @@
 ### Week 5 (Dicts):
 
 * [https://colab.research.google.com/drive/1jSkCSrWFnYqITuYH4g-byJGqjRO9AIQ3](https://colab.research.google.com/drive/1jSkCSrWFnYqITuYH4g-byJGqjRO9AIQ3)
+
+### Week 8/9 (OOP): <a href="#week-5-dicts" id="week-5-dicts"></a>
+
+* [https://colab.research.google.com/drive/1gahgfS0EzxWU-07bQAHWAWGGlMfW3CPY](https://colab.research.google.com/drive/1gahgfS0EzxWU-07bQAHWAWGGlMfW3CPY)
