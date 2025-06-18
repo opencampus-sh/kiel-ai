@@ -2,7 +2,7 @@
 
 ### To-Do (until 02/07/2025)
 
-Homework:
+Homework
 
 * Prepare slides for a five to ten minute presentation of your project
 * There will be room for discussion after each presentation
