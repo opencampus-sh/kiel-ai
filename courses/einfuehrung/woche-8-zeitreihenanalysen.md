@@ -1,23 +1,23 @@
-# Woche 9 - Zeitreihenanalysen
+# Woche 9 - Time Series Analyses
 
-### Diese Woche werden wir...
+### This week we will...
 
-folgende Themen behandeln:
 
-* Muster in Zeitreihenanalysen
-* Baseline Modelle
-* Naïve Forecasting
 
-### Lernressourcen
+* learn about different patterns in times series
+* get to know about the importance of baseline models
+* learn about naïve forecasting
 
-{% file src="../../.gitbook/assets/240620_Zeitreihenanalysen.pdf" %}
+### Learning Resources
 
-* [Video](https://coursera.org/share/3f650f2a9fc3aef4a5ce140f99daf9a3) (5 Minuten) zu Zeitreihenanalysen
-* [Beispielnotebook](https://colab.research.google.com/github/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Zeitreihenanalyse/time\_series\_predictions.ipynb) zur grafischen Auswertung von Zeitreihen
-* [Hugging Face-Kurs](https://huggingface.co/learn/nlp-course/chapter1/1) zur Nutzung der Transformers Library
+{% file src="../../.gitbook/assets/250102_Zeitreihenanalysen.pdf" %}
 
-### Bis zur nächsten Woche solltet Ihr...
+* [Video](https://coursera.org/share/3f650f2a9fc3aef4a5ce140f99daf9a3) (5 minutes) on time series analyses
+* [Example notebook](https://colab.research.google.com/github/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Zeitreihenanalyse/time_series_predictions.ipynb) for graphical analyses of time series
+* [Hugging Face course](https://huggingface.co/learn/nlp-course/chapter1/1) on the Transformers library
 
-* [x] anhand Eures besten Modells die Vorhersagen für den Testdatensatz der Kaggle Competition berechnen und dort hochladen.\
+### Until next week you should...
 
-* [x] Eure Abschlusspräsentation erstellen (siehe Vorgaben bei Woche 10 [hier](https://opencampus.gitbook.io/opencampus-machine-learning-program/einfuehrung-in-data-science-und-maschinelles-lernen/woche-9-projektpraesentationen)).
+* [x] using your best model, generate predictions for the Kaggle competition test dataset and upload them there.\
+
+* [x] prepare your final presentation (see the guidelines for Week 10 [here](https://opencampus.gitbook.io/opencampus-machine-learning-program/einfuehrung-in-data-science-und-maschinelles-lernen/woche-9-projektpraesentationen)).

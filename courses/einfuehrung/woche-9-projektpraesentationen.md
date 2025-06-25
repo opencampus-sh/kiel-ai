@@ -1,25 +1,28 @@
-# Woche 10 - Projektpräsentationen
+# Woche 10 - Project Presentation
 
 {% hint style="warning" %}
-Zur Präsentation anhand Eures besten Modells die Vorhersagen für den Testdatensatz der Kaggle Competition berechnen und dort hochladen!
+For the presentation, generate predictions for the Kaggle competition test dataset using your best model and upload them there!
 {% endhint %}
 
-#### Präsentation (Powerpoint, Keybote oder ähnliches)
+#### Presentation (Powerpoint, Keybote or similar)
 
-Jedes Team hält eine 8 oder 10-minütige Abschlusspräsentation (genaue Info erfolgt in der Vorwoche - bitte darauf achten, dass Ihr die Länge einhaltet!) mit den folgenden Inhalten:
+Prepare an 8 to 10-minute presentation including:
 
-* Euren Namen auf der Titelseite
-* Auflistung und kurze Beschreibung der selbst erstellten Variablen
-* Balkendiagramme mit Konfidenzintervallen für zwei selbst erstellte Variablen
-* Optimierung des linearen Modells: Modellgleichung und adjusted r²
-* Art der Missing Value Imputation
-* Optimierung des neuronalen Netzes:
-  * Source Code zur Definition des neuronalen Netzes
-  * Darstellung der Loss-Funktionen für Trainings- und Validierungsdatensatz
-  * MAPEs für den Validierungsdatensatz insgesamt und für jede Warengruppe einzeln
-* „Worst Fail“ / „Best Improvement“
+* Your team members’ names on the title slide
+* List and brief description of self-created variables
+* Bar charts with confidence intervals for two self-created variables
+* Linear model optimization: model equation and adjusted R²
+* Type of missing value imputation used
+* Neural network optimization:
+  * Source code defining the neural network
+  * Loss function plots for training and validation sets
+  * MAPE scores for the overall validation set and each product group
+* Highlight “Worst Fail” and “Best Improvement” cases
+
+Each team member should have a part in the presentation!
 
 {% hint style="warning" %}
-Die Dokumentation des Leistungsnachweises erfolgt über das von Euch erstellte Repository, das wie in den READMEs angegeben vervollständigt werden muss.\
-Anschließend muss _**ein**_ Team-Mitglied das README des Hauptverzeichnisses wie [hier](https://opencampus.gitbook.io/opencampus-machine-learning-program/projects/requirements#submitting-your-project) beschrieben in der EduHub-Plattform hochladen.
+Document your work in the project repository, completing the README files as specified.
+
+_**One**_ team member must upload the main README to the EduHub platform as described [here](https://opencampus.gitbook.io/opencampus-machine-learning-program/projects/requirements#submitting-your-project).
 {% endhint %}
