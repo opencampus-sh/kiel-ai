@@ -23,3 +23,7 @@
 ### Week 8/9 (OOP): <a href="#week-5-dicts" id="week-5-dicts"></a>
 
 * [https://colab.research.google.com/drive/1gahgfS0EzxWU-07bQAHWAWGGlMfW3CPY](https://colab.research.google.com/drive/1gahgfS0EzxWU-07bQAHWAWGGlMfW3CPY)
+
+### Week 10 (JSON):
+
+* [https://colab.research.google.com/drive/16v-Nj90ANfjbEXCzaddw8eMXZBuYjVON](https://colab.research.google.com/drive/16v-Nj90ANfjbEXCzaddw8eMXZBuYjVON)
