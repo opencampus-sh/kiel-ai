@@ -16,7 +16,7 @@ get an introduction to the following topics:
 
 ### Until next week you should...
 
-* [x] _Optional:_ Register for GitHub Copilot as described [here](https://docs.github.com/en/copilot/quickstart).\
+* [x] Register for GitHub Copilot as described [here](https://docs.github.com/en/copilot/quickstart) or download Cursor (includes a 1 week Pro trial) as described [here](https://cursor.com/download) to use it instead of VS Code (Cursor and VS Code are mainly identical).\
   As a student or teacher, you get free access to GitHub Copilot Pro following the instructions given [here](https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/getting-started-with-copilot-on-your-personal-account/getting-free-access-to-copilot-pro-as-a-student-teacher-or-maintainer).\
 
 * [x] watch [this video](https://www.youtube.com/watch?v=Ctqi5Y4X-jA\&list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f\&index=11) on working with strings (16 minutes)\
