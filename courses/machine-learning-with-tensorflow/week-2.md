@@ -7,16 +7,20 @@
 
 ### Learning Resources
 
-{% file src="../../.gitbook/assets/30_10_23_Introduction to TensorFlow Part-I.pdf" %}
+{% file src="../../.gitbook/assets/250424_Introduction_Part_I.pdf" %}
 
-* Week 1 and 2 of the course [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/)
-* Don't forget to check out the important part of week 2 that is working through [this notebook](https://github.com/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%204%20-%20Lesson%202%20-%20Notebook.ipynb).
+* [Machine Learning Explained in 100 Seconds](https://www.youtube.com/watch?v=PeMlggyqz0Y) (Fireship, 2:30 min)
+* [What is a Loss Function? Understanding How AI Models Learn](https://www.youtube.com/watch?v=v_ueBW_5dLg) (IBM Technology, 10 min)
+* [Backpropagation, intuitively | Deep Learning Chapter 3](https://www.youtube.com/watch?v=Ilg3gGewQ5U\&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi\&index=4) (3Blue1Brown, 13 min)
+* [Parameters vs Hyperparameters](https://www.youtube.com/watch?v=32tNAhQ8x7M) (Pankaj Kumar Porwal, 5:40 min)
+* [Validation data: How it works and why you need it](https://www.youtube.com/watch?v=NPWlj9G1Si8) (Galaxy Inferno Codes, 5:40 min)
+* [TensorFlow Tutorial 3 - Neural Networks with Sequential and Functional API](https://www.youtube.com/watch?v=pAhPiF3yiXI\&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb\&index=4) (Aladdin Persson, 21 min)
 
 ### Until next week you should...
 
 * complete week 3 and week 4 of the course [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/).
 * decide on a project for the course and form groups
 * complete the two assignments in the following notebooks:
-  * [Assignment Notebook 1](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-02/Week2\_Notebook1\_Cats\_and\_Dogs.ipynb)
-  * [Assignment Notebook 2](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-02/Week2\_Notebook2\_CIFAR-10.ipynb)
+  * [Assignment Notebook 1](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-02/Week2_Notebook1_Cats_and_Dogs.ipynb)
+  * [Assignment Notebook 2](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-02/Week2_Notebook2_CIFAR-10.ipynb)
 
