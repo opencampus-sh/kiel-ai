@@ -24,6 +24,7 @@
   * [Parameters vs Hyperparameters](https://www.youtube.com/watch?v=32tNAhQ8x7M) (Pankaj Kumar Porwal, 5:40 min)
   * [Validation data: How it works and why you need it](https://www.youtube.com/watch?v=NPWlj9G1Si8) (Galaxy Inferno Codes, 5:40 min)
   * [TensorFlow Tutorial 3 - Neural Networks with Sequential and Functional API](https://www.youtube.com/watch?v=pAhPiF3yiXI\&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb\&index=4) (Aladdin Persson, 21 min)
+  * [TensorFlow Tutorial 14 - Callbacks with Keras and Writing Custom Callbacks](https://www.youtube.com/watch?v=WUzLJZCKNu4) (Aladdin Persson, 11 min)
 * Think about project ideas to present in class next week (post your ideas in the chat during the week)
 * Complete the two assignments given in the following notebooks:
   * [Assignment Notebook 1](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-01/Week1_Notebook1_Housing_Prices.ipynb)

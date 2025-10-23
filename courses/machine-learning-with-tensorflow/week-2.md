@@ -15,6 +15,7 @@
 * [Parameters vs Hyperparameters](https://www.youtube.com/watch?v=32tNAhQ8x7M) (Pankaj Kumar Porwal, 5:40 min)
 * [Validation data: How it works and why you need it](https://www.youtube.com/watch?v=NPWlj9G1Si8) (Galaxy Inferno Codes, 5:40 min)
 * [TensorFlow Tutorial 3 - Neural Networks with Sequential and Functional API](https://www.youtube.com/watch?v=pAhPiF3yiXI\&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb\&index=4) (Aladdin Persson, 21 min)
+* [TensorFlow Tutorial 14 - Callbacks with Keras and Writing Custom Callbacks](https://www.youtube.com/watch?v=WUzLJZCKNu4) (Aladdin Persson, 11 min)
 
 ### Until next week you should...
 
