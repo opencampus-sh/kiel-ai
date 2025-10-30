@@ -9,7 +9,10 @@
 
 {% file src="../../.gitbook/assets/250508_Introduction-to-TensorFlow-Part-II (1).pdf" %}
 
-* Week 3 and 4 of the course [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/)
+* [Cross Validation](https://alan-turing-institute.github.io/Intro-to-transparent-ML-course/05-cross-val-bootstrap/cross-validation.html) (StatQuest Video, 6 min)
+* [Bias and Variance (Overfitting)](https://www.youtube.com/watch?v=EuBBz3bI-aA) (StatQuest, 7 min)&#x20;
+* [Model Evaluation (Confusion Matrix)](https://www.youtube.com/live/Kdsp6soqA7o) (StatQuest, 7 min)
+* [Callback Functions in TensorFlow](https://www.youtube.com/watch?v=wkwtIeq9Ljo) (DigitalSreeni, 10 min)
 
 ### Until next week you should...
 
@@ -20,7 +23,7 @@
   * [C4W1L11 Why Convolutions](https://www.youtube.com/watch?v=ay3zYUeuyhU\&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF\&index=12) (DeepLearningAI, 9:40 min)
   * [C4W2L10 Data Augmentation](https://www.youtube.com/watch?v=JI8saFjK84o\&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF\&index=22) (DeepLearningAI, 9:30 min)
   * [TensorFlow Tutorial 4 - Convolutional Neural Networks with Sequential and Functional API](https://www.youtube.com/watch?v=WAciKiDP2bo\&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb\&index=5) (Aladdin Persson, 16 min)
-* setup a repository for your project following the instructions given [here](https://opencampus.gitbook.io/opencampus-machine-learning-program/projects/requirements)
+* Set up a repository for your project following the instructions given [here](https://opencampus.gitbook.io/opencampus-machine-learning-program/projects/requirements)
 * Conduct a literature review according to the instructions given [here](https://github.com/opencampus-sh/ml-project-template/blob/main/0_LiteratureReview/INSTRUCTIONS.md)
 * Document your findings on the literature review according to the instructions of above
 * Complete the assignment in the following notebook:
