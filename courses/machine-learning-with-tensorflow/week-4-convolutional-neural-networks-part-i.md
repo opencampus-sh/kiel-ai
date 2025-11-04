@@ -14,10 +14,10 @@
 
 * [Neural Networks Part 8: Image Classification with Convolutional Neural Networks (CNNs) ](https://www.youtube.com/watch?v=HGwBXDKFk9I\&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1\&index=15)(StatQuest with Josh Starmer, 15 min)
 * [C4W1L04 Padding](https://www.youtube.com/watch?v=smHa2442Ah4\&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF\&index=5) (DeepLearningAI, 9:50 min)
-* [C4W1L06 Convolutions Over Volumes](https://app.gitbook.com/u/WWDikjQ3eVgvMfPm7LVskOEkgST2) (DeepLearningAI, 11 min)
-* [C4W1L11 Why Convolutions](https://www.youtube.com/watch?v=ay3zYUeuyhU\&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF\&index=12) (DeepLearningAI, 9:40 min)
 * [C4W2L10 Data Augmentation](https://www.youtube.com/watch?v=JI8saFjK84o\&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF\&index=22) (DeepLearningAI, 9:30 min)
-* [TensorFlow Tutorial 4 - Convolutional Neural Networks with Sequential and Functional API](https://www.youtube.com/watch?v=WAciKiDP2bo\&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb\&index=5) (Aladdin Persson, 16 min)
+* [TensorFlow Tutorial 4 - Convolutional Neural Networks with Sequential and Functional API](https://www.youtube.com/watch?v=WAciKiDP2bo\&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb\&index=5) (Aladdin Persson, first 10 min)
+* [TensorFlow Tutorial 18 - Custom Dataset for Images](https://www.youtube.com/watch?v=q7ZuZ8ZOErE) (Aladdin Persson, first 7 min)
+* [Data Augmentation - Deep Learning with Tensorflow | Ep. 19](https://www.youtube.com/watch?v=yke3zUGgQ-w) (Kody Simpson, 23 min)
 
 ### Until next week you should...
 
