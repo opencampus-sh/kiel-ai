@@ -1,10 +1,10 @@
-# Woche 10 - Project Presentation
+# Week 10 - Project Presentation
 
 {% hint style="warning" %}
 For the presentation, generate predictions for the Kaggle competition test dataset using your best model and upload them there!
 {% endhint %}
 
-#### Presentation (Powerpoint, Keybote or similar)
+#### Presentation (Powerpoint, Keynote or similar)
 
 Prepare an 8 to 10-minute presentation including:
 
