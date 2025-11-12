@@ -1,4 +1,4 @@
-# Week 8 - Missing Values
+# Week 9 - Missing Values
 
 ### This week we will...
 
@@ -20,3 +20,7 @@
 
 
 * [x] (if you haven't already) divide the tasks well within your team: Who will work on data optimization, and who on model optimization?
+*
+* [x] using your best model, generate predictions for the Kaggle competition test dataset and upload them there.\
+
+* [x] prepare your final presentation (see the guidelines for Week 10 [here](https://opencampus.gitbook.io/opencampus-machine-learning-program/einfuehrung-in-data-science-und-maschinelles-lernen/woche-9-projektpraesentationen)).

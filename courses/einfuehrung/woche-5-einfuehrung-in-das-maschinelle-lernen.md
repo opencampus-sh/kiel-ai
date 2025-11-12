@@ -1,18 +1,19 @@
-# Week 5 - Introduction to Machine Learning and Linear Regression
+# Week 6 - Introduction to Machine Learning and Linear Regression
 
 ### This week we will...
 
 cover the following topics:
 
-* Procedure for training machine learning algorithms
 * Definition of linear regression
 * Cost functions
 * Optimization functions
-* Testing your model on Kaggle
+*
+* get to know about the importance of baseline models
+* learn about naïve forecasting
 
 ### Learning Resources
 
-{% file src="../../.gitbook/assets/240523_Intro ML und Linear Regression.pdf" %}
+{% file src="../../.gitbook/assets/250522_Intro ML and Linear Regression.pptx" %}
 
 {% file src="../../.gitbook/assets/IntroMLandLinReg.ipynb" %}
 
