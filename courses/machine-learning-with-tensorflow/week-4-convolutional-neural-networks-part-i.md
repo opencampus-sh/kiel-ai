@@ -21,8 +21,8 @@
 
 ### Until next week you should...
 
-* watch [this](https://www.youtube.com/watch?v=FQM13HkEfBk\&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF\&index=20) video to get an introduction on transfer learning
-* watch [this](https://www.youtube.com/watch?v=8cN0PiZQl18) video to learn how to implement transfer learning with CNNs
+* watch [this](https://www.youtube.com/watch?v=FQM13HkEfBk\&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF\&index=20) video to get an introduction on transfer learning (8 min)
+* watch [this](https://www.youtube.com/watch?v=8cN0PiZQl18) video to learn how to implement transfer learning with CNNs (12 min)
 * work through [this](https://xebia.com/blog/keras-multi-label-classification-with-imagedatagenerator/) blog to learn about multi-class classification
 * complete the exercise assignment in [this notebook](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-04/241121_Assignment_CNN_Part-2.ipynb)
 * investigate the characteristics of your project's dataset according to the instructions given [here](https://github.com/opencampus-sh/ml-project-template/blob/main/1_DatasetCharacteristics/INSTRUCTIONS.md)
