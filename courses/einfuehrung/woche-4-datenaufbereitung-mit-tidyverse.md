@@ -10,11 +10,13 @@ cover the following topics:
 
 ### Learning Resources
 
-{% file src="../../.gitbook/assets/250515_Intro to git (Part 2) and current developments.pdf" %}
+{% file src="../../.gitbook/assets/251112_Intro to git and data preparation (Part 2).pdf" %}
 
 ### Until next week you should...
 
 * [x] meet with your team to discuss potential additional variables to be created for sales prediction (including whether there are any additional data sources you can use).\
+
+* [x] analyze the time series data for the 6 product groups using moving averages, percent change, or segmentation (see learning material).\
 
 * [x] update the "Data Import and Preparation" directory in your team repository to include:
   * Additional downloaded or self-created data (e.g., holiday lists)
