@@ -21,6 +21,9 @@ cover the following topics:
   * Code to merge all data into one dataset
   * Code to create new variables or prepare existing variables for prediction\
 
+* [x] Get A [Kaggle](https://www.kaggle.com/) account and review the course competition under:\
+  https://www.kaggle.com/t/d832497c95d744de915ad9eb80ad9ed6\
+
 * [x] watch the following videos from the DeepLearning.AI course on Python for Data Analytics to get an idea about how to analyze time series data:
   * [DateTimes](https://learn.deeplearning.ai/specializations/data-analytics/lesson/yt06e/datetimes) (5 minutes)
   * [Using DateTimes as Indices](https://learn.deeplearning.ai/specializations/data-analytics/lesson/xtibp/using-datetimes-as-indices) (3 minutes)
