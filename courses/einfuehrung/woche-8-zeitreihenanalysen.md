@@ -1,4 +1,4 @@
-# Week 5 - Time Series Analyses
+# Week 5 - Time Series Analyses and Introduction into Machine Learning
 
 ### This week we will...
 
@@ -6,15 +6,14 @@
 
 * learn about different patterns in times series
 * walk through the general procedure for training machine learning algorithms
-* learn how to test predictions on Kaggle
-* get to know about current developments in AI
+* get to know how to test predictions on Kaggle
+* get to know current developments in AI
 
 ### Learning Resources
 
 {% file src="../../.gitbook/assets/250626_Time Series Analysis.pdf" %}
 
 * [Example notebook](https://colab.research.google.com/github/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Zeitreihenanalyse/time_series_predictions.ipynb) for graphical analyses of time series
-* [Hugging Face course](https://huggingface.co/learn/nlp-course/chapter1/1) on the Transformers library
 
 ### Until next week you should...
 
