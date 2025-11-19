@@ -11,7 +11,7 @@
   * [Conditions for Receiving a Certificate or ECTS](courses/einfuehrung/durchzufuehrendes-kursprojekt.md)
   * [Preparation](courses/einfuehrung/vorbereitung.md)
   * [Week 1 - Introduction to Data Science](courses/einfuehrung/woche-1.md)
-  * [Week 2 - Import and Visualization of Data](courses/einfuehrung/woche-2.md)
+  * [Week 2 - Data Import and Visualization](courses/einfuehrung/woche-2.md)
   * [Week 3 - Versioning with Git and Data Preparation (Part 1)](courses/einfuehrung/woche-3-r-projekte-und-versionierung-mit-git-und-github.md)
   * [Week 4 - Versioning with Git and Data Preparation (Part 2)](courses/einfuehrung/woche-4-datenaufbereitung-mit-tidyverse.md)
   * [Week 5 - Time Series Analyses and Introduction into Machine Learning](courses/einfuehrung/woche-8-zeitreihenanalysen.md)
