@@ -1,9 +1,9 @@
-# Week 6 - Introduction to Machine Learning and Linear Regression
+# Week 6 - Baseline Models and Linear Regression
 
 ### This week we will...
 
-* learn about naïve forecasting
 * get to know about the importance of baseline models
+* learn about naïve forecasting
 * see how linear regressions are defined
 * understand the role of cost functions
 * get an introduction into optimization functions
