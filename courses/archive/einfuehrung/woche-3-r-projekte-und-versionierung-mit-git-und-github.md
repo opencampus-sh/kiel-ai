@@ -17,11 +17,9 @@ folgende Themen behandeln:
 
 * [x] [diesen Kurs](https://campus.datacamp.com/courses/joining-data-with-pandas/) bei datacamp zum Zusammenführen von Dataframes absolvieren
 * [x] für eine Einführung in die Möglichkeiten von Regular Expressions, [dieses](https://youtu.be/DRR9fOXkfRE) Video (11 Minuten) schauen.
-* [x] [dieses Video](https://www.youtube.com/watch?v=7fIP5aM6hyc) (33 Minuten) zu Git in VS Code schauen.\
-
+* [x] [dieses Video](https://www.youtube.com/watch?v=7fIP5aM6hyc) (33 Minuten) zu Git in VS Code schauen.<br>
 * [x] [dieses Video](https://vimeo.com/944374865?share=copy) (3 Minuten) schauen und eine Person im Team bestimmen, die wie dort gezeigt, ein Team-Repository anlegt.
-* [x] [dieses Video](https://vimeo.com/944377598?share=copy) (2 Minuten) schauen, um einen Github Codespace auf Basis Eures Team-Repositories anzulegen.\
-
+* [x] [dieses Video](https://vimeo.com/944377598?share=copy) (2 Minuten) schauen, um einen Github Codespace auf Basis Eures Team-Repositories anzulegen.<br>
 * [x] die Dateien `umsatzdaten_gekuerzt.csv`, `kiwo.csv` und `wetter.csv` und in einem Pandas Dataframe zusammenführen.
 * [x] Euch im Team treffen und aufteilen, wer für welche Variablen deskriptive Statistiken und Visualisierungen erstellt.
 * [x] deskriptive Statistiken und Visualisierungen zu den jeweiligen Variablen erstellen.

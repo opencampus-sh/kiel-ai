@@ -1,4 +1,4 @@
-# Week 2 - Import and Visualization of Data
+# Week 2 - Data Import and Visualization
 
 ### This week we will...
 
@@ -12,7 +12,7 @@ cover the following topics:
 
 ### Learning Resources
 
-{% file src="../../.gitbook/assets/250424_Import and Graphical Representation of Data.pdf" %}
+{% file src="../../.gitbook/assets/251030_Import and Graphical Representation of Data.pdf" %}
 
 * [Get Started with GitHub Copilot in VS Code](https://www.youtube.com/watch?v=vdBxfFVXnc0)
 * [Overview on GitHub Copilot in VS Code](https://code.visualstudio.com/docs/copilot/overview)
@@ -24,8 +24,7 @@ cover the following topics:
 * [x] work through [this](https://campus.datacamp.com/courses/data-manipulation-with-pandas/transforming-dataframes) introduction to working with Pandas (only Lesson 1).
 * [x] watch [this](https://www.youtube.com/watch?v=dUpyC40cF6Q\&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF\&index=58) video on importing data as a Pandas DataFrame (18 minutes).
 * [x] work through [this](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib) introduction to creating visualizations with Matplotlib (only Lesson 1).
-* [x] watch [this](https://www.youtube.com/watch?v=tFWsuO9f74o) video (4 minutes) to understand the relevance of confidence intervals.\
-
+* [x] watch [this](https://www.youtube.com/watch?v=tFWsuO9f74o) video (4 minutes) to understand the relevance of confidence intervals.<br>
 * [x] create a GitHub Codespace and save the files 'kiwo.csv', 'umsatzdaten\_gekuerzt.csv', and 'wetter.csv' from this GitHub repository:\
   [https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml)
 * [x] create a Jupyter notebook that

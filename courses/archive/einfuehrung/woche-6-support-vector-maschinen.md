@@ -18,9 +18,7 @@ folgende Themen behandeln:&#x20;
 
 ### Bis zur nächsten Woche solltet Ihr...
 
-* [x] ein (bzw. verschiedene) Verfahren wählen, um fehlende Werte in Eurem Datensatz zu ersetzen.\
-
-* [x] Euch [dieses Video](https://coursera.org/share/3f650f2a9fc3aef4a5ce140f99daf9a3) (5 Minuten) zu Zeitreihenanalysen anschauen.\
-
+* [x] ein (bzw. verschiedene) Verfahren wählen, um fehlende Werte in Eurem Datensatz zu ersetzen.<br>
+* [x] Euch [dieses Video](https://coursera.org/share/3f650f2a9fc3aef4a5ce140f99daf9a3) (5 Minuten) zu Zeitreihenanalysen anschauen.<br>
 * [x] Euch die Aufgaben im Team gut aufteilen:\
   Wer arbeitet an der Datenoptimierung, wer an der Modelloptimierung?

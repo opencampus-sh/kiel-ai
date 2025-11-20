@@ -9,8 +9,7 @@
 ## Learning Resources
 
 * [https://www.coursera.org/learn/introduction-to-machine-learning-in-production/home/week/3](https://www.coursera.org/learn/introduction-to-machine-learning-in-production/home/week/3)
-* [https://www.coursera.org/learn/machine-learning-data-lifecycle-in-production/home/week/1](https://www.coursera.org/learn/machine-learning-data-lifecycle-in-production/home/week/1)\
-
+* [https://www.coursera.org/learn/machine-learning-data-lifecycle-in-production/home/week/1](https://www.coursera.org/learn/machine-learning-data-lifecycle-in-production/home/week/1)<br>
 
 ## Until next week you should..
 

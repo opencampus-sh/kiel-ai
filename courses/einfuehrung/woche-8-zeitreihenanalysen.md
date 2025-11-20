@@ -11,14 +11,13 @@
 
 ### Learning Resources
 
-{% file src="../../.gitbook/assets/250626_Time Series Analysis.pdf" %}
+{% file src="../../.gitbook/assets/251120_Time Series Analysis and Current AI Developments.pdf" %}
 
 * [Example notebook](https://colab.research.google.com/github/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Zeitreihenanalyse/time_series_predictions.ipynb) for graphical analyses of time series
 
 ### Until next week you should...
 
-* [x] complete the sections on „Linear Regression“ and „Multiple Linear Regression“ from [Module 4 of ](https://www.coursera.org/learn/python-for-data-analytics/home/module/4)[the](https://www.coursera.org/learn/python-for-data-analytics/home/module/4)[ ](https://www.coursera.org/learn/python-for-data-analytics/home/module/4)[course](https://www.coursera.org/learn/python-for-data-analytics/home/module/4)[ Python ](https://www.coursera.org/learn/python-for-data-analytics/home/module/4)[for](https://www.coursera.org/learn/python-for-data-analytics/home/module/4)[ Data Analytics](https://www.coursera.org/learn/python-for-data-analytics/home/module/4) by Deeplearning.ai (about 2 hours).\
-
+* [x] complete the sections on „[Linear Regression](https://learn.deeplearning.ai/specializations/data-analytics/lesson/d211v/what-is-linear-regression%3F)“ and „[Multiple Linear Regression](https://learn.deeplearning.ai/specializations/data-analytics/lesson/syrdh/multiple-linear-regression)“ from Module 4 of the course Python for Data Analytics by Deeplearning.ai (about 2 hours).<br>
 * [x] download the test data set from Kaggle and merge it with your current data set.
 * [x] write code to split your dataset into a training dataset from 01.07.2013 to 31.07.2017, a validation dataset from 01.08.2017 to 31.07.2018, and the test set from 01.08.2018 to 31.07.2019.\
   (Ensure that the number of rows and the defined IDs match those in the downloaded test dataset!)

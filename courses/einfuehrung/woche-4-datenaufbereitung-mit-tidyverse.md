@@ -14,18 +14,14 @@ cover the following topics:
 
 ### Until next week you should...
 
-* [x] meet with your team to discuss potential additional variables to be created for sales prediction (including whether there are any additional data sources you can use).\
-
-* [x] analyze the time series data for the 6 product groups using moving averages, percent change, or segmentation (see learning material).\
-
+* [x] meet with your team to discuss potential additional variables to be created for sales prediction (including whether there are any additional data sources you can use).<br>
+* [x] analyze the time series data for the 6 product groups using moving averages, percent change, or segmentation (see learning material).<br>
 * [x] update the "Data Import and Preparation" directory in your team repository to include:
   * Additional downloaded or self-created data (e.g., holiday lists)
   * Code to merge all data into one dataset
-  * Code to create new variables or prepare existing variables for prediction\
-
+  * Code to create new variables or prepare existing variables for prediction<br>
 * [x] Get A [Kaggle](https://www.kaggle.com/) account and review the course competition under:\
-  https://www.kaggle.com/t/d832497c95d744de915ad9eb80ad9ed6\
-
+  https://www.kaggle.com/t/d832497c95d744de915ad9eb80ad9ed6<br>
 * [x] watch the following videos from the DeepLearning.AI course on Python for Data Analytics to get an idea about how to analyze time series data:
   * [DateTimes](https://learn.deeplearning.ai/specializations/data-analytics/lesson/yt06e/datetimes) (5 minutes)
   * [Using DateTimes as Indices](https://learn.deeplearning.ai/specializations/data-analytics/lesson/xtibp/using-datetimes-as-indices) (3 minutes)
@@ -33,4 +29,4 @@ cover the following topics:
   * [Percent Change](https://learn.deeplearning.ai/specializations/data-analytics/lesson/icu5f/percent-change) (4 minutes)
   * [Segmentation](https://learn.deeplearning.ai/specializations/data-analytics/lesson/n5s9q/segmentation) (5 minutes)
 
-_(You need to create a free account with DeeplLearning.AI.)_\
+_(You need to create a free account with DeeplLearning.AI.)_<br>

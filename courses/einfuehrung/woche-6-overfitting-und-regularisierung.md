@@ -1,4 +1,4 @@
-# Week 6 - Overfitting and Regularization
+# Week 7 - Overfitting and Regularization
 
 ### This week we will...
 
@@ -18,8 +18,7 @@ cover the following topics:
 
 ### Until next week you should...
 
-* [x] enroll into the Coursera course “[Advanced Learning ](https://www.coursera.org/learn/advanced-learning-algorithms/)[Algorthms](https://www.coursera.org/learn/advanced-learning-algorithms/)” and watch the videos of the sections “Neural networks intuition” and “TensorFlow implementation”.\
-
+* [x] enroll into the Coursera course “[Advanced Learning ](https://www.coursera.org/learn/advanced-learning-algorithms/)[Algorthms](https://www.coursera.org/learn/advanced-learning-algorithms/)” and watch the videos of the sections “Neural networks intuition” and “TensorFlow implementation”.<br>
 * [x] further extend the dataset with additional variables that could be relevant for estimating revenue.
 * [x] Test your model's predictive performance on Kaggle!
 *

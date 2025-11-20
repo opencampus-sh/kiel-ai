@@ -18,8 +18,7 @@ folgende Themen behandeln:
 ### Bis zur nächsten Woche solltet Ihr...
 
 * [x] das Kapitel „Creating Features“ [dieses Kurses](https://campus.datacamp.com/courses/feature-engineering-for-machine-learning-in-python/) bei datacamp absolvieren.
-* [x] die erste Woche des Kurses [Supervised](https://www.coursera.org/learn/machine-learning/)[ ](https://www.coursera.org/learn/machine-learning/)[Machine](https://www.coursera.org/learn/machine-learning/)[ Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning/) (ca. 2,5 Stunden) von Andrew Ng auf Coursera absolvieren.\
-
+* [x] die erste Woche des Kurses [Supervised](https://www.coursera.org/learn/machine-learning/)[ ](https://www.coursera.org/learn/machine-learning/)[Machine](https://www.coursera.org/learn/machine-learning/)[ Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning/) (ca. 2,5 Stunden) von Andrew Ng auf Coursera absolvieren.<br>
 * [x] Euch im Team treffen, um Ideen zur Umsatzvorhersage zu diskutieren und erste zusätzliche Variablen zu erstellen (auch, ob es Daten gibt, die ihr zusätzlich verwenden könnt).
 * [x] das Verzeichnis "Data Import and Preparation" Eures Team Repositories ergänzen um:
   * zusätzliche heruntergeladene oder selbst erstellte Daten (z.B. Listen mit Feiertagen)

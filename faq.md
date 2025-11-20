@@ -15,8 +15,7 @@ All other courses are in English.
 
 ### Can I enroll in multiple courses at the same time?&#x20;
 
-Yes, the courses are not overlapping. Feel free to choose all courses you like. **Be aware that to complete each course,** **you have to do a project for each course.** \
-
+Yes, the courses are not overlapping. Feel free to choose all courses you like. **Be aware that to complete each course,** **you have to do a project for each course.** <br>
 
 ### Should I enroll in multiple courses at the same time?
 
