@@ -14,12 +14,16 @@
 Presentation Slides from this week
 {% endfile %}
 
-* Week 3 and 4 of the course [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
+* [Introduction on Transfer Learning](https://www.youtube.com/watch?v=FQM13HkEfBk\&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF\&index=20) (8 min)
+* [Video](https://www.youtube.com/watch?v=8cN0PiZQl18) on how to implement transfer learning with CNNs (12 min)
+* [Blog](https://xebia.com/blog/keras-multi-label-classification-with-imagedatagenerator/) to learn about multi-class classification
 
 ### Until next week you should...
 
-* complete week 1 and week 2 of the course [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
-* complete the exercise assignment in [this notebook](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-05/Week5_Notebook_Sentiment140.ipynb)
-* decide on an evaluation metric for your project task and evaluate your baseline model
-* justify why your choice is appropriate for your task
-* document your decision in your GitHub repository
+* prepare questions for the instructor team on potential problems you see in your project
+
+{% hint style="warning" %}
+**complete the first milestone, that is the&#x20;**_**literature review and descriptive statistics**_**, on Sunday before the feedback session next week!**\
+\
+**Follow the instructions given in the template repository and share the link to your project repository in the Google Sheet including the current list of projects, so we can review you completions there.**
+{% endhint %}

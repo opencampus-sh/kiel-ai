@@ -13,3 +13,8 @@
 {% endhint %}
 
 #### We will then assign your project team a time slot within the regular course time with one of the instructors.
+
+### Until next week you should...
+
+* (Learning resources will be posted here soon.)
+* complete the exercise assignment in [this notebook](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-05/Week5_Notebook_Sentiment140.ipynb)

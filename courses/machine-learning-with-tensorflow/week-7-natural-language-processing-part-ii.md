@@ -1,4 +1,4 @@
-# Week 7 - Natural Language Processing, Part II
+# Week 8 - Natural Language Processing, Part II
 
 ### This week you will...
 
@@ -7,17 +7,14 @@
 
 ### Learning Resources
 
-* Week 3 and 4 of the course [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
+* Will be provided here soon.
 
 ### Until next week you should...
 
-* prepare questions for the instructor team on problems in your project or on how to potentially improve your results.
-* working on the definition of your project's final model(s) and their evaluation according to the instructions given [here](https://github.com/opencampus-sh/ml-project-template/blob/main/3_Model/INSTRUCTIONS.md)
-* document how you will evaluate your model results
+* prepare questions for the instructor team on problems you have in your project or potential improvement ideas you are thinking of.
 
-Also, you may already start to...
-
-* complete week 1, 2, 3 and 4 of the course [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
-* complete the tasks of the assignment in [this notebook](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-07-and-08/Assignment_Week_7_8_Time_Series_Data_Preparation_and_Model_Training.ipynb).
-
-This course and assignment notebook should be finished on 26th June 2025.
+{% hint style="warning" %}
+**complete the second milestone, that is the definition of an&#x20;**_**evaluation metric and the estimation of a baseline model**_**, on Sunday before the feedback session next week!**\
+\
+**Follow the instructions given in the template repository. We will review your completions via the link to your repository provided in the Google Sheet including the current list of projects.**
+{% endhint %}
