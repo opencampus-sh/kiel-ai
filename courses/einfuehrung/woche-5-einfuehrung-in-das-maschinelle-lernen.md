@@ -10,7 +10,7 @@
 
 ### Learning Resources
 
-{% file src="../../.gitbook/assets/250522_Intro ML and Linear Regression.pptx" %}
+{% file src="../../.gitbook/assets/251127_Intro to Linear Regression.pdf" %}
 
 {% file src="../../.gitbook/assets/IntroMLandLinReg.ipynb" %}
 
@@ -19,7 +19,7 @@
 ### Until next week you should...
 
 * [x] Watch the videos in the section "[The problem of overfitting](woche-5-einfuehrung-in-das-maschinelle-lernen.md)" from Week 3 of the course "Supervised Machine Learning: Regression and Classification" on DeepLearning.AI.<br>
-* [x] Use a simple linear model to make a prediction for the test dataset and evaluate it [here](https://www.kaggle.com/competitions/bakery-sales-prediction-summer-2025/data?select=sample_submission.csv) on Kaggle. (Ensure that the number of rows and the defined IDs match those in the [sample\_submission](https://www.kaggle.com/competitions/bakery-sales-prediction-summer-2025/data?select=sample_submission.csv) file!)
+* [x] Use a simple linear model to make a prediction for the test dataset and evaluate it on Kaggle. (Ensure that the number of rows and the defined IDs match those in the sample\_submission file!)
 * [x] Further enrich the dataset with additional variables that may be relevant for estimating revenue and formulate a linear model equation that maximizes the adjusted R² for your training dataset.
 * [x] Document the linear regression calculations in the “Baseline Model” directory of your team repository.<br>
 

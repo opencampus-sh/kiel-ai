@@ -29,8 +29,8 @@ The project is needed in order to finish the course, and a final presentation wi
 For more information about the projects, check out the **projects** section and the sub-pages about requirements, possible and past projects!
 {% endhint %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/-MIOIx_NVQVw61ZURP-1" %}
+[Broken link](/broken/pages/-MIOIx_NVQVw61ZURP-1)
 {% endcontent-ref %}
 
 ### The Course Material

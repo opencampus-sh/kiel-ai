@@ -50,8 +50,8 @@ For the complete requirements about the project, check out the Requirement page.
 For some example of projects from last years, check out the Past Projects page.
 {% endhint %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/-MIOJ5IiU6Dv1z9OFncu" %}
+[Broken link](/broken/pages/-MIOJ5IiU6Dv1z9OFncu)
 {% endcontent-ref %}
 
 ### The Course Material

@@ -19,8 +19,8 @@ If _for any reason (no need to explain)_ you do not want to use the same name, b
 
 Check the Projects section to learn more about the projects.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/-MIOIx_NVQVw61ZURP-1" %}
+[Broken link](/broken/pages/-MIOIx_NVQVw61ZURP-1)
 {% endcontent-ref %}
 
 #### Coursera:
