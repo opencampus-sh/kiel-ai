@@ -18,7 +18,6 @@ cover the following topics:
 
 ### Until next week you should...
 
-* [x] enroll into the Coursera course “[Advanced Learning ](https://www.coursera.org/learn/advanced-learning-algorithms/)[Algorthms](https://www.coursera.org/learn/advanced-learning-algorithms/)” and watch the videos of the sections “Neural networks intuition” and “TensorFlow implementation”.<br>
+* [x] watch the videos of the sections “[Neural networks intuition](https://learn.deeplearning.ai/specializations/machine-learning/lesson/uyfti/welcome!)” and “[TensorFlow implementation](https://learn.deeplearning.ai/specializations/machine-learning/lesson/v1elo/inference-in-code)” from week 1 of the course Advanced Learning Algorithms from DeepLearning.AI<br>
 * [x] further extend the dataset with additional variables that could be relevant for estimating revenue.
-* [x] Test your model's predictive performance on Kaggle!
-*
+* [x] further test your baseline model's predictive performance on Kaggle!
