@@ -14,5 +14,6 @@
 
 ### Until next week you should...
 
+* complete week 1, 2, and 3 of the course [Sequences, Time Series and Prediction](https://learn.deeplearning.ai/specializations/tensorflow-developer-professional-certificate/lesson/8bpj0p/introduction%3A-a-conversation-with-andrew-ng) from DeepLearning.AI
 * complete tasks of the assignment in [this notebook](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-07/Assignment_Week7_Time_Series_Analysis_and_Data_Preprocessing.ipynb).
 * complete the tasks in this [assignment notebook](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-08/Assignment_Week8_Time_Series_Forecasting.ipynb).
