@@ -17,3 +17,7 @@ There will be no meeting on the 13/04/2026. Instead you have to hand in the assi
 This assignment has to be handed in **before the deadline (13/04/2026 23:59:59 CEST)** and has to be marked **passed** to be allowed to **participate in the course.**
 
 _Link will be disclosed soon :_)
+
+
+
+Now that you have carefully read the requirements before you applied for this course, let us know in the application form, what might be hidden in this box → 📦
