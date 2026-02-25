@@ -1,10 +1,10 @@
 # Week 1
 
-### To-Do (until 23/04/2025)
+### To-Do (until 20/04/2026)
 
 #### Homework
 
-* Buy the [udemy course](https://www.udemy.com/course/100-days-of-code) (ideally for the lower price, check coupon code at [https://appbrewery.com/](https://appbrewery.com/))&#x20;
-* Do the first day of the course
+* Do days 4 & 5 of the course
   * Watch the videos
-  * Do the interactive coding exercises
+  * Do the interactive coding exercises (online at udemy and in PyCharm)
+* Bring your questions for the meeting!
