@@ -18,7 +18,5 @@ To get started, go to the next page labeled **Week 0**
 
 
 
-
-
-📦
+## 📦
 
