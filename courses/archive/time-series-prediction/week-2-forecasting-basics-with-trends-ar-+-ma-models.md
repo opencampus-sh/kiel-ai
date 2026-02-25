@@ -18,5 +18,5 @@ Launch a GitHub Repository
 
 Prepare your data
 
-{% file src="../../.gitbook/assets/2023_11_01.pdf" %}
+{% file src="../../../.gitbook/assets/2023_11_01.pdf" %}
 

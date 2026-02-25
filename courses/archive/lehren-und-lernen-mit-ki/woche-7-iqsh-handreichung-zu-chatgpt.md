@@ -6,4 +6,4 @@
 
 ### Lernressourcen
 
-{% file src="../../.gitbook/assets/230606_LuLmKI - IQSH.pptx" %}
+{% file src="../../../.gitbook/assets/230606_LuLmKI - IQSH.pptx" %}

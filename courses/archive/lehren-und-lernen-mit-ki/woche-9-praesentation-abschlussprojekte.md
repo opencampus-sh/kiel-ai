@@ -7,4 +7,4 @@
 
 ### Lernressource
 
-{% file src="../../.gitbook/assets/230622_LuLmKI - Projekte.pdf" %}
+{% file src="../../../.gitbook/assets/230622_LuLmKI - Projekte.pdf" %}

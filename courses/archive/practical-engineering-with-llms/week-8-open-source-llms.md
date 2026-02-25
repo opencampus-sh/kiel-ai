@@ -16,5 +16,5 @@
 
 
 
-{% file src="../../.gitbook/assets/231219_OpenSource_LLMs_and_Guest.pptx.pdf" %}
+{% file src="../../../.gitbook/assets/231219_OpenSource_LLMs_and_Guest.pptx.pdf" %}
 

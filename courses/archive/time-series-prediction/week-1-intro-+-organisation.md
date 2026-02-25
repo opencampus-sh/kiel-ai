@@ -7,3 +7,5 @@ description: Watch the first YouTube-Tutorial.
 {% embed url="https://www.youtube.com/playlist?list=PLqYFiz7NM_SMC4ZgXplbreXlRY4Jf4zBP" %}
 
 Think about your project and get started....
+
+{% file src="../../../.gitbook/assets/2023-10-25.pdf" %}

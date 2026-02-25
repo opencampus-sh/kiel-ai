@@ -8,7 +8,7 @@
 
 ### Slides
 
-{% file src="../../.gitbook/assets/TensorFlow CNN Part 1.pdf" %}
+{% file src="../../.gitbook/assets/251113_CNN_Part_I.pdf" %}
 
 ### Learning Resources
 

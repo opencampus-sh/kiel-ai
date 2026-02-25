@@ -8,7 +8,7 @@
 
 ### Learning Resources
 
-{% file src="../../.gitbook/assets/221123_The Datasets Library.pdf" %}
+{% file src="../../../.gitbook/assets/221123_The Datasets Library.pdf" %}
 
 ### Until next class you should...
 

@@ -28,5 +28,5 @@ Is there something special you want to forecast?
 
 ....
 
-{% file src="../../.gitbook/assets/2023-11-22.pdf" %}
+{% file src="../../../.gitbook/assets/2023-11-22.pdf" %}
 

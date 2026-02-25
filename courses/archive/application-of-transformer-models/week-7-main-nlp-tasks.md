@@ -8,7 +8,7 @@
 
 ### Learning Resources <a href="#learning-resources" id="learning-resources"></a>
 
-{% file src="../../.gitbook/assets/230104_Main NLP Tasks.pdf" %}
+{% file src="../../../.gitbook/assets/230104_Main NLP Tasks.pdf" %}
 
 ### Until next class you should... <a href="#until-next-class-you-should..." id="until-next-class-you-should..."></a>
 

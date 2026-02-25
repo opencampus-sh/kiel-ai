@@ -11,7 +11,7 @@ cover the following topics:
 
 ### Learning Resources
 
-{% file src="../../.gitbook/assets/250605_Overfitting and Model Evaluation.pdf" %}
+{% file src="../../.gitbook/assets/251204_Overfitting and Model Evaluation.pdf" %}
 
 * [Graphical tool](https://playground.tensorflow.org/) for the definition and estimation of neural networks for different example datasets
 * [Example ](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/overfitting.ipynb)of the effect of overfitting and regularization

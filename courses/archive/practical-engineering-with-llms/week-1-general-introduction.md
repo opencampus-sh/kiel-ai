@@ -45,12 +45,12 @@
 
 * Slides of Session 1:
 
-{% file src="../../.gitbook/assets/241023_GeneralIntroduction_PEwLLMs.pptx.pdf" %}
+{% file src="../../../.gitbook/assets/241023_GeneralIntroduction_PEwLLMs.pptx.pdf" %}
 
 **Readings on simple prompting techniques**
 
 * [Instruction prompting](https://learnprompting.org/docs/basics/instructions)
 * [Role prompting](https://learnprompting.org/docs/basics/roles)
-* [Priming prompt](https://learnprompting.org/docs/basics/priming\_prompt)
+* [Priming prompt](https://learnprompting.org/docs/basics/priming_prompt)
 * To be continued...
 

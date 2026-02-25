@@ -14,7 +14,7 @@
 
 ### resources
 
-{% file src="../../.gitbook/assets/231205_Building User Interfaces with Gradio.pptx.pdf" %}
+{% file src="../../../.gitbook/assets/231205_Building User Interfaces with Gradio.pptx.pdf" %}
 
 
 

@@ -8,7 +8,7 @@
 
 ### Learning Resources
 
-{% file src="../../.gitbook/assets/250612_Neural Nets.pdf" %}
+{% file src="../../.gitbook/assets/251211_Neural Nets.pdf" %}
 
 * Additional [introduction video](https://www.youtube.com/watch?v=GvQwE2OhL8I) (12 Minuten) on neural nets
 * [Example data preparation notebook](https://colab.research.google.com/github/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Neuronale%20Netze/neural_net_data_preparation.ipynb) for a neural net

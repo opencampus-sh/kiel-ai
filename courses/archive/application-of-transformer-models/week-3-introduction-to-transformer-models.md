@@ -7,7 +7,7 @@
 
 ### Learning Resources
 
-{% file src="../../.gitbook/assets/221109_Introduction to Transformers.pdf" %}
+{% file src="../../../.gitbook/assets/221109_Introduction to Transformers.pdf" %}
 
 * To get an idea about the number of tokens a text or word is made off in the GPT models, you may want to checkout [this site](https://gpttools.com/estimator).
 

@@ -12,7 +12,7 @@
 
 ### Ressources
 
-{% file src="../../.gitbook/assets/231121_Introduction_to_Retrieval_Augmented_Generation_final.pptx.pdf" %}
+{% file src="../../../.gitbook/assets/231121_Introduction_to_Retrieval_Augmented_Generation_final.pptx.pdf" %}
 
 
 

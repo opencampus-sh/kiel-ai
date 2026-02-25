@@ -10,9 +10,9 @@
 
 
 
-{% file src="../../.gitbook/assets/230427_LuLmKI - Jan Fedder (1).pdf" %}
+{% file src="../../../.gitbook/assets/230427_LuLmKI - Jan Fedder (2).pdf" %}
 
-{% file src="../../.gitbook/assets/KI CHATGPT & SCHULE.pdf" %}
+{% file src="../../../.gitbook/assets/KI CHATGPT & SCHULE (1).pdf" %}
 
 ### Bis zur nächsten Woche solltet Ihr...
 

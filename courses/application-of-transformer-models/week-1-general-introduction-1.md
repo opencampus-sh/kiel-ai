@@ -7,6 +7,10 @@
 
 #### Learning Resources
 
+
+
+{% file src="../../.gitbook/assets/240422_SFT.pdf" %}
+
 * &#x20;[Creating your own ChatGPT: Supervised fine-tuning (SFT)](https://www.youtube.com/watch?v=NXevvEF3QVI\&t=418s) from Niels Rogge
 
 #### Until next week you should...

@@ -10,7 +10,7 @@
 
 
 
-{% file src="../../.gitbook/assets/231211_Fine-Tuning II.pdf" %}
+{% file src="../../../.gitbook/assets/231211_Fine-Tuning II.pdf" %}
 
 * [Week 2](https://www.coursera.org/learn/generative-ai-with-llms/home/week/2) and [week 3](https://www.coursera.org/learn/generative-ai-with-llms/home/week/3) of the course Generative AI with Large Language Models
 

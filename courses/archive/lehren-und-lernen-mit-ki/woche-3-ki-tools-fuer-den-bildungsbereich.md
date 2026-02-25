@@ -7,9 +7,9 @@
 
 ### Lernressourcen
 
-{% file src="../../.gitbook/assets/230504_LuLmKI _ KI-Tools.pdf" %}
+{% file src="../../../.gitbook/assets/230504_LuLmKI _ KI-Tools.pdf" %}
 
-{% file src="../../.gitbook/assets/Weßels-Lehre-Lernen-mit-KI-Tools-opencampus-2023-05-04.pdf" %}
+{% file src="../../../.gitbook/assets/Weßels-Lehre-Lernen-mit-KI-Tools-opencampus-2023-05-04.pdf" %}
 
 
 

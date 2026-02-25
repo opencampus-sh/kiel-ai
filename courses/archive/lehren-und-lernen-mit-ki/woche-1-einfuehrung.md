@@ -10,7 +10,7 @@
 
 ### Lernressourcen
 
-{% file src="../../.gitbook/assets/230420_LuLmKI - Einführung (1).pdf" %}
+{% file src="../../../.gitbook/assets/230420_LuLmKI - Einführung (1).pdf" %}
 
 ### Bis zur nächsten Woche solltest Du...
 

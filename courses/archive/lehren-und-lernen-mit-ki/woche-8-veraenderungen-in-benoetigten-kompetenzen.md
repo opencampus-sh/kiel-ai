@@ -7,6 +7,6 @@
 
 ### Lernressourcen
 
-{% file src="../../.gitbook/assets/230615_LuLmKI - Kompetenzen.pdf" %}
+{% file src="../../../.gitbook/assets/230615_LuLmKI - Kompetenzen.pdf" %}
 
-{% file src="../../.gitbook/assets/Kompetenzen und LLM (3).pptx" %}
+{% file src="../../../.gitbook/assets/Kompetenzen und LLM (3).pptx" %}

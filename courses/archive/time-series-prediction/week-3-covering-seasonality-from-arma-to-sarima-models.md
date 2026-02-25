@@ -16,4 +16,4 @@ Think about an appropiate approach for your problem
 
 Formulate some questions about things you do not know
 
-{% file src="../../.gitbook/assets/Week3-2023_11_08.pdf" %}
+{% file src="../../../.gitbook/assets/2023-11-08.pdf" %}

@@ -8,7 +8,7 @@
 
 ### Learning Resources
 
-{% file src="../../.gitbook/assets/221102_Self-Attention and Prompt Design.pdf" %}
+{% file src="../../../.gitbook/assets/221102_Self-Attention and Prompt Design.pdf" %}
 
 Additional resource explaining the Transformer model:
 
@@ -17,7 +17,7 @@ Additional resource explaining the Transformer model:
 
 ### Until next week you should...
 
-* [x] Watch [video 3](https://www.youtube.com/watch?v=23XUv0T9L5c\&list=PL75e0qA87dlG-za8eLI6t0\_Pbxafk-cxb\&index=11) (Multi Head Attention) and [video 4](https://www.youtube.com/watch?v=EXNBy8G43MM\&list=PL75e0qA87dlG-za8eLI6t0\_Pbxafk-cxb\&index=12) (Transformers) of the Rasa Series on Transformers & Attention.
+* [x] Watch [video 3](https://www.youtube.com/watch?v=23XUv0T9L5c\&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb\&index=11) (Multi Head Attention) and [video 4](https://www.youtube.com/watch?v=EXNBy8G43MM\&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb\&index=12) (Transformers) of the Rasa Series on Transformers & Attention.
 * [x] Note at least one question on the each of the videos!
 * [x] Complete [chapter 2](https://huggingface.co/course/chapter2/1) of the Hugging Face course.
 * [x] Think about the project you want to do and/or get in contact with course mates about it.

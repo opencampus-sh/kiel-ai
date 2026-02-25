@@ -2,11 +2,11 @@
 description: Today is your day !!!
 ---
 
-# Week 7 - Milestone Meeting + Spectral Analysis of Time Series
+# Week 7 - Milestone Meeting + Spectral Analysis of Time Series + Kalman-Filtering
 
 Give a presentation about your current status.....ideas in which direction you want to go......ask for feedback......be active
 
-{% file src="../../.gitbook/assets/2023-12-06.pdf" %}
+{% file src="../../../.gitbook/assets/2023-12-06.pdf" %}
 
 
 

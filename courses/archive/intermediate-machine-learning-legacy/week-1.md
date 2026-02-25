@@ -22,7 +22,7 @@ PyTorch 101 (Lab 01)
 
 A visual overview of the workflow in the Colab notebook you can get in the PyTorch diagram below:
 
-{% file src="../../.gitbook/assets/pytorch diagram.pdf" %}
+{% file src="../../../.gitbook/assets/pytorch diagram.pdf" %}
 
 ## **To-do**
 
@@ -46,5 +46,5 @@ Try to **improve the accuracy** in the PyTorch 101 notebook by tweaking the amou
 
 Familiarize yourself with basic PyTorch Tutorials:
 
-* [https://pytorch.org/tutorials/beginner/deep\_learning\_60min\_blitz.html](https://pytorch.org/tutorials/beginner/deep\_learning\_60min\_blitz.html) (First part)
-* [https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial\_notebooks/tutorial2/Introduction\_to\_PyTorch.html](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial\_notebooks/tutorial2/Introduction\_to\_PyTorch.html)
+* [https://pytorch.org/tutorials/beginner/deep\_learning\_60min\_blitz.html](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) (First part)
+* [https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial\_notebooks/tutorial2/Introduction\_to\_PyTorch.html](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.html)

@@ -7,9 +7,9 @@
 
 ### Lernressourcen
 
-{% file src="../../.gitbook/assets/ChatGPT-KI in der Lehre_Vivian Gunser.pptx" %}
+{% file src="../../../.gitbook/assets/ChatGPT-KI in der Lehre_Vivian Gunser.pptx" %}
 
-{% file src="../../.gitbook/assets/230525_LuLmKI - kreatives Schreiben2.pdf" %}
+{% file src="../../../.gitbook/assets/230525_LuLmKI - kreatives Schreiben2.pdf" %}
 
 ### Bis zur nächsten Woche solltet Ihr...
 

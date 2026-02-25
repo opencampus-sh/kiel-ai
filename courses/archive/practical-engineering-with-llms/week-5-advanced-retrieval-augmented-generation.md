@@ -16,7 +16,7 @@
 
 ### Resources
 
-{% file src="../../.gitbook/assets/231128_Advanced Retrieval_Augmented_Generation.pptx.pdf" %}
+{% file src="../../../.gitbook/assets/231128_Advanced Retrieval_Augmented_Generation.pptx.pdf" %}
 
 
 

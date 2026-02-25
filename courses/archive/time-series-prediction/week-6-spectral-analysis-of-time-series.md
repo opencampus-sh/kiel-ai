@@ -8,7 +8,7 @@ description: >-
 
 Continue working on your semester project !!!
 
-{% file src="../../.gitbook/assets/2023-11-29.pdf" %}
+{% file src="../../../.gitbook/assets/2023-11-29.pdf" %}
 
 {% embed url="https://www.youtube.com/watch?v=d_qvLDhkg00" %}
 Towards Copula models

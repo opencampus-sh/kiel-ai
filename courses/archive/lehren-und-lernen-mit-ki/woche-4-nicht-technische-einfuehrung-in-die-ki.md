@@ -7,7 +7,7 @@
 
 ### Lernressourcen
 
-{% file src="../../.gitbook/assets/230511_LuL mit KI_Nicht-technische Einführung.pdf" %}
+{% file src="../../../.gitbook/assets/230511_LuL mit KI_Nicht-technische Einführung.pdf" %}
 
 
 

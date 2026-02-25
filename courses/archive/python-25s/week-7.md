@@ -10,7 +10,7 @@
 * List out what data the program has to handle (e.g. flash card with front and back, pet stats like hunger) and the matching data structures you need in python
 * Create a flow chart for the program, like you have seen with hangman in the course:
 
-<figure><img src="../../.gitbook/assets/Solution+-+Hangman+Flowchart+1(1) (1).png" alt="" width="375"><figcaption><p>Flowchart for the hangman program</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Solution+-+Hangman+Flowchart+1(1) (1).png" alt="" width="375"><figcaption><p>Flowchart for the hangman program</p></figcaption></figure>
 
 * We will form groups of \~4 people and you will get time to discuss together
 

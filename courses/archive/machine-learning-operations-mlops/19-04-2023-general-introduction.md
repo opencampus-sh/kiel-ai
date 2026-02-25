@@ -7,7 +7,7 @@
 
 ### Learning Resources
 
-{% file src="../../.gitbook/assets/230419_MLOps Introduction Session.pdf" %}
+{% file src="../../../.gitbook/assets/230419_MLOps Introduction Session.pdf" %}
 
 * [Paper on the definition of DevOps](https://ieeexplore.ieee.org/document/10081336)
 

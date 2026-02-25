@@ -14,7 +14,7 @@
 
 ### this sessions presentation&#x20;
 
-{% file src="../../.gitbook/assets/141123_Introduction to LangChain.pdf" %}
+{% file src="../../../.gitbook/assets/141123_Introduction to LangChain.pdf" %}
 
 ### homework
 
@@ -23,4 +23,4 @@
 
 
 
-{% file src="../../.gitbook/assets/HomeworkRetrievalAugmentedGeneration.ipynb" %}
+{% file src="../../../.gitbook/assets/HomeworkRetrievalAugmentedGeneration.ipynb" %}
