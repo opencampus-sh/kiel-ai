@@ -12,3 +12,13 @@ This gitbook contains the main information you need for the course (e.g. course 
 
 To get started, go to the next page labeled **Week 0**
 
+
+
+
+
+
+
+
+
+📦
+

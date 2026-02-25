@@ -8,3 +8,7 @@
   * Watch the videos
   * Do the interactive coding exercises (online at udemy and in PyCharm)
 * Bring your questions for the meeting!
+
+
+
+Did you hear the sound from the box?! → 📦 \*hisssss\*

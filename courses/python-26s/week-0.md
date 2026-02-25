@@ -20,4 +20,7 @@ _Link will be disclosed soon :_)
 
 
 
-Now that you have carefully read the requirements before you applied for this course, let us know in the application form, what might be hidden in this box → 📦
+Make sure to keep the box warm! → 📦
+
+
+
