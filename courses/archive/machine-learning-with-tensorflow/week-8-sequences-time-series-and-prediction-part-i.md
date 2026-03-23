@@ -1,4 +1,4 @@
-# Week 10 - Transformers for NLP
+# Week 10 - Sequences, Time Series and Prediction
 
 ### This week you will...
 

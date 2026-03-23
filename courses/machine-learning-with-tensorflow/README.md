@@ -1,2 +1,2 @@
-# Machine Learning with TensorFlow
+# Applied Machine Learning
 

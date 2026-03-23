@@ -1,4 +1,4 @@
-# Week9 - Project Work
+# Week9 - Project Feedback Session
 
 ### This week you will...
 

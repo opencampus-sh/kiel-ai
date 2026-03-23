@@ -7,7 +7,7 @@
 
 #### Learning Resources
 
-{% file src="../../.gitbook/assets/240506_Model Evaluation.pdf" %}
+{% file src="../../../.gitbook/assets/240506_Model Evaluation.pdf" %}
 
 #### Until next week you should...
 

@@ -1,4 +1,4 @@
-# Week 5 - Project Feedback Session
+# Week 6 - Project Feedback Session
 
 ### This week you will...
 

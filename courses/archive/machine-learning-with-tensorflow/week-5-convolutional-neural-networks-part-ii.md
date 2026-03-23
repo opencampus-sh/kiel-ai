@@ -1,4 +1,4 @@
-# Week 6 - Hyperparameter Optimization
+# Week 5 - Convolutional Neural Networks, Part II
 
 ### This week you will...
 
@@ -10,7 +10,7 @@
 
 
 
-{% file src="../../.gitbook/assets/250522_CNNs in TensorFlow-Part-II.pdf" %}
+{% file src="../../../.gitbook/assets/250522_CNNs in TensorFlow-Part-II.pdf" %}
 Presentation Slides from this week
 {% endfile %}
 

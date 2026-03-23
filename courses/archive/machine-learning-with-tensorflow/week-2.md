@@ -1,4 +1,4 @@
-# Week 2 - Introduction to PyTorch
+# Week 2 - Introduction to TensorFlow,Part I
 
 ### This week you will...
 
@@ -7,7 +7,7 @@
 
 ### Learning Resources
 
-{% file src="../../.gitbook/assets/251030_Introduction_Part_I.pdf" %}
+{% file src="../../../.gitbook/assets/251030_Introduction_Part_I.pdf" %}
 
 * [Machine Learning Explained in 100 Seconds](https://www.youtube.com/watch?v=PeMlggyqz0Y) (Fireship, 2:30 min)
 * [What is a Loss Function? Understanding How AI Models Learn](https://www.youtube.com/watch?v=v_ueBW_5dLg) (IBM Technology, 10 min)

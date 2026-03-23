@@ -9,7 +9,7 @@
 
 
 
-{% file src="../../.gitbook/assets/240429_Fine-Tuning Characteristics.pdf" %}
+{% file src="../../../.gitbook/assets/240429_Fine-Tuning Characteristics.pdf" %}
 
 #### Until next week you should...
 

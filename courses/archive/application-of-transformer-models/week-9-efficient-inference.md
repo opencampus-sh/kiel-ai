@@ -7,7 +7,7 @@
 
 #### Learning Resources
 
-{% file src="../../.gitbook/assets/240610_Inference.pdf" %}
+{% file src="../../../.gitbook/assets/240610_Inference.pdf" %}
 
 * [Short blog](https://huggingface.co/blog/abhishek/autotrain-mixtral-dgx-cloud-local) on how to fine-tune with Hugging Face AutoTrain
 

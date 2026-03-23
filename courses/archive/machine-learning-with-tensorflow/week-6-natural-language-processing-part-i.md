@@ -1,4 +1,4 @@
-# Week 7 - Working with Images using TorchVision
+# Week 7 - Natural Language Processing, Part I
 
 ### This week you will...
 
@@ -7,7 +7,7 @@
 
 ### Learning Resources
 
-{% file src="../../.gitbook/assets/241205_NLP in TensorFlow-Part-I.pdf" %}
+{% file src="../../../.gitbook/assets/241205_NLP in TensorFlow-Part-I.pdf" %}
 
 * Week 1 and 2 of the course [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
 
