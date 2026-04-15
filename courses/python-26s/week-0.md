@@ -8,6 +8,7 @@ There will be no meeting on the 13/04/2026. Instead you have to hand in the assi
 
 * Join the Element room of the course ([link](https://element-chat.opencampus.sh/#/room/#edu-course-640:opencampus.sh)) and introduce yourself to your peers!
 * Buy the [udemy course](https://www.udemy.com/course/100-days-of-code) (ideally for the lower price of around 15€, check coupon code by following the link at [https://appbrewery.com/](https://appbrewery.com/))&#x20;
+  * udemy has a 30 day money back policy under certain conditions, please check how to refund in case you have to drop out
 * Do days 1, 2 & 3 of the course
   * Watch the videos
   * Do the interactive coding exercises
