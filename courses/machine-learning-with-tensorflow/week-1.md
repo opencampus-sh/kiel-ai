@@ -7,7 +7,7 @@
 
 ### Learning Resources
 
-{% file src="../../.gitbook/assets/251023_General Introduction.pdf" %}
+{% file src="../../.gitbook/assets/260416_General Introduction.pdf" %}
 
 {% file src="../../.gitbook/assets/Guidlines for Presenting Assignments.pptx" %}
 
