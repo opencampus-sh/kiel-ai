@@ -2,6 +2,12 @@
 
 ### This week you will...
 
+{% hint style="info" %}
+**IMPORTANT NOTE**
+
+This page has **NOT** yet been updated! It will be updated shortly and you will get notified in the chat.
+{% endhint %}
+
 * get a soft introduction to what Machine Learning and Deep Learning are, and how they offer you a new programming paradigm, giving you a new set of tools to open previously unexplored scenarios. All you need to know is some very basic programming skills, and you'll pick the rest up as you go along.
 * take the just learned new programming paradigm used in machine learning to the next level by beginning to solve problems of computer vision with just a few lines of code!
 
