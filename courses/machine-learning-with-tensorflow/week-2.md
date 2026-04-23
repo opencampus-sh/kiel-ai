@@ -11,7 +11,7 @@ This page has **NOT** yet been updated! It will be updated shortly and you will 
 * get a soft introduction to what Machine Learning and Deep Learning are, and how they offer you a new programming paradigm, giving you a new set of tools to open previously unexplored scenarios. All you need to know is some very basic programming skills, and you'll pick the rest up as you go along.
 * take the just learned new programming paradigm used in machine learning to the next level by beginning to solve problems of computer vision with just a few lines of code!
 
-### Learning Resources
+### Learning Resources (⚠️ Resources have not yet been updated)
 
 {% file src="../../.gitbook/assets/251030_Introduction_Part_I.pdf" %}
 
@@ -23,7 +23,7 @@ This page has **NOT** yet been updated! It will be updated shortly and you will 
 * [TensorFlow Tutorial 3 - Neural Networks with Sequential and Functional API](https://www.youtube.com/watch?v=pAhPiF3yiXI\&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb\&index=4) (Aladdin Persson, 21 min)
 * [TensorFlow Tutorial 14 - Callbacks with Keras and Writing Custom Callbacks](https://www.youtube.com/watch?v=WUzLJZCKNu4) (Aladdin Persson, 11 min)
 
-### Until next week you should...
+### Until next week you should... (⚠️ Section has not yet been updated)
 
 * Watch the following videos:
   * [Cross Validation](https://alan-turing-institute.github.io/Intro-to-transparent-ML-course/05-cross-val-bootstrap/cross-validation.html) (StatQuest Video, 6 min)
