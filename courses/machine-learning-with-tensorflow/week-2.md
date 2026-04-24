@@ -2,28 +2,34 @@
 
 ### This week you will...
 
+* get an introduction into PyTorch and how to build a model using the right PyTorch classes
+* you will also learn how to train a model over several epochs and how non-linear activation functions increase the expressive power of neural networks, allowing them to learn non-linear relationships in the data
+* the course material also includes a section how the shapes of the learnable parameters (weights and biases) of a PyTorch model translate into the mathematical expressions PyTorch applies under the hood
+
+### Learning Resources
+
+{% file src="../../.gitbook/assets/2026_04_23_Introduction to PyTorch.pdf" %}
+
+* [Machine Learning Explained in 100 Seconds](https://www.youtube.com/watch?v=PeMlggyqz0Y) (Fireship, 2:30 min)
+* [Backpropagation, intuitively | Deep Learning Chapter 3](https://www.youtube.com/watch?v=Ilg3gGewQ5U\&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi\&index=4) (3Blue1Brown, 13 min)\
+  How the parameters of the model influence the prediction quality and how **Backpropagation** uses the gradients of the **Cost Function** (also known as the **Loss Function**) to update the weights and biases
+* [What is a Loss Function? Understanding How AI Models Learn](https://www.youtube.com/watch?v=v_ueBW_5dLg) (IBM Technology, 10 min)\
+  How **Loss Functions** are used to quantify predictions and guide model training and which **Loss Function** to choose based on the data and task (**Regression** vs. **Classification**) an hand
+* [Validation data: How it works and why you need it](https://www.youtube.com/watch?v=NPWlj9G1Si8) (Galaxy Inferno Codes, 5:40 min)\
+  Why we need **Training**, **Validation** and **Test** datasets and what **Overfittting** and **Data Leakage** are&#x20;
+
+**Additional Resources (going beyond this week's topics)**&#x20;
+
+* [Parameters vs Hyperparameters](https://www.youtube.com/watch?v=32tNAhQ8x7M) (Pankaj Kumar Porwal, 5:40 min)\
+  Discusses the difference between learnable **Parameters** (weights and biases) and **Hyperparameters** that are not learned, but specified when defining the model or training
+
+### Until next week you should... (⚠️ Section has not yet been updated)
+
 {% hint style="info" %}
 **IMPORTANT NOTE**
 
-This page has **NOT** yet been updated! It will be updated shortly and you will get notified in the chat.
+This section has **NOT** yet been updated! It will be updated shortly and you will get notified in the chat.
 {% endhint %}
-
-* get a soft introduction to what Machine Learning and Deep Learning are, and how they offer you a new programming paradigm, giving you a new set of tools to open previously unexplored scenarios. All you need to know is some very basic programming skills, and you'll pick the rest up as you go along.
-* take the just learned new programming paradigm used in machine learning to the next level by beginning to solve problems of computer vision with just a few lines of code!
-
-### Learning Resources (⚠️ Resources have not yet been updated)
-
-{% file src="../../.gitbook/assets/251030_Introduction_Part_I.pdf" %}
-
-* [Machine Learning Explained in 100 Seconds](https://www.youtube.com/watch?v=PeMlggyqz0Y) (Fireship, 2:30 min)
-* [What is a Loss Function? Understanding How AI Models Learn](https://www.youtube.com/watch?v=v_ueBW_5dLg) (IBM Technology, 10 min)
-* [Backpropagation, intuitively | Deep Learning Chapter 3](https://www.youtube.com/watch?v=Ilg3gGewQ5U\&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi\&index=4) (3Blue1Brown, 13 min)
-* [Parameters vs Hyperparameters](https://www.youtube.com/watch?v=32tNAhQ8x7M) (Pankaj Kumar Porwal, 5:40 min)
-* [Validation data: How it works and why you need it](https://www.youtube.com/watch?v=NPWlj9G1Si8) (Galaxy Inferno Codes, 5:40 min)
-* [TensorFlow Tutorial 3 - Neural Networks with Sequential and Functional API](https://www.youtube.com/watch?v=pAhPiF3yiXI\&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb\&index=4) (Aladdin Persson, 21 min)
-* [TensorFlow Tutorial 14 - Callbacks with Keras and Writing Custom Callbacks](https://www.youtube.com/watch?v=WUzLJZCKNu4) (Aladdin Persson, 11 min)
-
-### Until next week you should... (⚠️ Section has not yet been updated)
 
 * Watch the following videos:
   * [Cross Validation](https://alan-turing-institute.github.io/Intro-to-transparent-ML-course/05-cross-val-bootstrap/cross-validation.html) (StatQuest Video, 6 min)
