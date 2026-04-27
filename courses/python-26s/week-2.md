@@ -9,4 +9,4 @@
   * Do the interactive coding exercises (online at udemy and in PyCharm)
 * Bring your questions for the meeting!
 
-The meeting will be online, Link TBA!
+The meeting will be online only ([Link](https://opencampus.zoom.us/j/91945932982))!
