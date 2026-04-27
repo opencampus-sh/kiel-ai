@@ -14,7 +14,7 @@
 * [Backpropagation, intuitively | Deep Learning Chapter 3](https://www.youtube.com/watch?v=Ilg3gGewQ5U\&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi\&index=4) (3Blue1Brown, 13 min)\
   How the parameters of the model influence the prediction quality and how **Backpropagation** uses the gradients of the **Cost Function** (also known as the **Loss Function**) to update the weights and biases
 * [What is a Loss Function? Understanding How AI Models Learn](https://www.youtube.com/watch?v=v_ueBW_5dLg) (IBM Technology, 10 min)\
-  How **Loss Functions** are used to quantify predictions and guide model training and which **Loss Function** to choose based on the data and task (**Regression** vs. **Classification**) an hand
+  How **Loss Functions** are used to quantify predictions and guide model training and which **Loss Function** to choose based on the data and task (**Regression** vs. **Classification**) at hand
 * [Validation data: How it works and why you need it](https://www.youtube.com/watch?v=NPWlj9G1Si8) (Galaxy Inferno Codes, 5:40 min)\
   Why we need **Training**, **Validation** and **Test** datasets and what **Overfittting** and **Data Leakage** are&#x20;
 
@@ -23,23 +23,10 @@
 * [Parameters vs Hyperparameters](https://www.youtube.com/watch?v=32tNAhQ8x7M) (Pankaj Kumar Porwal, 5:40 min)\
   Discusses the difference between learnable **Parameters** (weights and biases) and **Hyperparameters** that are not learned, but specified when defining the model or training
 
-### Until next week you should... (⚠️ Section has not yet been updated)
+### Until next week you should...&#x20;
 
-{% hint style="info" %}
-**IMPORTANT NOTE**
-
-This section has **NOT** yet been updated! It will be updated shortly and you will get notified in the chat.
-{% endhint %}
-
-* Watch the following videos:
-  * [Cross Validation](https://alan-turing-institute.github.io/Intro-to-transparent-ML-course/05-cross-val-bootstrap/cross-validation.html) (StatQuest Video, 6 min)
-    * The video is **mandatory**
-    * The accompanying notebook is **optional**
-  * [Bias and Variance (Overfitting)](https://www.youtube.com/watch?v=EuBBz3bI-aA) (StatQuest, 7 min)&#x20;
-  * [Model Evaluation (Confusion Matrix)](https://www.youtube.com/live/Kdsp6soqA7o) (StatQuest, 7 min)
-  * [Callback Functions in TensorFlow](https://www.youtube.com/watch?v=wkwtIeq9Ljo) (DigitalSreeni, 10 min)
+* complete [Module 3](https://learn.deeplearning.ai/specializations/pytorch-for-deep-learning-professional-certificate/lesson/bvvjkv/introduction-to-data-pipelines) and [Module 4](https://learn.deeplearning.ai/specializations/pytorch-for-deep-learning-professional-certificate/lesson/wrr1egt/cnns---part-1%3A-filters%2C-patterns%2C-and-feature-maps) of the first course "PyTorch: Fundamentals"
 * Decide on a project for the course and form groups
-* Complete the two assignments in the following notebooks:
-  * [Assignment Notebook 1](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-02/Week2_Notebook1_Cats_and_Dogs.ipynb)
-  * [Assignment Notebook 2](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-02/Week2_Notebook2_CIFAR-10.ipynb)
+* Complete the assignment in the following notebook:
+  * [Assignment Notebook 1](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/applied-machine-learning/week-02/Week2_Notebook1_Ice_Cream_Sales_and_Image_Classification.ipynb)
 
