@@ -9,4 +9,5 @@
   * Do the interactive coding exercises (online at udemy and in PyCharm)
 * Familiarize yourself with flowchart creation, e.g. on [diagrams.net](https://diagrams.net/)&#x20;
 * (Optional) We will skip Day 11. If you want extra practice, you can still do it
+* (Always) Bring your questions for the meeting!
 

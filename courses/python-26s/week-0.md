@@ -18,11 +18,3 @@ There will be no meeting on the 13/04/2026. Instead you have to hand in the assi
 This assignment has to be handed in **before the deadline (13/04/2026 23:59:59 CEST)** and has to be marked **passed** to be allowed to **participate in the course.**
 
 {% embed url="https://colab.research.google.com/drive/177BBhAlObx_CQhE3qAgnlr_8kXXZl4Z4?usp=sharing" %}
-
-
-
-
-
-## 📦
-
-Make sure to keep the box warm!
