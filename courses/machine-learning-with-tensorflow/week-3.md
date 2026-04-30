@@ -2,10 +2,10 @@
 
 ### This week you will...
 
-* see how to improve the basic neural network for computer vision you learned last week.
-* learn about what happens if your data is more complex; if the images are larger, or if the features are not always in the same place, and how to handle such issues.
+* set up a custom `Dataset`  and `DataLoader` to load, transform and batch data
+* learn the difference between MLPs and CNNs for image classification and how **Architectural Bias** can act as **Automated Feature Engineering**
 
-### Learning Resources
+### Learning Resources (⚠️ will be updated after the session)
 
 {% file src="../../.gitbook/assets/250508_Introduction-to-TensorFlow-Part-II (1).pdf" %}
 
