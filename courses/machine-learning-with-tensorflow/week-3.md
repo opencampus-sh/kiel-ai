@@ -2,17 +2,36 @@
 
 ### This week you will...
 
-* set up a custom `Dataset`  and `DataLoader` to load, transform and batch data
-* learn the difference between MLPs and CNNs for image classification and how **Architectural Bias** can act as **Automated Feature Engineering**
+* Set up a custom `Dataset`  and `DataLoader` to load, transform and batch data
+* Learn the difference between MLPs and CNNs for image classification and how **Architectural Bias** can act as **Automated Feature Engineering**
 
 ### Learning Resources (⚠️ will be updated after the session)
 
-{% file src="../../.gitbook/assets/250508_Introduction-to-TensorFlow-Part-II (1).pdf" %}
+{% file src="../../.gitbook/assets/2026_04_30_Data Management and Neural Network Components.pdf" %}
 
-* [Cross Validation](https://alan-turing-institute.github.io/Intro-to-transparent-ML-course/05-cross-val-bootstrap/cross-validation.html) (StatQuest Video, 6 min)
-* [Bias and Variance (Overfitting)](https://www.youtube.com/watch?v=EuBBz3bI-aA) (StatQuest, 7 min)&#x20;
+#### **Optional Resourcesthat**
+
+* [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)\
+  This is a full course and absolutely optional. \
+  We recommed it as a resource **after completing DeepLearning.AI's** **PyTorch for Deep Learning**\
+  (feel free to use it at your dicretion, if you want another perspective on e.g., CNNs.)
+* [3Blue1Brown's Neural Network Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)<br>
+
+#### **Additional Resources (going beyond this week's topics)**
+
+* [Cross Validation](https://alan-turing-institute.github.io/Intro-to-transparent-ML-course/05-cross-val-bootstrap/cross-validation.html) (StatQuest Video, 6 min)\
+  How to split the available data into subsets for training and testing and how **Cross Validation** is used to process different splits to evaluate your model's performance
+*   [Bias and Variance (Overfitting)](https://www.youtube.com/watch?v=EuBBz3bI-aA) (StatQuest, 7 min)\
+    The video discusses the **Bias-Variance Tradeoff** and explains why we want to design and train models that are at the sweet spot between
+
+    * **minimizing Bias (Underfitting)**\
+      Error resulting from overly simple assumptions (the model misses the underlying pattern)
+    * **minimizing Variance (Overfitting)**\
+      Error resulting from the model being too sensitive to the training data. \
+      High variance causes the model to "memorize" noise instead of learning the underlying distribution such that it fails to generalize on unseen data
+
+    **Mini-Batch Gradient Descent** helps us navigate this tradeoff by introducing just enough noise to prevent the high variance (overfitting) typically seen in **Full-Batch Gradient Descent**
 * [Model Evaluation (Confusion Matrix)](https://www.youtube.com/live/Kdsp6soqA7o) (StatQuest, 7 min)
-* [Callback Functions in TensorFlow](https://www.youtube.com/watch?v=wkwtIeq9Ljo) (DigitalSreeni, 10 min)
 
 ### Until next week you should...
 
