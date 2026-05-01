@@ -2,10 +2,12 @@
 
 ### This week you will...
 
-* Set up a custom `Dataset`  and `DataLoader` to load, transform and batch data
-* Learn the difference between MLPs and CNNs for image classification and how **Architectural Bias** can act as **Automated Feature Engineering**
+* Set up a custom `Dataset` and `DataLoader` to load, transform, and batch data.
+* Split the complete dataset into **Subsets for training, validation, and testing** and witness the impact of **Distribution Shift**.
+* Explore why **Architectural Bias** in **Convolutional Neural Networks** acts as **Automated Feature Engineering** by learning **Convolution Filters** (or Kernels), allowing them to be more parameter-efficient compared to standard **Multi-Layer Perceptrons**.
+* Understand what **Loss Surfaces** are and how **Gradient Descent** and batch size influence model optimization.
 
-### Learning Resources (⚠️ will be updated after the session)
+### Learning Resources
 
 {% file src="../../.gitbook/assets/2026_04_30_Data Management and Neural Network Components.pdf" %}
 
@@ -15,7 +17,7 @@
   This is a full course and absolutely optional. \
   We recommed it as a resource **after completing DeepLearning.AI's** **PyTorch for Deep Learning**\
   (feel free to use it at your dicretion, if you want another perspective on e.g., CNNs.)
-* [3Blue1Brown's Neural Network Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)<br>
+* [3Blue1Brown's Neural Network Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) (thanks for sharing!)<br>
 
 #### **Additional Resources (going beyond this week's topics)**
 
@@ -31,7 +33,6 @@
       High variance causes the model to "memorize" noise instead of learning the underlying distribution such that it fails to generalize on unseen data
 
     **Mini-Batch Gradient Descent** helps us navigate this tradeoff by introducing just enough noise to prevent the high variance (overfitting) typically seen in **Full-Batch Gradient Descent**
-* [Model Evaluation (Confusion Matrix)](https://www.youtube.com/live/Kdsp6soqA7o) (StatQuest, 7 min)
 
 ### Until next week you should...
 
