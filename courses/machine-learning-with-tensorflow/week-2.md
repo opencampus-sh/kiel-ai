@@ -25,8 +25,8 @@
 
 ### Until next week you should...&#x20;
 
-* complete [Module 3](https://learn.deeplearning.ai/specializations/pytorch-for-deep-learning-professional-certificate/lesson/bvvjkv/introduction-to-data-pipelines) and [Module 4](https://learn.deeplearning.ai/specializations/pytorch-for-deep-learning-professional-certificate/lesson/wrr1egt/cnns---part-1%3A-filters%2C-patterns%2C-and-feature-maps) of the first course "PyTorch: Fundamentals"
+* Complete [Module 3](https://learn.deeplearning.ai/specializations/pytorch-for-deep-learning-professional-certificate/lesson/bvvjkv/introduction-to-data-pipelines) and [Module 4](https://learn.deeplearning.ai/specializations/pytorch-for-deep-learning-professional-certificate/lesson/wrr1egt/cnns---part-1%3A-filters%2C-patterns%2C-and-feature-maps) of the first course "PyTorch: Fundamentals"
 * Decide on a project for the course and form groups
 * Complete the assignment in the following notebook:
-  * [Assignment Notebook 1](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/applied-machine-learning/week-02/Week2_Notebook1_Ice_Cream_Sales_and_Image_Classification.ipynb)
+  * [Assignment Notebook](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/applied-machine-learning/week-02/Week2_Notebook1_Ice_Cream_Sales_and_Image_Classification.ipynb)
 
