@@ -21,5 +21,5 @@
 * complete [Module 1](https://learn.deeplearning.ai/specializations/pytorch-for-deep-learning-professional-certificate/lesson/k227hi9c/conversation-between-laurence-moroney-and-andrew-ng) and [Module 2](https://learn.deeplearning.ai/specializations/pytorch-for-deep-learning-professional-certificate/lesson/0kkxsl/decoding-a-secret-message) of the first course "PyTorch: Fundamentals"
 * think about project ideas to present in class next week (post your ideas in the chat during the week)
 * work your way through the the following notebook and complete the assignments:
-  * [Assignment Notebook 1](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/applied-machine-learning/week-01/Week1_Notebook1_Ice_Cream_Sales.ipynb)
+  * [Assignment Notebook](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/applied-machine-learning/week-01/Week1_Notebook1_Ice_Cream_Sales.ipynb)
 
