@@ -42,3 +42,4 @@
 * Document your findings on the literature review according to the instructions of above
 * Complete the assignment in the following notebook:
   * [Assignment Notebook](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/applied-machine-learning/week-03/Week3_AG_News_Assignment.ipynb)
+  * You can find the helper functions required to run the notebook [here](https://github.com/opencampus-sh/course-material/blob/main/applied-machine-learning/week-03/homework_helper_utils.py). You can either load it the file into Colab or simply copy the code into a cell.
