@@ -10,3 +10,4 @@
 
 ## 03 Dicts, List, Loops
 
+{% embed url="https://colab.research.google.com/drive/1Ek3bYiuMv0KadINxaO-4FzbNUkj_7ngh?usp=sharing" %}
