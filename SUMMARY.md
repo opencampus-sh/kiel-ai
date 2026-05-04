@@ -86,6 +86,7 @@
   * [Final Project](courses/python-26s/final-project.md)
   * [Resources](courses/python-26s/resources/README.md)
     * [Harvard Course](courses/python-26s/resources/harvard-course.md)
+    * [Worklabs](courses/python-26s/resources/worklabs.md)
 * [Introduction to Deep Reinforcement Learning](courses/introduction-to-deep-reinforcement-learning/README.md)
   * [Requirements for a Certificate of Achievement or ECTS 1](courses/introduction-to-deep-reinforcement-learning/requirements-for-a-certificate-of-achievement-or-ects.md)
   * [Project](courses/introduction-to-deep-reinforcement-learning/project.md)
