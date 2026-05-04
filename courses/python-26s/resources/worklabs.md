@@ -8,6 +8,6 @@
 
 {% embed url="https://colab.research.google.com/drive/1jrFCA888cTHjI4hGVTt_giv1Ua2KMH47?usp=sharing" %}
 
-## 03 Dicts, List, Loops
+## 03 Dicts, Lists, Loops
 
 {% embed url="https://colab.research.google.com/drive/1Ek3bYiuMv0KadINxaO-4FzbNUkj_7ngh?usp=sharing" %}
