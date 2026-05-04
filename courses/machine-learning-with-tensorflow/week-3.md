@@ -11,7 +11,7 @@
 
 {% file src="../../.gitbook/assets/2026_04_30_Data Management and Neural Network Components.pdf" %}
 
-#### **Optional Resourcesthat**
+#### **Optional Resources**
 
 * [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)\
   This is a full course and absolutely optional. \
