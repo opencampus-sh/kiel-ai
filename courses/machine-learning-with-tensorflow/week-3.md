@@ -36,7 +36,7 @@
 
 ### Until next week you should...
 
-* Complete [module 3](https://learn.deeplearning.ai/specializations/pytorch-for-deep-learning-professional-certificate/lesson/2ffyly/transformers) of the second course "PyTorch: Techniques and Ecosystem Tools"
+* Complete [module 3](https://learn.deeplearning.ai/specializations/pytorch-for-deep-learning-professional-certificate/lesson/jcc479/introduction-to-nlp-with-pytorch) of the second course "PyTorch: Techniques and Ecosystem Tools"
 * Set up a repository for your project following the instructions given [here](https://opencampus.gitbook.io/opencampus-machine-learning-program/projects/requirements)
 * Conduct a literature review according to the instructions given [here](https://github.com/opencampus-sh/ml-project-template/blob/main/0_LiteratureReview/INSTRUCTIONS.md)
 * Document your findings on the literature review according to the instructions of above
