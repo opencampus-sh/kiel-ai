@@ -15,6 +15,8 @@
 
 * [What is NLP](https://www.youtube.com/watch?v=fLvJ8VdHLA0) (9 min)
 * [Embeddings explained](https://www.youtube.com/watch?v=wgfSDrqYMJ4\&t) (8 min)
+* Awesome LLM [resource collection](https://github.com/hannibal046/awesome-llm)
+* Hugging Face [Transformers Course](https://huggingface.co/learn/llm-course/chapter1/1)
 
 ### Until next week you should...
 
