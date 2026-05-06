@@ -2,9 +2,10 @@
 
 ### This week you will...
 
-* go deeper into using ConvNets with real-world data and a much larger dataset than those you've been using thus far.
-* learn about image augmentation, a technique to avoid overfitting by tweaking the training set to potentially increase the diversity of subjects it covers.
-* discuss your project ideas.
+* Build an end-to-end NLP pipeline that classifies AG News articles into World, Sports, Business, or Sci/Tech.
+* Use a pretrained DistilBERT tokenizer to convert raw text into model-ready inputs such as token IDs, attention masks, and labels.
+* Implement a custom PyTorch `Dataset`, dynamic padding with a data collator, and `DataLoader`s for efficient training and validation.
+* Fine-tune DistilBERT using partial layer freezing, tune key hyperparameters, evaluate performance, and save the trained model safely.
 
 ### Slides
 
