@@ -11,16 +11,18 @@
 
 {% file src="../../.gitbook/assets/251113_CNN_Part_I.pdf" %}
 
-### Learning Resources
+### Additional Learning Resources
 
-* [Neural Networks Part 8: Image Classification with Convolutional Neural Networks (CNNs) ](https://www.youtube.com/watch?v=HGwBXDKFk9I\&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1\&index=15)(StatQuest with Josh Starmer, 15 min)
-* [C4W1L04 Padding](https://www.youtube.com/watch?v=smHa2442Ah4\&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF\&index=5) (DeepLearningAI, 9:50 min)
-* [C4W2L10 Data Augmentation](https://www.youtube.com/watch?v=JI8saFjK84o\&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF\&index=22) (DeepLearningAI, 9:30 min)
-* [TensorFlow Tutorial 4 - Convolutional Neural Networks with Sequential and Functional API](https://www.youtube.com/watch?v=WAciKiDP2bo\&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb\&index=5) (Aladdin Persson, first 10 min)
-* [TensorFlow Tutorial 18 - Custom Dataset for Images](https://www.youtube.com/watch?v=q7ZuZ8ZOErE) (Aladdin Persson, first 7 min)
-* [Data Augmentation - Deep Learning with Tensorflow | Ep. 19](https://www.youtube.com/watch?v=yke3zUGgQ-w) (Kody Simpson, 23 min)
+* [What is NLP](https://www.youtube.com/watch?v=fLvJ8VdHLA0) (9 min)
+* [NLP Zero to Hero Part 1](https://www.youtube.com/watch?v=fNxaJsNG3-s\&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S\&index=1) (5 min)
+* [NLP Zero to Hero Part 2](https://www.youtube.com/watch?v=r9QjkdSJZ2g\&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S\&index=2) (6 min)
+* [NLP Zero to Hero Part 3](https://www.youtube.com/watch?v=Y_hzMnRXjhI\&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S\&index=3) (8 min)
+* [Embeddings explained](https://www.youtube.com/watch?v=wgfSDrqYMJ4\&t) (8 min)
+* [ML with RNNs (NLP Zero to Hero - Part 4)](https://www.youtube.com/watch?v=OuYtk9Ymut4\&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S\&index=4) \[6 Min]
+* [LSTM for NLP (NLP Zero to Hero - Part 5)](https://www.youtube.com/watch?v=A9QVYOBjZdY\&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S\&index=5) \[5 Min]
+* [Training an AI to create poetry (NLP Zero to Hero - Part 6)](https://www.youtube.com/watch?v=ZMudJXhsUpY\&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S\&index=6) \[8 Min]
 
 ### Until next week you should...
 
-* Investigate the characteristics of your project's dataset according to the instructions given [here](https://github.com/opencampus-sh/ml-project-template/blob/main/1_DatasetCharacteristics/INSTRUCTIONS.md)
-* Document your findings on the dataset characteristics according to the instructions of above
+* Prepare questions for your projects for the feedback sessions
+* Already get started on the new content
