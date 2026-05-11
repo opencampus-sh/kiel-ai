@@ -21,4 +21,5 @@
 ### Until next week you should...
 
 * Prepare questions for your projects for the feedback sessions
-* Already get started on the new content
+* Start on [Module 1: Hyperparameter Optimization](https://learn.deeplearning.ai/specializations/pytorch-for-deep-learning-professional-certificate/lesson/oppq8g/a-conversation-between-laurence-moroney-and-andrew-ng) of Course 2 (PyTorch: Techniques and Ecosystem Tools)
+* Start on this [assignment notebook](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/applied-machine-learning/week-04/Week4_Notebook1_CIFAR-10.ipynb)

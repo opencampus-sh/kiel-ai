@@ -7,15 +7,15 @@
 
 
 {% hint style="warning" %}
-**Make sure you complete the first milestone, that is the&#x20;**_**literature review and descriptive statistics**_**, on the Sunday before the feedback session!**\
+**Make sure you complete the first milestone, that is the&#x20;**_**literature review and descriptive statistics**_**, on the Sunday after the feedback session!**\
 \
 **Follow the instructions given in the template repository and share the link to your project repository in the Google Sheet including the current list of projects, so we can review you completions there.**
 {% endhint %}
 
-#### We will then assign your project team a time slot within the regular course time with one of the instructors.
+####
 
 ### Until next week you should...
 
 * Complete [Module 1: Hyperparameter Optimization](https://learn.deeplearning.ai/specializations/pytorch-for-deep-learning-professional-certificate/lesson/oppq8g/a-conversation-between-laurence-moroney-and-andrew-ng) of Course 2 (PyTorch: Techniques and Ecosystem Tools)
-* Assignment notebook: TBD
+* Complete this [assignment notebook](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/applied-machine-learning/week-04/Week4_Notebook1_CIFAR-10.ipynb)
 
