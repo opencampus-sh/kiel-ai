@@ -4,7 +4,7 @@
 
 #### Homework
 
-* Do days 8, 9 & 10 of the course
+* Do **Days 8, 9 & 10** of the course
   * Watch the videos
   * Do the interactive coding exercises (online at udemy and in PyCharm)
 * Familiarize yourself with flowchart creation, e.g. on [diagrams.net](https://diagrams.net/)&#x20;
