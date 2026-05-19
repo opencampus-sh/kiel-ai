@@ -16,8 +16,8 @@
 * The group size for the project should be at least **four**
 * If you have an own idea, please pitch it in the course and see if others want to join
 * Otherwise you can choose between two default projects:
-  * Virtual Pet (aka. Tamagotchi)
-  * Flash Cards (aka. Anki)
+  * **Virtual Pet** (aka. Tamagotchi)
+  * **Flash Cards** (aka. Anki)
 
 #### General remarks on the project
 
