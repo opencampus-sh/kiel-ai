@@ -23,7 +23,7 @@
 
 * The project should at least look and feel like the Projects you build in the course
 * Use a GUI
-  * E.g. Tkinter (discussed in day 27)
+  * E.g. Tkinter (discussed in Day 27)
   * Pygame is not difficult either
 * Use of libraries in general is encouraged!
 
