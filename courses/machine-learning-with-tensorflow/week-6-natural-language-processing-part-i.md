@@ -2,14 +2,17 @@
 
 ### This week you will...
 
-* get an understanding for the importance of tokenization of a text when training a neural network for texts, for example, to do a sentiment analysis. Tokenization is the process of converting the text into numeric values, with a number representing a word or a character.
-* learn about embeddings, where the text tokens are mapped as vectors in a high dimensional space. With embeddings and labelled examples, these vectors can then be tuned so that words with similar meaning will have a similar direction in the vector space. This will begin the process of training a neural network to understand sentiment in text -- and you'll begin by looking at movie reviews, training a neural network on texts that are labelled 'positive' or 'negative' and determining which words in a sentence drive those meanings.
+* Get more hands-on experience with TorchVision, in particular on loading images from folders, building preprocessing pipelines, and applying data augmentations
+* Get familiar wit transfer learning, a powerful technique to include the knowledge of models that were trained on large datasets and benefit from the features these models already learned in your own problem scenario.
 
 ### Learning Resources
 
 {% file src="../../.gitbook/assets/241205_NLP in TensorFlow-Part-I.pdf" %}
 
-* Week 1 and 2 of the course [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
+### Additional Learning Resources
+
+* [Introduction on Transfer Learning](https://www.youtube.com/watch?v=FQM13HkEfBk\&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF\&index=20) (9 min)
+* [Video on Data Augmentation](https://www.youtube.com/watch?v=JI8saFjK84o\&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF\&index=21) (10 min)
 
 ### Until next week you should...
 
