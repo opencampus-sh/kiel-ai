@@ -1,5 +1,7 @@
 # Final Project
 
+#### Formal details
+
 * The deadline for submitting your well documented project is the **31/07/2026 23:59:59 CEST**
 * Your submission should tell a story:
   * What is the goal of the project?
@@ -8,6 +10,14 @@
 * You have to at least hand in a Jupyter Notebook documenting code snippets (i.e. spotlights on important code parts), also if you are just working with .py files
 * You can alternatively upload a zip file containing the Jupyter Notebook and needed project files (own libraries, resources, diagrams)&#x20;
 * In a group project it should become clear, who participated and who worked on what part
+
+#### Project Groups
+
+* The group size for the project should be at least **four**
+* If you have an own idea, please pitch it in the course and see if others want to join
+* Otherwise you can choose between two default projects:
+  * Virtual Pet (aka. Tamagotchi)
+  * Flash Cards (aka. Anki)
 
 #### General remarks on the project
 
