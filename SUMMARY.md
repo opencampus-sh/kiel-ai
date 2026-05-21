@@ -57,6 +57,8 @@
   * [Week 1 - Course Introduction](courses/from-llms-to-ai-agents/week-1-course-introduction.md)
   * [Week2 - RAG +Introduction to frameworks(langchain & llamaindex)](courses/from-llms-to-ai-agents/week2-rag-+introduction-to-frameworks-langchain-and-llamaindex.md)
   * [Week 3 - Prompt Engineering & Demo Chatbot](courses/from-llms-to-ai-agents/week-3-prompt-engineering-and-demo-chatbot.md)
+  * [Week 4 - Demo Project Pitch](courses/from-llms-to-ai-agents/week-4-demo-project-pitch.md)
+  * [Week 5 - Introduction to Agents](courses/from-llms-to-ai-agents/week-5-introduction-to-agents.md)
 * [Advanced Time Series Prediction](courses/time-series-prediction/README.md)
   * [Requirements for a Certificate of Achievement or ECTS](courses/time-series-prediction/requirements-for-a-certificate-of-achievement-or-ects.md)
   * [Projects & Frameworks](courses/time-series-prediction/projects.md)
