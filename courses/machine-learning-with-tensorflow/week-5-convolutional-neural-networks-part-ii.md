@@ -7,7 +7,7 @@
 
 ### Learning Resources
 
-{% file src="../../.gitbook/assets/250522_CNNs in TensorFlow-Part-II.pdf" %}
+{% file src="../../.gitbook/assets/2026-05-21_Hyperparameter_Optimization.pdf" %}
 Presentation Slides from this week
 {% endfile %}
 
