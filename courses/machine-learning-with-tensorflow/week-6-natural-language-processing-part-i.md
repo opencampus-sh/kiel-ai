@@ -16,10 +16,8 @@
 
 ### Until next week you should...
 
-* watch [ML with RNNs (NLP Zero to Hero - Part 4)](https://www.youtube.com/watch?v=OuYtk9Ymut4\&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S\&index=4) \[6 Min]
-* watch [LSTM for NLP (NLP Zero to Hero - Part 5)](https://www.youtube.com/watch?v=A9QVYOBjZdY\&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S\&index=5) \[5 Min]
-* watch [Training an AI to create poetry (NLP Zero to Hero - Part 6)](https://www.youtube.com/watch?v=ZMudJXhsUpY\&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S\&index=6) \[8 Min]<br>
-* complete [this notebook](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/machine-learning-with-tensorflow/week-06/Week6_Notebook_Yoda-Corpus.ipynb) to generate text in the unique speaking style of Star Wars character Master Yoda.<br>
+* watch the [videos of Module 4](https://learn.deeplearning.ai/specializations/pytorch-for-deep-learning-professional-certificate/lesson/533luly/introduction-to-efficient-data-pipelines) ("Efficient Training Pipelines") of course 2 ("PyTorch: Techniques and Ecosystem Tools")<br>
+* complete the exercises given in the assignment given [here](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/applied-machine-learning/week-06/Week6_Pneumonia_Assignment.ipynb).<br>
 * watch the videos "[Why human-level performance?](https://www.youtube.com/watch?v=J3HHOwcrkK8\&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b\&index=8)", "[Avoidable bias](https://www.youtube.com/watch?v=J3HHOwcrkK8\&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b\&index=8)", and "[Understanding human-level performance](https://www.youtube.com/watch?v=J3HHOwcrkK8\&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b\&index=8)" to help you evaluating and improving your model
 * consider a baseline model or a baseline comparison for your project task according to the instructions given [here](https://github.com/opencampus-sh/ml-project-template/blob/main/1_DatasetCharacteristics/INSTRUCTIONS.md)
 * document the evaluation results of your baseline model and the used metric(s) in your project repository
