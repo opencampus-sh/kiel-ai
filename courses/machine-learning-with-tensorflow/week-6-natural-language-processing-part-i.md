@@ -19,5 +19,5 @@
 * watch the [videos of Module 4](https://learn.deeplearning.ai/specializations/pytorch-for-deep-learning-professional-certificate/lesson/533luly/introduction-to-efficient-data-pipelines) ("Efficient Training Pipelines") of course 2 ("PyTorch: Techniques and Ecosystem Tools")<br>
 * complete the exercises given in the assignment given [here](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/applied-machine-learning/week-06/Week6_Pneumonia_Assignment.ipynb).<br>
 * watch the videos "[Why human-level performance?](https://www.youtube.com/watch?v=J3HHOwcrkK8\&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b\&index=8)", "[Avoidable bias](https://www.youtube.com/watch?v=CZf3oo0fuh0)", and "[Understanding human-level performance](https://www.youtube.com/watch?v=NUmbgp1h64E)" to help you evaluating and improving your model
-* consider a baseline model or a baseline comparison for your project task according to the instructions given [here](https://github.com/opencampus-sh/ml-project-template/blob/main/1_DatasetCharacteristics/INSTRUCTIONS.md)
+* consider a baseline model or a baseline comparison for your project task according to the instructions given [here](https://github.com/opencampus-sh/ml-project-template/tree/main/2_BaselineModel)
 * document the evaluation results of your baseline model and the used metric(s) in your project repository
