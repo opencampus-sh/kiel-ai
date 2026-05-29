@@ -7,12 +7,12 @@
 
 ### Learning Resources
 
-{% file src="../../.gitbook/assets/241205_NLP in TensorFlow-Part-I.pdf" %}
+{% file src="../../.gitbook/assets/2026-05-28_Working_With_Images_Using_TorchVision.pdf" %}
 
 ### Additional Learning Resources
 
-* [Introduction on Transfer Learning](https://www.youtube.com/watch?v=FQM13HkEfBk\&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF\&index=20) (9 min)
 * [Video on Data Augmentation](https://www.youtube.com/watch?v=JI8saFjK84o\&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF\&index=21) (10 min)
+* [Video on Transfer Learning](https://www.youtube.com/watch?v=FQM13HkEfBk\&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF\&index=20) (9 min)
 
 ### Until next week you should...
 
