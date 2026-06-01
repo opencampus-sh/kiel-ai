@@ -16,8 +16,14 @@
 
 {% embed url="https://colab.research.google.com/drive/1SmW-5a-DAzjiXSghvpyUNii8YQARyIZF?usp=sharing" %}
 
-## 05 Object Oriented Programming
+## 05 OOP & Project Prep I
 
 Including fragments _time based hunger calculation_ and _tuple sorting for flash cards_ for the final project
 
 {% embed url="https://colab.research.google.com/drive/1ceW_QQQJy6WqvNp4NYkUin7sN-fj6Ka4?usp=sharing" %}
+
+## 06 Project Prep II
+
+Including OOP templates for the final projects
+
+{% embed url="https://colab.research.google.com/drive/1XGt_bRx34LtB8Ew_cyEn4fNFAUpxK2VE?usp=sharing" %}
