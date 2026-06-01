@@ -87,6 +87,7 @@
   * [Week 5](courses/python-26s/week-5.md)
   * [Week 6](courses/python-26s/week-6.md)
   * [Week 7](courses/python-26s/week-7.md)
+  * [Week 8](courses/python-26s/week-8.md)
   * [Setup Instructions for Jupyter Notebook Support](courses/python-26s/jupyter-notebook.md)
   * [Final Project](courses/python-26s/final-project.md)
   * [Resources](courses/python-26s/resources/README.md)
