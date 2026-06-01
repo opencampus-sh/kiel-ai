@@ -9,7 +9,7 @@
 
 ### Slides
 
-{% file src="../../.gitbook/assets/251113_CNN_Part_I.pdf" %}
+{% file src="../../.gitbook/assets/2026-05-07-applied-machine-learning.pdf" %}
 
 ### Additional Learning Resources
 
