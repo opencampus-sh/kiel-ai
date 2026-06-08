@@ -2,6 +2,8 @@
 
 ### To-Do (until 29/06/2026)
 
+This will be the last session of the course.
+
 #### Homework
 
 * Prepare your **Project Pitch** (Elevator Pitch)
