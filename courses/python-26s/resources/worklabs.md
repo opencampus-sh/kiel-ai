@@ -27,3 +27,9 @@ Including fragments _time based hunger calculation_ and _tuple sorting for flash
 Including OOP templates for the final projects
 
 {% embed url="https://colab.research.google.com/drive/1XGt_bRx34LtB8Ew_cyEn4fNFAUpxK2VE?usp=sharing" %}
+
+## 07 Project Prep III
+
+Including more input for the final projects
+
+{% embed url="https://colab.research.google.com/drive/1t7ixY4nVHjhoqGcB2z6SfNMoyY6JRuUV?usp=sharing" %}
