@@ -13,7 +13,7 @@
 
 #### Project Groups
 
-* The group size for the project should be at least **four**
+* The group size for the project should be at least **four**; exceptions have to be approved by the course instructor
 * If you have an own idea, please pitch it in the course and see if others want to join
 * Otherwise you can choose between two default projects:
   * **Virtual Pet** (aka. Tamagotchi)
@@ -25,6 +25,7 @@
 * Use a GUI
   * E.g. Tkinter (discussed in Day 27)
   * Pygame is not difficult either
+  * (using turtles is not recommended)
 * Use of libraries in general is encouraged!
 
 ### Model Notebook
