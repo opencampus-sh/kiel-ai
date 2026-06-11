@@ -2,8 +2,6 @@
 
 ### To-Do (until 22/06/2026)
 
-The meeting will be **online** only!
-
 #### Homework
 
 * Do **Day 30** of the course
