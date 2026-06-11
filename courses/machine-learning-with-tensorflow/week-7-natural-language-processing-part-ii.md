@@ -17,7 +17,7 @@
 
 * focus on your project work.
 * watch the [videos of Module 3](https://learn.deeplearning.ai/specializations/pytorch-for-deep-learning-professional-certificate/lesson/2ffyly/transformers) ("Specialized Approaches to Natural Language Processing in Pytorch") of course 3 ("PyTorch: Advanced Architectures and Deployment")
-* start with the assignment that will be provided here soon.<br>
+* start with the assignment on using transformers for translation [here](https://colab.research.google.com/github/opencampus-sh/course-material/blob/main/applied-machine-learning/week-07/Week7-Translation-Assignment.ipynb).<br>
 
 {% hint style="warning" %}
 **complete the second milestone, that is the definition of an&#x20;**_**evaluation metric and the estimation of a baseline model**_**, on Sunday before the feedback session next week!**\
