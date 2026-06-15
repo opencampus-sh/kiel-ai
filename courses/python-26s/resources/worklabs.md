@@ -33,3 +33,9 @@ Including OOP templates for the final projects
 Including more input for the final projects
 
 {% embed url="https://colab.research.google.com/drive/1t7ixY4nVHjhoqGcB2z6SfNMoyY6JRuUV?usp=sharing" %}
+
+## 08 GUI
+
+How to connect methods of a class to a tkinter callback
+
+{% embed url="https://colab.research.google.com/drive/1640d1CvbwKoUq4D-gBE2ClyAz_Wy299u?usp=sharing" %}
