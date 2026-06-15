@@ -2,6 +2,8 @@
 
 ### To-Do (until 22/06/2026)
 
+Change in plan: We will **meet in person** on 22/06/2026, because the room is available
+
 #### Homework
 
 * Do **Day 30** of the course
