@@ -1,12 +1,5 @@
 # ML Template Repo Project — Guide
 
-**EduHub · opencampus.sh · Project type: Presentation with link
-(PRESENTATION_AND_LINK_WITHOUT_DOCUMENTATION)**
-
-> You see this guide in the **My Project** panel once your team is confirmed and
-> the project type is set. It describes **what you submit** — it is not a
-> mandatory write-up from you.
-
 ---
 
 ## What you submit
