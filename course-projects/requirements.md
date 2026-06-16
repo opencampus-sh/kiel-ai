@@ -4,35 +4,73 @@ In all Machine Learning courses you have:
 
 * to complete a machine learning project in a team of up to 4 participants,
 * attend at least all but 2 sessions of the course, and
-* use the provided project template repository for documentation (unless otherwise instructed).
+* use the provided project template repository for your code and documentation
+  (unless otherwise instructed).
 
-## Starting Your Project
+The project is created, managed, and submitted directly in your course on
+[edu.opencampus.sh](https://edu.opencampus.sh) using the **Projects** section.
 
-1. **Navigate to the** [**Template Repository**](https://github.com/opencampus-sh/ml-project-template)
-2.  **Use this Template**: Above the file list, click the "Use this template" button.
+## 1. Set Up Your Repository
 
-    ![Use this template button](https://docs.github.com/assets/images/help/repository/use-this-template-button.png)
-3. **Create Repository from Template**: You'll be prompted to name your new repository and you can choose whether it should be public or private. You'll also have the option to include all branches in the template repository, if there are more than one.
-4. **Create Repository**: Click "Create repository from template" to create the new repository.
-5. **Clone the New Repository**: You can now clone the new repository to your local machine using `git clone` and start working on your project.
+1. **Open the** [**Template Repository**](https://github.com/opencampus-sh/ml-project-template)
+2. **Use this template**: Above the file list, click the "Use this template"
+   button and choose "Create a new repository".
+3. **Create your repository**: Name it and choose public or private, then click
+   "Create repository from template".
+4. **Clone it**: Run `git clone` on your new repository and start working.
 
-## Working on Your Project
+You will share the link to this repository in EduHub when you submit (see step 4).
 
-Follow the `INSTRUCTIONS` file in each folder of the template repository to complete each section of your project.
+## 2. Create or Join a Project in EduHub
 
-## Submitting Your Project
+1. Log in at [edu.opencampus.sh](https://edu.opencampus.sh) and open your course.
+2. Scroll to the **Projects** section.
+3. Do one of the following:
+   * **Propose your own project** – give it a title (a tagline and description
+     are optional). You become the first team member.
+   * **Request to join** an existing project that is still accepting
+     participants.
+   * **Use a template** project if your course provides one.
+4. Teammates use **Request to join** on your project, and you accept them via
+   **Manage requests**.
 
-**Note**: Only ONE team member needs to submit the project.
+**Note**: You can be on only **one active project per course** at a time.
 
-1. **Slides**: Create your presentation slides. Save them in `4_Presentation` as a PowerPoint, Google Slides, or PDF file.
-2. **Cover Image**: Replace the placeholder image in `CoverImage` with an image from your slides.
-3. **README**: Update the main README with project details.
-4. **Link to Slides**: Modify the link in the README of the folder `04_presentation` according to the file name including your presentation slides.
-5. **edu.opencampus.sh Submission**:
-   * Log in at [edu.opencampus.sh](https://edu.opencampus.sh).
-   * Navigate to your course and go to the 'achievements' section.
-   * Select your project title and download possible project specific documentation instructions.
-   * Upload the main README via the upload dialog.
-   * Include co-authors in the upload dialog as applicable.
+## 3. Get Your Team Confirmed
 
-**Deadline**: All submissions will be reviewed after the deadline and certificates will be issued accordingly.
+When your team is complete, use **Request review** to ask your instructor or
+mentor to confirm the team. They set the project type (**Presentation with
+link**) and attach the documentation instructions, after which the project moves
+to **In progress** and you can start uploading your deliverables.
+
+Resolve all pending join requests first – the **Request review** button stays
+disabled while requests are still open.
+
+## 4. Prepare Your Submission
+
+In the **My Project** panel,
+provide the three required deliverables:
+
+1. **Presentation**: Upload your slides (PDF, PPT/PPTX, or ODP, max. 25 MB).
+2. **External link**: Paste the link to your project repository (the one you
+   created in step 1). Make sure it is publicly reachable.
+3. **Cover image**: Upload a representative image (at least ~800×450 px).
+
+Written documentation is **optional** for this project type, but you can upload a
+file if you want to add extra notes. You can download the documentation
+instruction PDF from the **My Project** panel at any time, and you can replace
+any file up until you press **Submit**.
+
+## 5. Submit Your Project
+
+1. Make sure every required item in the submission checklist is complete.
+2. **Only ONE team member** clicks **Submit project**.
+3. In the confirmation dialog, select every author who actively contributed
+   (you can exclude anyone who did not), then confirm.
+
+Once submitted, the project is **locked** and reviewed by an instructor, who can
+approve it, reject it, or send it back to you for revisions. If it is sent back,
+editing is re-enabled and you can submit again.
+
+**Deadline**: Make sure your project is submitted by the course deadline shown in
+the **My Project** panel. Certificates are issued for approved projects.
