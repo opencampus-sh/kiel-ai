@@ -82,8 +82,8 @@ Um euch eine Vorstellung von möglichen Praxisprojekten zu geben, folgt hier ein
 
 ### Informationen zur Projektdurchführung
 
-In den meisten unserer Kurse gibt es die Möglichkeit, ein Praxisprojekt zu absolvieren, um ein Leistungszertifikat/ECTS zu erwerben. \
-Falls Du Fragen zur Durchführung von Projekten hast, kannst Du diese jederzeit gerne über den Q\&A-Channel im Mattermost-Chat von opencampus.sh stellen.
+In allen unseren Kursen erwirbst du das Leistungszertifikat/ECTS über ein Praxisprojekt.\
+Falls Du Fragen zur Durchführung von Projekten hast, kannst Du diese jederzeit gerne über den Q\&A-Channel im Element-Chat von opencampus.sh stellen.
 
 {% hint style="danger" %}
 Allgemein gilt, dass die Kursleitungen spezielle hiervon abweichende Anforderungen oder Abläufe definieren können, die sie Euch dann im Rahmen des Kurses mitteilen.
@@ -93,44 +93,63 @@ Allgemein gilt, dass die Kursleitungen spezielle hiervon abweichende Anforderung
 
 * Soweit nicht vorgegeben durch die Kursleitung schlägst du ggf. mit einem externen Akteur (Unternehmen, gemeinnützige Organisation, Startup etc.) ein Thema für ein Projekt vor, das du dann zusammen mit anderen Kursteilnehmenden bearbeitest. Ebenso kann eine eigene Idee, die du unabhängig von einem externen Akteur umsetzen möchtest, Gegenstand eines Praxisprojekts sein.
 * Ziel des Projektes soll sein, dass sowohl der/die externe Projektpartner:in (falls vorhanden) einen Mehrwert von dem Projekt hat als auch ihr als Projektbearbeitende wichtige Praxiserfahrungen sammelt.
-* Das eigentliche Projektziel bzw. Projektergebnis wird zu Projektbeginn definiert. Füllt dazu das unten angegebene Formular an, in dem neben dem Titel des Projekts eine kurze Beschreibung des Ziels (ca. 500 Zeichen) aufzuführen ist. Das opencampus.sh-Team oder die Kursleitung schalten daraufhin das Projekt auf der EDU-Plattform frei, auf der ihr es dann als Leistungsnachweis in eurem Kurs auswählen müsst, damit es euch zugeordnet wird.
+
+### **Projekt in EduHub anlegen**
+
+Projekte legst du direkt in EduHub an – auf deiner Kursseite im Bereich **„Projekte in diesem Kurs“**. Dafür gibt es zwei Wege:
+
+**a) Einem Projekt beitreten:** In einigen Kursen stellt die Kursleitung **Projektvorlagen** oder bereits angelegte Projekte ein. Bei einer Vorlage wählst du **„Neues Projektteam bilden“**, bei einem bestehenden Projekt anderer Teilnehmender klickst du auf **„Mitarbeit anfragen“** – das Team nimmt deine Anfrage dann an oder lehnt sie ab. Meistens schlagt ihr eure Projekte aber selbst vor (siehe b).
+
+**b) Ein eigenes Projekt vorschlagen** (z. B. ein externes Projekt oder eine eigene Idee):
+
+1. Klick auf **„Eigenes Projekt vorschlagen“**.
+2. Gib einen aussagekräftigen **Titel** an, optional einen Untertitel und eine Kurzbeschreibung (Projektziel, ggf. externe:r Partner:in). Du kannst beides auch später ergänzen.
+3. Lass **„Anderen Studierenden Mitarbeit erlauben“** aktiviert, damit andere Teilnehmende deinem Team beitreten können. Offene **Beitrittsanfragen** beantwortest du in deinem Projekt.
+4. Wenn Team und Beschreibung stehen, klick auf **„Freigabe bei Mentor:in oder Kursleitung anfragen“**. Bis dahin hat dein Projekt den Status **„Vorgeschlagen“**.
+5. Die Kursleitung bestätigt Team und Projekt. Ab dann ist es **„In Bearbeitung“** und du siehst, was genau einzureichen ist, inklusive der **Dokumentationsanleitung**.
+6. Zum Schluss lädst du alles hoch und klickst auf **„Zur Bewertung einreichen“**. Danach ist das Projekt gesperrt und geht in die Bewertung. Bittet die Kursleitung um eine Überarbeitung, kannst du es erneut einreichen.
+
+Die Checkliste mit den nächsten Schritten in deinem Projekt zeigt dir jederzeit, was noch fehlt.
+
+{% hint style="warning" %}
+**Wann?** Dein Projekt muss nicht schon vor Kursbeginn feststehen. In der Regel solltet ihr Team und Projekt aber in den **ersten zwei bis drei Kurswochen** festlegen und zur Freigabe anfragen. Den genauen Zeitpunkt legt deine Kursleitung fest.
+{% endhint %}
 
 {% hint style="info" %}
-[**Formular zur Projektanmeldung**](https://forms.office.com/e/BjsN7s5bwW)
+Du kannst pro Kurs nur in **einem** Projekt mitarbeiten. Falls „Eigenes Projekt vorschlagen“ in deinem Kurs nicht angezeigt wird, hat die Kursleitung Vorschläge deaktiviert – sprich sie dann direkt an.
 {% endhint %}
 
 ### **Teamzusammensetzung**
 
-* Üblicherweise solltet ihr das Projekt zu zweit oder dritt bearbeiten. In Ausnahmefällen könnt ihr dies in Absprache mit der Kursleitung oder dem opencampus.sh-Team auch alleine oder zu viert tun.
+* Wir empfehlen dir **dringend**, dein Projekt im Team zu bearbeiten: **Ideal sind 3 Personen**, 4 sind auch möglich (mehr nicht). Im Team lernst du mehr, könnt ihr Aufgaben aufteilen und ein größeres Ergebnis schaffen.
+* Einzelprojekte sind nur in Absprache mit der Kursleitung möglich.
 
-### **Dokumentation des Projekts**
+### **Präsentation und Dokumentation**
 
-Zur Dokumentation des Projekts gibt es je nach Kurs und Projekttyp verschiedene Möglichkeiten, die im Folgenden dargestellt sind.&#x20;
+Jedes Projekt wird präsentiert, wahlweise
 
-#### Ausschließlich schriftliche Dokumentation des Projekts
+* **live** in einer eigenen Abschlusssession am Ende des Kurses **oder**
+* als **aufgezeichnetes Video** (ca. 5–10 Minuten). Das Video reichst du als **Link** ein, nicht als Datei – lade es z. B. auf YouTube („nicht gelistet“) oder in eine Cloud mit Freigabe „jeder mit dem Link“ hoch. Der Link muss mindestens bis zur Bewertung erreichbar bleiben.
 
-* Das Projekt wird in Form eines Berichts dokumentiert.
-* Auf der Titelseite des Bericht sind das Abgabedatum, der Titel des Projekts, der Titel des Kurses bei opencampus.sh, das Semester, in dem der Kurs veranstaltet wurde, die Mitglieder des Projekts sowie die Definition des Projektziels und ggf. der/die externe Partner:in des Projekts aufzuführen.
-* Der Bericht sollte folgende Abschnitte enthalten (Abweichungen sind möglich, wenn diese inhaltlich für euer Projekt Sinn ergeben):
-  * zu Beginn ein **Executive Summary/Abstract** (max. 1500 Zeichen, inkl. Leerzeichen)
-  * **Einleitung** mit der Darstellung des Hintergrunds der Problemstellung und der Motivation für das Projektziel und ggf. zusätzlich mit der Vorstellung des externen Partners
-  * Darstellung der gewählten **Methode** zur Erreichung des Projektziels
-  * Zeitliche **Projektplanung** mit Projektmeilensteinen
-  * Darstellung der **Projektergebnisse**, soweit möglich inklusive einer Evaluation in Form von externem Feedback oder erhobenen Daten
-  * **Fazit und Ausblick**
-* Der Umfang des Berichts sollte ca. 5 Seiten umfassen (ca. 15.000 Zeichen inklusive Leerzeichen und ohne Titelseite, Tabellen und Abbildungen).
+Die Präsentation bzw. das Video sollte auf folgende Punkte eingehen: Ausgangslage und Projektziel, Vorgehen, Ergebnisse sowie Fazit und Ausblick.
 
-#### Verkürzte schriftliche Dokumentation + Video-Präsentation des Projekts oder Live-Präsentation im Kurs
+Was du genau einreichen musst, steht in der **Dokumentationsanleitung** (PDF), die du herunterladen kannst, sobald dein Projekt in EduHub bestätigt ist. Je nach Kurs wird sie von der Kursleitung oder vom opencampus-Team erstellt – in der Anleitung steht auch, wer dir bei Fragen weiterhilft.
 
-* Die schriftliche Dokumentation ist auf die Titelseite des oben beschriebenen Projektberichts und das Executive Summary/Abstract (Zusammenfassung) beschränkt (siehe Angaben im vorherigen Abschnitt) + Folien der Präsentation im Kurs ODER Video ODER Link
-* Diese Abgabeform trifft z.B. auf folgende Kurse zu: User Experience Design, Game Development Sessions (z.B. bei Teilnahme am Gamejam)
-* Es gelten folgende Rahmenbedingungen:
-  * Das Video (oder die Live-Präsentation) sollte auf die oben für den Bericht unter Einleitung, Methode, Projektplanung, Projektergebnisse, Fazit und Ausblick genannten Inhalte eingehen.
-  * Die Länge der Präsentation sollte bei ca. 5-10 Minuten liegen.
+Typischerweise gehören dazu:
+
+1. **Die Projektergebnisse**, also die konkreten „Produkte“ aus deinem Projekt, z. B. Social-Media-Posts oder -Videos, ein Kampagnenplan, eine App, ein Prototyp oder ein Repository.
+2. **Eine kurze Projektübersicht** mit:
+   * **Wer hat was gemacht?** – ein paar Sätze pro Person
+   * **Welche Tools wurden wofür eingesetzt?** – z. B. „ChatGPT für erste Textentwürfe, Canva für die Grafiken, Figma für den Prototyp“
+3. Der **Link zum Video** (wenn ihr nicht live präsentiert) und ggf. die **Präsentationsfolien**.
+
+{% hint style="info" %}
+KI-Tools darfst und sollst du nutzen – wichtig ist, dass du transparent machst, wofür.
+{% endhint %}
 
 ### **Projektabgabe**
 
-Bitte wähle auf Seite deines entsprechenden Kurses in der Edu-Plattform deinen Projekttitel aus und lade deine Datei hoch.
+Lade alle geforderten Bestandteile (z. B. Projektergebnisse, Projektübersicht, Präsentationsfolien bzw. Video-Link) in deinem Projekt in EduHub hoch und klicke auf **„Zur Bewertung einreichen“** (siehe Schritt 6 oben). Welche Upload-Felder es gibt, siehst du direkt in deinem Projekt; die inhaltlichen Anforderungen stehen in der Dokumentationsanleitung.
 
 ### **Fristen**
 

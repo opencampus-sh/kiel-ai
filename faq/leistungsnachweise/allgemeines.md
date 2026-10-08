@@ -1,18 +1,21 @@
 # Allgemeines
 
-In unseren Kursen gibt es verschiedene Möglichkeiten, um ein Leistungszertifikat zu erwerben. Für Studierende ist das Leistungszertifikat dabei gleichzeitig Grundlage für den Erwerb von ECTS.
+Um bei uns ein Leistungszertifikat zu erwerben (für Studierende gleichzeitig die Grundlage für den Erwerb von ECTS), brauchst du:
 
-Vorraussetzung für den Erwerb eines Leistungszertifkats ist:
+* eine ausreichende aktive Teilnahme an den Kursterminen (max. 2 Fehltermine) sowie
+* ein erfolgreich durchgeführtes und präsentiertes [Projekt](https://opencampus.gitbook.io/faq/leistungsnachweise/projekte).
 
-* eine ausreichende aktive Teilnahme an den Kursterminen sowie
-* der Nachweis der erfolgreichen Durchführung eines [Projekts](https://opencampus.gitbook.io/faq/leistungsnachweise/projekte) ODER der geforderten [Onlinekurse](https://opencampus.gitbook.io/faq/leistungsnachweise/online-kurse)
+#### Warum Projekte?
 
-#### Arten von Prüfungsleistungen
+Onlinekurse und Reflexionsfragebögen bieten wir nicht mehr als Leistungsnachweis an. Solche Texte kann heute jeder KI-Agent in Sekunden erzeugen – sie zeigen nicht, was du wirklich kannst. In einem Projekt wendest du das Gelernte praktisch an, arbeitest im Team und stellst am Ende ein echtes Ergebnis vor.
 
-* **Internes Projekt:** Die Prüfungsleistung erfolgt in Abstimmung mit der Kursleitung über die Durchführung (und ggf. Präsentation) eines Praxisprojekts im Rahmen des Kurses.<br>
-* **Externes Projekt:** Die Prüfungsleistung erfolgt in Abstimmung mit der Kursleitung und/oder dem opencampus-Team durch eine Projektarbeit mit einer externen Organisation/Unternehmen/Startup etc. oder einer selbstständig entwickelten Idee. Das Projekt muss durch einen schriftlichen Bericht oder ein Video dokumentiert werden. Je nach Kurs gibt es verschiedene Dokumentationsformen. Bitte reicht euren Projektvorschlag im Fall eines externen Projekts über dieses [Formular](https://forms.office.com/e/BjsN7s5bwW) ein.<br>
-* **Onlinekurse von z.B. Coursera**: Die Prüfungsleistung erfolgt durch das Absolvieren der für den Kurs geforderten Onlinekurse (meistens im Audit-Modus) und das Einreichen der jeweiligen Reflexionsbögen.
+#### Arten von Projekten
+
+* **Internes Projekt:** Das Thema ergibt sich aus dem Kurs bzw. wird von der Kursleitung vorgegeben.<br>
+* **Externes Projekt:** Du bearbeitest ein Projekt mit einer externen Organisation, einem Unternehmen oder Startup oder setzt eine eigene Idee um. Schlag dein Projekt dazu in den ersten Kurswochen direkt in EduHub auf deiner Kursseite vor („Eigenes Projekt vorschlagen“, siehe [Projekte](https://opencampus.gitbook.io/faq/leistungsnachweise/projekte)).
+
+Bei beiden Projektarten präsentierst du dein Projekt **live in einer Abschlusssession** oder **als Video**, zusammen mit der Dokumentation, die in der **Dokumentationsanleitung** deines Projekts beschrieben ist (siehe [Projekte](https://opencampus.gitbook.io/faq/leistungsnachweise/projekte)).
 
 {% hint style="danger" %}
-Die möglichen Arten von Prüfungsleistungen für den Erwerb von ECTS können sich je nach Kurs unterscheiden. Bitte fragt im Zweifel bei eurer Kursleitung oder dem opencampus-Team nach, welche Arten von Prüfungsleistungen für euren Kurs angeboten werden.
+Die konkreten Anforderungen (z. B. welche Ergebnisse einzureichen sind) können sich je nach Kurs unterscheiden. Sie stehen in der Dokumentationsanleitung, die du in deinem Projekt in EduHub herunterladen kannst. Dort steht auch, an wen du dich bei Fragen wendest (Kursleitung oder opencampus-Team).
 {% endhint %}

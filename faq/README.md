@@ -50,7 +50,7 @@ Falls für bestimmte Kurse/Programme ausnahmsweise Kosten anfallen sollten, wird
 Möglich ist dies für Studierende aller Kieler Hochschulen in vielen Studiengängen im Rahmen einer Fachergänzung/Wahlpflichtbereich. Erkundigt euch hierzu im Zweifelsfall bitte bei eurem Prüfungsamt. Die Kurse von opencampus.sh werden formal über das Zentrum für Schlüsselqualifikationen an der CAU Kiel angeboten.
 
 Für andere Hochschulen ist die Anerkennung ebenfalls möglich, muss dann jedoch von euch selbst individuell bei eurem Prüfungsamt erfragt werden.\
-Für das Kursangebot können in Kombination mit einem Praxisprojekt oder den ergänzenden Onlinekursen 2,5 bzw. 5 ECTS bei erfolgreichem Abschluss vergütet werden. **Noten werden nicht vergeben.**\
+Für das Kursangebot können in Kombination mit einem Praxisprojekt 2,5 bzw. 5 ECTS bei erfolgreichem Abschluss vergütet werden. **Noten werden nicht vergeben.**\
 \
 _**Prüfungsanmeldung:**_
 
@@ -60,7 +60,7 @@ _**Prüfungsanmeldung:**_
 
 ### **Wann bekomme ich ein Leistungszertifikat/ECTS?**
 
-Ein Leistungszertifikat (mit ECTS) erhältst du, wenn du ein Projekt erfolgreich durchgeführt hast (siehe [Abschnitt Projekte](https://opencampus.gitbook.io/faq/projekte)) und nicht mehr als 2 Fehltermine aufweist. Alternativ zur Durchführung eines Projekts gibt es bei einigen Kursen auch die Möglichkeit, Onlinekurse zu absolvieren (siehe [Abschnitt Onlinekurse](https://opencampus.gitbook.io/faq/leistungsnachweise/online-kurse)).\
+Ein Leistungszertifikat (mit ECTS) erhältst du, wenn du ein Projekt erfolgreich durchgeführt und präsentiert hast (siehe [Abschnitt Projekte](https://opencampus.gitbook.io/faq/leistungsnachweise/projekte)) und nicht mehr als 2 Fehltermine aufweist.\
 Die Ausstellung der Leistungszertifikate und die Vergütung von ECTS erfolgt in der Regel ca. einen Monat nach der jeweiligen Frist (siehe oben) zur Einreichung der Leistungsnachweise.
 
 ### **Wann bekomme ich eine Teilnahmebescheinigung?**
