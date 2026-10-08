@@ -14,12 +14,11 @@ Es kann auch davon abgewichen werden (z.B. geblockt an 3 Tagen) – jedoch nur i
 {% endhint %}
 
 * **Beschreibung**
-  * **Es gibt zwei Info-Blöcke:**&#x20;
-    * Info- Block 1 sollte z.B. heißen: Was du bekommst&#x20;
-    * Info-Block 2 sollte z.B. heißen: Was du mitbringen solltest.&#x20;
+  * **Es gibt zwei Info-Blöcke:**
+    * Info- Block 1 sollte z.B. heißen: Was du bekommst
+    * Info-Block 2 sollte z.B. heißen: Was du mitbringen solltest.
     * Du kannst aber natürlich auch eigene Überschriften wählen\
       Ihr könnt natürlich auch auf dem [EduHub](https://app.gitbook.com/o/-MCkv98NOOEp4NT0DS52/s/-MM4tT3dxgbfEpnotjou/) in vergangenen Kursen Inspirationen finden.<br>
 * **Termine**
-  * Selbst wenn die Inhalte der einzelnen Termine noch nicht alle klar sind, **fügt bitte alle eure Kurstermine in der Terminliste ein.**&#x20;
+  * Selbst wenn die Inhalte der einzelnen Termine noch nicht alle klar sind, **fügt bitte alle eure Kurstermine in der Terminliste ein.**
   * Außerdem ist es sehr wichtig, dass jeder Termin einen individuellen Titel bekommt, da diese später auf den Teilnahmebescheinigungen aufgelistet wird.
-

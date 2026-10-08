@@ -1,6 +1,6 @@
 # Aufwandsentschädigung
 
-Die Aufwandsentschädigung für Kursleitungen wird als steuerfreie Übungsleitungspauschale abgerechnet und an euch überwiesen.&#x20;
+Die Aufwandsentschädigung für Kursleitungen wird als steuerfreie Übungsleitungspauschale abgerechnet und an euch überwiesen.
 
 Bitte sprecht vorher mit uns ab (edu@opencampus.sh), welches Honorarformular für euren Kurs das richtige ist.
 

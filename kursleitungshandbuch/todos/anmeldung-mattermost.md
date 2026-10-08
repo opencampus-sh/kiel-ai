@@ -6,8 +6,6 @@ Außerdem gibt es einen internen Channel für Kursleitungen, zu dem wir euch hin
 
 **Bitte meldet euch bei uns, falls wir euch dort noch nicht hinzugefügt haben.**
 
-
-
 Über den grünen Button "Zum Chat", der sich auf eurer Kursseite befindet, gelangt ihr in den Element-Chat. Ihr werdet automatisch in den passenden Kurs-Channel geleitet.<br>
 
 ### Begrüßungsnachricht an eure Teilnehmenden

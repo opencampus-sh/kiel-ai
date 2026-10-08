@@ -18,9 +18,9 @@ Darüber hinausgehende Anforderungen könnt ihr selbst im Rahmen eures Kurses de
 
 {% tab title="Externes Projekt" %}
 Die Prüfungsleistung erfolgt durch eine Projektarbeit mit einer externen Organisation, einem Unternehmen oder mit einer eigenen Idee.\
-Teilnehmende schlagen ihr Projekt selbst in EduHub vor („Eigenes Projekt vorschlagen“), in der Regel in den ersten zwei bis drei Kurswochen. Ihr bestätigt das Projekt anschließend in EduHub (siehe unten).&#x20;
+Teilnehmende schlagen ihr Projekt selbst in EduHub vor („Eigenes Projekt vorschlagen“), in der Regel in den ersten zwei bis drei Kurswochen. Ihr bestätigt das Projekt anschließend in EduHub (siehe unten).
 
-Projekte können sowohl von Kursleitungen vorgegeben werden, als auch von Teilnehmenden vorgeschlagen werden.&#x20;
+Projekte können sowohl von Kursleitungen vorgegeben werden, als auch von Teilnehmenden vorgeschlagen werden.
 {% endtab %}
 {% endtabs %}
 
@@ -53,6 +53,6 @@ Die Projekte eures Kurses findet ihr in der Kursverwaltung im Tab **„Projekte 
 
 Die Vergabe von Teilnahmebescheinigungen erfolgt automatisiert auf Basis der in der Edu-Plattform registrierten Anwesenheiten je Kursteilnehmenden (standardmäßig darf an maximal zwei Kursterminen gefehlt werden).
 
-Die Prüfungsleistung soll zur Abgabefrist des jeweiligen Semesters eingereicht werden. Dies ist im Sommersemester der 01. August und im Wintersemester der 01. März.&#x20;
+Die Prüfungsleistung soll zur Abgabefrist des jeweiligen Semesters eingereicht werden. Dies ist im Sommersemester der 01. August und im Wintersemester der 01. März.
 
-Die Ausstellung der Leistungszertifikate erfolgt dann (teilweise in Abstimmung mit den Kursleitungen) durch das opencampus-Team. Ist dies geschehen, kann das Zertifikat auf dem EduHub heruntergeladen werden.&#x20;
+Die Ausstellung der Leistungszertifikate erfolgt dann (teilweise in Abstimmung mit den Kursleitungen) durch das opencampus-Team. Ist dies geschehen, kann das Zertifikat auf dem EduHub heruntergeladen werden.

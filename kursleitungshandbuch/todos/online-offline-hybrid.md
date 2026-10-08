@@ -11,8 +11,6 @@ Für die Durchführung von Kursen in Präsenz haben wir derzeit vier Locations z
 {% tabs %}
 {% tab title="Starterkitchen" %}
 {% embed url="https://starterkitchen.de" %}
-
-
 {% endtab %}
 
 {% tab title="Cobl" %}

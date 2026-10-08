@@ -3,7 +3,7 @@
 ### Kameranutzung
 
 Alle Teilnehmenden wurden mit der Kursbestätigung darüber informiert, dass wir erwarten, dass sie in den Online-Sessions ihre Kamera angestellt haben.\
-Bitte nehmt euch in der ersten Session auch noch einmal Zeit darauf hinzuweisen.&#x20;
+Bitte nehmt euch in der ersten Session auch noch einmal Zeit darauf hinzuweisen.
 
 {% hint style="info" %}
 Das nonverbale Feedback ist eine wichtige Komponente in jedem Unterricht und für jede soziale Interaktion, auch für die Kursteilnehmenden untereinander.

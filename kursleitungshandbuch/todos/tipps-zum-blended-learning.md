@@ -3,7 +3,7 @@
 Die Tipps beziehen sich hier insbesondere auf Kurse, bei denen die Lerninhalte durch Massive Open Online Courses (MOOCs) gegeben sind und in den wöchentlichen Treffen Aufgaben und Probleme besprochen werden und die Durchführung der Projekte begeleitet wird (häufig auch als eine Form des Blended Learning oder Flipped Classroom bezeichnet).
 
 {% hint style="warning" %}
-**Grundsätzlich ist es bei diesem Ansatz wichtig, dass man in den wöchentlichen Sessions nicht die Inhalte der Lernvideos der vergangenen Woche zusammenfasst. Den Teilnehmenden muss klar sein, dass eine Teilnahme nur dann Sinn macht, wenn sie die Videos gesehen haben.**&#x20;
+**Grundsätzlich ist es bei diesem Ansatz wichtig, dass man in den wöchentlichen Sessions nicht die Inhalte der Lernvideos der vergangenen Woche zusammenfasst. Den Teilnehmenden muss klar sein, dass eine Teilnahme nur dann Sinn macht, wenn sie die Videos gesehen haben.**
 {% endhint %}
 
 {% hint style="info" %}

@@ -1,6 +1,6 @@
 # Einrichten des Zoom-Meetings
 
-Wenn euer Kurs online oder hybrid durchgeführt wird, erhaltet ihr vor Start des Semesters eine entsprechende Zoom-Lizenz pro Kurs (auch bei mehreren Kursleitungen) von uns dafür.&#x20;
+Wenn euer Kurs online oder hybrid durchgeführt wird, erhaltet ihr vor Start des Semesters eine entsprechende Zoom-Lizenz pro Kurs (auch bei mehreren Kursleitungen) von uns dafür.
 
 Bitte ladet die Zoom-App herunter und nutzt diese für die Durchführung der Kurse. Bitte aktualisiert diese ggf. vor Semesterbeginn, damit ihr die neueste Version zur Verfügung habt.
 
@@ -13,8 +13,6 @@ Das Einrichten des wiederkehrenden wöchentlichen Zoom-Meetings ist im Screensho
 ### Beispielhafte Einrichtung des wöchentlichen Zoom-Meetings
 
 <figure><img src="../.gitbook/assets/Bildschirmfoto 2026-08-20 um 13.24.30.png" alt=""><figcaption></figcaption></figure>
-
-
 
 ### Teilen des Meetings im EduHub
 

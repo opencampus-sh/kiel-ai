@@ -18,7 +18,7 @@ Die Bewerber:innen, die ihr mit grün eingestuft habt, werden wir dann zulassen 
 
 Solltet ihr keine Entscheidung über die Bewerber:innen getroffen haben, dann entscheiden wir über die Einstufung und Zulassung.
 
-In manchen Ausnahmefällen ändern wir die vorgenommene Einstufung von euch, wenn wir weitere Informationen über die jeweiligen Bewerber:innen haben, die wichtig sind für eine Zusage/Absage.&#x20;
+In manchen Ausnahmefällen ändern wir die vorgenommene Einstufung von euch, wenn wir weitere Informationen über die jeweiligen Bewerber:innen haben, die wichtig sind für eine Zusage/Absage.
 
 Das Versenden der Zusagen und der Absagen erfolgt in unregelmäßigen Abständen durch das OC-Team bis zum Bewerbungsende. Falls nach Bewerbungsende noch Teilnehmende in den Kurs aufgenommen werden sollen, kontaktiert einfach das OC-Team. Wir können weitere Interessierte nachträglich eurem Kurs hinzufügen, wenn diese einen EduHub-Account haben.
 
