@@ -2,29 +2,45 @@
 
 Falls es in eurem Kurs möglich sein soll, ein Leistungszertifikat zu erwerben (und damit ggf. auch ECTS), müssen die Teilnehmenden eine Prüfungsleistung erbringen.
 
+{% hint style="warning" %}
+Seit dem Wintersemester 2026/27 ist die Prüfungsleistung **immer ein Projekt, das präsentiert wird**. Onlinekurse mit Reflexionsfragebögen bieten wir nicht mehr an, da solche Texte heute problemlos von KI-Agenten erzeugt werden können und damit kein aussagekräftiger Nachweis mehr sind.
+{% endhint %}
+
 ### Mögliche Formen von Leistungsnachweisen
 
-Es gibt die folgenden drei Arten von Leistungsnachweisen und es können eine, zwei oder alle drei Formen für euren Kurs möglich sein:
+Es gibt die folgenden zwei Arten von Projekten:
 
 {% tabs %}
-{% tab title="Online-Kurse" %}
-Die Prüfungsleistung erfolgt durch das erfolgreiche Absolvieren von Online-Kursen.\
-Die Auswahl der Online-Kurse wird vom opencampus-Team (ggf. in Abstimmung mit euch) festgelegt. Hierbei ist ein Reflexionsbogen als Nachweis auf dem EduHub hochzuladen.
-{% endtab %}
-
 {% tab title="Internes Projekt" %}
 Die Prüfungsleistung erfolgt über die Durchführung und Präsentation eines Praxisprojekts im Rahmen des Kurses. Dies kann z.B. ein Projekt im Bereich Coding sein.\
-Teil dieser Leistung kann z.B. die Präsentation des Projekts sein, eine schriftliche Dokumentation der Ergebnisse oder auch Video. \
 Darüber hinausgehende Anforderungen könnt ihr selbst im Rahmen eures Kurses definieren.
 {% endtab %}
 
 {% tab title="Externes Projekt" %}
-Die Prüfungsleistung erfolgt in Abstimmung mit dem opencampus-Team durch eine Projektarbeit mit einer externen Organisation, einem Unternehmen oder mit einer eigenen Idee.\
-Das Projekt muss durch einen schriftlichen Bericht, ein Video oder eine Präsentation dokumentiert werden. Haben Teilnehmende Interesse an einem externen Projekt, sollten sie dieses vor Bearbeitungsbeginn beim opencampus-Team anmelden.&#x20;
+Die Prüfungsleistung erfolgt durch eine Projektarbeit mit einer externen Organisation, einem Unternehmen oder mit einer eigenen Idee.\
+Teilnehmende schlagen ihr Projekt selbst in EduHub vor („Eigenes Projekt vorschlagen“), in der Regel in den ersten zwei bis drei Kurswochen. Ihr bestätigt das Projekt anschließend in EduHub (siehe unten).&#x20;
 
 Projekte können sowohl von Kursleitungen vorgegeben werden, als auch von Teilnehmenden vorgeschlagen werden.&#x20;
 {% endtab %}
 {% endtabs %}
+
+### Präsentation und Dokumentation
+
+* **Abschlusssession einplanen:** Plant am Ende des Kurses eine eigene Session ein, in der die Teams ihre Projekte live präsentieren, und tragt sie frühzeitig in den Terminplan ein. Teams, die nicht live präsentieren können, reichen stattdessen ein Video (als Link) ein.
+* **Dokumentationsanleitungen:** Für jeden Projekttyp gibt es in EduHub eine Dokumentationsanleitung (PDF), die die Teilnehmenden in ihrem Projekt herunterladen können. Je nach Kurs legt **entweder ihr oder das opencampus-Team** dort die kursspezifischen Anforderungen fest (z. B. welche Produkte einzureichen sind). In der Anleitung steht auch, an wen sich die Teilnehmenden bei Fragen wenden. Seid ihr für euren Kurs zuständig, stimmt die Inhalte mit dem opencampus-Team ab und weist die Teilnehmenden früh im Kurs auf die Anleitung hin.
+* **Typische Bestandteile** sind die konkreten Projektergebnisse (z. B. Social-Media-Posts, Kampagnenpläne, eine App oder ein Repository), eine kurze Übersicht, **wer was gemacht hat**, und **welche Tools wofür eingesetzt wurden**.
+* **Teams fördern:** Ermutigt die Teilnehmenden aktiv zur Teamarbeit – ideal sind 3 Personen, maximal 4.
+* **Frist für die Projektfindung:** Legt fest, bis wann Teams und Projekte stehen und zur Freigabe angefragt sein müssen – üblicherweise die zweite bis dritte Kurswoche – und kommuniziert das in der ersten Session.
+* **Bewertung:** Nutzt die Übersicht „wer hat was gemacht“, um zu prüfen, dass alle Teammitglieder einen substanziellen Beitrag geleistet haben.
+
+### Projekte in EduHub verwalten
+
+Die Projekte eures Kurses findet ihr in der Kursverwaltung im Tab **„Projekte & Teilnahmen“** im Abschnitt **„Kursprojekte“**.
+
+* **Projekte vorab anlegen (optional):** Über „Projekt hinzufügen“ ohne Autor:innen erstellt ihr eine **Projektvorlage**, auf deren Basis Teilnehmende ein eigenes Team bilden können. Mit Autor:innen wird das Projekt den Personen direkt zugeordnet.
+* **Vorschläge erlauben:** Ob Teilnehmende eigene Projekte vorschlagen dürfen, steuert die Kursoption „Kursteilnehmenden erlauben, Projekte vorzuschlagen“ (Voreinstellung aus dem Programm, pro Kurs änderbar).
+* **Bestätigen:** Fragt ein Team die Freigabe an, prüft ihr Team und Beschreibung und klickt auf **„Projekt bestätigen“**. Dabei legt ihr auch fest, was einzureichen ist (Projekttyp bzw. Dokumentationsanleitung) – also einen Typ mit Präsentation.
+* **Bewerten:** Nach der Einreichung beurteilt ihr das Projekt über **„Projekt beurteilen“** als bestanden oder nicht bestanden oder gebt es mit einem Kommentar (und ggf. neuer Frist) zur Überarbeitung zurück. Besonders gelungene Projekte könnt ihr außerdem **„Zur Veröffentlichung vorschlagen“**.
 
 ### Zeitlicher Mindestumfang von Projekten
 
@@ -39,4 +55,4 @@ Die Vergabe von Teilnahmebescheinigungen erfolgt automatisiert auf Basis der in 
 
 Die Prüfungsleistung soll zur Abgabefrist des jeweiligen Semesters eingereicht werden. Dies ist im Sommersemester der 01. August und im Wintersemester der 01. März.&#x20;
 
-Die Ausstellung der Leistungszertifikate erfolgt dann (teilweise in Abstimmung mit den Kursleitungen) durch das opencampus-Team. Ist dies geschehen, kann das Zertifikat auf dem EduHub herunterladen gewerden.&#x20;
+Die Ausstellung der Leistungszertifikate erfolgt dann (teilweise in Abstimmung mit den Kursleitungen) durch das opencampus-Team. Ist dies geschehen, kann das Zertifikat auf dem EduHub heruntergeladen werden.&#x20;

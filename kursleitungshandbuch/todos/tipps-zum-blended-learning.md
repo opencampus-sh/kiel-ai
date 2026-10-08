@@ -6,6 +6,10 @@ Die Tipps beziehen sich hier insbesondere auf Kurse, bei denen die Lerninhalte d
 **Grundsätzlich ist es bei diesem Ansatz wichtig, dass man in den wöchentlichen Sessions nicht die Inhalte der Lernvideos der vergangenen Woche zusammenfasst. Den Teilnehmenden muss klar sein, dass eine Teilnahme nur dann Sinn macht, wenn sie die Videos gesehen haben.**&#x20;
 {% endhint %}
 
+{% hint style="info" %}
+Onlinekurse sind Lernmaterial, aber kein Leistungsnachweis mehr – die Prüfungsleistung ist immer ein Projekt (siehe [Prüfungsleistungen für Teilnehmende](vergabe-von-bescheinigungen-und-zertifikaten.md)).
+{% endhint %}
+
 ### Vorschlag für den prototypischen Ablauf einer Session
 
 #### 1. Quiz als Einstieg
