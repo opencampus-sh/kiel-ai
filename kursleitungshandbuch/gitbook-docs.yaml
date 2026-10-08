@@ -8,4 +8,4 @@ site:
       path: kursleitungshandbuch
       default: true
       content:
-        directory: ./kursleitungshandbuch
+        directory: /kursleitungshandbuch
