@@ -1,4 +1,0 @@
-# Kursansicht (eingeloggt)
-
-### COMING SOON!!!! 🚃🚃
-
