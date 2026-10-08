@@ -1,6 +1,7 @@
 # Table of contents
 
 * [FAQ](README.md)
-* [Anforderungen für Zertifikate/ECTS](leistungsnachweise/README.md)
-  * [Allgemeines](leistungsnachweise/allgemeines.md)
-  * [Projekte](leistungsnachweise/projekte.md)
+* [Leistungszertifikat & ECTS](leistungsnachweise/README.md)
+  * [Projekt anlegen & einreichen](leistungsnachweise/projekte.md)
+  * [Präsentation & Dokumentation](leistungsnachweise/praesentation-und-dokumentation.md)
+  * [Projektbeispiele](leistungsnachweise/projektbeispiele.md)
