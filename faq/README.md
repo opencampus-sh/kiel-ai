@@ -4,18 +4,7 @@ description: Herzlich willkommen – schön, dass du unser FAQ besuchst! 👋
 
 # FAQ
 
-### Terminübersicht:
-
-| <mark style="background-color:purple;">**Sommersemester 2026**</mark> |            |
-| --------------------------------------------------------------------- | ---------- |
-| Kursveröffentlichung + Anmeldestart                                   | 01.03.2026 |
-| Night of Talents                                                      | 04.05.2026 |
-| Infoevent Machine Learning Degree                                     | 26.03.2026 |
-| Semester Opening Event                                                | 09.04.2026 |
-| Kursanmeldefrist                                                      | 10.04.2026 |
-| Semesterstart                                                         | 13.04.2026 |
-| Semesterende                                                          | 31.07.2026 |
-| Abgabefrist für Leistungsnachweise                                    | 01.08.2026 |
+## Termine
 
 | <mark style="background-color:purple;">**Wintersemester 2026/2027**</mark> |            |
 | -------------------------------------------------------------------------- | ---------- |
@@ -27,7 +16,7 @@ description: Herzlich willkommen – schön, dass du unser FAQ besuchst! 👋
 | Semesterende                                                               | 28.02.2027 |
 | Abgabefrist für Leistungsnachweise                                         | 01.03.2027 |
 
-
+## Anmeldung & Kosten
 
 ### **Wie kann ich mich auf dem EduHub für Angebote anmelden?**
 
@@ -45,24 +34,28 @@ In regelmäßigen Abständen vor Beginn der Kurse informieren wir per E-Mail üb
 Ja, alle Kurse sind aktuell für alle Teilnehmer:innen kostenlos.\
 Falls für bestimmte Kurse/Programme ausnahmsweise Kosten anfallen sollten, wird dies auf der Seite des jeweiligen Angebots kommuniziert.
 
-### **Wie können mir Leistungspunkte vergütet werden?**
-
-Möglich ist dies für Studierende aller Kieler Hochschulen in vielen Studiengängen im Rahmen einer Fachergänzung/Wahlpflichtbereich. Erkundigt euch hierzu im Zweifelsfall bitte bei eurem Prüfungsamt. Die Kurse von opencampus.sh werden formal über das Zentrum für Schlüsselqualifikationen an der CAU Kiel angeboten.
-
-Für andere Hochschulen ist die Anerkennung ebenfalls möglich, muss dann jedoch von euch selbst individuell bei eurem Prüfungsamt erfragt werden.\
-Für das Kursangebot können in Kombination mit einem Praxisprojekt 2,5 bzw. 5 ECTS bei erfolgreichem Abschluss vergütet werden. **Noten werden nicht vergeben.**\
-\
-_**Prüfungsanmeldung:**_
-
-* **CAU-Studierende** müssen im EduHub (unter Profil) ihre Matrikelnummer angeben. Wir übernehmen die Prüfungsanmeldung zum Ende des laufenden Semesters, demnach sollt ihr euch darum nicht selbst kümmern.\
-  Nach erfolgreichem Abschluss der Prüfungsleistung werden euch die ECTS zum Ende des laufenden Semesters vergütet.
-* **Studierende anderer Hochschulen** melden wir **nicht** beim Prüfungsamt an. Ihr legt nach erfolgreichem Kursabschluss selbstständig bei eurem Prüfungsamt das von opencampus.sh ausgestellte Zertifikat vor.
-
-### **Wann bekomme ich ein Leistungszertifikat/ECTS?**
-
-Ein Leistungszertifikat (mit ECTS) erhältst du, wenn du ein Projekt erfolgreich durchgeführt und präsentiert hast (siehe [Abschnitt Projekte](https://opencampus.gitbook.io/faq/leistungsnachweise/projekte)) und nicht mehr als 2 Fehltermine aufweist.\
-Die Ausstellung der Leistungszertifikate und die Vergütung von ECTS erfolgt in der Regel ca. einen Monat nach der jeweiligen Frist (siehe oben) zur Einreichung der Leistungsnachweise.
+## Teilnahme & Bescheinigungen
 
 ### **Wann bekomme ich eine Teilnahmebescheinigung?**
 
 Bei den meisten Kursen kannst du für deine Teilnahme eine Teilnahmebescheinigung bekommen. Dabei werden die Termine abgebildet, an denen du teilgenommen hast. Die Bedingung dafür ist, dass du bei nicht mehr als 2 Terminen gefehlt hast. Ca. einen Monat nach unserem offiziellen Semesterende wird der Download für die Teilnahmebescheinigungen freigeschaltet.
+
+### **Wann bekomme ich ein Leistungszertifikat/ECTS?**
+
+Dafür führst du zusätzlich zu deiner Teilnahme ein Projekt durch und präsentierst es. Alle Infos dazu findest du unter [Leistungszertifikat & ECTS](https://opencampus.gitbook.io/faq/leistungsnachweise).\
+Die Ausstellung der Leistungszertifikate und die Vergütung von ECTS erfolgt in der Regel ca. einen Monat nach der jeweiligen Abgabefrist (siehe [Termine](#termine)).
+
+## ECTS & Prüfungsanmeldung
+
+### **Wie können mir Leistungspunkte vergütet werden?**
+
+Möglich ist dies für Studierende aller Kieler Hochschulen in vielen Studiengängen im Rahmen einer Fachergänzung/Wahlpflichtbereich. Erkundige dich hierzu im Zweifelsfall bitte bei deinem Prüfungsamt. Die Kurse von opencampus.sh werden formal über das Zentrum für Schlüsselqualifikationen an der CAU Kiel angeboten.
+
+Für andere Hochschulen ist die Anerkennung ebenfalls möglich, muss dann jedoch von dir selbst individuell bei deinem Prüfungsamt erfragt werden.\
+Für das Kursangebot können in Kombination mit einem Praxisprojekt 2,5 bzw. 5 ECTS bei erfolgreichem Abschluss vergütet werden. **Noten werden nicht vergeben.**
+
+### **Muss ich mich selbst zur Prüfung anmelden?**
+
+* **CAU-Studierende** müssen im EduHub (unter Profil) ihre Matrikelnummer angeben. Wir übernehmen die Prüfungsanmeldung zum Ende des laufenden Semesters, du musst dich darum also nicht selbst kümmern.\
+  Nach erfolgreichem Abschluss der Prüfungsleistung werden dir die ECTS zum Ende des laufenden Semesters vergütet.
+* **Studierende anderer Hochschulen** melden wir **nicht** beim Prüfungsamt an. Du legst nach erfolgreichem Kursabschluss selbstständig bei deinem Prüfungsamt das von opencampus.sh ausgestellte Zertifikat vor.
