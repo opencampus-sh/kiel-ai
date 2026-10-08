@@ -1,11 +1,11 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: FAQ | edu.opencampus.sh
+  title: Kursleitungshandbuch | edu.opencampus.sh
   structure:
     - type: space
       key: space-1
-      title: FAQ | edu.opencampus.sh
-      path: faq
+      title: Kursleitungshandbuch | edu.opencampus.sh
+      path: kursleitungshandbuch
       default: true
       content:
-        directory: ./faq
+        directory: ./kursleitungshandbuch
