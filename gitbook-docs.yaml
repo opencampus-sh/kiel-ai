@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: FAQ | edu.opencampus.sh
+  structure:
+    - type: space
+      key: space-1
+      title: FAQ | edu.opencampus.sh
+      path: faq
+      default: true
+      content:
+        directory: ./faq
