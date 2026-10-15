@@ -13,7 +13,7 @@
 
 {% file src="../../.gitbook/assets/251120_Time Series Analysis and Current AI Developments.pdf" %}
 
-* [Example notebook](https://colab.research.google.com/github/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Zeitreihenanalyse/time_series_predictions.ipynb) for graphical analyses of time series
+* [Example notebook](https://colab.research.google.com/github/opencampus-sh/intro-to-data-science-and-ml/blob/main/05_time_series/time_series_predictions.ipynb) for graphical analyses of time series
 
 ### Until next week you should...
 

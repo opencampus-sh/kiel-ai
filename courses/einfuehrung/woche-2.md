@@ -17,7 +17,7 @@ cover the following topics:
 * [Get Started with GitHub Copilot in VS Code](https://www.youtube.com/watch?v=vdBxfFVXnc0)
 * [Overview on GitHub Copilot in VS Code](https://code.visualstudio.com/docs/copilot/overview)
 * Optional [local installation of Python and VS Code](https://www.datacamp.com/tutorial/setting-up-vscode-python)
-* [Examples](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/02_Grafische%20Darstellungen/example_plots.ipynb) for the graphical representation of data
+* [Examples](https://github.com/opencampus-sh/intro-to-data-science-and-ml/blob/main/02_visualization/example_plots.ipynb) for the graphical representation of data
 
 ### Until next week you should...
 
@@ -26,7 +26,7 @@ cover the following topics:
 * [x] work through [this](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib) introduction to creating visualizations with Matplotlib (only Lesson 1).
 * [x] watch [this](https://www.youtube.com/watch?v=tFWsuO9f74o) video (4 minutes) to understand the relevance of confidence intervals.<br>
 * [x] create a GitHub Codespace and save the files 'kiwo.csv', 'umsatzdaten\_gekuerzt.csv', and 'wetter.csv' from this GitHub repository:\
-  [https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml)
+  [https://github.com/opencampus-sh/intro-to-data-science-and-ml](https://github.com/opencampus-sh/intro-to-data-science-and-ml)
 * [x] create a Jupyter notebook that
   * reads the dataset 'umsatzdaten\_gekuerzt.csv' and
   * uses a bar chart to show the relationship of average sales per weekday.

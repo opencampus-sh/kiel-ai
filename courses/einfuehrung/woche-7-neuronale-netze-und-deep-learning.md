@@ -11,8 +11,8 @@
 {% file src="../../.gitbook/assets/251211_Neural Nets.pdf" %}
 
 * Additional [introduction video](https://www.youtube.com/watch?v=GvQwE2OhL8I) (12 Minuten) on neural nets
-* [Example data preparation notebook](https://colab.research.google.com/github/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Neuronale%20Netze/neural_net_data_preparation.ipynb) for a neural net
-* [Example notebook](https://colab.research.google.com/github/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Neuronale%20Netze/neural_net_estimation.ipynb) for training a neural net
+* [Example data preparation notebook](https://colab.research.google.com/github/opencampus-sh/intro-to-data-science-and-ml/blob/main/08_neural_networks/neural_net_data_preparation.ipynb) for a neural net
+* [Example notebook](https://colab.research.google.com/github/opencampus-sh/intro-to-data-science-and-ml/blob/main/08_neural_networks/neural_net_estimation.ipynb) for training a neural net
 
 ### Until next week you should...
 

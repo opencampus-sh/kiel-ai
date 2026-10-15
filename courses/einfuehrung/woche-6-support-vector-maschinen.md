@@ -9,7 +9,7 @@
 
 {% file src="../../.gitbook/assets/251218_Missing Values.pdf" %}
 
-* [Example notebook](https://colab.research.google.com/github/opencampus-sh/einfuehrung-in-data-science-und-ml/blob/main/Fehlende%20Werte/missing_value_imputation.ipynb) for handling missing values
+* [Example notebook](https://colab.research.google.com/github/opencampus-sh/intro-to-data-science-and-ml/blob/main/09_missing_values/missing_value_imputation.ipynb) for handling missing values
 * Chapter 1 of [this](https://campus.datacamp.com/courses/dealing-with-missing-data-in-python/) course at datatcamp
 * [Hugging Face course](https://huggingface.co/learn/nlp-course/chapter1/1) on the Transformers library
 

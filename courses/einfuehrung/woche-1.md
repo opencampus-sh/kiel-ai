@@ -27,8 +27,8 @@ get an introduction to the following topics:
 * [x] watch [this video](https://www.youtube.com/watch?v=mpk4Q5feWaw) on setting up VS Code, specifically for Python and Data Science<br>
 *   [x] do the followings tasks:
 
-    * Import the dataset "umsatzdaten\_gekuerzt.csv", which you can download via the following link:\
-      [https://raw.githubusercontent.com/opencampus-sh/einfuehrung-in-data-science-und-ml/main/wetter.csv](https://raw.githubusercontent.com/opencampus-sh/einfuehrung-in-data-science-und-ml/main/wetter.csv)
+    * Import the dataset "wetter.csv", which you can download via the following link:\
+      [https://raw.githubusercontent.com/opencampus-sh/intro-to-data-science-and-ml/main/data/bakery/wetter.csv](https://raw.githubusercontent.com/opencampus-sh/intro-to-data-science-and-ml/main/data/bakery/wetter.csv)
     * Calculate the overall average temperature.
     * Calculate the average temperature for the month of July.
     * Compare whether the months of July and May differ significantly in their average temperature.<br>
