@@ -9,23 +9,28 @@ Allgemein gilt, dass die Kursleitungen spezielle hiervon abweichende Anforderung
 
 ### **Projektthema und Projektziel**
 
-* Soweit nicht vorgegeben durch die Kursleitung schlägst du ggf. mit einem externen Akteur (Unternehmen, gemeinnützige Organisation, Startup etc.) ein Thema für ein Projekt vor, das du dann zusammen mit anderen Kursteilnehmenden bearbeitest. Ebenso kann eine eigene Idee, die du unabhängig von einem externen Akteur umsetzen möchtest, Gegenstand eines Praxisprojekts sein.
+* Du schlägst ein eigenes Thema vor – eine eigene Idee oder ein Thema zusammen mit einem externen Akteur (Unternehmen, gemeinnützige Organisation, Startup etc.) – oder du bearbeitest ein Thema, das andere Teilnehmende vorgeschlagen haben oder das deine Kursleitung als Projektvorlage bereitstellt. In jedem Fall arbeitest du zusammen mit anderen Kursteilnehmenden daran.
 * Ziel des Projektes soll sein, dass sowohl der/die externe Projektpartner:in (falls vorhanden) einen Mehrwert von dem Projekt hat als auch ihr als Projektbearbeitende wichtige Praxiserfahrungen sammelt.
 
 ### **Projekt in EduHub anlegen**
 
-Projekte legst du direkt in EduHub an – auf deiner Kursseite im Bereich **„Projekte in diesem Kurs“**. Dafür gibt es zwei Wege:
+Projekte legst du direkt in EduHub an – auf deiner Kursseite im Bereich **„Projekte in diesem Kurs“**. Dafür gibt es drei Wege:
 
-**a) Einem Projekt beitreten:** In einigen Kursen stellt die Kursleitung **Projektvorlagen** oder bereits angelegte Projekte ein. Bei einer Vorlage wählst du **„Neues Projektteam bilden“**, bei einem bestehenden Projekt anderer Teilnehmender klickst du auf **„Mitarbeit anfragen“** – das Team nimmt deine Anfrage dann an oder lehnt sie ab. Meistens schlagt ihr eure Projekte aber selbst vor (siehe b).
-
-**b) Ein eigenes Projekt vorschlagen** (z. B. ein externes Projekt oder eine eigene Idee):
+**a) Ein eigenes Projekt vorschlagen** (z. B. ein externes Projekt oder eine eigene Idee):
 
 1. Klick auf **„Eigenes Projekt vorschlagen“**.
 2. Gib einen aussagekräftigen **Titel** an, optional einen Untertitel und eine Kurzbeschreibung (Projektziel, ggf. externe:r Partner:in). Du kannst beides auch später ergänzen.
 3. Lass **„Anderen Studierenden Mitarbeit erlauben“** aktiviert, damit andere Teilnehmende deinem Team beitreten können. Offene **Beitrittsanfragen** beantwortest du in deinem Projekt.
-4. Wenn Team und Beschreibung stehen, klick auf **„Freigabe bei Mentor:in oder Kursleitung anfragen“**. Bis dahin hat dein Projekt den Status **„Vorgeschlagen“**.
-5. Die Kursleitung bestätigt Team und Projekt. Ab dann ist es **„In Bearbeitung“** und du siehst, was genau einzureichen ist, inklusive der **Dokumentationsanleitung**.
-6. Zum Schluss lädst du alles hoch und klickst auf **„Zur Bewertung einreichen“**. Danach ist das Projekt gesperrt und geht in die Bewertung. Bittet die Kursleitung um eine Überarbeitung, kannst du es erneut einreichen.
+
+**b) Einem Projekt beitreten:** Bei einem Projekt, das andere Teilnehmende vorgeschlagen haben, klickst du auf **„Mitarbeit anfragen“**. Das Team nimmt deine Anfrage dann an oder lehnt sie ab.
+
+**c) Projektvorlage nutzen:** In einigen Kursen stellt die Kursleitung **Projektvorlagen** ein. Bei einer Vorlage wählst du **„Neues Projektteam bilden“** – so erstellst du dir daraus ein eigenes Projekt, für das du dann dein Team bildest. Den Titel übernimmt dein Projekt aus der Vorlage.
+
+Danach geht es auf allen drei Wegen gleich weiter:
+
+1. Wenn Team und Beschreibung stehen, klick auf **„Freigabe bei Mentor:in oder Kursleitung anfragen“**. Bis dahin hat dein Projekt den Status **„Vorgeschlagen“**.
+2. Die Kursleitung bestätigt Team und Projekt. Ab dann ist es **„In Bearbeitung“** und du siehst, was genau einzureichen ist, inklusive der **Dokumentationsanleitung**.
+3. Zum Schluss lädst du alles hoch und klickst auf **„Zur Bewertung einreichen“**. Danach ist das Projekt gesperrt und geht in die Bewertung. Bittet die Kursleitung um eine Überarbeitung, kannst du es erneut einreichen.
 
 Die Checkliste mit den nächsten Schritten in deinem Projekt zeigt dir jederzeit, was noch fehlt.
 
@@ -34,7 +39,7 @@ Die Checkliste mit den nächsten Schritten in deinem Projekt zeigt dir jederzeit
 {% endhint %}
 
 {% hint style="info" %}
-Du kannst pro Kurs nur in **einem** Projekt mitarbeiten. Falls „Eigenes Projekt vorschlagen“ in deinem Kurs nicht angezeigt wird, hat die Kursleitung Vorschläge deaktiviert – sprich sie dann direkt an.
+Du kannst pro Kurs nur in **einem** Projekt mitarbeiten. In einigen Kursen sind nur Projektvorlagen der Kursleitung vorgesehen. Falls „Eigenes Projekt vorschlagen“ in deinem Kurs nicht angezeigt wird, hat die Kursleitung Vorschläge deaktiviert – sprich sie bei Fragen direkt an.
 {% endhint %}
 
 ### **Team**
@@ -44,7 +49,7 @@ Du kannst pro Kurs nur in **einem** Projekt mitarbeiten. Falls „Eigenes Projek
 
 ### **Projektabgabe**
 
-Lade alle geforderten Bestandteile (z. B. Projektergebnisse, Projektübersicht, Präsentationsfolien bzw. Video-Link) in deinem Projekt in EduHub hoch und klicke auf **„Zur Bewertung einreichen“** (siehe Schritt 6 oben). Was genau dazugehört, steht unter [Präsentation & Dokumentation](praesentation-und-dokumentation.md). Welche Upload-Felder es gibt, siehst du direkt in deinem Projekt.
+Lade alle geforderten Bestandteile (z. B. Projektergebnisse, Projektübersicht, Präsentationsfolien bzw. Video-Link) in deinem Projekt in EduHub hoch und klicke auf **„Zur Bewertung einreichen“** (siehe oben). Was genau dazugehört, steht unter [Präsentation & Dokumentation](praesentation-und-dokumentation.md). Welche Upload-Felder es gibt, siehst du direkt in deinem Projekt.
 
 ### **Fristen**
 

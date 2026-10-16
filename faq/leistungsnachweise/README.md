@@ -7,7 +7,7 @@ Um bei uns ein Leistungszertifikat zu erwerben (für Studierende gleichzeitig di
 
 ### So läuft's ab
 
-1. **Projekt finden (Kurswoche 1–3):** Bilde ein Team und schlag euer Projekt in EduHub vor bzw. tritt einem Projekt bei. → [Projekt anlegen & einreichen](projekte.md)
+1. **Projekt finden (Kurswoche 1–3):** Schlag ein eigenes Projekt vor, tritt dem Projekt anderer Teilnehmender bei oder erstelle dein Projekt auf Basis einer Projektvorlage deiner Kursleitung. → [Projekt anlegen & einreichen](projekte.md)
 2. **Projekt umsetzen und präsentieren (Kursende):** Präsentiere euer Projekt live in der Abschlusssession oder als Video. → [Präsentation & Dokumentation](praesentation-und-dokumentation.md)
 3. **Einreichen (bis zur Abgabefrist):** Lade alle Bestandteile in EduHub hoch und reiche das Projekt zur Bewertung ein. Die Abgabefristen findest du in der [Terminübersicht](https://opencampus.gitbook.io/faq#termine).
 
@@ -17,11 +17,14 @@ Inspiration findest du in unseren [Projektbeispielen](projektbeispiele.md). 🎉
 
 Onlinekurse und Reflexionsfragebögen bieten wir nicht mehr als Leistungsnachweis an. Solche Texte kann heute jeder KI-Agent in Sekunden erzeugen – sie zeigen nicht, was du wirklich kannst. In einem Projekt wendest du das Gelernte praktisch an, arbeitest im Team und stellst am Ende ein echtes Ergebnis vor.
 
-### Arten von Projekten
+### Drei Wege zu deinem Projekt
 
-* **Internes Projekt:** Das Thema ergibt sich aus dem Kurs bzw. wird von der Kursleitung vorgegeben.
-* **Externes Projekt:** Du bearbeitest ein Projekt mit einer externen Organisation, einem Unternehmen oder Startup oder setzt eine eigene Idee um. Schlag dein Projekt dazu in den ersten Kurswochen direkt in EduHub auf deiner Kursseite vor.
+* **Eigenes Projekt vorschlagen:** Leg in EduHub ein Projekt mit deiner Idee an – gern auch zusammen mit einer externen Organisation, einem Unternehmen oder Startup – und finde Mitstreiter:innen.
+* **Einem Projekt beitreten:** Schick eine Beitrittsanfrage an ein Projekt, das andere Teilnehmende vorgeschlagen haben.
+* **Projektvorlage nutzen:** Erstell dir aus einer Vorlage deiner Kursleitung ein eigenes Projekt und bilde dafür dein Team.
+
+In einigen Kursen sind nur Projektvorlagen der Kursleitung vorgesehen. Ob das bei dir so ist, erfährst du von deiner Kursleitung.
 
 {% hint style="danger" %}
-Die konkreten Anforderungen (z. B. welche Ergebnisse einzureichen sind) können sich je nach Kurs unterscheiden. Sie stehen in der Dokumentationsanleitung, die du in deinem Projekt in EduHub herunterladen kannst. Dort steht auch, an wen du dich bei Fragen wendest (Kursleitung oder opencampus-Team).
+Die konkreten Anforderungen (z. B. welche Ergebnisse einzureichen sind) können sich je nach Kurs unterscheiden. Was typischerweise dazugehört, siehst du schon vorab unter [Präsentation & Dokumentation](praesentation-und-dokumentation.md#typische-bestandteile). Verbindlich ist die Dokumentationsanleitung, die du in deinem Projekt in EduHub herunterladen kannst, sobald die Kursleitung dein Projekt bestätigt hat. Dort steht auch, an wen du dich bei Fragen wendest (Kursleitung oder opencampus-Team).
 {% endhint %}
