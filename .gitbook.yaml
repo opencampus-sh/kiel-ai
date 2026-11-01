@@ -1,0 +1,13 @@
+redirects:
+  courses/einfuehrung/durchzufuehrendes-kursprojekt: courses/einfuehrung/certificate.md
+  courses/einfuehrung/vorbereitung: courses/einfuehrung/preparation.md
+  courses/einfuehrung/woche-1: courses/einfuehrung/week-01-introduction.md
+  courses/einfuehrung/woche-2: courses/einfuehrung/week-02-import-and-visualization.md
+  courses/einfuehrung/woche-3-r-projekte-und-versionierung-mit-git-und-github: courses/einfuehrung/week-03-git-and-data-preparation-1.md
+  courses/einfuehrung/woche-4-datenaufbereitung-mit-tidyverse: courses/einfuehrung/week-04-git-2-and-feature-engineering.md
+  courses/einfuehrung/woche-8-zeitreihenanalysen: courses/einfuehrung/week-05-time-series-and-intro-ml.md
+  courses/einfuehrung/woche-5-einfuehrung-in-das-maschinelle-lernen: courses/einfuehrung/week-06-baseline-and-linear-regression.md
+  courses/einfuehrung/woche-6-overfitting-und-regularisierung: courses/einfuehrung/week-07-overfitting-and-evaluation.md
+  courses/einfuehrung/woche-7-neuronale-netze-und-deep-learning: courses/einfuehrung/week-08-neural-networks.md
+  courses/einfuehrung/woche-6-support-vector-maschinen: courses/einfuehrung/week-09-missing-values.md
+  courses/einfuehrung/woche-9-projektpraesentationen: courses/einfuehrung/week-10-presentation.md

@@ -44,7 +44,7 @@ We do **not** give grades for any of the courses on opencampus.sh. You can only 
 
 We use:\
 \- the [edu.opencampus.sh](./) Website. You need to have an account there to register for the courses.\
-\- the [chat.mattermost.sh](./) Mattermost Chat tool. You need to have an account there to communicate and see the material. You can use [an app](https://mattermost.com/download/#mattermostApps) if you prefer to check it on your phone or on your computer. Otherwise it works fine in the browser.\
+\- the [Element chat](https://element-chat.opencampus.sh/) for communication in the courses. You find the link to your course room on the course page on edu.opencampus.sh. Element works in the browser; you can also use [an app](https://element.io/download) on your phone or computer.\
 \- the Zoom tool for online conference. You do not need an account, you can join from your browser. You can also[ download an app](https://zoom.us/download) on your pc/computer\
 \- most of the courses (the one which are valid 5 ECTS) use contents from the [Coursera](https://coursera.org/) platform. You need an account there to see the contents.
 
